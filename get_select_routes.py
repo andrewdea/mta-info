@@ -3,7 +3,7 @@ import re
 
 
 sbs_pattern = r"^(s|S)elect (b|B)us (s|S)ervice"
-via_pattern = r"^(V|v)ia "   
+via_pattern = r"^(V|v)ia "
 
 non_pattern_sbs_names = ["Via Woodhaven Blvd / Cross Bay Blvd",
                          "Via Broadway / Queens Blvd / Woodhaven Blvd / Cross Bay Blvd",

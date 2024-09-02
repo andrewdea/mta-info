@@ -60,7 +60,6 @@ def select_top_bottom_middle(lst) -> list[dict]:
         if len(lst) > 0:
             middle_index = len(lst) // 2
             sublist.append(lst.pop(middle_index))
-        # sublist.append({"overall total": total})
         
         sublists.append(sublist)
 
@@ -78,6 +77,11 @@ def select_top_bottom_middle(lst) -> list[dict]:
 
 
 def get_route_groups(overwrite: bool = False) -> list:
+    """
+    Group routes into groups such that no group has a total of more than
+    2000 stops (this is because of a limit in how many elements Google Maps
+    allows in a layer)
+    """
     route_groups_filename = os.path.join(utils.temp_dir, "route_groups.json")
     if os.path.exists(route_groups_filename) and not overwrite:
         return utils.read_json(route_groups_filename)
