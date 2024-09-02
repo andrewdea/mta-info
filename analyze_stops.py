@@ -145,7 +145,7 @@ def all_unique_stops_per_route(overwrite: bool = False) -> list[dict]:
     if os.path.exists(info_filename) and not overwrite:
         return utils.read_json(info_filename)
     all_info = []
-    for r in tqdm(get_all_routes()):
+    for r in tqdm(get_all_routes(overwrite)):
         stops = get_unique_stops_per_rid(r["id"], overwrite)
         # getting only the unique stops
         # stops = [s for s in stops if s not in processed_stops]

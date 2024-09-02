@@ -56,9 +56,6 @@ def get_stops_for_route(r: Union[dict, str],
 def get_all_routes_str() -> list[str]:
     url = "https://bt.mta.info/m/routes/"
     r = requests.get(url)
-    # print(f"r.headers : {r.headers}")
-    # print(f"r.encoding : {r.encoding}")
-    # print(f"r.content : {r.content}")
     content = r.text
     soup = BeautifulSoup(content)
     pattern = r"\/m\/;jsessionid=[A-Z0-9]{32}\?q=.*"
@@ -96,7 +93,9 @@ def get_agency_routes(agency: str, overwrite: bool = False) -> list[dict]:
     all_routes = []
     for el in route_els:
         tags = {k: el.find(k) for k in keys}
-        route = {k: v.text if v is not None else None for (k,v) in tags.items()}
+        route = {k: v.text.strip() if v is not None else None
+                 for (k,v) in tags.items()}
+        # print(f"route : {route}")
         # route = {k: v.text for (k,v) in tags.items()} 
         all_routes.append(route)
     return all_routes
