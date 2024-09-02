@@ -1,10 +1,11 @@
-from retrieve import get_all_routes, get_all_stops, get_stops_for_route, get_unique_stops
+from retrieve import (get_all_routes,
+                      get_stops_for_route,
+                      get_unique_stops)
 import utils
 import os
 import json
 import re
 from tqdm import tqdm
-from typing import Tuple
 import statistics
 
 formatted_routes_filename = os.path.join(utils.temp_dir, "formatted_routes.json")
@@ -36,40 +37,7 @@ def get_formatted_routes(overwrite: bool = False) -> list[dict]:
         return write_formatted_routes()
 
 sbs_pattern = r"^(s|S)elect (b|B)us (s|S)ervice"
-via_pattern = r"^(V|v)ia "
-
-def get_unique_areas():
-    formatted = get_formatted_routes()
-    unique_longnames = []
-    unique_desc = []
-    for r in formatted:
-        longname = r["longname"]
-        ln_split = longname.split(" - ")
-        for l in ln_split:
-            if l not in unique_longnames:
-                unique_longnames.append(l)
-        desc = r["description"]
-        if desc is None:
-            continue
-        # TODO: maybe this should be a regex
-        if re.match(sbs_pattern, desc):
-            # print(f"desc : {desc}")
-            desc = desc[len("Select Bus Service "):]
-            # print(f"updated desc : '{desc}'")
-        if re.match(via_pattern, desc):
-            desc = desc[len("via "):]
-        else:
-            print(f"desc without via: {desc}")
-        desc_split = desc.split(" / ")
-        for d in desc_split:
-            if d not in unique_desc:
-                unique_desc.append(d)
-    ln_filename = os.path.join(utils.temp_dir, "unique_longnames")
-    with open(ln_filename, "w") as g:
-        g.write(json.dumps(unique_longnames, indent=4))
-    desc_filename = os.path.join(utils.temp_dir, "unique_descriptions")
-    with open(desc_filename, "w") as g:
-        g.write(json.dumps(unique_desc, indent=4))    
+via_pattern = r"^(V|v)ia "   
 
 non_pattern_sbs_names = ["Via Woodhaven Blvd / Cross Bay Blvd",
                          "Via Broadway / Queens Blvd / Woodhaven Blvd / Cross Bay Blvd",
@@ -158,8 +126,8 @@ def all_unique_stops_per_route(overwrite: bool = False) -> list[dict]:
     all_totals = [i["total unique stops"] for i in all_info]
     mean = statistics.fmean(all_totals)
     median = statistics.median(all_totals)
-    print(f"mean : {mean}")
-    print(f"median : {median}")
+    print(f"mean of total stops per route: {mean}")
+    print(f"median of total stops per route: {median}")
     
     utils.write_json(info_filename, all_info)
     return all_info
@@ -200,24 +168,26 @@ def select_top_bottom_middle(lst) -> list[dict]:
         final_dicts.append(res_dict)
     return final_dicts
 
-def get_chunks(overwrite: bool = False) -> list:
-    chunks_filename = os.path.join(utils.temp_dir, "chunks.json")
-    if os.path.exists(chunks_filename) and not overwrite:
-        return utils.read_json(chunks_filename)
+
+
+def get_route_groups(overwrite: bool = False) -> list:
+    route_groups_filename = os.path.join(utils.temp_dir, "route_groups.json")
+    if os.path.exists(route_groups_filename) and not overwrite:
+        return utils.read_json(route_groups_filename)
     infos = all_unique_stops_per_route(overwrite)
     print(f"len(processed_stops) : {len(processed_stops)}")
     sorted_routes = sorted(infos, key=lambda x: x["total unique stops"])
     print(f"sorted_routes[0] : {sorted_routes[0]}")
     print(f"sorted_routes[-1]['rid'] : {sorted_routes[-1]['rid']}")
     subdicts = select_top_bottom_middle(sorted_routes)
-    all_chunks = []
+    all_route_groups = []
     current_chunk = {"total": 0}
     for d in subdicts:
         sub_total = d["overall total"]
         if sub_total > 2000:
             raise Exception(f"too large: {d}")
         if current_chunk.get("total", 0) + sub_total > 2000:
-            all_chunks.append(current_chunk)
+            all_route_groups.append(current_chunk)
             current_chunk = {}
         current_chunk["all routes"] = (current_chunk.get("all routes", [])
                                        + d["all routes"])
@@ -228,21 +198,7 @@ def get_chunks(overwrite: bool = False) -> list:
             print(f"e : {e}")
             print(f"d : {d}")
             raise e
-    all_chunks.append(current_chunk)
-    utils.write_json(chunks_filename, all_chunks)
-    print(f"len(all_chunks) : {len(all_chunks)}")
-    return all_chunks
-        
-    
-if __name__ == "__main__":
-    # overlaps = get_all_overlaps(overwrite=True)
-    # count_stops_per_route()
-    # print(f"len(get_all_routes) : {len(get_all_routes())}")
-    # print(f"len(get_all_stops) : {len(get_all_stops())}")
-    # print(f"len(get_unique_stops()) : {len(get_unique_stops())}")
-    chunks = get_chunks()
-    for c in chunks:
-        print(f"c['total'] : {c['total']}")
-    print("done")
-    # print(json.dumps(sublists, indent=4))
-    
+    all_route_groups.append(current_chunk)
+    utils.write_json(route_groups_filename, all_route_groups)
+    print(f"len(all_route_groups) : {len(all_route_groups)}")
+    return all_route_groups

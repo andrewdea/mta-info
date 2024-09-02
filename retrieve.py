@@ -1,4 +1,3 @@
-import requests
 import os
 import json
 from bs4 import BeautifulSoup
@@ -9,12 +8,10 @@ import utils
 from typing import Union
 from tqdm import tqdm
 
-def remove_agency_name(s: str) -> str:
-    for a in utils.agencies:
-        s = s.replace(f"{a}_", "")
-    return s
-
 def get_route_from_id(rid: str) -> dict:
+    """
+    Given a route id, return a dictionary with all the route's info
+    """
     all_routes = get_all_routes()
     route = next(filter(lambda x: x["id"] == rid, all_routes), None)
     if route is None:
@@ -23,6 +20,10 @@ def get_route_from_id(rid: str) -> dict:
 
 def get_stops_for_route(r: Union[dict, str],
                         overwrite: bool = False) -> list[dict]:
+    """
+    Given a route, return all of its stops.
+    """
+    # make sure you have all needed info for the route
     if isinstance(r, str):
         route_id = r
         route = get_route_from_id(route_id)
@@ -32,18 +33,20 @@ def get_stops_for_route(r: Union[dict, str],
     rid = route["id"]
     stops_filename = os.path.join(utils.stops_dir, f"{shortname}.json")
 
+    # check if we need to query the API
     if os.path.exists(stops_filename) and not overwrite:
-        return utils.read_json(stops_filename)
+        routes = utils.read_json(stops_filename)
+        assert isinstance(routes, list)
+        return routes
 
     format_id = urllib.parse.quote(rid, safe='')
     print(f"Getting stops for route: {format_id} from API")
     url = f"https://bustime.mta.info/api/where/stops-for-route/{format_id}.json"
     params = {
-        "key": utils.mta_api_key,
         "includePolylines": "false",
         "version": "2"
     }
-    resp = requests.get(url, params)
+    resp = utils.query_api(url, params)
     if resp.status_code != 200:
         print(f"r.status_code : {resp.status_code}")
         print(f"r.content : {resp.content}")
@@ -53,19 +56,13 @@ def get_stops_for_route(r: Union[dict, str],
     utils.write_json(stops_filename, stops)
     return stops
 
-def get_all_routes_str() -> list[str]:
-    url = "https://bt.mta.info/m/routes/"
-    r = requests.get(url)
-    content = r.text
-    soup = BeautifulSoup(content)
-    pattern = r"\/m\/;jsessionid=[A-Z0-9]{32}\?q=.*"
-    all_a_href = [a for a in soup.find_all('a', href=True)]
-    all_route_links = [a for a in all_a_href if re.match(pattern, a["href"])]
-    all_routes = [a.text for a in all_route_links]
-    print(f"\n\n\nGot all routes. Size: {len(all_routes)}")
-    return all_routes
-
 def get_agency_info(agency: str, overwrite: bool = False) -> BeautifulSoup:
+    """
+    Return all the info for the given agency.
+
+    If overwrite is True, or if we have no saved xml file for this agency,
+    we first query the API
+    """
     agency_filename = os.path.join(utils.data_dir, f"agency_{agency}.xml")
     if os.path.exists(agency_filename) and not overwrite:
         with open(agency_filename, "r") as f:
@@ -73,10 +70,7 @@ def get_agency_info(agency: str, overwrite: bool = False) -> BeautifulSoup:
 
     print(f"getting agency info from API")
     url = f"https://bustime.mta.info/api/where/routes-for-agency/{agency}.xml"
-    params = {
-        "key": utils.mta_api_key,
-    }
-    r = requests.get(url, params)
+    r = utils.query_api(url)
     content = r.text
 
     soup = BeautifulSoup(content)
@@ -87,6 +81,9 @@ def get_agency_info(agency: str, overwrite: bool = False) -> BeautifulSoup:
     return soup
 
 def get_agency_routes(agency: str, overwrite: bool = False) -> list[dict]:
+    """
+    Return all the routes for the given agency
+    """
     info = get_agency_info(agency, overwrite)
     route_els = [r for r in info.find_all("route")]
     keys = ["shortname", "id", "longname", "description"]
@@ -95,17 +92,23 @@ def get_agency_routes(agency: str, overwrite: bool = False) -> list[dict]:
         tags = {k: el.find(k) for k in keys}
         route = {k: v.text.strip() if v is not None else None
                  for (k,v) in tags.items()}
-        # print(f"route : {route}")
-        # route = {k: v.text for (k,v) in tags.items()} 
         all_routes.append(route)
     return all_routes
 
 def get_all_routes(overwrite: bool = False) -> list[dict]:
+    """
+    Return a list of dictionaries: each dict has the info for each route.
+
+    If overwrite is True, or if there is no saved all_routes.json file,
+    we first query the API for the info about all routes
+    """
     all_routes = []
     all_routes_filename = os.path.join(utils.routes_dir,
                                        "all_routes.json")
     if os.path.exists(all_routes_filename) and not overwrite:
-        return utils.read_json(all_routes_filename)
+        routes = utils.read_json(all_routes_filename)
+        assert isinstance(routes, list)
+        return routes
 
     print(f"getting all routes, from the agency API")
     for ag in utils.agencies:
@@ -114,25 +117,14 @@ def get_all_routes(overwrite: bool = False) -> list[dict]:
     utils.write_json(all_routes_filename, all_routes)
     return all_routes
 
-def write_stops_for_route(route: dict):
-    simple_form_route = route["shortname"]
-    route_id = route["id"]
-    directory = os.path.join(utils.stops_dir, simple_form_route)
-    if not os.path.exists(directory):
-        os.makedirs(directory)
+def get_all_stops(overwrite: bool = False) -> list[dict]:
+    """
+    Retun a list of dictionaries with info for each stops.
 
-    stops_filename = os.path.join(directory, "stops.json")
-    if os.path.exists(stops_filename):
-        print(f"WARN: skipping this : {route_id}")
-        return
-    
-    # route = unadjusted_route
-    stops = get_stops_for_route(route_id)
-    with open(stops_filename, "w") as f:
-        f.write(json.dumps(stops, indent=4))
-    print(f"wrote stops for {route_id}")
-
-def get_all_stops(overwrite: bool = False):
+    *NOTE* that this function lists stops by iterating through each route,
+    and therefore there are going to be duplicate stops for any stops covered
+    by multiple routes.
+    """
     all_routes = get_all_routes(overwrite)
     all_stops = []
     for r in tqdm(all_routes):
@@ -146,17 +138,23 @@ def get_all_stops(overwrite: bool = False):
     return all_stops
 
 def get_unique_stops():
+    """
+    Return all stops, filtered so that we don't have any duplicates
+    """
     all_stops = get_all_stops()
     print(f"len(all_stops) : {len(all_stops)}")
     filtered = []
     for s in all_stops:
         if s not in filtered:
             filtered.append(s)
-    # print(f"len(filtered) : {len(filtered)}")
     return filtered
 
 
 def get_stops_for_rids_no_repeats(rids: list[str]) -> list[dict]:
+    """
+    Given a series of route-ids, retrieve all stops for each route,
+    then return a list of all stops (with any duplicates filtered out)
+    """
     processed_stops = []
     all_stops = []
     for r in rids:
@@ -166,17 +164,17 @@ def get_stops_for_rids_no_repeats(rids: list[str]) -> list[dict]:
         all_stops.extend(stops)
     return all_stops
 
-if __name__ == "__main__":
-    get_all_stops(overwrite=False)
-    uniques = get_unique_stops()
-    print(f"len(uniques) : {len(uniques)}")
+# if __name__ == "__main__":
+#     get_all_stops(overwrite=False)
+#     uniques = get_unique_stops()
+#     print(f"len(uniques) : {len(uniques)}")
 
-    all_routes = get_all_routes()
-    for r in all_routes:
-        assert r["id"] is not None, f"weird: {r}"
-    all_rids = [r["id"] for r in all_routes]
-    no_repeats = get_stops_for_rids_no_repeats(all_rids)
-    print(f"len(no_repeats) : {len(no_repeats)}")
-    # assert len(no_repeats) == len(uniques)
-    # TODO would be cool to check which is faster
-    print("done")
+#     all_routes = get_all_routes()
+#     for r in all_routes:
+#         assert r["id"] is not None, f"weird: {r}"
+#     all_rids = [r["id"] for r in all_routes]
+#     no_repeats = get_stops_for_rids_no_repeats(all_rids)
+#     print(f"len(no_repeats) : {len(no_repeats)}")
+#     # assert len(no_repeats) == len(uniques)
+#     # TODO would be cool to check which is faster
+#     print("done")
