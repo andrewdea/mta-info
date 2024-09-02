@@ -16,9 +16,9 @@ def get_unique_stops_per_rid(rid: str, overwrite: bool = False) -> list[dict]:
     return filtered_stops
 
 def all_unique_stops_per_route(overwrite: bool = False) -> list[dict]:
-    info_filename = os.path.join(utils.temp_dir, "info.json")
-    if os.path.exists(info_filename) and not overwrite:
-        return utils.read_json(info_filename)
+    # info_filename = os.path.join(utils.temp_dir, "info.json")
+    # if os.path.exists(info_filename) and not overwrite:
+    #     return utils.read_json(info_filename)
     all_info = []
     for r in tqdm(get_all_routes(overwrite)):
         stops = get_unique_stops_per_rid(r["id"], overwrite)
@@ -36,7 +36,7 @@ def all_unique_stops_per_route(overwrite: bool = False) -> list[dict]:
     print(f"mean of total stops per route: {mean}")
     print(f"median of total stops per route: {median}")
     
-    utils.write_json(info_filename, all_info)
+    # utils.write_json(info_filename, all_info)
     return all_info
 
 def select_top_bottom_middle(lst) -> list[dict]:
@@ -82,7 +82,7 @@ def get_route_groups(overwrite: bool = False) -> list:
     2000 stops (this is because of a limit in how many elements Google Maps
     allows in a layer)
     """
-    route_groups_filename = os.path.join(utils.temp_dir, "route_groups.json")
+    route_groups_filename = os.path.join(utils.data_dir, "route_groups.json")
     if os.path.exists(route_groups_filename) and not overwrite:
         return utils.read_json(route_groups_filename)
     infos = all_unique_stops_per_route(overwrite)

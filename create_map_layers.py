@@ -1,7 +1,7 @@
 import os
 import csv
 from utils import data_dir
-from analyze_stops import get_route_groups
+from route_groups import get_route_groups
 from tqdm import tqdm
 
 keys = [
@@ -36,7 +36,7 @@ def adjust_stops(stops: list[dict]) -> list[dict]:
 
 if __name__ == "__main__":
     layers_dir = os.path.join(data_dir, "layers")
-    route_groups = get_route_groups(overwrite=True)
+    route_groups = get_route_groups()
     if not os.path.exists(layers_dir):
         os.makedirs(layers_dir)
     for i, c in enumerate(tqdm(route_groups)):
