@@ -1,0 +1,1244 @@
+[
+    {
+        "code": "350000",
+        "direction": "W",
+        "id": "MTA_350000",
+        "lat": 40.675497,
+        "locationType": 0,
+        "lon": -73.871784,
+        "name": "PITKIN AV /EUCLID AV",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q08"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350172",
+        "direction": "E",
+        "id": "MTA_350172",
+        "lat": 40.676533,
+        "locationType": 0,
+        "lon": -73.862416,
+        "name": "PITKIN AV/DREW ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350174",
+        "direction": "W",
+        "id": "MTA_350174",
+        "lat": 40.676596,
+        "locationType": 0,
+        "lon": -73.863513,
+        "name": "PITKIN AV/FORBELL ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350175",
+        "direction": "W",
+        "id": "MTA_350175",
+        "lat": 40.676439,
+        "locationType": 0,
+        "lon": -73.865362,
+        "name": "PITKIN AV/GRANT AV",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350176",
+        "direction": "W",
+        "id": "MTA_350176",
+        "lat": 40.675993,
+        "locationType": 0,
+        "lon": -73.868463,
+        "name": "PITKIN AV /AUTUMN AV",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q08"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350232",
+        "direction": "E",
+        "id": "MTA_350232",
+        "lat": 40.675944,
+        "locationType": 0,
+        "lon": -73.868059,
+        "name": "PITKIN AV /AUTUMN AV",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q08"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350233",
+        "direction": "E",
+        "id": "MTA_350233",
+        "lat": 40.676414,
+        "locationType": 0,
+        "lon": -73.864666,
+        "name": "PITKIN AV /ELDERT LN",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q08"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504441",
+        "direction": "S",
+        "id": "MTA_504441",
+        "lat": 40.661033,
+        "locationType": 0,
+        "lon": -73.792887,
+        "name": "148 ST/150 AV",
+        "routeIds": [
+            "MTA NYCT_Q3",
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550069",
+        "direction": "N",
+        "id": "MTA_550069",
+        "lat": 40.678261,
+        "locationType": 0,
+        "lon": -73.84398,
+        "name": "CROSS BAY BLVD/108 AV",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550071",
+        "direction": "E",
+        "id": "MTA_550071",
+        "lat": 40.68026,
+        "locationType": 0,
+        "lon": -73.842066,
+        "name": "ROCKAWAY BLVD/97 ST",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q41"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550072",
+        "direction": "E",
+        "id": "MTA_550072",
+        "lat": 40.680081,
+        "locationType": 0,
+        "lon": -73.840756,
+        "name": "ROCKAWAY BLVD/98 ST",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q37",
+            "MTABC_Q41"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550073",
+        "direction": "E",
+        "id": "MTA_550073",
+        "lat": 40.679723,
+        "locationType": 0,
+        "lon": -73.838228,
+        "name": "ROCKAWAY BLVD/101 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550074",
+        "direction": "E",
+        "id": "MTA_550074",
+        "lat": 40.679442,
+        "locationType": 0,
+        "lon": -73.836462,
+        "name": "ROCKAWAY BLVD/103 ST",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q41"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550075",
+        "direction": "E",
+        "id": "MTA_550075",
+        "lat": 40.678856,
+        "locationType": 0,
+        "lon": -73.834314,
+        "name": "ROCKAWAY BLVD/CENTERVILLE ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550076",
+        "direction": "E",
+        "id": "MTA_550076",
+        "lat": 40.678245,
+        "locationType": 0,
+        "lon": -73.831958,
+        "name": "ROCKAWAY BLVD/107 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550077",
+        "direction": "E",
+        "id": "MTA_550077",
+        "lat": 40.677768,
+        "locationType": 0,
+        "lon": -73.829852,
+        "name": "ROCKAWAY BLVD/109 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550078",
+        "direction": "E",
+        "id": "MTA_550078",
+        "lat": 40.677403,
+        "locationType": 0,
+        "lon": -73.827689,
+        "name": "ROCKAWAY BLVD/111 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550079",
+        "direction": "E",
+        "id": "MTA_550079",
+        "lat": 40.677092,
+        "locationType": 0,
+        "lon": -73.825792,
+        "name": "ROCKAWAY BLVD/113 ST",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q37"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550080",
+        "direction": "E",
+        "id": "MTA_550080",
+        "lat": 40.676738,
+        "locationType": 0,
+        "lon": -73.823581,
+        "name": "ROCKAWAY BLVD/114 PL",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550081",
+        "direction": "E",
+        "id": "MTA_550081",
+        "lat": 40.676441,
+        "locationType": 0,
+        "lon": -73.821757,
+        "name": "ROCKAWAY BLVD/116 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550082",
+        "direction": "E",
+        "id": "MTA_550082",
+        "lat": 40.676043,
+        "locationType": 0,
+        "lon": -73.819312,
+        "name": "ROCKAWAY BLVD/LEFFERTS BLVD",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550083",
+        "direction": "E",
+        "id": "MTA_550083",
+        "lat": 40.675677,
+        "locationType": 0,
+        "lon": -73.81706,
+        "name": "ROCKAWAY BLVD/121 ST",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550084",
+        "direction": "E",
+        "id": "MTA_550084",
+        "lat": 40.67549,
+        "locationType": 0,
+        "lon": -73.81522,
+        "name": "ROCKAWAY BLVD/122 PL",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550085",
+        "direction": "E",
+        "id": "MTA_550085",
+        "lat": 40.675315,
+        "locationType": 0,
+        "lon": -73.813364,
+        "name": "ROCKAWAY BLVD/124 ST",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550086",
+        "direction": "E",
+        "id": "MTA_550086",
+        "lat": 40.675189,
+        "locationType": 0,
+        "lon": -73.811822,
+        "name": "ROCKAWAY BLVD/126 ST",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550087",
+        "direction": "E",
+        "id": "MTA_550087",
+        "lat": 40.675007,
+        "locationType": 0,
+        "lon": -73.809586,
+        "name": "ROCKAWAY BLVD/128 ST",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550088",
+        "direction": "E",
+        "id": "MTA_550088",
+        "lat": 40.674788,
+        "locationType": 0,
+        "lon": -73.807221,
+        "name": "ROCKAWAY BLVD/131 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550089",
+        "direction": "E",
+        "id": "MTA_550089",
+        "lat": 40.674607,
+        "locationType": 0,
+        "lon": -73.805203,
+        "name": "ROCKAWAY BLVD/133 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550090",
+        "direction": "E",
+        "id": "MTA_550090",
+        "lat": 40.67445,
+        "locationType": 0,
+        "lon": -73.803403,
+        "name": "ROCKAWAY BLVD/135 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550091",
+        "direction": "E",
+        "id": "MTA_550091",
+        "lat": 40.674337,
+        "locationType": 0,
+        "lon": -73.802136,
+        "name": "ROCKAWAY BLVD/VAN WYCK EXPWY",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550093",
+        "direction": "E",
+        "id": "MTA_550093",
+        "lat": 40.674005,
+        "locationType": 0,
+        "lon": -73.798488,
+        "name": "ROCKAWAY BLVD/142 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550094",
+        "direction": "E",
+        "id": "MTA_550094",
+        "lat": 40.673767,
+        "locationType": 0,
+        "lon": -73.795809,
+        "name": "ROCKAWAY BLVD/143 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550095",
+        "direction": "E",
+        "id": "MTA_550095",
+        "lat": 40.673572,
+        "locationType": 0,
+        "lon": -73.793645,
+        "name": "ROCKAWAY BLVD/145 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550096",
+        "direction": "E",
+        "id": "MTA_550096",
+        "lat": 40.673315,
+        "locationType": 0,
+        "lon": -73.790619,
+        "name": "ROCKAWAY BLVD/147 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550097",
+        "direction": "E",
+        "id": "MTA_550097",
+        "lat": 40.672929,
+        "locationType": 0,
+        "lon": -73.788214,
+        "name": "ROCKAWAY BLVD/150 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550098",
+        "direction": "S",
+        "id": "MTA_550098",
+        "lat": 40.671424,
+        "locationType": 0,
+        "lon": -73.78855,
+        "name": "150 ST/SUTTER AV",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550099",
+        "direction": "S",
+        "id": "MTA_550099",
+        "lat": 40.669937,
+        "locationType": 0,
+        "lon": -73.788918,
+        "name": "150 ST/130 AV",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550100",
+        "direction": "S",
+        "id": "MTA_550100",
+        "lat": 40.668438,
+        "locationType": 0,
+        "lon": -73.789246,
+        "name": "150 ST/133 AV",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550101",
+        "direction": "S",
+        "id": "MTA_550101",
+        "lat": 40.658095,
+        "locationType": 0,
+        "lon": -73.793774,
+        "name": "148 ST/CENTRAL CARGO RD",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550102",
+        "direction": "SE",
+        "id": "MTA_550102",
+        "lat": 40.655103,
+        "locationType": 0,
+        "lon": -73.791588,
+        "name": "148 ST/S CARGO RD",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550103",
+        "direction": "SW",
+        "id": "MTA_550103",
+        "lat": 40.652909,
+        "locationType": 0,
+        "lon": -73.794896,
+        "name": "S CARGO RD/CARGO PLAZA",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550107",
+        "direction": "N",
+        "id": "MTA_550107",
+        "lat": 40.655583,
+        "locationType": 0,
+        "lon": -73.795283,
+        "name": "CARGO PLAZA/N SERVICE CENTER",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550108",
+        "direction": "N",
+        "id": "MTA_550108",
+        "lat": 40.658558,
+        "locationType": 0,
+        "lon": -73.795193,
+        "name": "CARGO PLAZA/BLDG 86",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550109",
+        "direction": "N",
+        "id": "MTA_550109",
+        "lat": 40.661441,
+        "locationType": 0,
+        "lon": -73.79516,
+        "name": "CARGO PLAZA/150 AV",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550110",
+        "direction": "E",
+        "id": "MTA_550110",
+        "lat": 40.661536,
+        "locationType": 0,
+        "lon": -73.793489,
+        "name": "150 AV/147 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550111",
+        "direction": "N",
+        "id": "MTA_550111",
+        "lat": 40.663297,
+        "locationType": 0,
+        "lon": -73.791958,
+        "name": "148 ST/147 AV",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550112",
+        "direction": "N",
+        "id": "MTA_550112",
+        "lat": 40.668492,
+        "locationType": 0,
+        "lon": -73.789028,
+        "name": "150 ST/133 AV",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550113",
+        "direction": "N",
+        "id": "MTA_550113",
+        "lat": 40.669998,
+        "locationType": 0,
+        "lon": -73.7887,
+        "name": "150 ST/130 AV",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550114",
+        "direction": "W",
+        "id": "MTA_550114",
+        "lat": 40.673206,
+        "locationType": 0,
+        "lon": -73.788318,
+        "name": "ROCKAWAY BLVD/SUTPHIN BLVD",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550115",
+        "direction": "W",
+        "id": "MTA_550115",
+        "lat": 40.673561,
+        "locationType": 0,
+        "lon": -73.790772,
+        "name": "ROCKAWAY BLVD/147 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550116",
+        "direction": "W",
+        "id": "MTA_550116",
+        "lat": 40.673831,
+        "locationType": 0,
+        "lon": -73.793879,
+        "name": "ROCKAWAY BLVD/145 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550117",
+        "direction": "W",
+        "id": "MTA_550117",
+        "lat": 40.674018,
+        "locationType": 0,
+        "lon": -73.795929,
+        "name": "ROCKAWAY BLVD/143 ST",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q40"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550118",
+        "direction": "W",
+        "id": "MTA_550118",
+        "lat": 40.674307,
+        "locationType": 0,
+        "lon": -73.799117,
+        "name": "ROCKAWAY BLVD/142 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550119",
+        "direction": "W",
+        "id": "MTA_550119",
+        "lat": 40.674451,
+        "locationType": 0,
+        "lon": -73.800602,
+        "name": "ROCKAWAY BLVD/140 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550120",
+        "direction": "W",
+        "id": "MTA_550120",
+        "lat": 40.674689,
+        "locationType": 0,
+        "lon": -73.803499,
+        "name": "ROCKAWAY BLVD/135 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550121",
+        "direction": "W",
+        "id": "MTA_550121",
+        "lat": 40.674859,
+        "locationType": 0,
+        "lon": -73.805622,
+        "name": "ROCKAWAY BLVD/133 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550122",
+        "direction": "W",
+        "id": "MTA_550122",
+        "lat": 40.675034,
+        "locationType": 0,
+        "lon": -73.807333,
+        "name": "ROCKAWAY BLVD/LINCOLN ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550123",
+        "direction": "W",
+        "id": "MTA_550123",
+        "lat": 40.675247,
+        "locationType": 0,
+        "lon": -73.809642,
+        "name": "ROCKAWAY BLVD/128 ST",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550124",
+        "direction": "W",
+        "id": "MTA_550124",
+        "lat": 40.675366,
+        "locationType": 0,
+        "lon": -73.810982,
+        "name": "ROCKAWAY BLVD/127 ST",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550126",
+        "direction": "W",
+        "id": "MTA_550126",
+        "lat": 40.675817,
+        "locationType": 0,
+        "lon": -73.816164,
+        "name": "ROCKAWAY BLVD /122 ST",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550127",
+        "direction": "W",
+        "id": "MTA_550127",
+        "lat": 40.676225,
+        "locationType": 0,
+        "lon": -73.819008,
+        "name": "ROCKAWAY BLVD/LEFFERTS BLVD",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550128",
+        "direction": "W",
+        "id": "MTA_550128",
+        "lat": 40.676488,
+        "locationType": 0,
+        "lon": -73.820538,
+        "name": "ROCKAWAY BLVD/118 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550129",
+        "direction": "W",
+        "id": "MTA_550129",
+        "lat": 40.676823,
+        "locationType": 0,
+        "lon": -73.822547,
+        "name": "ROCKAWAY BLVD/116 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550131",
+        "direction": "W",
+        "id": "MTA_550131",
+        "lat": 40.677648,
+        "locationType": 0,
+        "lon": -73.827526,
+        "name": "ROCKAWAY BLVD/111 ST",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q37"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550132",
+        "direction": "W",
+        "id": "MTA_550132",
+        "lat": 40.678131,
+        "locationType": 0,
+        "lon": -73.830254,
+        "name": "ROCKAWAY BLVD/109 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550134",
+        "direction": "W",
+        "id": "MTA_550134",
+        "lat": 40.678886,
+        "locationType": 0,
+        "lon": -73.833861,
+        "name": "ROCKAWAY BLVD/109 AV",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550136",
+        "direction": "W",
+        "id": "MTA_550136",
+        "lat": 40.679819,
+        "locationType": 0,
+        "lon": -73.837991,
+        "name": "ROCKAWAY BLVD/102 ST",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q41"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550137",
+        "direction": "W",
+        "id": "MTA_550137",
+        "lat": 40.680473,
+        "locationType": 0,
+        "lon": -73.842372,
+        "name": "ROCKAWAY BLVD /LIBERTY AV",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q41",
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550138",
+        "direction": "S",
+        "id": "MTA_550138",
+        "lat": 40.679836,
+        "locationType": 0,
+        "lon": -73.844731,
+        "name": "CROSS BAY BLVD/LIBERTY AV",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q11",
+            "MTABC_Q21",
+            "MTABC_Q41",
+            "MTABC_Q52+",
+            "MTABC_Q53+",
+            "MTABC_QM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550139",
+        "direction": "W",
+        "id": "MTA_550139",
+        "lat": 40.67683,
+        "locationType": 0,
+        "lon": -73.844443,
+        "name": "SUTTER AV/93 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550140",
+        "direction": "W",
+        "id": "MTA_550140",
+        "lat": 40.676568,
+        "locationType": 0,
+        "lon": -73.846276,
+        "name": "SUTTER AV/91 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550141",
+        "direction": "W",
+        "id": "MTA_550141",
+        "lat": 40.676172,
+        "locationType": 0,
+        "lon": -73.849078,
+        "name": "SUTTER AV/88 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550142",
+        "direction": "W",
+        "id": "MTA_550142",
+        "lat": 40.675807,
+        "locationType": 0,
+        "lon": -73.851542,
+        "name": "SUTTER AV/85 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550143",
+        "direction": "W",
+        "id": "MTA_550143",
+        "lat": 40.675415,
+        "locationType": 0,
+        "lon": -73.852697,
+        "name": "PITKIN AV/84 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550144",
+        "direction": "W",
+        "id": "MTA_550144",
+        "lat": 40.676224,
+        "locationType": 0,
+        "lon": -73.855828,
+        "name": "PITKIN AV/81 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550145",
+        "direction": "W",
+        "id": "MTA_550145",
+        "lat": 40.676743,
+        "locationType": 0,
+        "lon": -73.85812,
+        "name": "PITKIN AV/79 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550146",
+        "direction": "W",
+        "id": "MTA_550146",
+        "lat": 40.676753,
+        "locationType": 0,
+        "lon": -73.86101,
+        "name": "PITKIN AV/76 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550235",
+        "direction": "E",
+        "id": "MTA_550235",
+        "lat": 40.67967,
+        "locationType": 0,
+        "lon": -73.837674,
+        "name": "ROCKAWAY BLVD/102 ST",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q41"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550247",
+        "direction": "E",
+        "id": "MTA_550247",
+        "lat": 40.676708,
+        "locationType": 0,
+        "lon": -73.859582,
+        "name": "PITKIN AV/77 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550248",
+        "direction": "E",
+        "id": "MTA_550248",
+        "lat": 40.676533,
+        "locationType": 0,
+        "lon": -73.857685,
+        "name": "PITKIN AV/79 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550249",
+        "direction": "E",
+        "id": "MTA_550249",
+        "lat": 40.676008,
+        "locationType": 0,
+        "lon": -73.855587,
+        "name": "PITKIN AV/81 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550250",
+        "direction": "E",
+        "id": "MTA_550250",
+        "lat": 40.675495,
+        "locationType": 0,
+        "lon": -73.853635,
+        "name": "PITKIN AV/83 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550251",
+        "direction": "E",
+        "id": "MTA_550251",
+        "lat": 40.675701,
+        "locationType": 0,
+        "lon": -73.851365,
+        "name": "SUTTER AV/85 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550252",
+        "direction": "E",
+        "id": "MTA_550252",
+        "lat": 40.675982,
+        "locationType": 0,
+        "lon": -73.849484,
+        "name": "SUTTER AV/87 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550253",
+        "direction": "E",
+        "id": "MTA_550253",
+        "lat": 40.676238,
+        "locationType": 0,
+        "lon": -73.84765,
+        "name": "SUTTER AV/89 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550254",
+        "direction": "E",
+        "id": "MTA_550254",
+        "lat": 40.676493,
+        "locationType": 0,
+        "lon": -73.845825,
+        "name": "SUTTER AV/91 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550255",
+        "direction": "E",
+        "id": "MTA_550255",
+        "lat": 40.676749,
+        "locationType": 0,
+        "lon": -73.84396,
+        "name": "SUTTER AV/CROSS BAY BLVD",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551529",
+        "direction": "S",
+        "id": "MTA_551529",
+        "lat": 40.670449,
+        "locationType": 0,
+        "lon": -73.845503,
+        "name": "LAFAYETTE ST /149 AV",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q11",
+            "MTABC_Q41"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553151",
+        "direction": "E",
+        "id": "MTA_553151",
+        "lat": 40.674174,
+        "locationType": 0,
+        "lon": -73.800361,
+        "name": "ROCKAWAY BLVD/140 ST",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553297",
+        "direction": "E",
+        "id": "MTA_553297",
+        "lat": 40.680362,
+        "locationType": 0,
+        "lon": -73.84404,
+        "name": "LIBERTY AV/95 ST",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q41"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "922164",
+        "direction": "S",
+        "id": "MTA_922164",
+        "lat": 40.66334,
+        "locationType": 0,
+        "lon": -73.79217,
+        "name": "148 ST/147 AV",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982155",
+        "direction": "W",
+        "id": "MTA_982155",
+        "lat": 40.675513,
+        "locationType": 0,
+        "lon": -73.871665,
+        "name": "PITKIN AV /EUCLID AV",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982156",
+        "direction": "SW",
+        "id": "MTA_982156",
+        "lat": 40.652986,
+        "locationType": 0,
+        "lon": -73.794665,
+        "name": "S CARGO RD/CARGO PLAZA",
+        "routeIds": [
+            "MTABC_Q07"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

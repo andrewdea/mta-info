@@ -1,0 +1,662 @@
+[
+    {
+        "code": "503018",
+        "direction": "S",
+        "id": "MTA_503018",
+        "lat": 40.737091,
+        "locationType": 0,
+        "lon": -73.877464,
+        "name": "BROADWAY/QUEENS BLVD",
+        "routeIds": [
+            "MTABC_Q53+",
+            "MTA NYCT_Q58"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503478",
+        "direction": "NE",
+        "id": "MTA_503478",
+        "lat": 40.737519,
+        "locationType": 0,
+        "lon": -73.877204,
+        "name": "BROADWAY/JUSTICE AV",
+        "routeIds": [
+            "MTABC_Q53+",
+            "MTA NYCT_Q58"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550070",
+        "direction": "N",
+        "id": "MTA_550070",
+        "lat": 40.680274,
+        "locationType": 0,
+        "lon": -73.844434,
+        "name": "CROSS BAY BLVD/LIBERTY AV",
+        "routeIds": [
+            "MTABC_Q52+",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550138",
+        "direction": "S",
+        "id": "MTA_550138",
+        "lat": 40.679836,
+        "locationType": 0,
+        "lon": -73.844731,
+        "name": "CROSS BAY BLVD/LIBERTY AV",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q11",
+            "MTABC_Q21",
+            "MTABC_Q41",
+            "MTABC_Q52+",
+            "MTABC_Q53+",
+            "MTABC_QM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550417",
+        "direction": "S",
+        "id": "MTA_550417",
+        "lat": 40.652627,
+        "locationType": 0,
+        "lon": -73.838457,
+        "name": "CROSS BAY BLVD/163 AV",
+        "routeIds": [
+            "MTABC_Q21",
+            "MTABC_Q41",
+            "MTABC_Q52+",
+            "MTABC_Q53+",
+            "MTABC_QM16",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550451",
+        "direction": "N",
+        "id": "MTA_550451",
+        "lat": 40.702438,
+        "locationType": 0,
+        "lon": -73.855076,
+        "name": "WOODHAVEN BLVD/MYRTLE AV",
+        "routeIds": [
+            "MTABC_Q11",
+            "MTABC_Q21",
+            "MTABC_Q52+",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550473",
+        "direction": "SE",
+        "id": "MTA_550473",
+        "lat": 40.722487,
+        "locationType": 0,
+        "lon": -73.867736,
+        "name": "WOODHAVEN BLVD/PENELOPE AV",
+        "routeIds": [
+            "MTABC_BM5",
+            "MTABC_Q11",
+            "MTABC_Q21",
+            "MTABC_Q52+",
+            "MTABC_Q53+",
+            "MTABC_QM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550690",
+        "direction": "E",
+        "id": "MTA_550690",
+        "lat": 40.581913,
+        "locationType": 0,
+        "lon": -73.829356,
+        "name": "ROCKAWAY BEACH BLVD/BEACH 108 ST",
+        "routeIds": [
+            "MTABC_Q21",
+            "MTABC_Q22",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550691",
+        "direction": "W",
+        "id": "MTA_550691",
+        "lat": 40.582159,
+        "locationType": 0,
+        "lon": -73.82954,
+        "name": "ROCKAWAY BEACH BLVD/BEACH 108 ST",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550696",
+        "direction": "E",
+        "id": "MTA_550696",
+        "lat": 40.583631,
+        "locationType": 0,
+        "lon": -73.823241,
+        "name": "ROCKAWAY BEACH BLVD/BEACH 102 ST",
+        "routeIds": [
+            "MTABC_Q21",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550702",
+        "direction": "NE",
+        "id": "MTA_550702",
+        "lat": 40.585321,
+        "locationType": 0,
+        "lon": -73.817844,
+        "name": "ROCKAWAY BEACH BLVD/BEACH 96 ST",
+        "routeIds": [
+            "MTABC_Q21",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550703",
+        "direction": "SW",
+        "id": "MTA_550703",
+        "lat": 40.585492,
+        "locationType": 0,
+        "lon": -73.817916,
+        "name": "ROCKAWAY BEACH BLVD/BEACH 96 ST",
+        "routeIds": [
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550713",
+        "direction": "S",
+        "id": "MTA_550713",
+        "lat": 40.607873,
+        "locationType": 0,
+        "lon": -73.819479,
+        "name": "CROSS BAY BLVD/NOEL RD",
+        "routeIds": [
+            "MTABC_Q52+",
+            "MTABC_Q53+",
+            "MTABC_QM16",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551609",
+        "direction": "NW",
+        "id": "MTA_551609",
+        "lat": 40.580343,
+        "locationType": 0,
+        "lon": -73.837347,
+        "name": "BEACH 116 ST/ROCKAWAY BEACH BLVD",
+        "routeIds": [
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552958",
+        "direction": "SE",
+        "id": "MTA_552958",
+        "lat": 40.744691,
+        "locationType": 0,
+        "lon": -73.886814,
+        "name": "BROADWAY/78 ST",
+        "routeIds": [
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552992",
+        "direction": "S",
+        "id": "MTA_552992",
+        "lat": 40.662229,
+        "locationType": 0,
+        "lon": -73.840796,
+        "name": "CROSS BAY BLVD/157 AV",
+        "routeIds": [
+            "MTABC_Q52+",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552993",
+        "direction": "E",
+        "id": "MTA_552993",
+        "lat": 40.733152,
+        "locationType": 0,
+        "lon": -73.871078,
+        "name": "HOFFMAN DR/WOODHAVEN BLVD",
+        "routeIds": [
+            "MTABC_Q11",
+            "MTABC_Q21",
+            "MTABC_Q29",
+            "MTABC_Q38",
+            "MTABC_Q52+",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553013",
+        "direction": "W",
+        "id": "MTA_553013",
+        "lat": 40.746212,
+        "locationType": 0,
+        "lon": -73.890103,
+        "name": "BROADWAY/75 ST",
+        "routeIds": [
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553014",
+        "direction": "E",
+        "id": "MTA_553014",
+        "lat": 40.746085,
+        "locationType": 0,
+        "lon": -73.890091,
+        "name": "BROADWAY/75 ST",
+        "routeIds": [
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553027",
+        "direction": "N",
+        "id": "MTA_553027",
+        "lat": 40.601521,
+        "locationType": 0,
+        "lon": -73.820088,
+        "name": "CROSS BAY BLVD/E 16 RD",
+        "routeIds": [
+            "MTABC_Q21",
+            "MTABC_Q52+",
+            "MTABC_Q53+",
+            "MTABC_QM16",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553029",
+        "direction": "W",
+        "id": "MTA_553029",
+        "lat": 40.583863,
+        "locationType": 0,
+        "lon": -73.823565,
+        "name": "ROCKAWAY BEACH BLVD/BEACH 102 ST",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553141",
+        "direction": "S",
+        "id": "MTA_553141",
+        "lat": 40.71208,
+        "locationType": 0,
+        "lon": -73.859987,
+        "name": "WOODHAVEN BLVD/METROPOLITAN AV",
+        "routeIds": [
+            "MTABC_BM5",
+            "MTABC_Q11",
+            "MTABC_Q21",
+            "MTABC_Q52+",
+            "MTABC_Q53+",
+            "MTABC_QM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553213",
+        "direction": "NW",
+        "id": "MTA_553213",
+        "lat": 40.741451,
+        "locationType": 0,
+        "lon": -73.880311,
+        "name": "BROADWAY/WHITNEY AV",
+        "routeIds": [
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553214",
+        "direction": "SE",
+        "id": "MTA_553214",
+        "lat": 40.741418,
+        "locationType": 0,
+        "lon": -73.88047,
+        "name": "BROADWAY/WHITNEY AV",
+        "routeIds": [
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553225",
+        "direction": "SE",
+        "id": "MTA_553225",
+        "lat": 40.617377,
+        "locationType": 0,
+        "lon": -73.823995,
+        "name": "CROSS BAY BLVD/WILDLIFE REFUGE",
+        "routeIds": [
+            "MTABC_Q52+",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553332",
+        "direction": "E",
+        "id": "MTA_553332",
+        "lat": 40.745673,
+        "locationType": 0,
+        "lon": -73.90211,
+        "name": "ROOSEVELT AV/61 ST",
+        "routeIds": [
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553333",
+        "direction": "W",
+        "id": "MTA_553333",
+        "lat": 40.734077,
+        "locationType": 0,
+        "lon": -73.871252,
+        "name": "QUEENS BLVD/59 AV",
+        "routeIds": [
+            "MTABC_Q11",
+            "MTABC_Q21",
+            "MTABC_Q52+",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553346",
+        "direction": "NW",
+        "id": "MTA_553346",
+        "lat": 40.684372,
+        "locationType": 0,
+        "lon": -73.846018,
+        "name": "WOODHAVEN BLVD/101 AV",
+        "routeIds": [
+            "MTABC_Q11",
+            "MTABC_Q21",
+            "MTABC_Q52+",
+            "MTABC_Q53+",
+            "MTABC_QM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553347",
+        "direction": "NW",
+        "id": "MTA_553347",
+        "lat": 40.690024,
+        "locationType": 0,
+        "lon": -73.850033,
+        "name": "WOODHAVEN BLVD/91 AV",
+        "routeIds": [
+            "MTABC_Q52+",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553348",
+        "direction": "NW",
+        "id": "MTA_553348",
+        "lat": 40.693825,
+        "locationType": 0,
+        "lon": -73.852048,
+        "name": "WOODHAVEN BLVD/JAMAICA AV",
+        "routeIds": [
+            "MTABC_Q52+",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553354",
+        "direction": "SE",
+        "id": "MTA_553354",
+        "lat": 40.69348,
+        "locationType": 0,
+        "lon": -73.852235,
+        "name": "WOODHAVEN BLVD/JAMAICA AV",
+        "routeIds": [
+            "MTABC_Q52+",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553358",
+        "direction": "SE",
+        "id": "MTA_553358",
+        "lat": 40.68992,
+        "locationType": 0,
+        "lon": -73.85024,
+        "name": "WOODHAVEN BLVD/91 AV",
+        "routeIds": [
+            "MTABC_Q52+",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553359",
+        "direction": "SE",
+        "id": "MTA_553359",
+        "lat": 40.684361,
+        "locationType": 0,
+        "lon": -73.846244,
+        "name": "WOODHAVEN BLVD/101 AV",
+        "routeIds": [
+            "MTABC_Q52+",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553360",
+        "direction": "S",
+        "id": "MTA_553360",
+        "lat": 40.672086,
+        "locationType": 0,
+        "lon": -73.843357,
+        "name": "CROSS BAY BLVD/PITKIN AV",
+        "routeIds": [
+            "MTABC_Q52+",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553361",
+        "direction": "N",
+        "id": "MTA_553361",
+        "lat": 40.672061,
+        "locationType": 0,
+        "lon": -73.842954,
+        "name": "CROSS BAY BLVD/PITKIN AV",
+        "routeIds": [
+            "MTABC_Q52+",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553364",
+        "direction": "N",
+        "id": "MTA_553364",
+        "lat": 40.60796,
+        "locationType": 0,
+        "lon": -73.819122,
+        "name": "CROSS BAY BLVD/NOEL RD",
+        "routeIds": [
+            "MTABC_Q52+",
+            "MTABC_Q53+",
+            "MTABC_QM16",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553373",
+        "direction": "S",
+        "id": "MTA_553373",
+        "lat": 40.702436,
+        "locationType": 0,
+        "lon": -73.855474,
+        "name": "WOODHAVEN BLVD/MYRTLE AV",
+        "routeIds": [
+            "MTABC_Q52+",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553375",
+        "direction": "NW",
+        "id": "MTA_553375",
+        "lat": 40.723235,
+        "locationType": 0,
+        "lon": -73.867954,
+        "name": "WOODHAVEN BLVD/EVERTON ST",
+        "routeIds": [
+            "MTABC_Q52+",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553376",
+        "direction": "N",
+        "id": "MTA_553376",
+        "lat": 40.662449,
+        "locationType": 0,
+        "lon": -73.840507,
+        "name": "CROSS BAY BLVD/157 AV",
+        "routeIds": [
+            "MTABC_Q52+",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553377",
+        "direction": "NW",
+        "id": "MTA_553377",
+        "lat": 40.61772,
+        "locationType": 0,
+        "lon": -73.823793,
+        "name": "CROSS BAY BLVD/WILDLIFE REFUGE",
+        "routeIds": [
+            "MTABC_Q52+",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553378",
+        "direction": "N",
+        "id": "MTA_553378",
+        "lat": 40.712454,
+        "locationType": 0,
+        "lon": -73.859537,
+        "name": "WOODHAVEN BLVD/POLO PL",
+        "routeIds": [
+            "MTABC_Q52+",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982075",
+        "direction": "SW",
+        "id": "MTA_982075",
+        "lat": 40.745765,
+        "locationType": 0,
+        "lon": -73.903391,
+        "name": "61 ST/ROOSEVELT AV",
+        "routeIds": [
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982110",
+        "direction": "NW",
+        "id": "MTA_982110",
+        "lat": 40.744979,
+        "locationType": 0,
+        "lon": -73.887208,
+        "name": "BROADWAY/78 ST",
+        "routeIds": [
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982111",
+        "direction": "S",
+        "id": "MTA_982111",
+        "lat": 40.600206,
+        "locationType": 0,
+        "lon": -73.82068,
+        "name": "CROSS BAY BLVD/W 18 RD",
+        "routeIds": [
+            "MTABC_Q52+",
+            "MTABC_Q53+",
+            "MTABC_QM16",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982137",
+        "direction": "N",
+        "id": "MTA_982137",
+        "lat": 40.652413,
+        "locationType": 0,
+        "lon": -73.838019,
+        "name": "CROSS BAY BLVD/163 AV",
+        "routeIds": [
+            "MTABC_Q52+",
+            "MTABC_Q53+",
+            "MTABC_QM16",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

@@ -1,0 +1,995 @@
+[
+    {
+        "code": "503793",
+        "direction": "NE",
+        "id": "MTA_503793",
+        "lat": 40.65988,
+        "locationType": 0,
+        "lon": -73.810614,
+        "name": "130 PL/BERGEN RD",
+        "routeIds": [
+            "MTA NYCT_Q3",
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550083",
+        "direction": "E",
+        "id": "MTA_550083",
+        "lat": 40.675677,
+        "locationType": 0,
+        "lon": -73.81706,
+        "name": "ROCKAWAY BLVD/121 ST",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550084",
+        "direction": "E",
+        "id": "MTA_550084",
+        "lat": 40.67549,
+        "locationType": 0,
+        "lon": -73.81522,
+        "name": "ROCKAWAY BLVD/122 PL",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550085",
+        "direction": "E",
+        "id": "MTA_550085",
+        "lat": 40.675315,
+        "locationType": 0,
+        "lon": -73.813364,
+        "name": "ROCKAWAY BLVD/124 ST",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550086",
+        "direction": "E",
+        "id": "MTA_550086",
+        "lat": 40.675189,
+        "locationType": 0,
+        "lon": -73.811822,
+        "name": "ROCKAWAY BLVD/126 ST",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550087",
+        "direction": "E",
+        "id": "MTA_550087",
+        "lat": 40.675007,
+        "locationType": 0,
+        "lon": -73.809586,
+        "name": "ROCKAWAY BLVD/128 ST",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550123",
+        "direction": "W",
+        "id": "MTA_550123",
+        "lat": 40.675247,
+        "locationType": 0,
+        "lon": -73.809642,
+        "name": "ROCKAWAY BLVD/128 ST",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550124",
+        "direction": "W",
+        "id": "MTA_550124",
+        "lat": 40.675366,
+        "locationType": 0,
+        "lon": -73.810982,
+        "name": "ROCKAWAY BLVD/127 ST",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550126",
+        "direction": "W",
+        "id": "MTA_550126",
+        "lat": 40.675817,
+        "locationType": 0,
+        "lon": -73.816164,
+        "name": "ROCKAWAY BLVD /122 ST",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550289",
+        "direction": "N",
+        "id": "MTA_550289",
+        "lat": 40.663772,
+        "locationType": 0,
+        "lon": -73.80643,
+        "name": "134 ST /150 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550290",
+        "direction": "W",
+        "id": "MTA_550290",
+        "lat": 40.665368,
+        "locationType": 0,
+        "lon": -73.807003,
+        "name": "150 AV /149 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550291",
+        "direction": "W",
+        "id": "MTA_550291",
+        "lat": 40.664803,
+        "locationType": 0,
+        "lon": -73.809,
+        "name": "150 AV/131 ST",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550292",
+        "direction": "N",
+        "id": "MTA_550292",
+        "lat": 40.665098,
+        "locationType": 0,
+        "lon": -73.810855,
+        "name": "130 ST /150 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550293",
+        "direction": "N",
+        "id": "MTA_550293",
+        "lat": 40.668436,
+        "locationType": 0,
+        "lon": -73.809829,
+        "name": "130 ST /135 AV",
+        "routeIds": [
+            "MTABC_Q10",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550299",
+        "direction": "N",
+        "id": "MTA_550299",
+        "lat": 40.667096,
+        "locationType": 0,
+        "lon": -73.821871,
+        "name": "LEFFERTS BLVD/150 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550300",
+        "direction": "S",
+        "id": "MTA_550300",
+        "lat": 40.667034,
+        "locationType": 0,
+        "lon": -73.822099,
+        "name": "LEFFERTS BLVD/150 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550303",
+        "direction": "N",
+        "id": "MTA_550303",
+        "lat": 40.670722,
+        "locationType": 0,
+        "lon": -73.820732,
+        "name": "LEFFERTS BLVD/135 AV",
+        "routeIds": [
+            "MTABC_Q10",
+            "MTABC_Q37",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550304",
+        "direction": "S",
+        "id": "MTA_550304",
+        "lat": 40.670402,
+        "locationType": 0,
+        "lon": -73.821053,
+        "name": "LEFFERTS BLVD/135 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550309",
+        "direction": "NW",
+        "id": "MTA_550309",
+        "lat": 40.676389,
+        "locationType": 0,
+        "lon": -73.819211,
+        "name": "LEFFERTS BLVD/ROCKAWAY BLVD",
+        "routeIds": [
+            "MTABC_Q10",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550311",
+        "direction": "NW",
+        "id": "MTA_550311",
+        "lat": 40.678971,
+        "locationType": 0,
+        "lon": -73.820479,
+        "name": "LEFFERTS BLVD/LINDEN BLVD",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550312",
+        "direction": "SE",
+        "id": "MTA_550312",
+        "lat": 40.678586,
+        "locationType": 0,
+        "lon": -73.820516,
+        "name": "LEFFERTS BLVD/LINDEN BLVD",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550313",
+        "direction": "NW",
+        "id": "MTA_550313",
+        "lat": 40.680733,
+        "locationType": 0,
+        "lon": -73.821358,
+        "name": "LEFFERTS BLVD/111 AV",
+        "routeIds": [
+            "MTABC_Q10",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550314",
+        "direction": "SE",
+        "id": "MTA_550314",
+        "lat": 40.680337,
+        "locationType": 0,
+        "lon": -73.82138,
+        "name": "LEFFERTS BLVD/111 AV",
+        "routeIds": [
+            "MTABC_Q10",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550315",
+        "direction": "NW",
+        "id": "MTA_550315",
+        "lat": 40.682484,
+        "locationType": 0,
+        "lon": -73.822199,
+        "name": "LEFFERTS BLVD/109 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550316",
+        "direction": "SE",
+        "id": "MTA_550316",
+        "lat": 40.68207,
+        "locationType": 0,
+        "lon": -73.822212,
+        "name": "LEFFERTS BLVD/109 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550317",
+        "direction": "NW",
+        "id": "MTA_550317",
+        "lat": 40.684609,
+        "locationType": 0,
+        "lon": -73.823247,
+        "name": "LEFFERTS BLVD/107 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550318",
+        "direction": "SE",
+        "id": "MTA_550318",
+        "lat": 40.684201,
+        "locationType": 0,
+        "lon": -73.823268,
+        "name": "LEFFERTS BLVD/107 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550319",
+        "direction": "NW",
+        "id": "MTA_550319",
+        "lat": 40.686471,
+        "locationType": 0,
+        "lon": -73.824164,
+        "name": "LEFFERTS BLVD/LIBERTY AV",
+        "routeIds": [
+            "MTABC_Q10",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550320",
+        "direction": "SE",
+        "id": "MTA_550320",
+        "lat": 40.686058,
+        "locationType": 0,
+        "lon": -73.824177,
+        "name": "LEFFERTS BLVD/LIBERTY AV",
+        "routeIds": [
+            "MTABC_Q10",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550321",
+        "direction": "NW",
+        "id": "MTA_550321",
+        "lat": 40.688181,
+        "locationType": 0,
+        "lon": -73.824997,
+        "name": "LEFFERTS BLVD/103 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550322",
+        "direction": "SE",
+        "id": "MTA_550322",
+        "lat": 40.687791,
+        "locationType": 0,
+        "lon": -73.825033,
+        "name": "LEFFERTS BLVD/103 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550323",
+        "direction": "NW",
+        "id": "MTA_550323",
+        "lat": 40.689949,
+        "locationType": 0,
+        "lon": -73.825869,
+        "name": "LEFFERTS BLVD/101 AV",
+        "routeIds": [
+            "MTABC_Q10",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550324",
+        "direction": "SE",
+        "id": "MTA_550324",
+        "lat": 40.690027,
+        "locationType": 0,
+        "lon": -73.826119,
+        "name": "LEFFERTS BLVD/101 AV",
+        "routeIds": [
+            "MTABC_Q10",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550327",
+        "direction": "NW",
+        "id": "MTA_550327",
+        "lat": 40.692619,
+        "locationType": 0,
+        "lon": -73.827184,
+        "name": "LEFFERTS BLVD/95 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550328",
+        "direction": "SE",
+        "id": "MTA_550328",
+        "lat": 40.692217,
+        "locationType": 0,
+        "lon": -73.82722,
+        "name": "LEFFERTS BLVD/95 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550329",
+        "direction": "NW",
+        "id": "MTA_550329",
+        "lat": 40.693679,
+        "locationType": 0,
+        "lon": -73.827696,
+        "name": "LEFFERTS BLVD/94 AV",
+        "routeIds": [
+            "MTABC_Q10",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550331",
+        "direction": "NW",
+        "id": "MTA_550331",
+        "lat": 40.69605,
+        "locationType": 0,
+        "lon": -73.828859,
+        "name": "LEFFERTS BLVD/91 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550332",
+        "direction": "SE",
+        "id": "MTA_550332",
+        "lat": 40.695719,
+        "locationType": 0,
+        "lon": -73.82891,
+        "name": "LEFFERTS BLVD/91 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550333",
+        "direction": "NW",
+        "id": "MTA_550333",
+        "lat": 40.697537,
+        "locationType": 0,
+        "lon": -73.829601,
+        "name": "LEFFERTS BLVD/89 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550334",
+        "direction": "SE",
+        "id": "MTA_550334",
+        "lat": 40.697182,
+        "locationType": 0,
+        "lon": -73.829652,
+        "name": "LEFFERTS BLVD/89 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550335",
+        "direction": "NW",
+        "id": "MTA_550335",
+        "lat": 40.699973,
+        "locationType": 0,
+        "lon": -73.830786,
+        "name": "LEFFERTS BLVD/JAMAICA AV",
+        "routeIds": [
+            "MTABC_Q10",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550336",
+        "direction": "SE",
+        "id": "MTA_550336",
+        "lat": 40.699829,
+        "locationType": 0,
+        "lon": -73.830944,
+        "name": "LEFFERTS BLVD/JAMAICA AV",
+        "routeIds": [
+            "MTABC_Q10",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550337",
+        "direction": "NW",
+        "id": "MTA_550337",
+        "lat": 40.7016,
+        "locationType": 0,
+        "lon": -73.831497,
+        "name": "LEFFERTS BLVD/HILLSIDE AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550338",
+        "direction": "SE",
+        "id": "MTA_550338",
+        "lat": 40.701228,
+        "locationType": 0,
+        "lon": -73.831555,
+        "name": "LEFFERTS BLVD/HILLSIDE AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550339",
+        "direction": "NW",
+        "id": "MTA_550339",
+        "lat": 40.703006,
+        "locationType": 0,
+        "lon": -73.832116,
+        "name": "LEFFERTS BLVD/85 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550340",
+        "direction": "SE",
+        "id": "MTA_550340",
+        "lat": 40.702668,
+        "locationType": 0,
+        "lon": -73.832175,
+        "name": "LEFFERTS BLVD/85 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550341",
+        "direction": "NW",
+        "id": "MTA_550341",
+        "lat": 40.704364,
+        "locationType": 0,
+        "lon": -73.832695,
+        "name": "LEFFERTS BLVD/84 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550342",
+        "direction": "SE",
+        "id": "MTA_550342",
+        "lat": 40.704226,
+        "locationType": 0,
+        "lon": -73.83284,
+        "name": "LEFFERTS BLVD/84 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550343",
+        "direction": "N",
+        "id": "MTA_550343",
+        "lat": 40.706296,
+        "locationType": 0,
+        "lon": -73.831715,
+        "name": "LEFFERTS BLVD/METROPOLITAN AV",
+        "routeIds": [
+            "MTABC_Q10",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550344",
+        "direction": "S",
+        "id": "MTA_550344",
+        "lat": 40.706047,
+        "locationType": 0,
+        "lon": -73.831867,
+        "name": "LEFFERTS BLVD/METROPOLITAN AV",
+        "routeIds": [
+            "MTABC_Q10",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550345",
+        "direction": "NE",
+        "id": "MTA_550345",
+        "lat": 40.70941,
+        "locationType": 0,
+        "lon": -73.829474,
+        "name": "LEFFERTS BLVD/AUSTIN ST",
+        "routeIds": [
+            "MTABC_Q10",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550346",
+        "direction": "SW",
+        "id": "MTA_550346",
+        "lat": 40.709483,
+        "locationType": 0,
+        "lon": -73.82967,
+        "name": "LEFFERTS BLVD/AUSTIN ST",
+        "routeIds": [
+            "MTABC_Q10",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550347",
+        "direction": "NW",
+        "id": "MTA_550347",
+        "lat": 40.711515,
+        "locationType": 0,
+        "lon": -73.828577,
+        "name": "KEW GARDENS RD /82 RD",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550348",
+        "direction": "NW",
+        "id": "MTA_550348",
+        "lat": 40.71237,
+        "locationType": 0,
+        "lon": -73.829151,
+        "name": "KEW GARDENS RD /82 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550349",
+        "direction": "NW",
+        "id": "MTA_550349",
+        "lat": 40.713641,
+        "locationType": 0,
+        "lon": -73.830248,
+        "name": "KEW GARDENS RD /80 RD",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550350",
+        "direction": "SW",
+        "id": "MTA_550350",
+        "lat": 40.712369,
+        "locationType": 0,
+        "lon": -73.832481,
+        "name": "80 RD /AUSTIN ST",
+        "routeIds": [
+            "MTABC_Q10",
+            "MTABC_Q37"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550351",
+        "direction": "SE",
+        "id": "MTA_550351",
+        "lat": 40.711157,
+        "locationType": 0,
+        "lon": -73.831507,
+        "name": "AUSTIN ST /82 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550352",
+        "direction": "SE",
+        "id": "MTA_550352",
+        "lat": 40.709944,
+        "locationType": 0,
+        "lon": -73.830419,
+        "name": "AUSTIN ST /MOWBRAY DR",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550353",
+        "direction": "S",
+        "id": "MTA_550353",
+        "lat": 40.708529,
+        "locationType": 0,
+        "lon": -73.830814,
+        "name": "LEFFERTS BLVD/83 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550354",
+        "direction": "SE",
+        "id": "MTA_550354",
+        "lat": 40.693798,
+        "locationType": 0,
+        "lon": -73.827969,
+        "name": "LEFFERTS BLVD/ATLANTIC AV",
+        "routeIds": [
+            "MTABC_Q10",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550378",
+        "direction": "SE",
+        "id": "MTA_550378",
+        "lat": 40.713624,
+        "locationType": 0,
+        "lon": -73.829759,
+        "name": "QUEENS BLVD/80 RD",
+        "routeIds": [
+            "MTABC_Q10",
+            "MTABC_Q60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553146",
+        "direction": "S",
+        "id": "MTA_553146",
+        "lat": 40.663796,
+        "locationType": 0,
+        "lon": -73.806609,
+        "name": "134 ST/150 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553156",
+        "direction": "NE",
+        "id": "MTA_553156",
+        "lat": 40.708223,
+        "locationType": 0,
+        "lon": -73.830688,
+        "name": "LEFFERTS BLVD/CUTHBERT RD",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553217",
+        "direction": "N",
+        "id": "MTA_553217",
+        "lat": 40.669975,
+        "locationType": 0,
+        "lon": -73.80935,
+        "name": "130 ST/133 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553218",
+        "direction": "N",
+        "id": "MTA_553218",
+        "lat": 40.67234,
+        "locationType": 0,
+        "lon": -73.808615,
+        "name": "130 ST/SUTTER AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553220",
+        "direction": "S",
+        "id": "MTA_553220",
+        "lat": 40.670438,
+        "locationType": 0,
+        "lon": -73.809392,
+        "name": "130 ST/133 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553221",
+        "direction": "S",
+        "id": "MTA_553221",
+        "lat": 40.668442,
+        "locationType": 0,
+        "lon": -73.810001,
+        "name": "130 ST /135 AV",
+        "routeIds": [
+            "MTABC_Q10",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553276",
+        "direction": "E",
+        "id": "MTA_553276",
+        "lat": 40.666268,
+        "locationType": 0,
+        "lon": -73.810259,
+        "name": "S CONDUIT AV/130 ST",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553307",
+        "direction": "SE",
+        "id": "MTA_553307",
+        "lat": 40.676855,
+        "locationType": 0,
+        "lon": -73.819636,
+        "name": "LEFFERTS BLVD/115 AV",
+        "routeIds": [
+            "MTABC_Q10",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553403",
+        "direction": "S",
+        "id": "MTA_553403",
+        "lat": 40.66546,
+        "locationType": 0,
+        "lon": -73.806063,
+        "name": "134 ST/149 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553411",
+        "direction": "S",
+        "id": "MTA_553411",
+        "lat": 40.660972,
+        "locationType": 0,
+        "lon": -73.807504,
+        "name": "134 ST /155 AV",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982006",
+        "direction": "E",
+        "id": "MTA_982006",
+        "lat": 40.6619,
+        "locationType": 0,
+        "lon": -73.824642,
+        "name": "LEFFERTS BLVD/AIRTRAIN STATION",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982159",
+        "direction": "NW",
+        "id": "MTA_982159",
+        "lat": 40.71355,
+        "locationType": 0,
+        "lon": -73.830143,
+        "name": "KEW GARDENS RD /80 RD",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982222",
+        "direction": "E",
+        "id": "MTA_982222",
+        "lat": 40.661837,
+        "locationType": 0,
+        "lon": -73.824427,
+        "name": "LEFFERTS BLVD/AIRTRAIN STATION",
+        "routeIds": [
+            "MTABC_Q10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

@@ -1,0 +1,653 @@
+[
+    {
+        "code": "200176",
+        "direction": "SW",
+        "id": "MTA_200176",
+        "lat": 40.641846,
+        "locationType": 0,
+        "lon": -74.075573,
+        "name": "BAY ST/NICK LAPORTE PL",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S46",
+            "MTA NYCT_S48",
+            "MTA NYCT_S51",
+            "MTA NYCT_S52",
+            "MTA NYCT_S61",
+            "MTA NYCT_S62",
+            "MTA NYCT_S66",
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200746",
+        "direction": "S",
+        "id": "MTA_200746",
+        "lat": 40.638994,
+        "locationType": 0,
+        "lon": -74.090139,
+        "name": "CLYDE PL/ARNOLD ST",
+        "routeIds": [
+            "MTA NYCT_S42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200747",
+        "direction": "N",
+        "id": "MTA_200747",
+        "lat": 40.639698,
+        "locationType": 0,
+        "lon": -74.091097,
+        "name": "FRANKLIN AV/PROSPECT AV",
+        "routeIds": [
+            "MTA NYCT_S42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200748",
+        "direction": "W",
+        "id": "MTA_200748",
+        "lat": 40.639683,
+        "locationType": 0,
+        "lon": -74.091957,
+        "name": "PROSPECT AV/PENDELTON PL",
+        "routeIds": [
+            "MTA NYCT_S42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200749",
+        "direction": "W",
+        "id": "MTA_200749",
+        "lat": 40.639383,
+        "locationType": 0,
+        "lon": -74.093657,
+        "name": "PROSPECT AV/LAFAYETTE AV",
+        "routeIds": [
+            "MTA NYCT_S42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200750",
+        "direction": "S",
+        "id": "MTA_200750",
+        "lat": 40.636956,
+        "locationType": 0,
+        "lon": -74.093639,
+        "name": "LAFAYETTE AV/ALDEN PL",
+        "routeIds": [
+            "MTA NYCT_S42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200751",
+        "direction": "SE",
+        "id": "MTA_200751",
+        "lat": 40.63567,
+        "locationType": 0,
+        "lon": -74.09265,
+        "name": "LAFAYETTE AV/BRIGHTON AV",
+        "routeIds": [
+            "MTA NYCT_S42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200752",
+        "direction": "NE",
+        "id": "MTA_200752",
+        "lat": 40.635785,
+        "locationType": 0,
+        "lon": -74.089426,
+        "name": "BRIGHTON AV/WEBSTER AV",
+        "routeIds": [
+            "MTA NYCT_S42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200753",
+        "direction": "E",
+        "id": "MTA_200753",
+        "lat": 40.637748,
+        "locationType": 0,
+        "lon": -74.087356,
+        "name": "BRIGHTON AV/JERSEY ST",
+        "routeIds": [
+            "MTA NYCT_S42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200754",
+        "direction": "N",
+        "id": "MTA_200754",
+        "lat": 40.64014,
+        "locationType": 0,
+        "lon": -74.087075,
+        "name": "JERSEY ST/HENDRICKS AV",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200755",
+        "direction": "N",
+        "id": "MTA_200755",
+        "lat": 40.641461,
+        "locationType": 0,
+        "lon": -74.086706,
+        "name": "JERSEY ST/LAYTON AV",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200756",
+        "direction": "N",
+        "id": "MTA_200756",
+        "lat": 40.642399,
+        "locationType": 0,
+        "lon": -74.086498,
+        "name": "JERSEY ST/CRESCENT AV",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200757",
+        "direction": "NW",
+        "id": "MTA_200757",
+        "lat": 40.64373,
+        "locationType": 0,
+        "lon": -74.084305,
+        "name": "WESTERVELT AV/CRESCENT AV",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200758",
+        "direction": "E",
+        "id": "MTA_200758",
+        "lat": 40.64571,
+        "locationType": 0,
+        "lon": -74.085746,
+        "name": "WESTERVELT AV/HAMILTON AV",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200761",
+        "direction": "E",
+        "id": "MTA_200761",
+        "lat": 40.644717,
+        "locationType": 0,
+        "lon": -74.080703,
+        "name": "HAMILTON AV/SAINT MARKS PL",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200762",
+        "direction": "SE",
+        "id": "MTA_200762",
+        "lat": 40.643192,
+        "locationType": 0,
+        "lon": -74.079137,
+        "name": "SAINT MARKS PL/WALL ST",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200763",
+        "direction": "SE",
+        "id": "MTA_200763",
+        "lat": 40.642337,
+        "locationType": 0,
+        "lon": -74.078441,
+        "name": "SAINT MARKS PL/FORT PL",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200764",
+        "direction": "NE",
+        "id": "MTA_200764",
+        "lat": 40.641819,
+        "locationType": 0,
+        "lon": -74.077132,
+        "name": "HYATT ST/CENTRAL AV",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200765",
+        "direction": "E",
+        "id": "MTA_200765",
+        "lat": 40.63955,
+        "locationType": 0,
+        "lon": -74.075825,
+        "name": "SLOSSON TERR/BAY ST",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200775",
+        "direction": "",
+        "id": "MTA_200775",
+        "lat": 40.634098,
+        "locationType": 0,
+        "lon": -74.09719,
+        "name": "BRIGHTON AV/CASTLETON AV",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200779",
+        "direction": "W",
+        "id": "MTA_200779",
+        "lat": 40.639632,
+        "locationType": 0,
+        "lon": -74.076139,
+        "name": "SLOSSON TERR/BAY ST",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200780",
+        "direction": "N",
+        "id": "MTA_200780",
+        "lat": 40.641841,
+        "locationType": 0,
+        "lon": -74.076941,
+        "name": "CENTRAL AV/HYATT ST",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200781",
+        "direction": "NW",
+        "id": "MTA_200781",
+        "lat": 40.641955,
+        "locationType": 0,
+        "lon": -74.078008,
+        "name": "SAINT MARKS PL/HYATT ST",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200782",
+        "direction": "NW",
+        "id": "MTA_200782",
+        "lat": 40.643684,
+        "locationType": 0,
+        "lon": -74.079329,
+        "name": "SAINT MARKS PL/WALL ST",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200783",
+        "direction": "NW",
+        "id": "MTA_200783",
+        "lat": 40.645091,
+        "locationType": 0,
+        "lon": -74.080433,
+        "name": "SAINT MARKS PL/HAMILTON AV",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200784",
+        "direction": "W",
+        "id": "MTA_200784",
+        "lat": 40.646191,
+        "locationType": 0,
+        "lon": -74.081804,
+        "name": "SAINT MARKS PL/NICHOLAS ST",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200785",
+        "direction": "SE",
+        "id": "MTA_200785",
+        "lat": 40.646393,
+        "locationType": 0,
+        "lon": -74.08655,
+        "name": "WESTERVELT AV/SAINT MARKS PL",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200786",
+        "direction": "SE",
+        "id": "MTA_200786",
+        "lat": 40.644665,
+        "locationType": 0,
+        "lon": -74.085164,
+        "name": "WESTERVELT AV/CLEVELAND ST",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200787",
+        "direction": "W",
+        "id": "MTA_200787",
+        "lat": 40.643348,
+        "locationType": 0,
+        "lon": -74.084503,
+        "name": "CRESCENT AV/WESTERVELT AV",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200791",
+        "direction": "SE",
+        "id": "MTA_200791",
+        "lat": 40.63815,
+        "locationType": 0,
+        "lon": -74.087552,
+        "name": "JERSEY ST/BRIGHTON AV",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200792",
+        "direction": "SW",
+        "id": "MTA_200792",
+        "lat": 40.63698,
+        "locationType": 0,
+        "lon": -74.088685,
+        "name": "BRIGHTON AV/PINE ST",
+        "routeIds": [
+            "MTA NYCT_S42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200793",
+        "direction": "SW",
+        "id": "MTA_200793",
+        "lat": 40.635766,
+        "locationType": 0,
+        "lon": -74.089635,
+        "name": "BRIGHTON AV/WEBSTER AV",
+        "routeIds": [
+            "MTA NYCT_S42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200795",
+        "direction": "N",
+        "id": "MTA_200795",
+        "lat": 40.637577,
+        "locationType": 0,
+        "lon": -74.093669,
+        "name": "LAFAYETTE AV/ALDEN PL",
+        "routeIds": [
+            "MTA NYCT_S42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200796",
+        "direction": "N",
+        "id": "MTA_200796",
+        "lat": 40.638921,
+        "locationType": 0,
+        "lon": -74.09397,
+        "name": "LAFAYETTE AV/PROSPECT AV",
+        "routeIds": [
+            "MTA NYCT_S42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200797",
+        "direction": "E",
+        "id": "MTA_200797",
+        "lat": 40.639502,
+        "locationType": 0,
+        "lon": -74.092202,
+        "name": "PROSPECT AV/PENDELTON PL",
+        "routeIds": [
+            "MTA NYCT_S42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200798",
+        "direction": "E",
+        "id": "MTA_200798",
+        "lat": 40.639744,
+        "locationType": 0,
+        "lon": -74.091034,
+        "name": "PROSPECT AV/FRANKLIN AV",
+        "routeIds": [
+            "MTA NYCT_S42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202563",
+        "direction": "S",
+        "id": "MTA_202563",
+        "lat": 40.639114,
+        "locationType": 0,
+        "lon": -74.090187,
+        "name": "CLYDE PL/ARNOLD ST",
+        "routeIds": [
+            "MTA NYCT_S42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202579",
+        "direction": "W",
+        "id": "MTA_202579",
+        "lat": 40.643334,
+        "locationType": 0,
+        "lon": -74.07421,
+        "name": "SAINT GEORGE FERRY/RAMP D S42 & S52",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202608",
+        "direction": "E",
+        "id": "MTA_202608",
+        "lat": 40.645116,
+        "locationType": 0,
+        "lon": -74.084195,
+        "name": "HAMILTON AV/EGMONT PL",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202613",
+        "direction": "W",
+        "id": "MTA_202613",
+        "lat": 40.646618,
+        "locationType": 0,
+        "lon": -74.083534,
+        "name": "SAINT MARKS PL/83 SAINT MARKS PL",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202658",
+        "direction": "S",
+        "id": "MTA_202658",
+        "lat": 40.640058,
+        "locationType": 0,
+        "lon": -74.08723,
+        "name": "JERSEY ST/PAUW ST",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202775",
+        "direction": "SW",
+        "id": "MTA_202775",
+        "lat": 40.634129,
+        "locationType": 0,
+        "lon": -74.097269,
+        "name": "BRIGHTON AV / CASTLETON AV",
+        "routeIds": [
+            "MTA NYCT_S42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203051",
+        "direction": "S",
+        "id": "MTA_203051",
+        "lat": 40.642018,
+        "locationType": 0,
+        "lon": -74.086717,
+        "name": "JERSEY ST/CARLYLE ST",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203378",
+        "direction": "W",
+        "id": "MTA_203378",
+        "lat": 40.635681,
+        "locationType": 0,
+        "lon": -74.092344,
+        "name": "BRIGHTON AV/LAFAYETTE AV",
+        "routeIds": [
+            "MTA NYCT_S42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203650",
+        "direction": "N",
+        "id": "MTA_203650",
+        "lat": 40.640614,
+        "locationType": 0,
+        "lon": -74.075665,
+        "name": "BAY ST/BOROUGH PL",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S46",
+            "MTA NYCT_S48",
+            "MTA NYCT_S51",
+            "MTA NYCT_S52",
+            "MTA NYCT_S61",
+            "MTA NYCT_S62",
+            "MTA NYCT_S66",
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S78",
+            "MTA NYCT_S91",
+            "MTA NYCT_S92",
+            "MTA NYCT_S96",
+            "MTA NYCT_S98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "805006",
+        "direction": "W",
+        "id": "MTA_805006",
+        "lat": 40.643722,
+        "locationType": 0,
+        "lon": -74.073104,
+        "name": "SAINT GEORGE FERRY/RAMP D",
+        "routeIds": [
+            "MTA NYCT_S40",
+            "MTA NYCT_S42",
+            "MTA NYCT_S52",
+            "MTA NYCT_S90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

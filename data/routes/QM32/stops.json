@@ -1,0 +1,515 @@
+[
+    {
+        "code": "402678",
+        "direction": "NE",
+        "id": "MTA_402678",
+        "lat": 40.749176,
+        "locationType": 0,
+        "lon": -73.975519,
+        "name": "3 AV/E 39 ST",
+        "routeIds": [
+            "MTA NYCT_M101",
+            "MTA NYCT_M102",
+            "MTA NYCT_M103",
+            "MTABC_QM32",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403640",
+        "direction": "NE",
+        "id": "MTA_403640",
+        "lat": 40.756158,
+        "locationType": 0,
+        "lon": -73.970388,
+        "name": "3 AV/E 50 ST",
+        "routeIds": [
+            "MTABC_QM31",
+            "MTABC_QM32",
+            "MTABC_QM35",
+            "MTABC_QM36",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404169",
+        "direction": "NE",
+        "id": "MTA_404169",
+        "lat": 40.759232,
+        "locationType": 0,
+        "lon": -73.968227,
+        "name": "3 AV/E 55 ST",
+        "routeIds": [
+            "MTABC_QM31",
+            "MTABC_QM32",
+            "MTABC_QM35",
+            "MTABC_QM36",
+            "MTABC_QM44",
+            "MTA NYCT_X63",
+            "MTA NYCT_X64",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450005",
+        "direction": "NE",
+        "id": "MTA_450005",
+        "lat": 40.751994,
+        "locationType": 0,
+        "lon": -73.973438,
+        "name": "3 AV/E 44 ST",
+        "routeIds": [
+            "MTABC_QM32",
+            "MTABC_QM34",
+            "MTABC_QM40",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501044",
+        "direction": "SE",
+        "id": "MTA_501044",
+        "lat": 40.788081,
+        "locationType": 0,
+        "lon": -73.781091,
+        "name": "BELL BLVD/212 ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501046",
+        "direction": "SE",
+        "id": "MTA_501046",
+        "lat": 40.785155,
+        "locationType": 0,
+        "lon": -73.778602,
+        "name": "BELL BLVD/16 AV",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501047",
+        "direction": "SE",
+        "id": "MTA_501047",
+        "lat": 40.783487,
+        "locationType": 0,
+        "lon": -73.777463,
+        "name": "BELL BLVD/18 AV",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501172",
+        "direction": "E",
+        "id": "MTA_501172",
+        "lat": 40.786303,
+        "locationType": 0,
+        "lon": -73.809539,
+        "name": "CROSS ISLAND PKWY/CLINTONVILLE ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q76",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501184",
+        "direction": "N",
+        "id": "MTA_501184",
+        "lat": 40.793838,
+        "locationType": 0,
+        "lon": -73.797422,
+        "name": "166 ST/POWELLS COVE BLVD",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501189",
+        "direction": "W",
+        "id": "MTA_501189",
+        "lat": 40.79418,
+        "locationType": 0,
+        "lon": -73.799492,
+        "name": "POWELLS COVE BLVD/162 ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501198",
+        "direction": "W",
+        "id": "MTA_501198",
+        "lat": 40.787166,
+        "locationType": 0,
+        "lon": -73.810164,
+        "name": "CROSS ISLAND PKWY/CLINTONVILLE ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q76",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501267",
+        "direction": "NE",
+        "id": "MTA_501267",
+        "lat": 40.786327,
+        "locationType": 0,
+        "lon": -73.79335,
+        "name": "CROSS ISLAND PKWY/201 ST",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501269",
+        "direction": "E",
+        "id": "MTA_501269",
+        "lat": 40.788752,
+        "locationType": 0,
+        "lon": -73.787813,
+        "name": "CROSS ISLAND PKWY/ESTATES LN",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501282",
+        "direction": "W",
+        "id": "MTA_501282",
+        "lat": 40.788874,
+        "locationType": 0,
+        "lon": -73.787783,
+        "name": "CROSS ISLAND PKWY/BAYBRIDGE CONDO",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501284",
+        "direction": "W",
+        "id": "MTA_501284",
+        "lat": 40.786177,
+        "locationType": 0,
+        "lon": -73.794191,
+        "name": "CROSS ISLAND PKWY/UTOPIA PKWY",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502724",
+        "direction": "W",
+        "id": "MTA_502724",
+        "lat": 40.787636,
+        "locationType": 0,
+        "lon": -73.819162,
+        "name": "14 AV/147 ST",
+        "routeIds": [
+            "MTA NYCT_Q76",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502728",
+        "direction": "E",
+        "id": "MTA_502728",
+        "lat": 40.787504,
+        "locationType": 0,
+        "lon": -73.819202,
+        "name": "14 AV/147 ST",
+        "routeIds": [
+            "MTA NYCT_Q76",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503148",
+        "direction": "N",
+        "id": "MTA_503148",
+        "lat": 40.781928,
+        "locationType": 0,
+        "lon": -73.781588,
+        "name": "211 ST/18 AV",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503149",
+        "direction": "NW",
+        "id": "MTA_503149",
+        "lat": 40.780263,
+        "locationType": 0,
+        "lon": -73.780879,
+        "name": "211 ST/23 AV",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503221",
+        "direction": "W",
+        "id": "MTA_503221",
+        "lat": 40.788913,
+        "locationType": 0,
+        "lon": -73.783105,
+        "name": "CROSS ISLAND PKWY/212 ST",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552503",
+        "direction": "SW",
+        "id": "MTA_552503",
+        "lat": 40.771582,
+        "locationType": 0,
+        "lon": -73.833747,
+        "name": "WHITESTONE EXPWY/LINDEN PL",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM20",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552504",
+        "direction": "NE",
+        "id": "MTA_552504",
+        "lat": 40.771091,
+        "locationType": 0,
+        "lon": -73.832982,
+        "name": "WHITESTONE EXPWY/LINDEN PL",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM20",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552505",
+        "direction": "N",
+        "id": "MTA_552505",
+        "lat": 40.781917,
+        "locationType": 0,
+        "lon": -73.824456,
+        "name": "WHITESTONE EXPWY/20 AV",
+        "routeIds": [
+            "MTABC_Q50",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552506",
+        "direction": "SW",
+        "id": "MTA_552506",
+        "lat": 40.781506,
+        "locationType": 0,
+        "lon": -73.825903,
+        "name": "WHITESTONE EXPWY/20 AV",
+        "routeIds": [
+            "MTABC_Q50",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552548",
+        "direction": "N",
+        "id": "MTA_552548",
+        "lat": 40.786683,
+        "locationType": 0,
+        "lon": -73.802335,
+        "name": "160 ST/CROSS ISLAND PKWY",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552549",
+        "direction": "SW",
+        "id": "MTA_552549",
+        "lat": 40.792861,
+        "locationType": 0,
+        "lon": -73.79776,
+        "name": "166 ST/9 AV",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552553",
+        "direction": "NE",
+        "id": "MTA_552553",
+        "lat": 40.783026,
+        "locationType": 0,
+        "lon": -73.779752,
+        "name": "18 AV/212 ST",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552665",
+        "direction": "N",
+        "id": "MTA_552665",
+        "lat": 40.785408,
+        "locationType": 0,
+        "lon": -73.781506,
+        "name": "212 ST/15 AV",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552709",
+        "direction": "W",
+        "id": "MTA_552709",
+        "lat": 40.786587,
+        "locationType": 0,
+        "lon": -73.802635,
+        "name": "CROSS ISLAND PKWY/160 ST",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552907",
+        "direction": "E",
+        "id": "MTA_552907",
+        "lat": 40.794091,
+        "locationType": 0,
+        "lon": -73.799397,
+        "name": "POWELLS COVE BLVD/162 ST",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552924",
+        "direction": "N",
+        "id": "MTA_552924",
+        "lat": 40.786748,
+        "locationType": 0,
+        "lon": -73.823421,
+        "name": "WHITESTONE EXPWY/14 AV",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552925",
+        "direction": "S",
+        "id": "MTA_552925",
+        "lat": 40.786603,
+        "locationType": 0,
+        "lon": -73.82459,
+        "name": "WHITESTONE EXPWY/14 AV",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552926",
+        "direction": "NE",
+        "id": "MTA_552926",
+        "lat": 40.775934,
+        "locationType": 0,
+        "lon": -73.827706,
+        "name": "WHITESTONE EXPWY/25 RD",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552984",
+        "direction": "SW",
+        "id": "MTA_552984",
+        "lat": 40.782513,
+        "locationType": 0,
+        "lon": -73.776698,
+        "name": "BELL BLVD/23 AV",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

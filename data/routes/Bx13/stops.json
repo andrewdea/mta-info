@@ -1,0 +1,602 @@
+[
+    {
+        "code": "100363",
+        "direction": "E",
+        "id": "MTA_100363",
+        "lat": 40.827792,
+        "locationType": 0,
+        "lon": -73.926096,
+        "name": "E 161 ST/RIVER AV",
+        "routeIds": [
+            "MTA NYCT_BX6",
+            "MTA NYCT_BX6+",
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100366",
+        "direction": "E",
+        "id": "MTA_100366",
+        "lat": 40.825343,
+        "locationType": 0,
+        "lon": -73.918099,
+        "name": "E 161 ST/CONCOURSE VILLAGE EAST",
+        "routeIds": [
+            "MTA NYCT_BX6",
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100368",
+        "direction": "E",
+        "id": "MTA_100368",
+        "lat": 40.824041,
+        "locationType": 0,
+        "lon": -73.913643,
+        "name": "E 161 ST/MELROSE AV",
+        "routeIds": [
+            "MTA NYCT_BX6",
+            "MTA NYCT_BX6+",
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100369",
+        "direction": "E",
+        "id": "MTA_100369",
+        "lat": 40.82372,
+        "locationType": 0,
+        "lon": -73.911709,
+        "name": "ELTON AV/E 161 ST",
+        "routeIds": [
+            "MTA NYCT_BX6",
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100431",
+        "direction": "W",
+        "id": "MTA_100431",
+        "lat": 40.824404,
+        "locationType": 0,
+        "lon": -73.914216,
+        "name": "E 161 ST/MELROSE AV",
+        "routeIds": [
+            "MTA NYCT_BX6",
+            "MTA NYCT_BX6+",
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100737",
+        "direction": "S",
+        "id": "MTA_100737",
+        "lat": 40.843611,
+        "locationType": 0,
+        "lon": -73.923774,
+        "name": "OGDEN AV/UNIVERSITY AV",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100740",
+        "direction": "S",
+        "id": "MTA_100740",
+        "lat": 40.840238,
+        "locationType": 0,
+        "lon": -73.925301,
+        "name": "OGDEN AV/W 169 ST",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100779",
+        "direction": "NE",
+        "id": "MTA_100779",
+        "lat": 40.842407,
+        "locationType": 0,
+        "lon": -73.922982,
+        "name": "PLIMPTON AV/EDWARD L GRANT HWY",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100876",
+        "direction": "W",
+        "id": "MTA_100876",
+        "lat": 40.823758,
+        "locationType": 0,
+        "lon": -73.911987,
+        "name": "ELTON AV/E 161 ST",
+        "routeIds": [
+            "MTA NYCT_BX6",
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100883",
+        "direction": "W",
+        "id": "MTA_100883",
+        "lat": 40.829981,
+        "locationType": 0,
+        "lon": -73.930187,
+        "name": "JEROME AV/W 161 ST",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100884",
+        "direction": "NE",
+        "id": "MTA_100884",
+        "lat": 40.831913,
+        "locationType": 0,
+        "lon": -73.929871,
+        "name": "OGDEN AV/W 162 ST",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100893",
+        "direction": "NE",
+        "id": "MTA_100893",
+        "lat": 40.833175,
+        "locationType": 0,
+        "lon": -73.929151,
+        "name": "OGDEN AV/W 164 ST",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100895",
+        "direction": "NE",
+        "id": "MTA_100895",
+        "lat": 40.835862,
+        "locationType": 0,
+        "lon": -73.927637,
+        "name": "OGDEN AV/W 166 ST",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100897",
+        "direction": "NE",
+        "id": "MTA_100897",
+        "lat": 40.838786,
+        "locationType": 0,
+        "lon": -73.925935,
+        "name": "OGDEN AV/W 168 ST",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100922",
+        "direction": "SW",
+        "id": "MTA_100922",
+        "lat": 40.838216,
+        "locationType": 0,
+        "lon": -73.926456,
+        "name": "OGDEN AV/W 168 ST",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100924",
+        "direction": "SW",
+        "id": "MTA_100924",
+        "lat": 40.835332,
+        "locationType": 0,
+        "lon": -73.92814,
+        "name": "OGDEN AV/W 166 ST",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100926",
+        "direction": "SW",
+        "id": "MTA_100926",
+        "lat": 40.832641,
+        "locationType": 0,
+        "lon": -73.929628,
+        "name": "OGDEN AV/W 164 ST",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100927",
+        "direction": "SW",
+        "id": "MTA_100927",
+        "lat": 40.831732,
+        "locationType": 0,
+        "lon": -73.930142,
+        "name": "OGDEN AV/W 162 ST",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102966",
+        "direction": "W",
+        "id": "MTA_102966",
+        "lat": 40.82788,
+        "locationType": 0,
+        "lon": -73.926034,
+        "name": "E 161 ST/RIVER AV",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103288",
+        "direction": "NE",
+        "id": "MTA_103288",
+        "lat": 40.841368,
+        "locationType": 0,
+        "lon": -73.92375,
+        "name": "PLIMPTON AV/W 170 ST",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103809",
+        "direction": "E",
+        "id": "MTA_103809",
+        "lat": 40.829736,
+        "locationType": 0,
+        "lon": -73.93051,
+        "name": "JEROME AV/E 161 ST",
+        "routeIds": [
+            "MTA NYCT_BX6",
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103910",
+        "direction": "W",
+        "id": "MTA_103910",
+        "lat": 40.824299,
+        "locationType": 0,
+        "lon": -73.909103,
+        "name": "E 163 ST/3 AV",
+        "routeIds": [
+            "MTA NYCT_BX6",
+            "MTA NYCT_BX6+",
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104073",
+        "direction": "E",
+        "id": "MTA_104073",
+        "lat": 40.840112,
+        "locationType": 0,
+        "lon": -73.92516,
+        "name": "W 169 ST/OGDEN AV",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104116",
+        "direction": "W",
+        "id": "MTA_104116",
+        "lat": 40.82569,
+        "locationType": 0,
+        "lon": -73.918605,
+        "name": "E 161 ST/MORRIS AV",
+        "routeIds": [
+            "MTA NYCT_BX6",
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104478",
+        "direction": "N",
+        "id": "MTA_104478",
+        "lat": 40.820631,
+        "locationType": 0,
+        "lon": -73.929494,
+        "name": "RIVER AV/E 150 ST",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104479",
+        "direction": "N",
+        "id": "MTA_104479",
+        "lat": 40.822541,
+        "locationType": 0,
+        "lon": -73.928776,
+        "name": "RIVER AV/E 151 ST",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104483",
+        "direction": "S",
+        "id": "MTA_104483",
+        "lat": 40.819692,
+        "locationType": 0,
+        "lon": -73.930046,
+        "name": "RIVER AV/E 149 ST",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104569",
+        "direction": "N",
+        "id": "MTA_104569",
+        "lat": 40.84396,
+        "locationType": 0,
+        "lon": -73.922796,
+        "name": "EDWARD L GRANT HWY/UNIVERSITY AV",
+        "routeIds": [
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13",
+            "MTA NYCT_BX35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403652",
+        "direction": "NW",
+        "id": "MTA_403652",
+        "lat": 40.848237,
+        "locationType": 0,
+        "lon": -73.931,
+        "name": "W 181 ST/AMSTERDAM AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13",
+            "MTA NYCT_BX35",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403653",
+        "direction": "NW",
+        "id": "MTA_403653",
+        "lat": 40.849311,
+        "locationType": 0,
+        "lon": -73.933514,
+        "name": "W 181 ST/SAINT NICHOLAS AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13",
+            "MTA NYCT_BX35",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403656",
+        "direction": "SE",
+        "id": "MTA_403656",
+        "lat": 40.849246,
+        "locationType": 0,
+        "lon": -73.933664,
+        "name": "W 181 ST/SAINT NICHOLAS AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13",
+            "MTA NYCT_BX35",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403658",
+        "direction": "SE",
+        "id": "MTA_403658",
+        "lat": 40.848163,
+        "locationType": 0,
+        "lon": -73.931184,
+        "name": "W 181 ST/AMSTERDAM AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13",
+            "MTA NYCT_BX35",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404324",
+        "direction": "SW",
+        "id": "MTA_404324",
+        "lat": 40.849738,
+        "locationType": 0,
+        "lon": -73.935135,
+        "name": "WADSWORTH AV/W 181 ST",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13",
+            "MTA NYCT_BX35",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404330",
+        "direction": "SE",
+        "id": "MTA_404330",
+        "lat": 40.849838,
+        "locationType": 0,
+        "lon": -73.935187,
+        "name": "W 181 ST/WADSWORTH AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "802031",
+        "direction": "W",
+        "id": "MTA_802031",
+        "lat": 40.848902,
+        "locationType": 0,
+        "lon": -73.936861,
+        "name": "179 ST/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "802088",
+        "direction": "E",
+        "id": "MTA_802088",
+        "lat": 40.826089,
+        "locationType": 0,
+        "lon": -73.920193,
+        "name": "E 161 ST/SHERMAN AV",
+        "routeIds": [
+            "MTA NYCT_BX6",
+            "MTA NYCT_BX6+",
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "802117",
+        "direction": "SW",
+        "id": "MTA_802117",
+        "lat": 40.827544,
+        "locationType": 0,
+        "lon": -73.926228,
+        "name": "E 161 ST/RIVER AV",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "802146",
+        "direction": "W",
+        "id": "MTA_802146",
+        "lat": 40.826349,
+        "locationType": 0,
+        "lon": -73.920714,
+        "name": "E 161 ST/SHERMAN AV",
+        "routeIds": [
+            "MTA NYCT_BX6",
+            "MTA NYCT_BX6+",
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "802149",
+        "direction": "SW",
+        "id": "MTA_802149",
+        "lat": 40.825928,
+        "locationType": 0,
+        "lon": -73.927088,
+        "name": "RIVER AV/E 157 ST",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "802150",
+        "direction": "S",
+        "id": "MTA_802150",
+        "lat": 40.822691,
+        "locationType": 0,
+        "lon": -73.928853,
+        "name": "RIVER AV/E 151 ST",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "802156",
+        "direction": "NE",
+        "id": "MTA_802156",
+        "lat": 40.825982,
+        "locationType": 0,
+        "lon": -73.926969,
+        "name": "RIVER AV/E 157 ST",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803011",
+        "direction": "W",
+        "id": "MTA_803011",
+        "lat": 40.848866,
+        "locationType": 0,
+        "lon": -73.936758,
+        "name": "W 179 ST/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "902102",
+        "direction": "E",
+        "id": "MTA_902102",
+        "lat": 40.824077,
+        "locationType": 0,
+        "lon": -73.908882,
+        "name": "E 163 ST/ 3 AV",
+        "routeIds": [
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

@@ -1,0 +1,216 @@
+[
+    {
+        "code": "301844",
+        "direction": "NW",
+        "id": "MTA_301844",
+        "lat": 40.706375,
+        "locationType": 0,
+        "lon": -73.92244,
+        "name": "WYCKOFF AV/STARR ST",
+        "routeIds": [
+            "MTA NYCT_L90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301860",
+        "direction": "W",
+        "id": "MTA_301860",
+        "lat": 40.714513,
+        "locationType": 0,
+        "lon": -73.944865,
+        "name": "METROPOLITAN AV/GRAHAM AV",
+        "routeIds": [
+            "MTA NYCT_B24",
+            "MTA NYCT_L90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301879",
+        "direction": "SE",
+        "id": "MTA_301879",
+        "lat": 40.704324,
+        "locationType": 0,
+        "lon": -73.91937,
+        "name": "WYCKOFF AV/DE KALB AV",
+        "routeIds": [
+            "MTA NYCT_B13",
+            "MTA NYCT_L90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302315",
+        "direction": "E",
+        "id": "MTA_302315",
+        "lat": 40.714022,
+        "locationType": 0,
+        "lon": -73.951176,
+        "name": "METROPOLITAN AV/UNION AV",
+        "routeIds": [
+            "MTA NYCT_B24",
+            "MTA NYCT_L90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302319",
+        "direction": "E",
+        "id": "MTA_302319",
+        "lat": 40.714457,
+        "locationType": 0,
+        "lon": -73.944476,
+        "name": "METROPOLITAN AV/GRAHAM AV",
+        "routeIds": [
+            "MTA NYCT_B24",
+            "MTA NYCT_L90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305001",
+        "direction": "E",
+        "id": "MTA_305001",
+        "lat": 40.706367,
+        "locationType": 0,
+        "lon": -73.931503,
+        "name": "HARRISON PL/MORGAN AV",
+        "routeIds": [
+            "MTA NYCT_B60",
+            "MTA NYCT_L90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305034",
+        "direction": "S",
+        "id": "MTA_305034",
+        "lat": 40.706038,
+        "locationType": 0,
+        "lon": -73.931875,
+        "name": "MORGAN AV/HARRISON PL",
+        "routeIds": [
+            "MTA NYCT_B60",
+            "MTA NYCT_L90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308289",
+        "direction": "N",
+        "id": "MTA_308289",
+        "lat": 40.70797,
+        "locationType": 0,
+        "lon": -73.939808,
+        "name": "BUSHWICK AV/MONTROSE AV",
+        "routeIds": [
+            "MTA NYCT_L90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308292",
+        "direction": "SE",
+        "id": "MTA_308292",
+        "lat": 40.711673,
+        "locationType": 0,
+        "lon": -73.940631,
+        "name": "BUSKWICK AV/GRAND ST",
+        "routeIds": [
+            "MTA NYCT_L90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308294",
+        "direction": "S",
+        "id": "MTA_308294",
+        "lat": 40.707388,
+        "locationType": 0,
+        "lon": -73.939878,
+        "name": "BUSHWICK AV/MONTROSE AV",
+        "routeIds": [
+            "MTA NYCT_L90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308527",
+        "direction": "SE",
+        "id": "MTA_308527",
+        "lat": 40.706018,
+        "locationType": 0,
+        "lon": -73.922072,
+        "name": "WYCKOFF AV/STARR ST",
+        "routeIds": [
+            "MTA NYCT_L90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801179",
+        "direction": "NW",
+        "id": "MTA_801179",
+        "lat": 40.712041,
+        "locationType": 0,
+        "lon": -73.940667,
+        "name": "BUSHWICK AV/GRAND ST",
+        "routeIds": [
+            "MTA NYCT_L90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901045",
+        "direction": "SW",
+        "id": "MTA_901045",
+        "lat": 40.700971,
+        "locationType": 0,
+        "lon": -73.910851,
+        "name": "GATES AV/WYCKOFF AV",
+        "routeIds": [
+            "MTA NYCT_L90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901620",
+        "direction": "W",
+        "id": "MTA_901620",
+        "lat": 40.71408,
+        "locationType": 0,
+        "lon": -73.949205,
+        "name": "METROPOLITAN AV/LORIMER ST",
+        "routeIds": [
+            "MTA NYCT_L90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901704",
+        "direction": "NW",
+        "id": "MTA_901704",
+        "lat": 40.700002,
+        "locationType": 0,
+        "lon": -73.91186,
+        "name": "WYCKOFF AV/GATES AV",
+        "routeIds": [
+            "MTA NYCT_L90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901705",
+        "direction": "NW",
+        "id": "MTA_901705",
+        "lat": 40.70428,
+        "locationType": 0,
+        "lon": -73.919113,
+        "name": "WYCKOFF AV/DEKALB AV",
+        "routeIds": [
+            "MTA NYCT_L90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

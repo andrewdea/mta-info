@@ -1,0 +1,740 @@
+[
+    {
+        "code": "100245",
+        "direction": "W",
+        "id": "MTA_100245",
+        "lat": 40.833603,
+        "locationType": 0,
+        "lon": -73.861155,
+        "name": "HUGH GRANT CIRCLE/CROSS BRONX EXPWY SERVICE RD",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX4A",
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100749",
+        "direction": "E",
+        "id": "MTA_100749",
+        "lat": 40.837093,
+        "locationType": 0,
+        "lon": -73.908229,
+        "name": "E 170 ST/CLAY AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100750",
+        "direction": "NE",
+        "id": "MTA_100750",
+        "lat": 40.838632,
+        "locationType": 0,
+        "lon": -73.906391,
+        "name": "CLAY AV/E 171 ST",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100751",
+        "direction": "E",
+        "id": "MTA_100751",
+        "lat": 40.839509,
+        "locationType": 0,
+        "lon": -73.904973,
+        "name": "CLAREMONT PKWY/WEBSTER AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100752",
+        "direction": "SE",
+        "id": "MTA_100752",
+        "lat": 40.838615,
+        "locationType": 0,
+        "lon": -73.902322,
+        "name": "CLAREMONT PKWY/WASHINGTON AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100753",
+        "direction": "SE",
+        "id": "MTA_100753",
+        "lat": 40.83809,
+        "locationType": 0,
+        "lon": -73.901107,
+        "name": "CLAREMONT PKWY/3 AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100754",
+        "direction": "E",
+        "id": "MTA_100754",
+        "lat": 40.836376,
+        "locationType": 0,
+        "lon": -73.898033,
+        "name": "CLAREMONT PKWY/CROTONA AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100762",
+        "direction": "NW",
+        "id": "MTA_100762",
+        "lat": 40.835389,
+        "locationType": 0,
+        "lon": -73.895119,
+        "name": "CLAREMONT PKWY/CROTONA PARK EAST",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100763",
+        "direction": "W",
+        "id": "MTA_100763",
+        "lat": 40.83654,
+        "locationType": 0,
+        "lon": -73.897614,
+        "name": "CLAREMONT PKWY/CROTONA AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100764",
+        "direction": "NW",
+        "id": "MTA_100764",
+        "lat": 40.83827,
+        "locationType": 0,
+        "lon": -73.901294,
+        "name": "CLAREMONT PKWY/3 AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100765",
+        "direction": "W",
+        "id": "MTA_100765",
+        "lat": 40.839093,
+        "locationType": 0,
+        "lon": -73.90299,
+        "name": "CLAREMONT PKWY/WASHINGTON AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100766",
+        "direction": "W",
+        "id": "MTA_100766",
+        "lat": 40.839795,
+        "locationType": 0,
+        "lon": -73.905146,
+        "name": "CLAREMONT PKWY/WEBSTER AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100768",
+        "direction": "W",
+        "id": "MTA_100768",
+        "lat": 40.836992,
+        "locationType": 0,
+        "lon": -73.909096,
+        "name": "E 170 ST/TELLER AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100769",
+        "direction": "NW",
+        "id": "MTA_100769",
+        "lat": 40.837677,
+        "locationType": 0,
+        "lon": -73.910947,
+        "name": "E 170 ST/COLLEGE AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100772",
+        "direction": "W",
+        "id": "MTA_100772",
+        "lat": 40.840227,
+        "locationType": 0,
+        "lon": -73.917484,
+        "name": "E 170 ST/JEROME AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101407",
+        "direction": "NE",
+        "id": "MTA_101407",
+        "lat": 40.835052,
+        "locationType": 0,
+        "lon": -73.893891,
+        "name": "BOSTON RD/LOUIS NINE BLVD",
+        "routeIds": [
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101408",
+        "direction": "E",
+        "id": "MTA_101408",
+        "lat": 40.83581,
+        "locationType": 0,
+        "lon": -73.890386,
+        "name": "BOSTON RD/SEABURY PL",
+        "routeIds": [
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101409",
+        "direction": "NE",
+        "id": "MTA_101409",
+        "lat": 40.837001,
+        "locationType": 0,
+        "lon": -73.8883,
+        "name": "BOSTON RD/SOUTHERN BLVD",
+        "routeIds": [
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101455",
+        "direction": "SW",
+        "id": "MTA_101455",
+        "lat": 40.837153,
+        "locationType": 0,
+        "lon": -73.888206,
+        "name": "BOSTON RD/SOUTHERN BLVD",
+        "routeIds": [
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101456",
+        "direction": "W",
+        "id": "MTA_101456",
+        "lat": 40.836022,
+        "locationType": 0,
+        "lon": -73.890378,
+        "name": "BOSTON RD/E 173 ST",
+        "routeIds": [
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102330",
+        "direction": "NW",
+        "id": "MTA_102330",
+        "lat": 40.840919,
+        "locationType": 0,
+        "lon": -73.921761,
+        "name": "EDWARD L GRANT HWY/JESUP AV",
+        "routeIds": [
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102386",
+        "direction": "E",
+        "id": "MTA_102386",
+        "lat": 40.835974,
+        "locationType": 0,
+        "lon": -73.883921,
+        "name": "E 174 ST/LONGFELLOW AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102387",
+        "direction": "E",
+        "id": "MTA_102387",
+        "lat": 40.834207,
+        "locationType": 0,
+        "lon": -73.87889,
+        "name": "E 174 ST/BRONX RIVER AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102388",
+        "direction": "E",
+        "id": "MTA_102388",
+        "lat": 40.833736,
+        "locationType": 0,
+        "lon": -73.877073,
+        "name": "E 174 ST/MANOR AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102389",
+        "direction": "E",
+        "id": "MTA_102389",
+        "lat": 40.83403,
+        "locationType": 0,
+        "lon": -73.874857,
+        "name": "E 174 ST/HARROD AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102390",
+        "direction": "E",
+        "id": "MTA_102390",
+        "lat": 40.834384,
+        "locationType": 0,
+        "lon": -73.872323,
+        "name": "E 174 ST/FTELEY AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102391",
+        "direction": "N",
+        "id": "MTA_102391",
+        "lat": 40.834851,
+        "locationType": 0,
+        "lon": -73.8699,
+        "name": "ROSEDALE AV/E 174 ST",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102423",
+        "direction": "W",
+        "id": "MTA_102423",
+        "lat": 40.834886,
+        "locationType": 0,
+        "lon": -73.867895,
+        "name": "E 174 ST/ST LAWRENCE AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102425",
+        "direction": "W",
+        "id": "MTA_102425",
+        "lat": 40.834532,
+        "locationType": 0,
+        "lon": -73.872247,
+        "name": "E 174 ST/CROES AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102426",
+        "direction": "W",
+        "id": "MTA_102426",
+        "lat": 40.834143,
+        "locationType": 0,
+        "lon": -73.875226,
+        "name": "E 174 ST/HARROD AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102427",
+        "direction": "W",
+        "id": "MTA_102427",
+        "lat": 40.833862,
+        "locationType": 0,
+        "lon": -73.877286,
+        "name": "E 174 ST/MANOR AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102428",
+        "direction": "W",
+        "id": "MTA_102428",
+        "lat": 40.834405,
+        "locationType": 0,
+        "lon": -73.879023,
+        "name": "E 174 ST/BRONX RIVER AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102429",
+        "direction": "W",
+        "id": "MTA_102429",
+        "lat": 40.8361,
+        "locationType": 0,
+        "lon": -73.883783,
+        "name": "E 174 ST/BOONE AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102994",
+        "direction": "E",
+        "id": "MTA_102994",
+        "lat": 40.838701,
+        "locationType": 0,
+        "lon": -73.91415,
+        "name": "E 170 ST/GRAND CONCOURSE",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103435",
+        "direction": "SE",
+        "id": "MTA_103435",
+        "lat": 40.837634,
+        "locationType": 0,
+        "lon": -73.91098,
+        "name": "E 170 ST/MORRIS AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103776",
+        "direction": "SW",
+        "id": "MTA_103776",
+        "lat": 40.838772,
+        "locationType": 0,
+        "lon": -73.906478,
+        "name": "CLAY AV/E 171 ST",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103900",
+        "direction": "E",
+        "id": "MTA_103900",
+        "lat": 40.834919,
+        "locationType": 0,
+        "lon": -73.867288,
+        "name": "CROSS BRONX EXPWY SERVICE RD SOUTH/BEACH AV",
+        "routeIds": [
+            "MTA NYCT_BX11",
+            "MTA NYCT_Q44+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103924",
+        "direction": "S",
+        "id": "MTA_103924",
+        "lat": 40.843774,
+        "locationType": 0,
+        "lon": -73.923082,
+        "name": "EDWARD L GRANT HWY/UNIVERSITY AV",
+        "routeIds": [
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103951",
+        "direction": "W",
+        "id": "MTA_103951",
+        "lat": 40.83896,
+        "locationType": 0,
+        "lon": -73.914011,
+        "name": "E 170 ST/GRAND CONCOURSE",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104276",
+        "direction": "W",
+        "id": "MTA_104276",
+        "lat": 40.836618,
+        "locationType": 0,
+        "lon": -73.885269,
+        "name": "E 174 ST/BRYANT AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104292",
+        "direction": "E",
+        "id": "MTA_104292",
+        "lat": 40.836456,
+        "locationType": 0,
+        "lon": -73.88525,
+        "name": "E 174 ST/ BRYANT AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104569",
+        "direction": "N",
+        "id": "MTA_104569",
+        "lat": 40.84396,
+        "locationType": 0,
+        "lon": -73.922796,
+        "name": "EDWARD L GRANT HWY/UNIVERSITY AV",
+        "routeIds": [
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13",
+            "MTA NYCT_BX35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403652",
+        "direction": "NW",
+        "id": "MTA_403652",
+        "lat": 40.848237,
+        "locationType": 0,
+        "lon": -73.931,
+        "name": "W 181 ST/AMSTERDAM AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13",
+            "MTA NYCT_BX35",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403653",
+        "direction": "NW",
+        "id": "MTA_403653",
+        "lat": 40.849311,
+        "locationType": 0,
+        "lon": -73.933514,
+        "name": "W 181 ST/SAINT NICHOLAS AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13",
+            "MTA NYCT_BX35",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403656",
+        "direction": "SE",
+        "id": "MTA_403656",
+        "lat": 40.849246,
+        "locationType": 0,
+        "lon": -73.933664,
+        "name": "W 181 ST/SAINT NICHOLAS AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13",
+            "MTA NYCT_BX35",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403658",
+        "direction": "SE",
+        "id": "MTA_403658",
+        "lat": 40.848163,
+        "locationType": 0,
+        "lon": -73.931184,
+        "name": "W 181 ST/AMSTERDAM AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13",
+            "MTA NYCT_BX35",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403670",
+        "direction": "W",
+        "id": "MTA_403670",
+        "lat": 40.849167,
+        "locationType": 0,
+        "lon": -73.937993,
+        "name": "W 179 ST/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX36",
+            "MTA NYCT_M98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404324",
+        "direction": "SW",
+        "id": "MTA_404324",
+        "lat": 40.849738,
+        "locationType": 0,
+        "lon": -73.935135,
+        "name": "WADSWORTH AV/W 181 ST",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13",
+            "MTA NYCT_BX35",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404330",
+        "direction": "SE",
+        "id": "MTA_404330",
+        "lat": 40.849838,
+        "locationType": 0,
+        "lon": -73.935187,
+        "name": "W 181 ST/WADSWORTH AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "802137",
+        "direction": "NE",
+        "id": "MTA_802137",
+        "lat": 40.832718,
+        "locationType": 0,
+        "lon": -73.860488,
+        "name": "HUGH GRANT CIRCLE/CROSS BRONX EXPWY SERVICE RD",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "802179",
+        "direction": "E",
+        "id": "MTA_802179",
+        "lat": 40.840258,
+        "locationType": 0,
+        "lon": -73.921174,
+        "name": "W 170 ST/EDWARD L GRANT HWY",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "802189",
+        "direction": "E",
+        "id": "MTA_802189",
+        "lat": 40.840375,
+        "locationType": 0,
+        "lon": -73.918194,
+        "name": "W 170 ST/PLAZA DR",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "902015",
+        "direction": "E",
+        "id": "MTA_902015",
+        "lat": 40.832913,
+        "locationType": 0,
+        "lon": -73.861664,
+        "name": "WESTCHESTER AV/VIRGINIA AV",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903274",
+        "direction": "NE",
+        "id": "MTA_903274",
+        "lat": 40.848852,
+        "locationType": 0,
+        "lon": -73.937108,
+        "name": "BROADWAY/W 179 ST",
+        "routeIds": [
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

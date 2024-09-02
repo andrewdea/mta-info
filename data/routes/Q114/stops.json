@@ -1,0 +1,1593 @@
+[
+    {
+        "code": "500249",
+        "direction": "E",
+        "id": "MTA_500249",
+        "lat": 40.707594,
+        "locationType": 0,
+        "lon": -73.802927,
+        "name": "HILLSIDE AV/PARSONS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q43",
+            "MTABC_Q111",
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503166",
+        "direction": "NW",
+        "id": "MTA_503166",
+        "lat": 40.705487,
+        "locationType": 0,
+        "lon": -73.803627,
+        "name": "153 ST/89 AV",
+        "routeIds": [
+            "MTA NYCT_Q83",
+            "MTABC_Q110",
+            "MTABC_Q111",
+            "MTABC_Q112",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503169",
+        "direction": "NW",
+        "id": "MTA_503169",
+        "lat": 40.707123,
+        "locationType": 0,
+        "lon": -73.804385,
+        "name": "153 ST/HILLSIDE AV",
+        "routeIds": [
+            "MTA NYCT_Q83",
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503789",
+        "direction": "NW",
+        "id": "MTA_503789",
+        "lat": 40.702998,
+        "locationType": 0,
+        "lon": -73.802273,
+        "name": "153 ST /JAMAICA AV",
+        "routeIds": [
+            "MTABC_Q110",
+            "MTABC_Q111",
+            "MTABC_Q112",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505264",
+        "direction": "W",
+        "id": "MTA_505264",
+        "lat": 40.702735,
+        "locationType": 0,
+        "lon": -73.798748,
+        "name": "ARCHER AV/160 ST",
+        "routeIds": [
+            "MTA NYCT_Q85",
+            "MTABC_Q111",
+            "MTABC_Q112",
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550818",
+        "direction": "E",
+        "id": "MTA_550818",
+        "lat": 40.595047,
+        "locationType": 0,
+        "lon": -73.755819,
+        "name": "SEAGIRT BLVD/CREST RD",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_Q113",
+            "MTABC_Q114",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552314",
+        "direction": "N",
+        "id": "MTA_552314",
+        "lat": 40.661671,
+        "locationType": 0,
+        "lon": -73.768076,
+        "name": "GUY R BREWER BLVD/146 DR",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552315",
+        "direction": "N",
+        "id": "MTA_552315",
+        "lat": 40.66397,
+        "locationType": 0,
+        "lon": -73.768465,
+        "name": "GUY R BREWER BLVD/FARMERS BLVD",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552316",
+        "direction": "NW",
+        "id": "MTA_552316",
+        "lat": 40.666407,
+        "locationType": 0,
+        "lon": -73.770211,
+        "name": "GUY R BREWER BLVD/145 RD",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552317",
+        "direction": "SE",
+        "id": "MTA_552317",
+        "lat": 40.665786,
+        "locationType": 0,
+        "lon": -73.769981,
+        "name": "GUY R BREWER BLVD/145 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552318",
+        "direction": "NW",
+        "id": "MTA_552318",
+        "lat": 40.669369,
+        "locationType": 0,
+        "lon": -73.772492,
+        "name": "GUY R BREWER BLVD/144 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552319",
+        "direction": "SE",
+        "id": "MTA_552319",
+        "lat": 40.668729,
+        "locationType": 0,
+        "lon": -73.772236,
+        "name": "GUY R BREWER BLVD/144 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552320",
+        "direction": "NW",
+        "id": "MTA_552320",
+        "lat": 40.670904,
+        "locationType": 0,
+        "lon": -73.773689,
+        "name": "GUY R BREWER BLVD/140 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552321",
+        "direction": "SE",
+        "id": "MTA_552321",
+        "lat": 40.670563,
+        "locationType": 0,
+        "lon": -73.773654,
+        "name": "GUY R BREWER BLVD/140 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552322",
+        "direction": "NW",
+        "id": "MTA_552322",
+        "lat": 40.672192,
+        "locationType": 0,
+        "lon": -73.774503,
+        "name": "GUY R BREWER BLVD/137 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q113",
+            "MTABC_Q114",
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552323",
+        "direction": "SE",
+        "id": "MTA_552323",
+        "lat": 40.671623,
+        "locationType": 0,
+        "lon": -73.774489,
+        "name": "GUY R BREWER BLVD/137 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552324",
+        "direction": "NW",
+        "id": "MTA_552324",
+        "lat": 40.673635,
+        "locationType": 0,
+        "lon": -73.775642,
+        "name": "GUY R BREWER BLVD/134 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552325",
+        "direction": "SE",
+        "id": "MTA_552325",
+        "lat": 40.673241,
+        "locationType": 0,
+        "lon": -73.775745,
+        "name": "GUY R BREWER BLVD/134 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552326",
+        "direction": "NW",
+        "id": "MTA_552326",
+        "lat": 40.674639,
+        "locationType": 0,
+        "lon": -73.776418,
+        "name": "GUY R BREWER BLVD/132 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552327",
+        "direction": "SE",
+        "id": "MTA_552327",
+        "lat": 40.674399,
+        "locationType": 0,
+        "lon": -73.776615,
+        "name": "GUY R BREWER BLVD/132 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552328",
+        "direction": "NW",
+        "id": "MTA_552328",
+        "lat": 40.676756,
+        "locationType": 0,
+        "lon": -73.778004,
+        "name": "GUY R BREWER BLVD/130 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114",
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552329",
+        "direction": "SE",
+        "id": "MTA_552329",
+        "lat": 40.67644,
+        "locationType": 0,
+        "lon": -73.778158,
+        "name": "GUY R BREWER BLVD/130 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552330",
+        "direction": "NW",
+        "id": "MTA_552330",
+        "lat": 40.678566,
+        "locationType": 0,
+        "lon": -73.77953,
+        "name": "GUY R BREWER BLVD/BAISLEY BLVD",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552331",
+        "direction": "S",
+        "id": "MTA_552331",
+        "lat": 40.678201,
+        "locationType": 0,
+        "lon": -73.779494,
+        "name": "GUY R BREWER BLVD/BAISLEY BLVD",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552332",
+        "direction": "NW",
+        "id": "MTA_552332",
+        "lat": 40.681129,
+        "locationType": 0,
+        "lon": -73.781048,
+        "name": "GUY R BREWER BLVD/120 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552333",
+        "direction": "SE",
+        "id": "MTA_552333",
+        "lat": 40.680391,
+        "locationType": 0,
+        "lon": -73.780835,
+        "name": "GUY R BREWER BLVD/120 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552334",
+        "direction": "NW",
+        "id": "MTA_552334",
+        "lat": 40.682754,
+        "locationType": 0,
+        "lon": -73.782011,
+        "name": "GUY R BREWER BLVD/119 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552335",
+        "direction": "SE",
+        "id": "MTA_552335",
+        "lat": 40.682272,
+        "locationType": 0,
+        "lon": -73.781929,
+        "name": "GUY R BREWER BLVD/119 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552336",
+        "direction": "NW",
+        "id": "MTA_552336",
+        "lat": 40.684467,
+        "locationType": 0,
+        "lon": -73.783005,
+        "name": "GUY R BREWER BLVD/FOCH BLVD",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q113",
+            "MTABC_Q114",
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552337",
+        "direction": "SE",
+        "id": "MTA_552337",
+        "lat": 40.684143,
+        "locationType": 0,
+        "lon": -73.783031,
+        "name": "GUY R BREWER BLVD/FOCH BLVD",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q113",
+            "MTABC_Q114",
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552338",
+        "direction": "NW",
+        "id": "MTA_552338",
+        "lat": 40.686835,
+        "locationType": 0,
+        "lon": -73.784402,
+        "name": "GUY R BREWER BLVD/116 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552339",
+        "direction": "SE",
+        "id": "MTA_552339",
+        "lat": 40.686256,
+        "locationType": 0,
+        "lon": -73.784284,
+        "name": "GUY R BREWER BLVD/116 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552340",
+        "direction": "NW",
+        "id": "MTA_552340",
+        "lat": 40.687713,
+        "locationType": 0,
+        "lon": -73.784932,
+        "name": "GUY R BREWER BLVD/115 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552341",
+        "direction": "SE",
+        "id": "MTA_552341",
+        "lat": 40.687577,
+        "locationType": 0,
+        "lon": -73.785057,
+        "name": "GUY R BREWER BLVD/115 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552342",
+        "direction": "NW",
+        "id": "MTA_552342",
+        "lat": 40.689516,
+        "locationType": 0,
+        "lon": -73.785983,
+        "name": "GUY R BREWER BLVD/SAYRES AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552343",
+        "direction": "NW",
+        "id": "MTA_552343",
+        "lat": 40.691007,
+        "locationType": 0,
+        "lon": -73.787054,
+        "name": "GUY R BREWER BLVD/MATHIAS AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552344",
+        "direction": "NW",
+        "id": "MTA_552344",
+        "lat": 40.692561,
+        "locationType": 0,
+        "lon": -73.788188,
+        "name": "GUY R BREWER BLVD/110 RD",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552345",
+        "direction": "NW",
+        "id": "MTA_552345",
+        "lat": 40.693588,
+        "locationType": 0,
+        "lon": -73.788932,
+        "name": "GUY R BREWER BLVD/BRINKERHOFF AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552346",
+        "direction": "SE",
+        "id": "MTA_552346",
+        "lat": 40.693265,
+        "locationType": 0,
+        "lon": -73.788925,
+        "name": "GUY R BREWER BLVD/BRINKERHOFF AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552347",
+        "direction": "NW",
+        "id": "MTA_552347",
+        "lat": 40.695166,
+        "locationType": 0,
+        "lon": -73.790091,
+        "name": "GUY R BREWER BLVD/109 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552348",
+        "direction": "SE",
+        "id": "MTA_552348",
+        "lat": 40.694833,
+        "locationType": 0,
+        "lon": -73.790073,
+        "name": "GUY R BREWER BLVD/109 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552349",
+        "direction": "NW",
+        "id": "MTA_552349",
+        "lat": 40.696772,
+        "locationType": 0,
+        "lon": -73.791257,
+        "name": "GUY R BREWER BLVD/108 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552350",
+        "direction": "SE",
+        "id": "MTA_552350",
+        "lat": 40.696434,
+        "locationType": 0,
+        "lon": -73.791232,
+        "name": "GUY R BREWER BLVD/108 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552351",
+        "direction": "NW",
+        "id": "MTA_552351",
+        "lat": 40.69834,
+        "locationType": 0,
+        "lon": -73.792423,
+        "name": "GUY R BREWER BLVD/107 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552352",
+        "direction": "SE",
+        "id": "MTA_552352",
+        "lat": 40.698007,
+        "locationType": 0,
+        "lon": -73.792411,
+        "name": "GUY R BREWER BLVD/107 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552353",
+        "direction": "NW",
+        "id": "MTA_552353",
+        "lat": 40.699961,
+        "locationType": 0,
+        "lon": -73.793621,
+        "name": "GUY R BREWER BLVD/TUSKEGEE AIRMEN WAY",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q112",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552354",
+        "direction": "SE",
+        "id": "MTA_552354",
+        "lat": 40.699599,
+        "locationType": 0,
+        "lon": -73.79359,
+        "name": "GUY R BREWER BLVD/TUSKEGEE AIRMEN WAY",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552355",
+        "direction": "NW",
+        "id": "MTA_552355",
+        "lat": 40.700927,
+        "locationType": 0,
+        "lon": -73.794296,
+        "name": "GUY R BREWER BLVD/LIBERTY AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q112",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552357",
+        "direction": "NW",
+        "id": "MTA_552357",
+        "lat": 40.703193,
+        "locationType": 0,
+        "lon": -73.795858,
+        "name": "GUY R BREWER BLVD/ARCHER AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q112",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552358",
+        "direction": "SE",
+        "id": "MTA_552358",
+        "lat": 40.703099,
+        "locationType": 0,
+        "lon": -73.796108,
+        "name": "GUY R BREWER BLVD/ARCHER AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q112",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552365",
+        "direction": "SE",
+        "id": "MTA_552365",
+        "lat": 40.706429,
+        "locationType": 0,
+        "lon": -73.802242,
+        "name": "PARSONS BLVD/88 AV",
+        "routeIds": [
+            "MTABC_Q65",
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552366",
+        "direction": "SE",
+        "id": "MTA_552366",
+        "lat": 40.691282,
+        "locationType": 0,
+        "lon": -73.787476,
+        "name": "GUY R BREWER BLVD/CLAUDE AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552367",
+        "direction": "SE",
+        "id": "MTA_552367",
+        "lat": 40.688753,
+        "locationType": 0,
+        "lon": -73.785751,
+        "name": "GUY R BREWER BLVD/LINDEN BLVD",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552368",
+        "direction": "SE",
+        "id": "MTA_552368",
+        "lat": 40.66411,
+        "locationType": 0,
+        "lon": -73.768713,
+        "name": "GUY R BREWER BLVD/FARMERS BLVD",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552369",
+        "direction": "S",
+        "id": "MTA_552369",
+        "lat": 40.66187,
+        "locationType": 0,
+        "lon": -73.768293,
+        "name": "GUY R BREWER BLVD/146 DR",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552409",
+        "direction": "E",
+        "id": "MTA_552409",
+        "lat": 40.702662,
+        "locationType": 0,
+        "lon": -73.798481,
+        "name": "ARCHER AV/160 ST",
+        "routeIds": [
+            "MTA NYCT_Q24",
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552426",
+        "direction": "E",
+        "id": "MTA_552426",
+        "lat": 40.594979,
+        "locationType": 0,
+        "lon": -73.75329,
+        "name": "SEAGIRT BLVD/BEACH 19 ST",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552427",
+        "direction": "E",
+        "id": "MTA_552427",
+        "lat": 40.59498,
+        "locationType": 0,
+        "lon": -73.751338,
+        "name": "SEAGIRT BLVD/BEACH 17 ST",
+        "routeIds": [
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552429",
+        "direction": "E",
+        "id": "MTA_552429",
+        "lat": 40.59602,
+        "locationType": 0,
+        "lon": -73.744171,
+        "name": "SEAGIRT AV/BEACH 9 ST",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552431",
+        "direction": "N",
+        "id": "MTA_552431",
+        "lat": 40.598078,
+        "locationType": 0,
+        "lon": -73.744491,
+        "name": "BEACH 9 ST /JARVIS AV",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552432",
+        "direction": "N",
+        "id": "MTA_552432",
+        "lat": 40.599271,
+        "locationType": 0,
+        "lon": -73.74473,
+        "name": "BEACH 9 ST /LANETT AV",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552433",
+        "direction": "N",
+        "id": "MTA_552433",
+        "lat": 40.601927,
+        "locationType": 0,
+        "lon": -73.745296,
+        "name": "BEACH 9 ST /CAFFERY AV",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552434",
+        "direction": "W",
+        "id": "MTA_552434",
+        "lat": 40.595319,
+        "locationType": 0,
+        "lon": -73.751469,
+        "name": "SEAGIRT BLVD/BEACH 17 ST",
+        "routeIds": [
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552435",
+        "direction": "W",
+        "id": "MTA_552435",
+        "lat": 40.595446,
+        "locationType": 0,
+        "lon": -73.748441,
+        "name": "SEAGIRT BLVD/BEACH 14 ST",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552436",
+        "direction": "S",
+        "id": "MTA_552436",
+        "lat": 40.596748,
+        "locationType": 0,
+        "lon": -73.74434,
+        "name": "BEACH 9 ST /SEAGIRT BLVD",
+        "routeIds": [
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552437",
+        "direction": "S",
+        "id": "MTA_552437",
+        "lat": 40.601823,
+        "locationType": 0,
+        "lon": -73.745471,
+        "name": "BEACH 9 ST /CAFFERY AV",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552439",
+        "direction": "S",
+        "id": "MTA_552439",
+        "lat": 40.603245,
+        "locationType": 0,
+        "lon": -73.745835,
+        "name": "BEACH 9 ST /CORNAGA AV",
+        "routeIds": [
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552440",
+        "direction": "W",
+        "id": "MTA_552440",
+        "lat": 40.603393,
+        "locationType": 0,
+        "lon": -73.746378,
+        "name": "CORNAGA AV /ROSE ST",
+        "routeIds": [
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552441",
+        "direction": "W",
+        "id": "MTA_552441",
+        "lat": 40.60311,
+        "locationType": 0,
+        "lon": -73.74778,
+        "name": "CORNAGA AV /NEILSON ST",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552442",
+        "direction": "W",
+        "id": "MTA_552442",
+        "lat": 40.60269,
+        "locationType": 0,
+        "lon": -73.749702,
+        "name": "CORNAGA AV /MOTT AV",
+        "routeIds": [
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552443",
+        "direction": "E",
+        "id": "MTA_552443",
+        "lat": 40.602666,
+        "locationType": 0,
+        "lon": -73.749209,
+        "name": "CORNAGA AV /MOTT AV",
+        "routeIds": [
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552445",
+        "direction": "NW",
+        "id": "MTA_552445",
+        "lat": 40.60427,
+        "locationType": 0,
+        "lon": -73.752724,
+        "name": "MOTT AV /CENTRAL AV",
+        "routeIds": [
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552446",
+        "direction": "NW",
+        "id": "MTA_552446",
+        "lat": 40.605156,
+        "locationType": 0,
+        "lon": -73.75459,
+        "name": "MOTT AV /REDFERN AV",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552448",
+        "direction": "N",
+        "id": "MTA_552448",
+        "lat": 40.608053,
+        "locationType": 0,
+        "lon": -73.754054,
+        "name": "BEACH CHANNEL DR /NAMEOKE ST",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552449",
+        "direction": "N",
+        "id": "MTA_552449",
+        "lat": 40.609692,
+        "locationType": 0,
+        "lon": -73.753579,
+        "name": "BEACH CHANNEL DR /HASSOCK ST",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552450",
+        "direction": "S",
+        "id": "MTA_552450",
+        "lat": 40.609636,
+        "locationType": 0,
+        "lon": -73.75378,
+        "name": "BEACH CHANNEL DR /HASSOCK ST",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552451",
+        "direction": "N",
+        "id": "MTA_552451",
+        "lat": 40.612179,
+        "locationType": 0,
+        "lon": -73.753057,
+        "name": "SHERIDAN BLVD/CARVEL PL",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552452",
+        "direction": "S",
+        "id": "MTA_552452",
+        "lat": 40.612195,
+        "locationType": 0,
+        "lon": -73.753258,
+        "name": "SHERIDAN BLVD/CARVEL PL",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552453",
+        "direction": "E",
+        "id": "MTA_552453",
+        "lat": 40.614414,
+        "locationType": 0,
+        "lon": -73.752467,
+        "name": "BAYVIEW AV /SHERIDAN BLVD",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552454",
+        "direction": "E",
+        "id": "MTA_552454",
+        "lat": 40.614105,
+        "locationType": 0,
+        "lon": -73.750698,
+        "name": "BAYVIEW AV /ST. GEORGE PL",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552455",
+        "direction": "E",
+        "id": "MTA_552455",
+        "lat": 40.613862,
+        "locationType": 0,
+        "lon": -73.748571,
+        "name": "BAYVIEW AV /MONROE ST",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552456",
+        "direction": "E",
+        "id": "MTA_552456",
+        "lat": 40.613919,
+        "locationType": 0,
+        "lon": -73.746119,
+        "name": "BAYVIEW AV /DOUGHTY BLVD",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552457",
+        "direction": "W",
+        "id": "MTA_552457",
+        "lat": 40.614053,
+        "locationType": 0,
+        "lon": -73.746301,
+        "name": "BAYVIEW AV /DOUGHTY BLVD",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552463",
+        "direction": "E",
+        "id": "MTA_552463",
+        "lat": 40.618313,
+        "locationType": 0,
+        "lon": -73.7371,
+        "name": "MOTT AV /LAWRENCE AV",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552464",
+        "direction": "W",
+        "id": "MTA_552464",
+        "lat": 40.618445,
+        "locationType": 0,
+        "lon": -73.737178,
+        "name": "MOTT AV /LAWRENCE AV",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552465",
+        "direction": "E",
+        "id": "MTA_552465",
+        "lat": 40.61868,
+        "locationType": 0,
+        "lon": -73.734946,
+        "name": "MOTT AV /ALLEN ST",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552466",
+        "direction": "E",
+        "id": "MTA_552466",
+        "lat": 40.61947,
+        "locationType": 0,
+        "lon": -73.732359,
+        "name": "MOTT AV /ROCKAWAY TPKE",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552467",
+        "direction": "W",
+        "id": "MTA_552467",
+        "lat": 40.619561,
+        "locationType": 0,
+        "lon": -73.732591,
+        "name": "MOTT AV /ROCKAWAY TPKE",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552468",
+        "direction": "NW",
+        "id": "MTA_552468",
+        "lat": 40.621059,
+        "locationType": 0,
+        "lon": -73.733141,
+        "name": "ROCKAWAY TPKE /PACIFIC ST",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552469",
+        "direction": "NW",
+        "id": "MTA_552469",
+        "lat": 40.622525,
+        "locationType": 0,
+        "lon": -73.734061,
+        "name": "ROCKAWAY TPKE /LIVINGSTON PL",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552470",
+        "direction": "NW",
+        "id": "MTA_552470",
+        "lat": 40.6238,
+        "locationType": 0,
+        "lon": -73.734838,
+        "name": "ROCKAWAY TPKE /W BROADWAY",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552471",
+        "direction": "N",
+        "id": "MTA_552471",
+        "lat": 40.626612,
+        "locationType": 0,
+        "lon": -73.736404,
+        "name": "ROCKAWAY TPKE/RUGBY RD",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552472",
+        "direction": "N",
+        "id": "MTA_552472",
+        "lat": 40.628405,
+        "locationType": 0,
+        "lon": -73.73711,
+        "name": "ROCKAWAY TPKE/PENINSULA BLVD",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552473",
+        "direction": "S",
+        "id": "MTA_552473",
+        "lat": 40.628244,
+        "locationType": 0,
+        "lon": -73.737261,
+        "name": "ROCKAWAY TPKE/PENINSULA BLVD",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552474",
+        "direction": "NW",
+        "id": "MTA_552474",
+        "lat": 40.63196,
+        "locationType": 0,
+        "lon": -73.738485,
+        "name": "ROCKAWAY TPKE/REYEM DR",
+        "routeIds": [
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552475",
+        "direction": "NW",
+        "id": "MTA_552475",
+        "lat": 40.637483,
+        "locationType": 0,
+        "lon": -73.740657,
+        "name": "ROCKAWAY TPKE/5 TOWNS SHOPPING CENTER",
+        "routeIds": [
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552476",
+        "direction": "NW",
+        "id": "MTA_552476",
+        "lat": 40.640631,
+        "locationType": 0,
+        "lon": -73.743119,
+        "name": "ROCKAWAY TPKE/BROOKVILLE BLVD",
+        "routeIds": [
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552481",
+        "direction": "SE",
+        "id": "MTA_552481",
+        "lat": 40.639732,
+        "locationType": 0,
+        "lon": -73.742669,
+        "name": "ROCKAWAY BLVD/BROOKVILLE BLVD",
+        "routeIds": [
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552482",
+        "direction": "S",
+        "id": "MTA_552482",
+        "lat": 40.635897,
+        "locationType": 0,
+        "lon": -73.740393,
+        "name": "ROCKAWAY TPKE/MEYER AV",
+        "routeIds": [
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552483",
+        "direction": "S",
+        "id": "MTA_552483",
+        "lat": 40.632068,
+        "locationType": 0,
+        "lon": -73.738916,
+        "name": "ROCKAWAY TPKE/COSTCO",
+        "routeIds": [
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552484",
+        "direction": "SE",
+        "id": "MTA_552484",
+        "lat": 40.625347,
+        "locationType": 0,
+        "lon": -73.736053,
+        "name": "ROCKAWAY TPKE/BUENA VISTA AV",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552485",
+        "direction": "SE",
+        "id": "MTA_552485",
+        "lat": 40.624029,
+        "locationType": 0,
+        "lon": -73.735201,
+        "name": "ROCKAWAY TPKE /BURNSIDE AV",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552486",
+        "direction": "SE",
+        "id": "MTA_552486",
+        "lat": 40.622421,
+        "locationType": 0,
+        "lon": -73.734206,
+        "name": "ROCKAWAY TPKE/PEARL ST",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552487",
+        "direction": "SE",
+        "id": "MTA_552487",
+        "lat": 40.620697,
+        "locationType": 0,
+        "lon": -73.733131,
+        "name": "ROCKAWAY TPKE/PACIFIC AV",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552488",
+        "direction": "W",
+        "id": "MTA_552488",
+        "lat": 40.618757,
+        "locationType": 0,
+        "lon": -73.735228,
+        "name": "MOTT AV /BERNARD ST",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552495",
+        "direction": "W",
+        "id": "MTA_552495",
+        "lat": 40.61406,
+        "locationType": 0,
+        "lon": -73.749391,
+        "name": "BAYVIEW AV/JEANETTE AV",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552496",
+        "direction": "S",
+        "id": "MTA_552496",
+        "lat": 40.614363,
+        "locationType": 0,
+        "lon": -73.752793,
+        "name": "SHERIDAN BLVD/BAYVIEW AV",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552500",
+        "direction": "SE",
+        "id": "MTA_552500",
+        "lat": 40.60406,
+        "locationType": 0,
+        "lon": -73.752675,
+        "name": "MOTT AV /BEACH 20 ST",
+        "routeIds": [
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552501",
+        "direction": "S",
+        "id": "MTA_552501",
+        "lat": 40.598012,
+        "locationType": 0,
+        "lon": -73.744666,
+        "name": "BEACH 9 ST /MEEHAM AV",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552502",
+        "direction": "W",
+        "id": "MTA_552502",
+        "lat": 40.595383,
+        "locationType": 0,
+        "lon": -73.754744,
+        "name": "SEAGIRT BLVD/BEACH 20 ST",
+        "routeIds": [
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553233",
+        "direction": "N",
+        "id": "MTA_553233",
+        "lat": 40.660206,
+        "locationType": 0,
+        "lon": -73.767839,
+        "name": "GUY R BREWER BLVD/47 AV",
+        "routeIds": [
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553234",
+        "direction": "S",
+        "id": "MTA_553234",
+        "lat": 40.660252,
+        "locationType": 0,
+        "lon": -73.768027,
+        "name": "GUY R BREWER BLVD/147 AV",
+        "routeIds": [
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553272",
+        "direction": "S",
+        "id": "MTA_553272",
+        "lat": 40.608269,
+        "locationType": 0,
+        "lon": -73.754172,
+        "name": "BEACH CHANNEL DR/NAMEOKE ST",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553449",
+        "direction": "SE",
+        "id": "MTA_553449",
+        "lat": 40.604781,
+        "locationType": 0,
+        "lon": -73.754069,
+        "name": "MOTT AV/BEACH 22 ST",
+        "routeIds": [
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

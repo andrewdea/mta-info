@@ -1,0 +1,891 @@
+[
+    {
+        "code": "503166",
+        "direction": "NW",
+        "id": "MTA_503166",
+        "lat": 40.705487,
+        "locationType": 0,
+        "lon": -73.803627,
+        "name": "153 ST/89 AV",
+        "routeIds": [
+            "MTA NYCT_Q83",
+            "MTABC_Q110",
+            "MTABC_Q111",
+            "MTABC_Q112",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503789",
+        "direction": "NW",
+        "id": "MTA_503789",
+        "lat": 40.702998,
+        "locationType": 0,
+        "lon": -73.802273,
+        "name": "153 ST /JAMAICA AV",
+        "routeIds": [
+            "MTABC_Q110",
+            "MTABC_Q111",
+            "MTABC_Q112",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505264",
+        "direction": "W",
+        "id": "MTA_505264",
+        "lat": 40.702735,
+        "locationType": 0,
+        "lon": -73.798748,
+        "name": "ARCHER AV/160 ST",
+        "routeIds": [
+            "MTA NYCT_Q85",
+            "MTABC_Q111",
+            "MTABC_Q112",
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550137",
+        "direction": "W",
+        "id": "MTA_550137",
+        "lat": 40.680473,
+        "locationType": 0,
+        "lon": -73.842372,
+        "name": "ROCKAWAY BLVD /LIBERTY AV",
+        "routeIds": [
+            "MTABC_Q07",
+            "MTABC_Q41",
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550229",
+        "direction": "E",
+        "id": "MTA_550229",
+        "lat": 40.691734,
+        "locationType": 0,
+        "lon": -73.81117,
+        "name": "LIBERTY AV /VAN WYCK EXPWY",
+        "routeIds": [
+            "MTABC_Q09",
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550230",
+        "direction": "E",
+        "id": "MTA_550230",
+        "lat": 40.692205,
+        "locationType": 0,
+        "lon": -73.809362,
+        "name": "LIBERTY AV /REMINGTON ST",
+        "routeIds": [
+            "MTABC_Q09",
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550231",
+        "direction": "NE",
+        "id": "MTA_550231",
+        "lat": 40.693377,
+        "locationType": 0,
+        "lon": -73.807733,
+        "name": "LIBERTY AV /INWOOD ST",
+        "routeIds": [
+            "MTABC_Q09",
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550232",
+        "direction": "NE",
+        "id": "MTA_550232",
+        "lat": 40.69481,
+        "locationType": 0,
+        "lon": -73.805955,
+        "name": "LIBERTY AV /LIVERPOOL ST",
+        "routeIds": [
+            "MTABC_Q09",
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550242",
+        "direction": "SW",
+        "id": "MTA_550242",
+        "lat": 40.692667,
+        "locationType": 0,
+        "lon": -73.80908,
+        "name": "LIBERTY AV /REMINGTON ST",
+        "routeIds": [
+            "MTABC_Q09",
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550256",
+        "direction": "SW",
+        "id": "MTA_550256",
+        "lat": 40.694271,
+        "locationType": 0,
+        "lon": -73.807075,
+        "name": "LIBERTY AV /ALLENDALE ST",
+        "routeIds": [
+            "MTABC_Q09",
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552208",
+        "direction": "E",
+        "id": "MTA_552208",
+        "lat": 40.706713,
+        "locationType": 0,
+        "lon": -73.802335,
+        "name": "88 AV /PARSONS BLVD",
+        "routeIds": [
+            "MTABC_Q110",
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552353",
+        "direction": "NW",
+        "id": "MTA_552353",
+        "lat": 40.699961,
+        "locationType": 0,
+        "lon": -73.793621,
+        "name": "GUY R BREWER BLVD/TUSKEGEE AIRMEN WAY",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q112",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552355",
+        "direction": "NW",
+        "id": "MTA_552355",
+        "lat": 40.700927,
+        "locationType": 0,
+        "lon": -73.794296,
+        "name": "GUY R BREWER BLVD/LIBERTY AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q112",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552356",
+        "direction": "SE",
+        "id": "MTA_552356",
+        "lat": 40.701425,
+        "locationType": 0,
+        "lon": -73.794898,
+        "name": "GUY R BREWER BLVD/LIBERTY AV",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552357",
+        "direction": "NW",
+        "id": "MTA_552357",
+        "lat": 40.703193,
+        "locationType": 0,
+        "lon": -73.795858,
+        "name": "GUY R BREWER BLVD/ARCHER AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q112",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552358",
+        "direction": "SE",
+        "id": "MTA_552358",
+        "lat": 40.703099,
+        "locationType": 0,
+        "lon": -73.796108,
+        "name": "GUY R BREWER BLVD/ARCHER AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q112",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552364",
+        "direction": "SE",
+        "id": "MTA_552364",
+        "lat": 40.705864,
+        "locationType": 0,
+        "lon": -73.801776,
+        "name": "PARSONS BLVD/89 AV",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552377",
+        "direction": "E",
+        "id": "MTA_552377",
+        "lat": 40.681321,
+        "locationType": 0,
+        "lon": -73.83882,
+        "name": "LIBERTY AV /102 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552378",
+        "direction": "NE",
+        "id": "MTA_552378",
+        "lat": 40.682029,
+        "locationType": 0,
+        "lon": -73.836716,
+        "name": "LIBERTY AV /104 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552379",
+        "direction": "NE",
+        "id": "MTA_552379",
+        "lat": 40.682904,
+        "locationType": 0,
+        "lon": -73.835064,
+        "name": "LIBERTY AV /106 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552380",
+        "direction": "NE",
+        "id": "MTA_552380",
+        "lat": 40.683696,
+        "locationType": 0,
+        "lon": -73.833489,
+        "name": "LIBERTY AV /108 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552381",
+        "direction": "E",
+        "id": "MTA_552381",
+        "lat": 40.684369,
+        "locationType": 0,
+        "lon": -73.831837,
+        "name": "LIBERTY AV /110 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552382",
+        "direction": "E",
+        "id": "MTA_552382",
+        "lat": 40.684771,
+        "locationType": 0,
+        "lon": -73.83084,
+        "name": "LIBERTY AV /111 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552383",
+        "direction": "W",
+        "id": "MTA_552383",
+        "lat": 40.684736,
+        "locationType": 0,
+        "lon": -73.831369,
+        "name": "LIBERTY AV /111 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552384",
+        "direction": "E",
+        "id": "MTA_552384",
+        "lat": 40.685432,
+        "locationType": 0,
+        "lon": -73.829187,
+        "name": "LIBERTY AV /113 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552385",
+        "direction": "W",
+        "id": "MTA_552385",
+        "lat": 40.685398,
+        "locationType": 0,
+        "lon": -73.829702,
+        "name": "LIBERTY AV /113 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552386",
+        "direction": "E",
+        "id": "MTA_552386",
+        "lat": 40.685808,
+        "locationType": 0,
+        "lon": -73.826617,
+        "name": "LIBERTY AV /116 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552388",
+        "direction": "W",
+        "id": "MTA_552388",
+        "lat": 40.686132,
+        "locationType": 0,
+        "lon": -73.824986,
+        "name": "LIBERTY AV /LEFFERTS BLVD",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552389",
+        "direction": "NE",
+        "id": "MTA_552389",
+        "lat": 40.686915,
+        "locationType": 0,
+        "lon": -73.822161,
+        "name": "LIBERTY AV /121 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552390",
+        "direction": "SW",
+        "id": "MTA_552390",
+        "lat": 40.687034,
+        "locationType": 0,
+        "lon": -73.822472,
+        "name": "LIBERTY AV /121 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552391",
+        "direction": "E",
+        "id": "MTA_552391",
+        "lat": 40.687553,
+        "locationType": 0,
+        "lon": -73.82054,
+        "name": "LIBERTY AV /123 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552392",
+        "direction": "E",
+        "id": "MTA_552392",
+        "lat": 40.688273,
+        "locationType": 0,
+        "lon": -73.818732,
+        "name": "LIBERTY AV /126 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552393",
+        "direction": "E",
+        "id": "MTA_552393",
+        "lat": 40.688839,
+        "locationType": 0,
+        "lon": -73.81722,
+        "name": "LIBERTY AV /128 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552394",
+        "direction": "NE",
+        "id": "MTA_552394",
+        "lat": 40.689489,
+        "locationType": 0,
+        "lon": -73.815614,
+        "name": "LIBERTY AV /130 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552395",
+        "direction": "NE",
+        "id": "MTA_552395",
+        "lat": 40.690423,
+        "locationType": 0,
+        "lon": -73.814132,
+        "name": "LIBERTY AV /132 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552396",
+        "direction": "SW",
+        "id": "MTA_552396",
+        "lat": 40.690766,
+        "locationType": 0,
+        "lon": -73.814022,
+        "name": "LIBERTY AV /132 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552397",
+        "direction": "NE",
+        "id": "MTA_552397",
+        "lat": 40.691239,
+        "locationType": 0,
+        "lon": -73.812869,
+        "name": "LIBERTY AV /134 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552398",
+        "direction": "W",
+        "id": "MTA_552398",
+        "lat": 40.69157,
+        "locationType": 0,
+        "lon": -73.812541,
+        "name": "LIBERTY AV /134 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552399",
+        "direction": "SE",
+        "id": "MTA_552399",
+        "lat": 40.694971,
+        "locationType": 0,
+        "lon": -73.804791,
+        "name": "WALTHAM ST /105 AV",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552400",
+        "direction": "SE",
+        "id": "MTA_552400",
+        "lat": 40.693878,
+        "locationType": 0,
+        "lon": -73.803206,
+        "name": "WALTHAM ST/TUSKEGEE AIRMEN WAY",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552401",
+        "direction": "NE",
+        "id": "MTA_552401",
+        "lat": 40.694362,
+        "locationType": 0,
+        "lon": -73.802177,
+        "name": "TUSKEGEE AIRMEN WAY/SUTPHIN BLVD",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552402",
+        "direction": "SW",
+        "id": "MTA_552402",
+        "lat": 40.694765,
+        "locationType": 0,
+        "lon": -73.802036,
+        "name": "TUSKEGEE AIRMEN WAY/SUTPHIN BLVD",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552403",
+        "direction": "NE",
+        "id": "MTA_552403",
+        "lat": 40.695911,
+        "locationType": 0,
+        "lon": -73.800303,
+        "name": "TUSKEGEE AIRMEN WAY/153 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552404",
+        "direction": "SW",
+        "id": "MTA_552404",
+        "lat": 40.696468,
+        "locationType": 0,
+        "lon": -73.799913,
+        "name": "TUSKEGEE AIRMEN WAY/154 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552405",
+        "direction": "NE",
+        "id": "MTA_552405",
+        "lat": 40.69694,
+        "locationType": 0,
+        "lon": -73.798945,
+        "name": "TUSKEGEE AIRMEN WAY/155 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552406",
+        "direction": "SW",
+        "id": "MTA_552406",
+        "lat": 40.697556,
+        "locationType": 0,
+        "lon": -73.798617,
+        "name": "TUSKEGEE AIRMEN WAY/156 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552407",
+        "direction": "NE",
+        "id": "MTA_552407",
+        "lat": 40.6983,
+        "locationType": 0,
+        "lon": -73.797166,
+        "name": "TUSKEGEE AIRMEN WAY/157 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552408",
+        "direction": "E",
+        "id": "MTA_552408",
+        "lat": 40.699056,
+        "locationType": 0,
+        "lon": -73.795388,
+        "name": "TUSKEGEE AIRMEN WAY /160 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552410",
+        "direction": "SW",
+        "id": "MTA_552410",
+        "lat": 40.699669,
+        "locationType": 0,
+        "lon": -73.794047,
+        "name": "TUSKEGEE AIRMEN WAY/GUY R BREWER BLVD",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552411",
+        "direction": "SW",
+        "id": "MTA_552411",
+        "lat": 40.698868,
+        "locationType": 0,
+        "lon": -73.796386,
+        "name": "TUSKEGEE AIRMEN WAY/159 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552412",
+        "direction": "SW",
+        "id": "MTA_552412",
+        "lat": 40.695557,
+        "locationType": 0,
+        "lon": -73.801099,
+        "name": "TUSKEGEE AIRMEN WAY/150 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552413",
+        "direction": "NW",
+        "id": "MTA_552413",
+        "lat": 40.694352,
+        "locationType": 0,
+        "lon": -73.803516,
+        "name": "WALTHAM ST /106 AV",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552414",
+        "direction": "NW",
+        "id": "MTA_552414",
+        "lat": 40.69541,
+        "locationType": 0,
+        "lon": -73.80507,
+        "name": "WALTHAM ST /LIBERTY AV",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552415",
+        "direction": "W",
+        "id": "MTA_552415",
+        "lat": 40.688781,
+        "locationType": 0,
+        "lon": -73.817967,
+        "name": "LIBERTY AV /127 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552416",
+        "direction": "W",
+        "id": "MTA_552416",
+        "lat": 40.688285,
+        "locationType": 0,
+        "lon": -73.819199,
+        "name": "LIBERTY AV /125 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552417",
+        "direction": "W",
+        "id": "MTA_552417",
+        "lat": 40.687825,
+        "locationType": 0,
+        "lon": -73.820446,
+        "name": "LIBERTY AV /124 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552418",
+        "direction": "W",
+        "id": "MTA_552418",
+        "lat": 40.685985,
+        "locationType": 0,
+        "lon": -73.826181,
+        "name": "LIBERTY AV /117 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552419",
+        "direction": "W",
+        "id": "MTA_552419",
+        "lat": 40.685798,
+        "locationType": 0,
+        "lon": -73.827987,
+        "name": "LIBERTY AV /115 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552420",
+        "direction": "W",
+        "id": "MTA_552420",
+        "lat": 40.684122,
+        "locationType": 0,
+        "lon": -73.833021,
+        "name": "LIBERTY AV /109 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552421",
+        "direction": "SW",
+        "id": "MTA_552421",
+        "lat": 40.683402,
+        "locationType": 0,
+        "lon": -73.834611,
+        "name": "LIBERTY AV /107 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552422",
+        "direction": "SW",
+        "id": "MTA_552422",
+        "lat": 40.682396,
+        "locationType": 0,
+        "lon": -73.836389,
+        "name": "LIBERTY AV /105 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552423",
+        "direction": "W",
+        "id": "MTA_552423",
+        "lat": 40.681688,
+        "locationType": 0,
+        "lon": -73.838041,
+        "name": "LIBERTY AV /103 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552424",
+        "direction": "W",
+        "id": "MTA_552424",
+        "lat": 40.681393,
+        "locationType": 0,
+        "lon": -73.839365,
+        "name": "LIBERTY AV /101 ST",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553036",
+        "direction": "E",
+        "id": "MTA_553036",
+        "lat": 40.703676,
+        "locationType": 0,
+        "lon": -73.799281,
+        "name": "JAMAICA AV/160 ST",
+        "routeIds": [
+            "MTA NYCT_Q54",
+            "MTA NYCT_Q56",
+            "MTABC_Q110",
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553299",
+        "direction": "E",
+        "id": "MTA_553299",
+        "lat": 40.68626,
+        "locationType": 0,
+        "lon": -73.823975,
+        "name": "LIBERTY AV /LEFFERTS BLVD",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982090",
+        "direction": "W",
+        "id": "MTA_982090",
+        "lat": 40.680417,
+        "locationType": 0,
+        "lon": -73.842272,
+        "name": "ROCKAWAY BLVD/LIBERTY AV",
+        "routeIds": [
+            "MTABC_Q112"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

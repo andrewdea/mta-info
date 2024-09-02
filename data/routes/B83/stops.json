@@ -1,0 +1,823 @@
+[
+    {
+        "code": "301043",
+        "direction": "SW",
+        "id": "MTA_301043",
+        "lat": 40.663782,
+        "locationType": 0,
+        "lon": -73.888834,
+        "name": "NEW LOTS AV/MILLER AV",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301044",
+        "direction": "SW",
+        "id": "MTA_301044",
+        "lat": 40.662832,
+        "locationType": 0,
+        "lon": -73.890977,
+        "name": "NEW LOTS AV/WYONA ST",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301141",
+        "direction": "NE",
+        "id": "MTA_301141",
+        "lat": 40.66267,
+        "locationType": 0,
+        "lon": -73.891063,
+        "name": "NEW LOTS AV/VERMONT ST",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301142",
+        "direction": "NE",
+        "id": "MTA_301142",
+        "lat": 40.663415,
+        "locationType": 0,
+        "lon": -73.889375,
+        "name": "NEW LOTS AV/BRADFORD ST",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301143",
+        "direction": "NE",
+        "id": "MTA_301143",
+        "lat": 40.663727,
+        "locationType": 0,
+        "lon": -73.888661,
+        "name": "NEW LOTS AV/MILLER AV",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301384",
+        "direction": "SW",
+        "id": "MTA_301384",
+        "lat": 40.677717,
+        "locationType": 0,
+        "lon": -73.898425,
+        "name": "JAMAICA AV/FANCHON PL",
+        "routeIds": [
+            "MTA NYCT_B20",
+            "MTA NYCT_B83",
+            "MTA NYCT_Q24",
+            "MTA NYCT_Q56"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301960",
+        "direction": "NW",
+        "id": "MTA_301960",
+        "lat": 40.662151,
+        "locationType": 0,
+        "lon": -73.893256,
+        "name": "PENNSYLVANIA AV/NEW LOTS AV",
+        "routeIds": [
+            "MTA NYCT_B20",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301961",
+        "direction": "N",
+        "id": "MTA_301961",
+        "lat": 40.66308,
+        "locationType": 0,
+        "lon": -73.893563,
+        "name": "PENNSYLVANIA AV/RIVERDALE AV",
+        "routeIds": [
+            "MTA NYCT_B20",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301962",
+        "direction": "N",
+        "id": "MTA_301962",
+        "lat": 40.665216,
+        "locationType": 0,
+        "lon": -73.894109,
+        "name": "PENNSYLVANIA AV/LIVONIA AV",
+        "routeIds": [
+            "MTA NYCT_B20",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301963",
+        "direction": "N",
+        "id": "MTA_301963",
+        "lat": 40.666585,
+        "locationType": 0,
+        "lon": -73.894466,
+        "name": "PENNSYLVANIA AV/DUMONT AV",
+        "routeIds": [
+            "MTA NYCT_B20",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301964",
+        "direction": "N",
+        "id": "MTA_301964",
+        "lat": 40.668098,
+        "locationType": 0,
+        "lon": -73.894859,
+        "name": "PENNSYLVANIA AV/BLAKE AV",
+        "routeIds": [
+            "MTA NYCT_B20",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301965",
+        "direction": "N",
+        "id": "MTA_301965",
+        "lat": 40.669649,
+        "locationType": 0,
+        "lon": -73.895252,
+        "name": "PENNSYLVANIA AV/SUTTER AV",
+        "routeIds": [
+            "MTA NYCT_B20",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301966",
+        "direction": "N",
+        "id": "MTA_301966",
+        "lat": 40.670884,
+        "locationType": 0,
+        "lon": -73.895551,
+        "name": "PENNSYLVANIA AV/BELMONT AV",
+        "routeIds": [
+            "MTA NYCT_B20",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301967",
+        "direction": "N",
+        "id": "MTA_301967",
+        "lat": 40.672234,
+        "locationType": 0,
+        "lon": -73.895908,
+        "name": "PENNSYLVANIA AV/PITKIN AV",
+        "routeIds": [
+            "MTA NYCT_B20",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302030",
+        "direction": "S",
+        "id": "MTA_302030",
+        "lat": 40.671576,
+        "locationType": 0,
+        "lon": -73.895908,
+        "name": "PENNSYLVANIA AV/PITKIN AV",
+        "routeIds": [
+            "MTA NYCT_B20",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302031",
+        "direction": "S",
+        "id": "MTA_302031",
+        "lat": 40.670326,
+        "locationType": 0,
+        "lon": -73.895557,
+        "name": "PENNSYLVANIA AV/BELMONT AV",
+        "routeIds": [
+            "MTA NYCT_B20",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302032",
+        "direction": "S",
+        "id": "MTA_302032",
+        "lat": 40.66909,
+        "locationType": 0,
+        "lon": -73.895237,
+        "name": "PENNSYLVANIA AV/SUTTER AV",
+        "routeIds": [
+            "MTA NYCT_B20",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302033",
+        "direction": "S",
+        "id": "MTA_302033",
+        "lat": 40.667548,
+        "locationType": 0,
+        "lon": -73.894844,
+        "name": "PENNSYLVANIA AV/BLAKE AV",
+        "routeIds": [
+            "MTA NYCT_B20",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302034",
+        "direction": "S",
+        "id": "MTA_302034",
+        "lat": 40.666041,
+        "locationType": 0,
+        "lon": -73.894436,
+        "name": "PENNSYLVANIA AV/DUMONT AV",
+        "routeIds": [
+            "MTA NYCT_B20",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302035",
+        "direction": "S",
+        "id": "MTA_302035",
+        "lat": 40.664297,
+        "locationType": 0,
+        "lon": -73.893995,
+        "name": "PENNSYLVANIA AV/LIVONIA AV",
+        "routeIds": [
+            "MTA NYCT_B20",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302036",
+        "direction": "S",
+        "id": "MTA_302036",
+        "lat": 40.662925,
+        "locationType": 0,
+        "lon": -73.893653,
+        "name": "PENNSYLVANIA AV/RIVERDALE AV",
+        "routeIds": [
+            "MTA NYCT_B20",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304078",
+        "direction": "SE",
+        "id": "MTA_304078",
+        "lat": 40.650381,
+        "locationType": 0,
+        "lon": -73.884737,
+        "name": "PENNSYLVANIA AV/VANDALIA AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+",
+            "MTA NYCT_B83",
+            "MTABC_BM2",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304083",
+        "direction": "",
+        "id": "MTA_304083",
+        "lat": 40.643021,
+        "locationType": 0,
+        "lon": -73.878132,
+        "name": "SEAVIEW AV/PENNSYLVANIA AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+",
+            "MTA NYCT_B83",
+            "MTABC_BM2",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304084",
+        "direction": "NW",
+        "id": "MTA_304084",
+        "lat": 40.646437,
+        "locationType": 0,
+        "lon": -73.879941,
+        "name": "PENNSYLVANIA AV/GENEVA LOOP",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B83",
+            "MTABC_BM2",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304085",
+        "direction": "NW",
+        "id": "MTA_304085",
+        "lat": 40.64792,
+        "locationType": 0,
+        "lon": -73.881636,
+        "name": "PENNSYLVANIA AV/SCHROEDERS AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+",
+            "MTA NYCT_B83",
+            "MTABC_BM2",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304086",
+        "direction": "NW",
+        "id": "MTA_304086",
+        "lat": 40.650182,
+        "locationType": 0,
+        "lon": -73.884121,
+        "name": "PENNSYLVANIA AV/DELMAR LOOP NORTH",
+        "routeIds": [
+            "MTA NYCT_B83",
+            "MTABC_BM2",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304524",
+        "direction": "NE",
+        "id": "MTA_304524",
+        "lat": 40.677162,
+        "locationType": 0,
+        "lon": -73.899167,
+        "name": "JAMAICA AV/GEORGIA AV",
+        "routeIds": [
+            "MTA NYCT_B83",
+            "MTA NYCT_Q24",
+            "MTA NYCT_Q56"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306215",
+        "direction": "NE",
+        "id": "MTA_306215",
+        "lat": 40.652039,
+        "locationType": 0,
+        "lon": -73.882331,
+        "name": "VANDALIA AV/BETHEL LOOP",
+        "routeIds": [
+            "MTA NYCT_B83",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306216",
+        "direction": "E",
+        "id": "MTA_306216",
+        "lat": 40.653196,
+        "locationType": 0,
+        "lon": -73.881507,
+        "name": "VANDALIA AV/VAN SICLEN AV",
+        "routeIds": [
+            "MTA NYCT_B83",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306217",
+        "direction": "N",
+        "id": "MTA_306217",
+        "lat": 40.654907,
+        "locationType": 0,
+        "lon": -73.882225,
+        "name": "VAN SICLEN AV/FLATLANDS AV",
+        "routeIds": [
+            "MTA NYCT_B83",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306218",
+        "direction": "NW",
+        "id": "MTA_306218",
+        "lat": 40.656615,
+        "locationType": 0,
+        "lon": -73.882654,
+        "name": "VAN SICLEN AV/COZINE AV",
+        "routeIds": [
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306219",
+        "direction": "NW",
+        "id": "MTA_306219",
+        "lat": 40.657762,
+        "locationType": 0,
+        "lon": -73.883609,
+        "name": "VAN SICLEN AV/WORTMAN AV",
+        "routeIds": [
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306220",
+        "direction": "NW",
+        "id": "MTA_306220",
+        "lat": 40.659375,
+        "locationType": 0,
+        "lon": -73.884704,
+        "name": "VAN SICLEN AV/STANLEY AV",
+        "routeIds": [
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306221",
+        "direction": "NW",
+        "id": "MTA_306221",
+        "lat": 40.661021,
+        "locationType": 0,
+        "lon": -73.885952,
+        "name": "VAN SICLEN AV/LINDEN BLVD",
+        "routeIds": [
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306222",
+        "direction": "NW",
+        "id": "MTA_306222",
+        "lat": 40.662323,
+        "locationType": 0,
+        "lon": -73.886912,
+        "name": "VAN SICLEN AV/HEGEMAN AV",
+        "routeIds": [
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306255",
+        "direction": "SE",
+        "id": "MTA_306255",
+        "lat": 40.661699,
+        "locationType": 0,
+        "lon": -73.886714,
+        "name": "VAN SICLEN AV/HEGEMAN AV",
+        "routeIds": [
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306257",
+        "direction": "SE",
+        "id": "MTA_306257",
+        "lat": 40.658719,
+        "locationType": 0,
+        "lon": -73.884442,
+        "name": "VAN SICLEN AV/STANLEY AV",
+        "routeIds": [
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306258",
+        "direction": "SE",
+        "id": "MTA_306258",
+        "lat": 40.65736,
+        "locationType": 0,
+        "lon": -73.883471,
+        "name": "VAN SICLEN AV/WORTMAN AV",
+        "routeIds": [
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306259",
+        "direction": "SE",
+        "id": "MTA_306259",
+        "lat": 40.656349,
+        "locationType": 0,
+        "lon": -73.882683,
+        "name": "VAN SICLEN AV/COZINE AV",
+        "routeIds": [
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306260",
+        "direction": "S",
+        "id": "MTA_306260",
+        "lat": 40.654792,
+        "locationType": 0,
+        "lon": -73.882409,
+        "name": "VAN SICLEN AV/FLATLANDS AV",
+        "routeIds": [
+            "MTA NYCT_B83",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306261",
+        "direction": "S",
+        "id": "MTA_306261",
+        "lat": 40.653463,
+        "locationType": 0,
+        "lon": -73.881917,
+        "name": "VANDALIA AV/VAN SICLEN AV",
+        "routeIds": [
+            "MTA NYCT_B83",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306262",
+        "direction": "SW",
+        "id": "MTA_306262",
+        "lat": 40.651521,
+        "locationType": 0,
+        "lon": -73.883265,
+        "name": "VANDALIA AV/ARDSLEY LOOP",
+        "routeIds": [
+            "MTA NYCT_B83",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306452",
+        "direction": "NW",
+        "id": "MTA_306452",
+        "lat": 40.645187,
+        "locationType": 0,
+        "lon": -73.878555,
+        "name": "PENNSYLVANIA AV/HORNELL LOOP",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B83",
+            "MTABC_BM2",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307107",
+        "direction": "SE",
+        "id": "MTA_307107",
+        "lat": 40.64438,
+        "locationType": 0,
+        "lon": -73.878008,
+        "name": "PENNSYLVANIA AV/SEAVIEW AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B83",
+            "MTABC_BM2",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307206",
+        "direction": "SE",
+        "id": "MTA_307206",
+        "lat": 40.646144,
+        "locationType": 0,
+        "lon": -73.88011,
+        "name": "PENNSYLVANIA AV/GENEVA LOOP",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B83",
+            "MTABC_BM2",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307539",
+        "direction": "SE",
+        "id": "MTA_307539",
+        "lat": 40.647608,
+        "locationType": 0,
+        "lon": -73.881733,
+        "name": "PENNSYLVANIA AV/SCHROEDERS AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307897",
+        "direction": "S",
+        "id": "MTA_307897",
+        "lat": 40.678111,
+        "locationType": 0,
+        "lon": -73.903408,
+        "name": "VAN SINDEREN AV/FULTON ST",
+        "routeIds": [
+            "MTA NYCT_B20",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307925",
+        "direction": "S",
+        "id": "MTA_307925",
+        "lat": 40.675114,
+        "locationType": 0,
+        "lon": -73.896804,
+        "name": "PENNSYLVANIA AV/ATLANTIC AV",
+        "routeIds": [
+            "MTA NYCT_B20",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307989",
+        "direction": "NE",
+        "id": "MTA_307989",
+        "lat": 40.66201,
+        "locationType": 0,
+        "lon": -73.892557,
+        "name": "NEW LOTS AV/PENNSYLVANIA AV",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308439",
+        "direction": "NW",
+        "id": "MTA_308439",
+        "lat": 40.677432,
+        "locationType": 0,
+        "lon": -73.900799,
+        "name": "JAMAICA AV/HERKIMER ST",
+        "routeIds": [
+            "MTA NYCT_B83",
+            "MTA NYCT_Q56"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308783",
+        "direction": "N",
+        "id": "MTA_308783",
+        "lat": 40.674699,
+        "locationType": 0,
+        "lon": -73.896556,
+        "name": "PENNSYLVANIA AV/LIBERTY AV",
+        "routeIds": [
+            "MTA NYCT_B20",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308886",
+        "direction": "SE",
+        "id": "MTA_308886",
+        "lat": 40.660297,
+        "locationType": 0,
+        "lon": -73.88561,
+        "name": "VAN SICLEN AV/LINDEN BL",
+        "routeIds": [
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801064",
+        "direction": "S",
+        "id": "MTA_801064",
+        "lat": 40.678139,
+        "locationType": 0,
+        "lon": -73.903574,
+        "name": "VAN SINDEREN AV/FULTON ST",
+        "routeIds": [
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801168",
+        "direction": "SE",
+        "id": "MTA_801168",
+        "lat": 40.652693,
+        "locationType": 0,
+        "lon": -73.87689,
+        "name": "GATEWAY CENTER TERMINAL/GATEWAY DR",
+        "routeIds": [
+            "MTA NYCT_B13",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801170",
+        "direction": "SE",
+        "id": "MTA_801170",
+        "lat": 40.652635,
+        "locationType": 0,
+        "lon": -73.866548,
+        "name": "ERSKINE ST/GATEWAY DR",
+        "routeIds": [
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801171",
+        "direction": "SW",
+        "id": "MTA_801171",
+        "lat": 40.65287,
+        "locationType": 0,
+        "lon": -73.867,
+        "name": "GATEWAY DR/ERSKINE ST",
+        "routeIds": [
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901080",
+        "direction": "SW",
+        "id": "MTA_901080",
+        "lat": 40.642968,
+        "locationType": 0,
+        "lon": -73.878269,
+        "name": "SEAVIEW AV/PENNSYLVANIA AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901475",
+        "direction": "NW",
+        "id": "MTA_901475",
+        "lat": 40.652821,
+        "locationType": 0,
+        "lon": -73.876756,
+        "name": "GATEWAY CENTER TERMINAL/GATEWAY DR",
+        "routeIds": [
+            "MTA NYCT_B13",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

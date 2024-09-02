@@ -1,0 +1,1165 @@
+[
+    {
+        "code": "400860",
+        "direction": "S",
+        "id": "MTA_400860",
+        "lat": 40.76947,
+        "locationType": 0,
+        "lon": -73.982326,
+        "name": "BROADWAY/W 61 ST",
+        "routeIds": [
+            "MTA NYCT_M5",
+            "MTA NYCT_M7",
+            "MTA NYCT_M10",
+            "MTA NYCT_M20",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400861",
+        "direction": "SE",
+        "id": "MTA_400861",
+        "lat": 40.767676,
+        "locationType": 0,
+        "lon": -73.982261,
+        "name": "COLUMBUS CIRCLE/8 AV",
+        "routeIds": [
+            "MTA NYCT_M5",
+            "MTA NYCT_M7",
+            "MTA NYCT_M10",
+            "MTA NYCT_M20",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401248",
+        "direction": "NE",
+        "id": "MTA_401248",
+        "lat": 40.776516,
+        "locationType": 0,
+        "lon": -73.975596,
+        "name": "CENTRAL PARK WEST/W 72 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401250",
+        "direction": "NE",
+        "id": "MTA_401250",
+        "lat": 40.779818,
+        "locationType": 0,
+        "lon": -73.97319,
+        "name": "CENTRAL PARK WEST/W 77 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401252",
+        "direction": "NE",
+        "id": "MTA_401252",
+        "lat": 40.78223,
+        "locationType": 0,
+        "lon": -73.97152,
+        "name": "CENTRAL PARK WEST/W 81 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401253",
+        "direction": "NE",
+        "id": "MTA_401253",
+        "lat": 40.784035,
+        "locationType": 0,
+        "lon": -73.970126,
+        "name": "CENTRAL PARK WEST/W 84 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401254",
+        "direction": "NE",
+        "id": "MTA_401254",
+        "lat": 40.785681,
+        "locationType": 0,
+        "lon": -73.968984,
+        "name": "CENTRAL PARK WEST/W 87 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401255",
+        "direction": "NE",
+        "id": "MTA_401255",
+        "lat": 40.786848,
+        "locationType": 0,
+        "lon": -73.968059,
+        "name": "CENTRAL PARK WEST/W 88 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401256",
+        "direction": "NE",
+        "id": "MTA_401256",
+        "lat": 40.788071,
+        "locationType": 0,
+        "lon": -73.967205,
+        "name": "CENTRAL PARK WEST/W 90 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401257",
+        "direction": "NE",
+        "id": "MTA_401257",
+        "lat": 40.789324,
+        "locationType": 0,
+        "lon": -73.966253,
+        "name": "CENTRAL PARK WEST/W 92 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401258",
+        "direction": "NE",
+        "id": "MTA_401258",
+        "lat": 40.790539,
+        "locationType": 0,
+        "lon": -73.965364,
+        "name": "CENTRAL PARK WEST/W 94 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401259",
+        "direction": "NE",
+        "id": "MTA_401259",
+        "lat": 40.792222,
+        "locationType": 0,
+        "lon": -73.964215,
+        "name": "CENTRAL PARK WEST/W 97 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401261",
+        "direction": "NE",
+        "id": "MTA_401261",
+        "lat": 40.794507,
+        "locationType": 0,
+        "lon": -73.962472,
+        "name": "CENTRAL PARK WEST/W 100 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401262",
+        "direction": "NE",
+        "id": "MTA_401262",
+        "lat": 40.79575,
+        "locationType": 0,
+        "lon": -73.961561,
+        "name": "CENTRAL PARK WEST/W 102 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401263",
+        "direction": "NE",
+        "id": "MTA_401263",
+        "lat": 40.797034,
+        "locationType": 0,
+        "lon": -73.960632,
+        "name": "CENTRAL PARK WEST/W 104 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401264",
+        "direction": "NE",
+        "id": "MTA_401264",
+        "lat": 40.798297,
+        "locationType": 0,
+        "lon": -73.959714,
+        "name": "CENTRAL PARK WEST/W 106 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401265",
+        "direction": "NE",
+        "id": "MTA_401265",
+        "lat": 40.799706,
+        "locationType": 0,
+        "lon": -73.958746,
+        "name": "CENTRAL PARK WEST/W 108 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401267",
+        "direction": "NE",
+        "id": "MTA_401267",
+        "lat": 40.801444,
+        "locationType": 0,
+        "lon": -73.957433,
+        "name": "FREDERICK DOUGLASS BLVD/W 111 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401268",
+        "direction": "NE",
+        "id": "MTA_401268",
+        "lat": 40.802747,
+        "locationType": 0,
+        "lon": -73.956482,
+        "name": "FREDERICK DOUGLASS BLVD/W 113 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401269",
+        "direction": "NE",
+        "id": "MTA_401269",
+        "lat": 40.804742,
+        "locationType": 0,
+        "lon": -73.955025,
+        "name": "FREDERICK DOUGLASS BLVD/W 116 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401270",
+        "direction": "NE",
+        "id": "MTA_401270",
+        "lat": 40.806378,
+        "locationType": 0,
+        "lon": -73.953887,
+        "name": "FREDERICK DOUGLASS BLVD/W 119 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401271",
+        "direction": "NE",
+        "id": "MTA_401271",
+        "lat": 40.807445,
+        "locationType": 0,
+        "lon": -73.953051,
+        "name": "FREDERICK DOUGLASS BLVD/W 121 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401272",
+        "direction": "NE",
+        "id": "MTA_401272",
+        "lat": 40.809069,
+        "locationType": 0,
+        "lon": -73.951847,
+        "name": "FREDERICK DOUGLASS BLVD/W 123 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401274",
+        "direction": "NE",
+        "id": "MTA_401274",
+        "lat": 40.811747,
+        "locationType": 0,
+        "lon": -73.949887,
+        "name": "FREDERICK DOUGLASS BLVD/W 127 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401275",
+        "direction": "NE",
+        "id": "MTA_401275",
+        "lat": 40.812894,
+        "locationType": 0,
+        "lon": -73.949048,
+        "name": "FREDERICK DOUGLASS BLVD/W 129 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401276",
+        "direction": "NE",
+        "id": "MTA_401276",
+        "lat": 40.81414,
+        "locationType": 0,
+        "lon": -73.948137,
+        "name": "FREDERICK DOUGLASS BLVD/W 131 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401277",
+        "direction": "NE",
+        "id": "MTA_401277",
+        "lat": 40.815432,
+        "locationType": 0,
+        "lon": -73.94719,
+        "name": "FREDERICK DOUGLASS BLVD/W 133 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401281",
+        "direction": "NE",
+        "id": "MTA_401281",
+        "lat": 40.820541,
+        "locationType": 0,
+        "lon": -73.943464,
+        "name": "FREDERICK DOUGLASS BLVD/W 141 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401282",
+        "direction": "NE",
+        "id": "MTA_401282",
+        "lat": 40.821759,
+        "locationType": 0,
+        "lon": -73.942574,
+        "name": "FREDERICK DOUGLASS BLVD/W 143 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401286",
+        "direction": "NE",
+        "id": "MTA_401286",
+        "lat": 40.82813,
+        "locationType": 0,
+        "lon": -73.937918,
+        "name": "FREDERICK DOUGLASS BLVD/W 153 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401287",
+        "direction": "NE",
+        "id": "MTA_401287",
+        "lat": 40.829277,
+        "locationType": 0,
+        "lon": -73.937054,
+        "name": "FREDERICK DOUGLASS BLVD/W 155 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401288",
+        "direction": "NE",
+        "id": "MTA_401288",
+        "lat": 40.831209,
+        "locationType": 0,
+        "lon": -73.935693,
+        "name": "FREDERICK DOUGLASS BLVD/W 158 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401305",
+        "direction": "SW",
+        "id": "MTA_401305",
+        "lat": 40.829091,
+        "locationType": 0,
+        "lon": -73.937451,
+        "name": "FREDERICK DOUGLASS BLVD/W 155 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401306",
+        "direction": "SW",
+        "id": "MTA_401306",
+        "lat": 40.828306,
+        "locationType": 0,
+        "lon": -73.938048,
+        "name": "FREDERICK DOUGLASS BLVD/W 154 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401307",
+        "direction": "SW",
+        "id": "MTA_401307",
+        "lat": 40.827019,
+        "locationType": 0,
+        "lon": -73.938993,
+        "name": "FREDERICK DOUGLASS BLVD/W 152 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401308",
+        "direction": "SW",
+        "id": "MTA_401308",
+        "lat": 40.825949,
+        "locationType": 0,
+        "lon": -73.939723,
+        "name": "FREDERICK DOUGLASS BLVD/W 150 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401310",
+        "direction": "SW",
+        "id": "MTA_401310",
+        "lat": 40.822522,
+        "locationType": 0,
+        "lon": -73.942285,
+        "name": "FREDERICK DOUGLASS BLVD/W 145 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401311",
+        "direction": "SW",
+        "id": "MTA_401311",
+        "lat": 40.820659,
+        "locationType": 0,
+        "lon": -73.943641,
+        "name": "FREDERICK DOUGLASS BLVD/W 142 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401312",
+        "direction": "SW",
+        "id": "MTA_401312",
+        "lat": 40.819419,
+        "locationType": 0,
+        "lon": -73.944553,
+        "name": "FREDERICK DOUGLASS BLVD/W 140 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401313",
+        "direction": "SW",
+        "id": "MTA_401313",
+        "lat": 40.818185,
+        "locationType": 0,
+        "lon": -73.94545,
+        "name": "FREDERICK DOUGLASS BLVD/W 138 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401314",
+        "direction": "SW",
+        "id": "MTA_401314",
+        "lat": 40.816206,
+        "locationType": 0,
+        "lon": -73.946889,
+        "name": "FREDERICK DOUGLASS BLVD/W 135 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401315",
+        "direction": "SW",
+        "id": "MTA_401315",
+        "lat": 40.814919,
+        "locationType": 0,
+        "lon": -73.947829,
+        "name": "FREDERICK DOUGLASS BLVD/W 133 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401317",
+        "direction": "SW",
+        "id": "MTA_401317",
+        "lat": 40.812828,
+        "locationType": 0,
+        "lon": -73.949339,
+        "name": "FREDERICK DOUGLASS BLVD/W 129 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401318",
+        "direction": "SW",
+        "id": "MTA_401318",
+        "lat": 40.810365,
+        "locationType": 0,
+        "lon": -73.95116,
+        "name": "FREDERICK DOUGLASS BLVD/W 125 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401324",
+        "direction": "SW",
+        "id": "MTA_401324",
+        "lat": 40.801644,
+        "locationType": 0,
+        "lon": -73.957505,
+        "name": "FREDERICK DOUGLASS BLVD/W 112 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401326",
+        "direction": "SW",
+        "id": "MTA_401326",
+        "lat": 40.799136,
+        "locationType": 0,
+        "lon": -73.959367,
+        "name": "CENTRAL PARK WEST/W 108 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401327",
+        "direction": "SW",
+        "id": "MTA_401327",
+        "lat": 40.797925,
+        "locationType": 0,
+        "lon": -73.960182,
+        "name": "CENTRAL PARK WEST/W 106 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401328",
+        "direction": "SW",
+        "id": "MTA_401328",
+        "lat": 40.79651,
+        "locationType": 0,
+        "lon": -73.961272,
+        "name": "CENTRAL PARK WEST/W 104 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401329",
+        "direction": "SW",
+        "id": "MTA_401329",
+        "lat": 40.795276,
+        "locationType": 0,
+        "lon": -73.96219,
+        "name": "CENTRAL PARK WEST/W 102 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401330",
+        "direction": "SW",
+        "id": "MTA_401330",
+        "lat": 40.79395,
+        "locationType": 0,
+        "lon": -73.963152,
+        "name": "CENTRAL PARK WEST/W 100 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401331",
+        "direction": "SW",
+        "id": "MTA_401331",
+        "lat": 40.792268,
+        "locationType": 0,
+        "lon": -73.964384,
+        "name": "CENTRAL PARK WEST/W 97 ST",
+        "routeIds": [
+            "MTA NYCT_M10",
+            "MTA NYCT_M96",
+            "MTA NYCT_M106"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401333",
+        "direction": "SW",
+        "id": "MTA_401333",
+        "lat": 40.790108,
+        "locationType": 0,
+        "lon": -73.965963,
+        "name": "CENTRAL PARK WEST/W 94 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401334",
+        "direction": "SW",
+        "id": "MTA_401334",
+        "lat": 40.788893,
+        "locationType": 0,
+        "lon": -73.966852,
+        "name": "CENTRAL PARK WEST/W 92 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401335",
+        "direction": "SW",
+        "id": "MTA_401335",
+        "lat": 40.787619,
+        "locationType": 0,
+        "lon": -73.96777,
+        "name": "CENTRAL PARK WEST/W 90 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401336",
+        "direction": "SW",
+        "id": "MTA_401336",
+        "lat": 40.786527,
+        "locationType": 0,
+        "lon": -73.968515,
+        "name": "CENTRAL PARK WEST/W 88 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401337",
+        "direction": "SW",
+        "id": "MTA_401337",
+        "lat": 40.78504,
+        "locationType": 0,
+        "lon": -73.96969,
+        "name": "CENTRAL PARK WEST/W 86 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401338",
+        "direction": "SW",
+        "id": "MTA_401338",
+        "lat": 40.78375,
+        "locationType": 0,
+        "lon": -73.970599,
+        "name": "CENTRAL PARK WEST/W 84 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401339",
+        "direction": "SW",
+        "id": "MTA_401339",
+        "lat": 40.781964,
+        "locationType": 0,
+        "lon": -73.971889,
+        "name": "CENTRAL PARK WEST/W 81 ST",
+        "routeIds": [
+            "MTABC_BXM2",
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401341",
+        "direction": "SW",
+        "id": "MTA_401341",
+        "lat": 40.779398,
+        "locationType": 0,
+        "lon": -73.973786,
+        "name": "CENTRAL PARK WEST/W 77 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401342",
+        "direction": "SW",
+        "id": "MTA_401342",
+        "lat": 40.777466,
+        "locationType": 0,
+        "lon": -73.97518,
+        "name": "CENTRAL PARK WEST/W 74 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401343",
+        "direction": "SW",
+        "id": "MTA_401343",
+        "lat": 40.776132,
+        "locationType": 0,
+        "lon": -73.976188,
+        "name": "CENTRAL PARK WEST/W 72 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401344",
+        "direction": "SW",
+        "id": "MTA_401344",
+        "lat": 40.774837,
+        "locationType": 0,
+        "lon": -73.97716,
+        "name": "CENTRAL PARK WEST/W 70 ST",
+        "routeIds": [
+            "MTA NYCT_M10",
+            "MTA NYCT_M72"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401345",
+        "direction": "SW",
+        "id": "MTA_401345",
+        "lat": 40.773569,
+        "locationType": 0,
+        "lon": -73.978045,
+        "name": "CENTRAL PARK WEST/W 68 ST",
+        "routeIds": [
+            "MTA NYCT_M10",
+            "MTA NYCT_M72"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401348",
+        "direction": "S",
+        "id": "MTA_401348",
+        "lat": 40.770883,
+        "locationType": 0,
+        "lon": -73.982338,
+        "name": "BROADWAY/W 63 ST",
+        "routeIds": [
+            "MTABC_BXM2",
+            "MTA NYCT_M10",
+            "MTA NYCT_M20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403276",
+        "direction": "SW",
+        "id": "MTA_403276",
+        "lat": 40.811896,
+        "locationType": 0,
+        "lon": -73.950046,
+        "name": "FREDERICK DOUGLASS BLVD/W 128 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403826",
+        "direction": "NE",
+        "id": "MTA_403826",
+        "lat": 40.82312,
+        "locationType": 0,
+        "lon": -73.941579,
+        "name": "FREDERICK DOUGLASS BLVD/W 145 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403832",
+        "direction": "NE",
+        "id": "MTA_403832",
+        "lat": 40.818645,
+        "locationType": 0,
+        "lon": -73.944849,
+        "name": "FREDERICK DOUGLASS BLVD/W 138 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403846",
+        "direction": "NE",
+        "id": "MTA_403846",
+        "lat": 40.76674,
+        "locationType": 0,
+        "lon": -73.982683,
+        "name": "8 AV/W  57 ST",
+        "routeIds": [
+            "MTA NYCT_M10",
+            "MTA NYCT_M12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403981",
+        "direction": "NE",
+        "id": "MTA_403981",
+        "lat": 40.77451,
+        "locationType": 0,
+        "lon": -73.97707,
+        "name": "CENTRAL PARK WEST/W 69 ST",
+        "routeIds": [
+            "MTA NYCT_M10",
+            "MTA NYCT_M72"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403982",
+        "direction": "NE",
+        "id": "MTA_403982",
+        "lat": 40.816771,
+        "locationType": 0,
+        "lon": -73.946213,
+        "name": "FREDERICK DOUGLASS BLVD/W 135 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404024",
+        "direction": "NE",
+        "id": "MTA_404024",
+        "lat": 40.778511,
+        "locationType": 0,
+        "lon": -73.97414,
+        "name": "CENTRAL PARK WEST/W 75 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404049",
+        "direction": "NE",
+        "id": "MTA_404049",
+        "lat": 40.770657,
+        "locationType": 0,
+        "lon": -73.979873,
+        "name": "CENTRAL PARK WEST/W 63 ST",
+        "routeIds": [
+            "MTA NYCT_M10",
+            "MTA NYCT_M20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404134",
+        "direction": "NE",
+        "id": "MTA_404134",
+        "lat": 40.781149,
+        "locationType": 0,
+        "lon": -73.972233,
+        "name": "CENTRAL PARK WEST/W 79 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404135",
+        "direction": "SW",
+        "id": "MTA_404135",
+        "lat": 40.830451,
+        "locationType": 0,
+        "lon": -73.936359,
+        "name": "FREDERICK DOUGLASS BLVD/W 158 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404136",
+        "direction": "SW",
+        "id": "MTA_404136",
+        "lat": 40.780619,
+        "locationType": 0,
+        "lon": -73.972854,
+        "name": "CENTRAL PARK WEST/W 79 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404245",
+        "direction": "SW",
+        "id": "MTA_404245",
+        "lat": 40.80609,
+        "locationType": 0,
+        "lon": -73.954262,
+        "name": "FREDERICK DOUGLASS BLVD/W 119 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404325",
+        "direction": "NE",
+        "id": "MTA_404325",
+        "lat": 40.825817,
+        "locationType": 0,
+        "lon": -73.939658,
+        "name": "FREDERICK DOUGLASS BLVD/MACOMBS PL",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404824",
+        "direction": "SW",
+        "id": "MTA_404824",
+        "lat": 40.823913,
+        "locationType": 0,
+        "lon": -73.941264,
+        "name": "FREDERICK DOUGLASS BLVD/W 147 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404825",
+        "direction": "NE",
+        "id": "MTA_404825",
+        "lat": 40.824928,
+        "locationType": 0,
+        "lon": -73.940255,
+        "name": "FREDERICK DOUGLASS BLVD/W 148 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404871",
+        "direction": "NE",
+        "id": "MTA_404871",
+        "lat": 40.768686,
+        "locationType": 0,
+        "lon": -73.98134,
+        "name": "CENTRAL PARK WEST/COLUMBUS CIRCLE",
+        "routeIds": [
+            "MTA NYCT_M10",
+            "MTA NYCT_M20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404915",
+        "direction": "SW",
+        "id": "MTA_404915",
+        "lat": 40.804152,
+        "locationType": 0,
+        "lon": -73.955672,
+        "name": "FREDERICK DOUGLASS BLVD/W 116 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404987",
+        "direction": "SW",
+        "id": "MTA_404987",
+        "lat": 40.772331,
+        "locationType": 0,
+        "lon": -73.97898,
+        "name": "CENTRAL PARK WEST/W 66 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404988",
+        "direction": "SW",
+        "id": "MTA_404988",
+        "lat": 40.771082,
+        "locationType": 0,
+        "lon": -73.979842,
+        "name": "CENTRAL PARK WEST/W 64 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405182",
+        "direction": "NE",
+        "id": "MTA_405182",
+        "lat": 40.810331,
+        "locationType": 0,
+        "lon": -73.950969,
+        "name": "FREDERICK DOUGLASS BLVD/W 125 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405247",
+        "direction": "SW",
+        "id": "MTA_405247",
+        "lat": 40.80317,
+        "locationType": 0,
+        "lon": -73.95631,
+        "name": "FREDERICK DOUGLASS BLVD/114 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405289",
+        "direction": "SW",
+        "id": "MTA_405289",
+        "lat": 40.807524,
+        "locationType": 0,
+        "lon": -73.953286,
+        "name": "FREDERICK DOUGLASS BLVD/W 121 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405376",
+        "direction": "S",
+        "id": "MTA_405376",
+        "lat": 40.766529,
+        "locationType": 0,
+        "lon": -73.981964,
+        "name": "BROADWAY/W 57 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405588",
+        "direction": "NE",
+        "id": "MTA_405588",
+        "lat": 40.77266,
+        "locationType": 0,
+        "lon": -73.978424,
+        "name": "CENTRAL PARK WEST/W 67 ST",
+        "routeIds": [
+            "MTA NYCT_M10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

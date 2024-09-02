@@ -1,0 +1,3050 @@
+[
+    {
+        "code": "200152",
+        "direction": "NW",
+        "id": "MTA_200152",
+        "lat": 40.635811,
+        "locationType": 0,
+        "lon": -74.07573,
+        "name": "BAY ST/HANNAH ST",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200153",
+        "direction": "N",
+        "id": "MTA_200153",
+        "lat": 40.637518,
+        "locationType": 0,
+        "lon": -74.075956,
+        "name": "BAY ST/VICTORY BLVD",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200154",
+        "direction": "N",
+        "id": "MTA_200154",
+        "lat": 40.639512,
+        "locationType": 0,
+        "lon": -74.075477,
+        "name": "BAY ST/SLOSSON TERR",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_S51",
+            "MTA NYCT_S61",
+            "MTA NYCT_S62",
+            "MTA NYCT_S66",
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200176",
+        "direction": "SW",
+        "id": "MTA_200176",
+        "lat": 40.641846,
+        "locationType": 0,
+        "lon": -74.075573,
+        "name": "BAY ST/NICK LAPORTE PL",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S46",
+            "MTA NYCT_S48",
+            "MTA NYCT_S51",
+            "MTA NYCT_S52",
+            "MTA NYCT_S61",
+            "MTA NYCT_S62",
+            "MTA NYCT_S66",
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200178",
+        "direction": "S",
+        "id": "MTA_200178",
+        "lat": 40.637299,
+        "locationType": 0,
+        "lon": -74.076175,
+        "name": "BAY ST/VICTORY BLVD",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S81",
+            "MTA NYCT_S84",
+            "MTA NYCT_S86"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200180",
+        "direction": "SW",
+        "id": "MTA_200180",
+        "lat": 40.632902,
+        "locationType": 0,
+        "lon": -74.075587,
+        "name": "BAY ST/GRANT ST",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200181",
+        "direction": "S",
+        "id": "MTA_200181",
+        "lat": 40.630639,
+        "locationType": 0,
+        "lon": -74.076703,
+        "name": "BAY ST/WILLIAM ST",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200183",
+        "direction": "S",
+        "id": "MTA_200183",
+        "lat": 40.628617,
+        "locationType": 0,
+        "lon": -74.076555,
+        "name": "BAY ST/PROSPECT ST",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200340",
+        "direction": "W",
+        "id": "MTA_200340",
+        "lat": 40.576202,
+        "locationType": 0,
+        "lon": -74.126064,
+        "name": "RICHMOND RD/ENFIELD PL",
+        "routeIds": [
+            "MTA NYCT_S57",
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200341",
+        "direction": "W",
+        "id": "MTA_200341",
+        "lat": 40.574683,
+        "locationType": 0,
+        "lon": -74.12957,
+        "name": "RICHMOND RD/McCULLY AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200342",
+        "direction": "W",
+        "id": "MTA_200342",
+        "lat": 40.574082,
+        "locationType": 0,
+        "lon": -74.131314,
+        "name": "RICHMOND RD/HITCHCOCK AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200343",
+        "direction": "W",
+        "id": "MTA_200343",
+        "lat": 40.573238,
+        "locationType": 0,
+        "lon": -74.134995,
+        "name": "RICHMOND RD/WILDER AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200350",
+        "direction": "S",
+        "id": "MTA_200350",
+        "lat": 40.571816,
+        "locationType": 0,
+        "lon": -74.147224,
+        "name": "ARTHUR KILL RD/CENTER ST",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200460",
+        "direction": "S",
+        "id": "MTA_200460",
+        "lat": 40.560645,
+        "locationType": 0,
+        "lon": -74.171275,
+        "name": "ELTINGVILLE/TRANSIT CENTER",
+        "routeIds": [
+            "MTA NYCT_S55",
+            "MTA NYCT_S56",
+            "MTA NYCT_S59",
+            "MTA NYCT_S74",
+            "MTA NYCT_S84",
+            "MTA NYCT_S89"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200496",
+        "direction": "NE",
+        "id": "MTA_200496",
+        "lat": 40.563968,
+        "locationType": 0,
+        "lon": -74.155575,
+        "name": "ARTHUR KILL RD/GIFFORDS LN",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200507",
+        "direction": "E",
+        "id": "MTA_200507",
+        "lat": 40.573193,
+        "locationType": 0,
+        "lon": -74.134276,
+        "name": "RICHMOND RD/WILDER AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200508",
+        "direction": "E",
+        "id": "MTA_200508",
+        "lat": 40.57367,
+        "locationType": 0,
+        "lon": -74.131991,
+        "name": "RICHMOND RD/ALTOONA AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200509",
+        "direction": "E",
+        "id": "MTA_200509",
+        "lat": 40.574758,
+        "locationType": 0,
+        "lon": -74.128692,
+        "name": "RICHMOND RD/BISHOP ST",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201064",
+        "direction": "NE",
+        "id": "MTA_201064",
+        "lat": 40.629186,
+        "locationType": 0,
+        "lon": -74.079427,
+        "name": "VAN DUZER ST/BEACH ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201066",
+        "direction": "NE",
+        "id": "MTA_201066",
+        "lat": 40.633728,
+        "locationType": 0,
+        "lon": -74.076348,
+        "name": "VAN DUZER ST/GRANT ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201083",
+        "direction": "SW",
+        "id": "MTA_201083",
+        "lat": 40.626856,
+        "locationType": 0,
+        "lon": -74.07806,
+        "name": "CANAL ST/WRIGHT ST",
+        "routeIds": [
+            "MTA NYCT_S52",
+            "MTA NYCT_S74",
+            "MTA NYCT_S78",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201373",
+        "direction": "E",
+        "id": "MTA_201373",
+        "lat": 40.575771,
+        "locationType": 0,
+        "lon": -74.124209,
+        "name": "RICHMOND RD/SUMMIT AV",
+        "routeIds": [
+            "MTA NYCT_S57",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201459",
+        "direction": "NE",
+        "id": "MTA_201459",
+        "lat": 40.575927,
+        "locationType": 0,
+        "lon": -74.119378,
+        "name": "RICHMOND RD/NEW DORP LN",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201460",
+        "direction": "W",
+        "id": "MTA_201460",
+        "lat": 40.575876,
+        "locationType": 0,
+        "lon": -74.123291,
+        "name": "RICHMOND RD/BEACON AV",
+        "routeIds": [
+            "MTA NYCT_S57",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201593",
+        "direction": "E",
+        "id": "MTA_201593",
+        "lat": 40.582242,
+        "locationType": 0,
+        "lon": -74.109888,
+        "name": "RICHMOND RD/MIDLAND AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201595",
+        "direction": "NE",
+        "id": "MTA_201595",
+        "lat": 40.585561,
+        "locationType": 0,
+        "lon": -74.105592,
+        "name": "RICHMOND RD/HULL AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201596",
+        "direction": "NE",
+        "id": "MTA_201596",
+        "lat": 40.587248,
+        "locationType": 0,
+        "lon": -74.103622,
+        "name": "RICHMOND RD/SEAVER AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201597",
+        "direction": "NE",
+        "id": "MTA_201597",
+        "lat": 40.588965,
+        "locationType": 0,
+        "lon": -74.101749,
+        "name": "RICHMOND RD/DONGAN HILLS AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201598",
+        "direction": "N",
+        "id": "MTA_201598",
+        "lat": 40.59128,
+        "locationType": 0,
+        "lon": -74.100852,
+        "name": "RICHMOND RD/SEAVIEW AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201600",
+        "direction": "NE",
+        "id": "MTA_201600",
+        "lat": 40.594606,
+        "locationType": 0,
+        "lon": -74.098376,
+        "name": "RICHMOND RD/RARITAN AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201601",
+        "direction": "NE",
+        "id": "MTA_201601",
+        "lat": 40.595474,
+        "locationType": 0,
+        "lon": -74.096858,
+        "name": "RICHMOND RD/BURGHER AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201602",
+        "direction": "E",
+        "id": "MTA_201602",
+        "lat": 40.596322,
+        "locationType": 0,
+        "lon": -74.094497,
+        "name": "RICHMOND RD/MARK ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201604",
+        "direction": "NE",
+        "id": "MTA_201604",
+        "lat": 40.598413,
+        "locationType": 0,
+        "lon": -74.0919,
+        "name": "RICHMOND RD/HUNTON ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201605",
+        "direction": "N",
+        "id": "MTA_201605",
+        "lat": 40.600183,
+        "locationType": 0,
+        "lon": -74.09151,
+        "name": "TARGEE ST/WEST FINGERBOARD RD",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201606",
+        "direction": "N",
+        "id": "MTA_201606",
+        "lat": 40.602009,
+        "locationType": 0,
+        "lon": -74.091307,
+        "name": "TARGEE ST/ROME AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201608",
+        "direction": "N",
+        "id": "MTA_201608",
+        "lat": 40.605822,
+        "locationType": 0,
+        "lon": -74.090891,
+        "name": "TARGEE ST/BALTIC AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201609",
+        "direction": "NE",
+        "id": "MTA_201609",
+        "lat": 40.607445,
+        "locationType": 0,
+        "lon": -74.089593,
+        "name": "TARGEE ST/CLOVE RD",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201611",
+        "direction": "NE",
+        "id": "MTA_201611",
+        "lat": 40.610909,
+        "locationType": 0,
+        "lon": -74.086061,
+        "name": "TARGEE ST/STEUBEN ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201612",
+        "direction": "N",
+        "id": "MTA_201612",
+        "lat": 40.612359,
+        "locationType": 0,
+        "lon": -74.085058,
+        "name": "TARGEE ST/PALMA DR",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201613",
+        "direction": "N",
+        "id": "MTA_201613",
+        "lat": 40.613883,
+        "locationType": 0,
+        "lon": -74.084703,
+        "name": "TARGEE ST/SOBEL CT",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201623",
+        "direction": "NE",
+        "id": "MTA_201623",
+        "lat": 40.631797,
+        "locationType": 0,
+        "lon": -74.077315,
+        "name": "VAN DUZER ST/BALTIC ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201638",
+        "direction": "S",
+        "id": "MTA_201638",
+        "lat": 40.629336,
+        "locationType": 0,
+        "lon": -74.076689,
+        "name": "BAY ST/SANDS ST",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201649",
+        "direction": "SW",
+        "id": "MTA_201649",
+        "lat": 40.611794,
+        "locationType": 0,
+        "lon": -74.088349,
+        "name": "RICHMOND RD/LONGVIEW RD",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201650",
+        "direction": "SW",
+        "id": "MTA_201650",
+        "lat": 40.60889,
+        "locationType": 0,
+        "lon": -74.09078,
+        "name": "RICHMOND RD/NARROWS RD SOUTH",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S84",
+            "MTA NYCT_S86"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201651",
+        "direction": "SW",
+        "id": "MTA_201651",
+        "lat": 40.607187,
+        "locationType": 0,
+        "lon": -74.092384,
+        "name": "RICHMOND RD/DOUGLAS RD",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S86",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201653",
+        "direction": "S",
+        "id": "MTA_201653",
+        "lat": 40.602935,
+        "locationType": 0,
+        "lon": -74.092738,
+        "name": "RICHMOND RD/SPRING ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S86"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201654",
+        "direction": "S",
+        "id": "MTA_201654",
+        "lat": 40.601555,
+        "locationType": 0,
+        "lon": -74.092938,
+        "name": "RICHMOND RD/ROME AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S86",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201655",
+        "direction": "SE",
+        "id": "MTA_201655",
+        "lat": 40.599703,
+        "locationType": 0,
+        "lon": -74.092042,
+        "name": "RICHMOND RD/TARGEE ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S86"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201656",
+        "direction": "SW",
+        "id": "MTA_201656",
+        "lat": 40.598305,
+        "locationType": 0,
+        "lon": -74.092199,
+        "name": "RICHMOND RD/HUNTON ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S86"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201658",
+        "direction": "W",
+        "id": "MTA_201658",
+        "lat": 40.596258,
+        "locationType": 0,
+        "lon": -74.095235,
+        "name": "RICHMOND RD/MARK ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S86"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201659",
+        "direction": "SW",
+        "id": "MTA_201659",
+        "lat": 40.595224,
+        "locationType": 0,
+        "lon": -74.09761,
+        "name": "RICHMOND RD/BURGHER AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S86"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201662",
+        "direction": "S",
+        "id": "MTA_201662",
+        "lat": 40.59058,
+        "locationType": 0,
+        "lon": -74.10093,
+        "name": "RICHMOND RD/FOUR CORNERS RD",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S86",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201663",
+        "direction": "SW",
+        "id": "MTA_201663",
+        "lat": 40.589089,
+        "locationType": 0,
+        "lon": -74.101839,
+        "name": "RICHMOND RD/BUEL AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S86"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201664",
+        "direction": "SW",
+        "id": "MTA_201664",
+        "lat": 40.587184,
+        "locationType": 0,
+        "lon": -74.103899,
+        "name": "RICHMOND RD/STROBE AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S86"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201665",
+        "direction": "SW",
+        "id": "MTA_201665",
+        "lat": 40.585168,
+        "locationType": 0,
+        "lon": -74.106279,
+        "name": "RICHMOND RD/HULL AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S86",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202066",
+        "direction": "NE",
+        "id": "MTA_202066",
+        "lat": 40.513577,
+        "locationType": 0,
+        "lon": -74.247353,
+        "name": "ARTHUR KILL RD/YETMAN AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202067",
+        "direction": "NE",
+        "id": "MTA_202067",
+        "lat": 40.514574,
+        "locationType": 0,
+        "lon": -74.245867,
+        "name": "ARTHUR KILL RD/WOOD AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202068",
+        "direction": "E",
+        "id": "MTA_202068",
+        "lat": 40.516004,
+        "locationType": 0,
+        "lon": -74.242632,
+        "name": "ARTHUR KILL RD/ARTHUR KILL STATION",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202069",
+        "direction": "N",
+        "id": "MTA_202069",
+        "lat": 40.519025,
+        "locationType": 0,
+        "lon": -74.240086,
+        "name": "ARTHUR KILL RD/NASSAU PL",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202073",
+        "direction": "N",
+        "id": "MTA_202073",
+        "lat": 40.528511,
+        "locationType": 0,
+        "lon": -74.239275,
+        "name": "ARTHUR KILL RD/VETERANS RD WEST",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202076",
+        "direction": "N",
+        "id": "MTA_202076",
+        "lat": 40.538259,
+        "locationType": 0,
+        "lon": -74.237338,
+        "name": "ARTHUR KILL RD/SHARROTTS RD",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202078",
+        "direction": "N",
+        "id": "MTA_202078",
+        "lat": 40.541263,
+        "locationType": 0,
+        "lon": -74.237439,
+        "name": "ARTHUR KILL RD/ELLIS RD",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202079",
+        "direction": "NE",
+        "id": "MTA_202079",
+        "lat": 40.54247,
+        "locationType": 0,
+        "lon": -74.236407,
+        "name": "ARTHUR KILL RD/CLAY PIT RD",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202080",
+        "direction": "NE",
+        "id": "MTA_202080",
+        "lat": 40.545386,
+        "locationType": 0,
+        "lon": -74.23052,
+        "name": "ARTHUR KILL RD/JOHNSON ST",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202083",
+        "direction": "E",
+        "id": "MTA_202083",
+        "lat": 40.547933,
+        "locationType": 0,
+        "lon": -74.226166,
+        "name": "ARTHUR KILL RD/BROADWAY STAGES STATEN ISLAND",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202084",
+        "direction": "SE",
+        "id": "MTA_202084",
+        "lat": 40.550049,
+        "locationType": 0,
+        "lon": -74.221328,
+        "name": "ARTHUR KILL RD/BLOOMINGDALE RD",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202089",
+        "direction": "E",
+        "id": "MTA_202089",
+        "lat": 40.557499,
+        "locationType": 0,
+        "lon": -74.207278,
+        "name": "ARTHUR KILL RD/VETERANS RD WEST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202090",
+        "direction": "NE",
+        "id": "MTA_202090",
+        "lat": 40.557355,
+        "locationType": 0,
+        "lon": -74.199209,
+        "name": "ARTHUR KILL RD/CARLYLE GREEN",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202091",
+        "direction": "NE",
+        "id": "MTA_202091",
+        "lat": 40.559141,
+        "locationType": 0,
+        "lon": -74.197252,
+        "name": "ARTHUR KILL RD/ARDEN AV",
+        "routeIds": [
+            "MTA NYCT_S56",
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202094",
+        "direction": "E",
+        "id": "MTA_202094",
+        "lat": 40.565227,
+        "locationType": 0,
+        "lon": -74.181514,
+        "name": "ARTHUR KILL RD/WOODROW RD",
+        "routeIds": [
+            "MTA NYCT_S56",
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202095",
+        "direction": "SE",
+        "id": "MTA_202095",
+        "lat": 40.563465,
+        "locationType": 0,
+        "lon": -74.17719,
+        "name": "ARTHUR KILL RD/ANNADALE RD",
+        "routeIds": [
+            "MTA NYCT_S55",
+            "MTA NYCT_S56",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202096",
+        "direction": "E",
+        "id": "MTA_202096",
+        "lat": 40.562807,
+        "locationType": 0,
+        "lon": -74.175,
+        "name": "ARTHUR KILL RD/CROSSFIELD AV",
+        "routeIds": [
+            "MTA NYCT_S55",
+            "MTA NYCT_S56",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202099",
+        "direction": "NE",
+        "id": "MTA_202099",
+        "lat": 40.560899,
+        "locationType": 0,
+        "lon": -74.16228,
+        "name": "ARTHUR KILL RD/ARMSTRONG AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202100",
+        "direction": "E",
+        "id": "MTA_202100",
+        "lat": 40.561825,
+        "locationType": 0,
+        "lon": -74.15932,
+        "name": "ARTHUR KILL RD/COLON AV",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202101",
+        "direction": "E",
+        "id": "MTA_202101",
+        "lat": 40.562396,
+        "locationType": 0,
+        "lon": -74.157504,
+        "name": "ARTHUR KILL RD/ELVERTON AV",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202103",
+        "direction": "NE",
+        "id": "MTA_202103",
+        "lat": 40.566047,
+        "locationType": 0,
+        "lon": -74.153706,
+        "name": "ARTHUR KILL RD/GREAVES AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202121",
+        "direction": "NE",
+        "id": "MTA_202121",
+        "lat": 40.576798,
+        "locationType": 0,
+        "lon": -74.118228,
+        "name": "RICHMOND RD/STEELE AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202122",
+        "direction": "NE",
+        "id": "MTA_202122",
+        "lat": 40.577944,
+        "locationType": 0,
+        "lon": -74.117215,
+        "name": "RICHMOND RD/LOCUST AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202123",
+        "direction": "NE",
+        "id": "MTA_202123",
+        "lat": 40.579363,
+        "locationType": 0,
+        "lon": -74.11451,
+        "name": "RICHMOND RD/BANCROFT AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202124",
+        "direction": "NE",
+        "id": "MTA_202124",
+        "lat": 40.580481,
+        "locationType": 0,
+        "lon": -74.113353,
+        "name": "RICHMOND RD/GREELEY AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202125",
+        "direction": "NE",
+        "id": "MTA_202125",
+        "lat": 40.581152,
+        "locationType": 0,
+        "lon": -74.11226,
+        "name": "RICHMOND RD/LINCOLN AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202147",
+        "direction": "N",
+        "id": "MTA_202147",
+        "lat": 40.614879,
+        "locationType": 0,
+        "lon": -74.084618,
+        "name": "TARGEE ST/VANDERBILT AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202149",
+        "direction": "N",
+        "id": "MTA_202149",
+        "lat": 40.61929,
+        "locationType": 0,
+        "lon": -74.084631,
+        "name": "TARGEE ST/OSGOOD AV",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202150",
+        "direction": "N",
+        "id": "MTA_202150",
+        "lat": 40.620682,
+        "locationType": 0,
+        "lon": -74.08428,
+        "name": "TARGEE ST/YOUNG ST",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202151",
+        "direction": "N",
+        "id": "MTA_202151",
+        "lat": 40.622999,
+        "locationType": 0,
+        "lon": -74.083782,
+        "name": "TARGEE ST/BROAD ST",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202152",
+        "direction": "E",
+        "id": "MTA_202152",
+        "lat": 40.623623,
+        "locationType": 0,
+        "lon": -74.082392,
+        "name": "BROAD ST/GORDON ST",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202153",
+        "direction": "E",
+        "id": "MTA_202153",
+        "lat": 40.624338,
+        "locationType": 0,
+        "lon": -74.080149,
+        "name": "BROAD ST/TOMPKINS AV",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202176",
+        "direction": "W",
+        "id": "MTA_202176",
+        "lat": 40.624315,
+        "locationType": 0,
+        "lon": -74.080718,
+        "name": "BROAD ST/CEDAR ST",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202177",
+        "direction": "W",
+        "id": "MTA_202177",
+        "lat": 40.623531,
+        "locationType": 0,
+        "lon": -74.083199,
+        "name": "BROAD ST/GORDON ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202179",
+        "direction": "S",
+        "id": "MTA_202179",
+        "lat": 40.622369,
+        "locationType": 0,
+        "lon": -74.085406,
+        "name": "VAN DUZER ST/BROAD ST",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202180",
+        "direction": "S",
+        "id": "MTA_202180",
+        "lat": 40.621224,
+        "locationType": 0,
+        "lon": -74.085649,
+        "name": "VAN DUZER ST/YOUNG ST",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202181",
+        "direction": "S",
+        "id": "MTA_202181",
+        "lat": 40.620044,
+        "locationType": 0,
+        "lon": -74.085932,
+        "name": "VAN DUZER ST/OAKLAND TERR",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202182",
+        "direction": "S",
+        "id": "MTA_202182",
+        "lat": 40.618589,
+        "locationType": 0,
+        "lon": -74.086118,
+        "name": "VAN DUZER ST/BARING PL",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202184",
+        "direction": "SW",
+        "id": "MTA_202184",
+        "lat": 40.615681,
+        "locationType": 0,
+        "lon": -74.087652,
+        "name": "VAN DUZER ST/HILLSIDE AV",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202185",
+        "direction": "S",
+        "id": "MTA_202185",
+        "lat": 40.613738,
+        "locationType": 0,
+        "lon": -74.087392,
+        "name": "VAN DUZER ST/VANDERBILT AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202187",
+        "direction": "SW",
+        "id": "MTA_202187",
+        "lat": 40.610017,
+        "locationType": 0,
+        "lon": -74.089539,
+        "name": "RICHMOND RD/DE KALB ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202205",
+        "direction": "W",
+        "id": "MTA_202205",
+        "lat": 40.582282,
+        "locationType": 0,
+        "lon": -74.110271,
+        "name": "RICHMOND RD/MIDLAND AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S86"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202206",
+        "direction": "SW",
+        "id": "MTA_202206",
+        "lat": 40.581102,
+        "locationType": 0,
+        "lon": -74.112641,
+        "name": "RICHMOND RD/LINCOLN AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S86"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202207",
+        "direction": "SW",
+        "id": "MTA_202207",
+        "lat": 40.580404,
+        "locationType": 0,
+        "lon": -74.113691,
+        "name": "RICHMOND RD/TODT HILL RD",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S86",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202208",
+        "direction": "SW",
+        "id": "MTA_202208",
+        "lat": 40.578967,
+        "locationType": 0,
+        "lon": -74.115154,
+        "name": "RICHMOND RD/BANCROFT AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S86"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202209",
+        "direction": "SW",
+        "id": "MTA_202209",
+        "lat": 40.577638,
+        "locationType": 0,
+        "lon": -74.117819,
+        "name": "RICHMOND RD/ALTAMONT ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S86"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202210",
+        "direction": "SW",
+        "id": "MTA_202210",
+        "lat": 40.576397,
+        "locationType": 0,
+        "lon": -74.118861,
+        "name": "RICHMOND RD/STEELE AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S86"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202228",
+        "direction": "SW",
+        "id": "MTA_202228",
+        "lat": 40.564265,
+        "locationType": 0,
+        "lon": -74.155608,
+        "name": "ARTHUR KILL RD/GIFFORDS LN",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202229",
+        "direction": "SW",
+        "id": "MTA_202229",
+        "lat": 40.562863,
+        "locationType": 0,
+        "lon": -74.156965,
+        "name": "ARTHUR KILL RD/ELVERTON AV",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202230",
+        "direction": "W",
+        "id": "MTA_202230",
+        "lat": 40.56191,
+        "locationType": 0,
+        "lon": -74.159493,
+        "name": "ARTHUR KILL RD/BROOKFIELD AV",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202231",
+        "direction": "SW",
+        "id": "MTA_202231",
+        "lat": 40.561091,
+        "locationType": 0,
+        "lon": -74.162111,
+        "name": "ARTHUR KILL RD/ARMSTRONG AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202232",
+        "direction": "W",
+        "id": "MTA_202232",
+        "lat": 40.560184,
+        "locationType": 0,
+        "lon": -74.165168,
+        "name": "ARTHUR KILL RD/RIDGEWOOD AV",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202234",
+        "direction": "W",
+        "id": "MTA_202234",
+        "lat": 40.563064,
+        "locationType": 0,
+        "lon": -74.17567,
+        "name": "ARTHUR KILL RD/CROSSFIELD AV",
+        "routeIds": [
+            "MTA NYCT_S55",
+            "MTA NYCT_S56",
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202235",
+        "direction": "NW",
+        "id": "MTA_202235",
+        "lat": 40.563775,
+        "locationType": 0,
+        "lon": -74.177486,
+        "name": "ARTHUR KILL RD/ANNADALE RD",
+        "routeIds": [
+            "MTA NYCT_S56",
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202236",
+        "direction": "W",
+        "id": "MTA_202236",
+        "lat": 40.56518,
+        "locationType": 0,
+        "lon": -74.181085,
+        "name": "ARTHUR KILL RD/WOODROW RD",
+        "routeIds": [
+            "MTA NYCT_S56",
+            "MTA NYCT_S74",
+            "MTA NYCT_S84",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202237",
+        "direction": "W",
+        "id": "MTA_202237",
+        "lat": 40.562649,
+        "locationType": 0,
+        "lon": -74.191986,
+        "name": "ARTHUR KILL RD/ARDEN HEIGHTS PLAZA",
+        "routeIds": [
+            "MTA NYCT_S56",
+            "MTA NYCT_S74",
+            "MTA NYCT_S84",
+            "MTA NYCT_SIM4C"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202239",
+        "direction": "SW",
+        "id": "MTA_202239",
+        "lat": 40.558578,
+        "locationType": 0,
+        "lon": -74.198122,
+        "name": "ARTHUR KILL RD/ARDEN AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84",
+            "MTA NYCT_SIM2",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202240",
+        "direction": "SW",
+        "id": "MTA_202240",
+        "lat": 40.556978,
+        "locationType": 0,
+        "lon": -74.199755,
+        "name": "ARTHUR KILL RD/CARLYLE GREEN",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202241",
+        "direction": "NW",
+        "id": "MTA_202241",
+        "lat": 40.556689,
+        "locationType": 0,
+        "lon": -74.203998,
+        "name": "ARTHUR KILL RD EAST/VETERANS RD EAST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202242",
+        "direction": "W",
+        "id": "MTA_202242",
+        "lat": 40.557636,
+        "locationType": 0,
+        "lon": -74.207172,
+        "name": "ARTHUR KILL RD/WEST SERVICE RD",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84",
+            "MTA NYCT_SIM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202248",
+        "direction": "W",
+        "id": "MTA_202248",
+        "lat": 40.548062,
+        "locationType": 0,
+        "lon": -74.226291,
+        "name": "ARTHUR KILL RD/BROADWAY STAGES STATEN ISLAND",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202249",
+        "direction": "SW",
+        "id": "MTA_202249",
+        "lat": 40.545251,
+        "locationType": 0,
+        "lon": -74.230926,
+        "name": "ARTHUR KILL RD/JOHNSON ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202253",
+        "direction": "S",
+        "id": "MTA_202253",
+        "lat": 40.537961,
+        "locationType": 0,
+        "lon": -74.237373,
+        "name": "ARTHUR KILL RD/SHARROTTS RD",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202254",
+        "direction": "SE",
+        "id": "MTA_202254",
+        "lat": 40.536255,
+        "locationType": 0,
+        "lon": -74.237425,
+        "name": "ARTHUR KILL RD/WINANT PL",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202255",
+        "direction": "SW",
+        "id": "MTA_202255",
+        "lat": 40.534544,
+        "locationType": 0,
+        "lon": -74.236109,
+        "name": "ARTHUR KILL RD/ANDROVETTE ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202256",
+        "direction": "S",
+        "id": "MTA_202256",
+        "lat": 40.527897,
+        "locationType": 0,
+        "lon": -74.239431,
+        "name": "ARTHUR KILL RD/ALLENTOWN LN",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202260",
+        "direction": "S",
+        "id": "MTA_202260",
+        "lat": 40.518555,
+        "locationType": 0,
+        "lon": -74.240365,
+        "name": "ARTHUR KILL RD/NASSAU PL",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202262",
+        "direction": "SW",
+        "id": "MTA_202262",
+        "lat": 40.514835,
+        "locationType": 0,
+        "lon": -74.245743,
+        "name": "ARTHUR KILL RD/WOOD AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202263",
+        "direction": "SW",
+        "id": "MTA_202263",
+        "lat": 40.513943,
+        "locationType": 0,
+        "lon": -74.247145,
+        "name": "ARTHUR KILL RD/YETMAN AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202264",
+        "direction": "SW",
+        "id": "MTA_202264",
+        "lat": 40.512443,
+        "locationType": 0,
+        "lon": -74.24995,
+        "name": "ARTHUR KILL RD/MAIN ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202289",
+        "direction": "SE",
+        "id": "MTA_202289",
+        "lat": 40.556295,
+        "locationType": 0,
+        "lon": -74.203767,
+        "name": "ARTHUR KILL RD/VETERANS RD EAST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM2",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM23",
+            "MTA NYCT_SIM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202453",
+        "direction": "SW",
+        "id": "MTA_202453",
+        "lat": 40.617249,
+        "locationType": 0,
+        "lon": -74.086584,
+        "name": "VAN DUZER ST/ROFF ST",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202572",
+        "direction": "W",
+        "id": "MTA_202572",
+        "lat": 40.575822,
+        "locationType": 0,
+        "lon": -74.120091,
+        "name": "RICHMOND RD/NEW DORP LN",
+        "routeIds": [
+            "MTA NYCT_S57",
+            "MTA NYCT_S74",
+            "MTA NYCT_S84",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202581",
+        "direction": "NE",
+        "id": "MTA_202581",
+        "lat": 40.584091,
+        "locationType": 0,
+        "lon": -74.107325,
+        "name": "RICHMOND RD/BARTON AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202610",
+        "direction": "SW",
+        "id": "MTA_202610",
+        "lat": 40.565392,
+        "locationType": 0,
+        "lon": -74.183782,
+        "name": "ARTHUR KILL RD/KENILWORTH AV",
+        "routeIds": [
+            "MTA NYCT_S56",
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202611",
+        "direction": "SW",
+        "id": "MTA_202611",
+        "lat": 40.566708,
+        "locationType": 0,
+        "lon": -74.153134,
+        "name": "ARTHUR KILL RD/CORBIN AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202620",
+        "direction": "NW",
+        "id": "MTA_202620",
+        "lat": 40.561897,
+        "locationType": 0,
+        "lon": -74.172438,
+        "name": "ARTHUR KILL RD/LADD AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202628",
+        "direction": "SW",
+        "id": "MTA_202628",
+        "lat": 40.555902,
+        "locationType": 0,
+        "lon": -74.2133,
+        "name": "ARTHUR KILL RD/VERIZON FACILITY",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202651",
+        "direction": "E",
+        "id": "MTA_202651",
+        "lat": 40.572037,
+        "locationType": 0,
+        "lon": -74.143805,
+        "name": "RICHMOND RD/ST PATRICKS PL",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202724",
+        "direction": "NE",
+        "id": "MTA_202724",
+        "lat": 40.56699,
+        "locationType": 0,
+        "lon": -74.152587,
+        "name": "ARTHUR KILL RD/CORBIN AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202725",
+        "direction": "SW",
+        "id": "MTA_202725",
+        "lat": 40.568674,
+        "locationType": 0,
+        "lon": -74.150795,
+        "name": "ARTHUR KILL RD/FRANKLIN LN",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202726",
+        "direction": "SW",
+        "id": "MTA_202726",
+        "lat": 40.565163,
+        "locationType": 0,
+        "lon": -74.155103,
+        "name": "ARTHUR KILL RD/MILES AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202788",
+        "direction": "NE",
+        "id": "MTA_202788",
+        "lat": 40.626381,
+        "locationType": 0,
+        "lon": -74.078046,
+        "name": "CANAL ST/CANAL ST",
+        "routeIds": [
+            "MTA NYCT_S52",
+            "MTA NYCT_S74",
+            "MTA NYCT_S78",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202800",
+        "direction": "NE",
+        "id": "MTA_202800",
+        "lat": 40.570486,
+        "locationType": 0,
+        "lon": -74.148319,
+        "name": "ARTHUR KILL RD/UNITED HEBREW CEMETERY",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202861",
+        "direction": "E",
+        "id": "MTA_202861",
+        "lat": 40.564147,
+        "locationType": 0,
+        "lon": -74.186488,
+        "name": "ARTHUR KILL RD/SAINT JOHN NEWMANN",
+        "routeIds": [
+            "MTA NYCT_S56",
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202864",
+        "direction": "W",
+        "id": "MTA_202864",
+        "lat": 40.64323,
+        "locationType": 0,
+        "lon": -74.073714,
+        "name": "SAINT GEORGE FERRY/RAMP B S74 & S84",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202933",
+        "direction": "W",
+        "id": "MTA_202933",
+        "lat": 40.572831,
+        "locationType": 0,
+        "lon": -74.138458,
+        "name": "RICHMOND RD/SPRUCE ST",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203012",
+        "direction": "NE",
+        "id": "MTA_203012",
+        "lat": 40.575129,
+        "locationType": 0,
+        "lon": -74.121273,
+        "name": "RICHMOND RD/ROSE AV",
+        "routeIds": [
+            "MTA NYCT_S57",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203057",
+        "direction": "NE",
+        "id": "MTA_203057",
+        "lat": 40.597221,
+        "locationType": 0,
+        "lon": -74.092946,
+        "name": "RICHMOND RD/OLD TOWN RD",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203059",
+        "direction": "SW",
+        "id": "MTA_203059",
+        "lat": 40.594363,
+        "locationType": 0,
+        "lon": -74.099054,
+        "name": "RICHMOND RD/RARITAN AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S86",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203068",
+        "direction": "SE",
+        "id": "MTA_203068",
+        "lat": 40.510153,
+        "locationType": 0,
+        "lon": -74.248063,
+        "name": "MAIN ST/CRAIG AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203069",
+        "direction": "SE",
+        "id": "MTA_203069",
+        "lat": 40.51032,
+        "locationType": 0,
+        "lon": -74.248189,
+        "name": "MAIN ST/CRAIG AV",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203071",
+        "direction": "N",
+        "id": "MTA_203071",
+        "lat": 40.539973,
+        "locationType": 0,
+        "lon": -74.237502,
+        "name": "ARTHUR KILL RD/STORER AV",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203072",
+        "direction": "S",
+        "id": "MTA_203072",
+        "lat": 40.539509,
+        "locationType": 0,
+        "lon": -74.237591,
+        "name": "ARTHUR KILL RD/STORER AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203080",
+        "direction": "E",
+        "id": "MTA_203080",
+        "lat": 40.562504,
+        "locationType": 0,
+        "lon": -74.192186,
+        "name": "ARTHUR KILL RD/ARDEN HEIGHTS PLAZA",
+        "routeIds": [
+            "MTA NYCT_S56",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203093",
+        "direction": "E",
+        "id": "MTA_203093",
+        "lat": 40.560254,
+        "locationType": 0,
+        "lon": -74.166045,
+        "name": "ARTHUR KILL RD/RIDGEWOOD AV",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203113",
+        "direction": "NE",
+        "id": "MTA_203113",
+        "lat": 40.568815,
+        "locationType": 0,
+        "lon": -74.150335,
+        "name": "ARTHUR KILL RD/NEWVALE AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203118",
+        "direction": "NE",
+        "id": "MTA_203118",
+        "lat": 40.561213,
+        "locationType": 0,
+        "lon": -74.194977,
+        "name": "ARTHUR KILL RD/1666 ARTHUR KILL RD",
+        "routeIds": [
+            "MTA NYCT_S56",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203128",
+        "direction": "SW",
+        "id": "MTA_203128",
+        "lat": 40.597132,
+        "locationType": 0,
+        "lon": -74.093353,
+        "name": "RICHMOND RD/DELLWOOD RD",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S86",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203183",
+        "direction": "W",
+        "id": "MTA_203183",
+        "lat": 40.516268,
+        "locationType": 0,
+        "lon": -74.242277,
+        "name": "ARTHUR KILL RD/ARTHUR KILL STATION",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203190",
+        "direction": "S",
+        "id": "MTA_203190",
+        "lat": 40.634895,
+        "locationType": 0,
+        "lon": -74.075448,
+        "name": "BAY ST/VAN DUZER ST",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203204",
+        "direction": "N",
+        "id": "MTA_203204",
+        "lat": 40.603486,
+        "locationType": 0,
+        "lon": -74.091147,
+        "name": "TARGEE ST/NAPLES ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203208",
+        "direction": "SW",
+        "id": "MTA_203208",
+        "lat": 40.570945,
+        "locationType": 0,
+        "lon": -74.147924,
+        "name": "ARTHUR KILL RD/UNITED HEBREW CEMETERY",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203414",
+        "direction": "S",
+        "id": "MTA_203414",
+        "lat": 40.605266,
+        "locationType": 0,
+        "lon": -74.09268,
+        "name": "RICHMOND RD/EDGAR PL",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S86",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203449",
+        "direction": "W",
+        "id": "MTA_203449",
+        "lat": 40.54241,
+        "locationType": 0,
+        "lon": -74.236914,
+        "name": "ARTHUR KILL RD/CLAY PIT RD",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203450",
+        "direction": "S",
+        "id": "MTA_203450",
+        "lat": 40.532202,
+        "locationType": 0,
+        "lon": -74.239192,
+        "name": "ARTHUR KILL RD/KREISCHER ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203471",
+        "direction": "N",
+        "id": "MTA_203471",
+        "lat": 40.616882,
+        "locationType": 0,
+        "lon": -74.084729,
+        "name": "TARGEE ST/ROFF ST",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203517",
+        "direction": "S",
+        "id": "MTA_203517",
+        "lat": 40.551184,
+        "locationType": 0,
+        "lon": -74.211828,
+        "name": "ROSSVILLE AV/BARRY  ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84",
+            "MTA NYCT_SIM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203519",
+        "direction": "S",
+        "id": "MTA_203519",
+        "lat": 40.546671,
+        "locationType": 0,
+        "lon": -74.210048,
+        "name": "ROSSVILLE AV/CORRELL AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84",
+            "MTA NYCT_SIM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203521",
+        "direction": "W",
+        "id": "MTA_203521",
+        "lat": 40.541578,
+        "locationType": 0,
+        "lon": -74.210313,
+        "name": "WOODROW RD/HELIOS PL",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203522",
+        "direction": "W",
+        "id": "MTA_203522",
+        "lat": 40.541444,
+        "locationType": 0,
+        "lon": -74.21519,
+        "name": "WOODROW RD/WINANT AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203523",
+        "direction": "NW",
+        "id": "MTA_203523",
+        "lat": 40.541952,
+        "locationType": 0,
+        "lon": -74.217944,
+        "name": "BLOOMINGDALE RD/KRAMER AV",
+        "routeIds": [
+            "MTA NYCT_S55",
+            "MTA NYCT_S74",
+            "MTA NYCT_S84",
+            "MTA NYCT_SIM26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203524",
+        "direction": "N",
+        "id": "MTA_203524",
+        "lat": 40.545378,
+        "locationType": 0,
+        "lon": -74.21929,
+        "name": "BLOOMINGDALE RD/CORRELL AV",
+        "routeIds": [
+            "MTA NYCT_S55",
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203525",
+        "direction": "NW",
+        "id": "MTA_203525",
+        "lat": 40.548214,
+        "locationType": 0,
+        "lon": -74.220386,
+        "name": "BLOOMINGDALE RD/VETERANS RD EAST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203526",
+        "direction": "SE",
+        "id": "MTA_203526",
+        "lat": 40.547964,
+        "locationType": 0,
+        "lon": -74.220533,
+        "name": "BLOOMINGDALE RD/VETERANS RD EAST",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203527",
+        "direction": "S",
+        "id": "MTA_203527",
+        "lat": 40.544415,
+        "locationType": 0,
+        "lon": -74.219143,
+        "name": "BLOOMINGDALE RD/SHIEL AV",
+        "routeIds": [
+            "MTA NYCT_S55",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203528",
+        "direction": "SE",
+        "id": "MTA_203528",
+        "lat": 40.542012,
+        "locationType": 0,
+        "lon": -74.218189,
+        "name": "BLOOMINGDALE RD/OPP KRAMER AV",
+        "routeIds": [
+            "MTA NYCT_S55",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203531",
+        "direction": "N",
+        "id": "MTA_203531",
+        "lat": 40.542654,
+        "locationType": 0,
+        "lon": -74.208324,
+        "name": "ROSSVILLE AV/WOODROW RD",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203532",
+        "direction": "N",
+        "id": "MTA_203532",
+        "lat": 40.546365,
+        "locationType": 0,
+        "lon": -74.20978,
+        "name": "ROSSVILLE AV/CORRELL AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203533",
+        "direction": "NW",
+        "id": "MTA_203533",
+        "lat": 40.549848,
+        "locationType": 0,
+        "lon": -74.211097,
+        "name": "ROSSVILLE AV/SELKIRK ST",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203534",
+        "direction": "N",
+        "id": "MTA_203534",
+        "lat": 40.551878,
+        "locationType": 0,
+        "lon": -74.211891,
+        "name": "ROSSVILLE AV/POND ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203536",
+        "direction": "SW",
+        "id": "MTA_203536",
+        "lat": 40.549712,
+        "locationType": 0,
+        "lon": -74.222255,
+        "name": "ARTHUR KILL RD/BLOOMINGDALE RD",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203542",
+        "direction": "N",
+        "id": "MTA_203542",
+        "lat": 40.521197,
+        "locationType": 0,
+        "lon": -74.239418,
+        "name": "ARTHUR KILL RD/RICHMOND VALLEY RD",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203543",
+        "direction": "N",
+        "id": "MTA_203543",
+        "lat": 40.522587,
+        "locationType": 0,
+        "lon": -74.239023,
+        "name": "ARTHUR KILL RD/MAJOR LEAGUE PLAZA",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203544",
+        "direction": "N",
+        "id": "MTA_203544",
+        "lat": 40.524766,
+        "locationType": 0,
+        "lon": -74.239194,
+        "name": "ARTHUR KILL RD/SOUTH BRIDGE ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203545",
+        "direction": "NE",
+        "id": "MTA_203545",
+        "lat": 40.533848,
+        "locationType": 0,
+        "lon": -74.236686,
+        "name": "ARTHUR KILL RD/ENGLEWOOD AV",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203546",
+        "direction": "N",
+        "id": "MTA_203546",
+        "lat": 40.536564,
+        "locationType": 0,
+        "lon": -74.237379,
+        "name": "ARTHUR KILL RD/WINANT PL",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203547",
+        "direction": "SW",
+        "id": "MTA_203547",
+        "lat": 40.583805,
+        "locationType": 0,
+        "lon": -74.107883,
+        "name": "RICHMOND RD/HUNTER AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S86"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203548",
+        "direction": "S",
+        "id": "MTA_203548",
+        "lat": 40.541255,
+        "locationType": 0,
+        "lon": -74.237601,
+        "name": "ARTHUR KILL RD/ELLIS RD",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203549",
+        "direction": "S",
+        "id": "MTA_203549",
+        "lat": 40.525086,
+        "locationType": 0,
+        "lon": -74.239329,
+        "name": "ARTHUR KILL RD/SOUTH BRIDGE ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203550",
+        "direction": "S",
+        "id": "MTA_203550",
+        "lat": 40.521375,
+        "locationType": 0,
+        "lon": -74.239583,
+        "name": "ARTHUR KILL RD/RICHMOND VALLEY RD",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203551",
+        "direction": "N",
+        "id": "MTA_203551",
+        "lat": 40.544675,
+        "locationType": 0,
+        "lon": -74.209102,
+        "name": "ROSSVILLE AV/MASON BLVD",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203552",
+        "direction": "S",
+        "id": "MTA_203552",
+        "lat": 40.543992,
+        "locationType": 0,
+        "lon": -74.209042,
+        "name": "ROSSVILLE AV/MASON BLVD",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203569",
+        "direction": "SE",
+        "id": "MTA_203569",
+        "lat": 40.554914,
+        "locationType": 0,
+        "lon": -74.213283,
+        "name": "ROSSVILLE AV/VETERANS RD WEST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84",
+            "MTA NYCT_SIM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203570",
+        "direction": "N",
+        "id": "MTA_203570",
+        "lat": 40.554552,
+        "locationType": 0,
+        "lon": -74.212933,
+        "name": "ROSSVILLE AV/VETERANS RD EAST",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203572",
+        "direction": "E",
+        "id": "MTA_203572",
+        "lat": 40.54144,
+        "locationType": 0,
+        "lon": -74.210081,
+        "name": "WOODROW RD/LENEVAR AV",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203625",
+        "direction": "E",
+        "id": "MTA_203625",
+        "lat": 40.572539,
+        "locationType": 0,
+        "lon": -74.139746,
+        "name": "RICHMOND RD/MCKINLEY AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203638",
+        "direction": "NE",
+        "id": "MTA_203638",
+        "lat": 40.608788,
+        "locationType": 0,
+        "lon": -74.088223,
+        "name": "TARGEE ST/DE KALB ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203644",
+        "direction": "E",
+        "id": "MTA_203644",
+        "lat": 40.572927,
+        "locationType": 0,
+        "lon": -74.136482,
+        "name": "RICHMOND RD/ANDREWS AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203645",
+        "direction": "W",
+        "id": "MTA_203645",
+        "lat": 40.572458,
+        "locationType": 0,
+        "lon": -74.141224,
+        "name": "RICHMOND RD/LIGHTHOUSE AV",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203646",
+        "direction": "W",
+        "id": "MTA_203646",
+        "lat": 40.572036,
+        "locationType": 0,
+        "lon": -74.146706,
+        "name": "RICHMOND RD/ST PATRICKS PL",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203649",
+        "direction": "W",
+        "id": "MTA_203649",
+        "lat": 40.564356,
+        "locationType": 0,
+        "lon": -74.186377,
+        "name": "ARTHUR KILL RD/OPP ASPEN KNOLLS",
+        "routeIds": [
+            "MTA NYCT_S56",
+            "MTA NYCT_S74",
+            "MTA NYCT_S84",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203650",
+        "direction": "N",
+        "id": "MTA_203650",
+        "lat": 40.640614,
+        "locationType": 0,
+        "lon": -74.075665,
+        "name": "BAY ST/BOROUGH PL",
+        "routeIds": [
+            "MTA NYCT_S42",
+            "MTA NYCT_S46",
+            "MTA NYCT_S48",
+            "MTA NYCT_S51",
+            "MTA NYCT_S52",
+            "MTA NYCT_S61",
+            "MTA NYCT_S62",
+            "MTA NYCT_S66",
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S78",
+            "MTA NYCT_S91",
+            "MTA NYCT_S92",
+            "MTA NYCT_S96",
+            "MTA NYCT_S98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203655",
+        "direction": "NE",
+        "id": "MTA_203655",
+        "lat": 40.571396,
+        "locationType": 0,
+        "lon": -74.147209,
+        "name": "ARTHUR KILL RD/CENTER ST",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203665",
+        "direction": "SE",
+        "id": "MTA_203665",
+        "lat": 40.541806,
+        "locationType": 0,
+        "lon": -74.208114,
+        "name": "ROSSVILLE AV/WOODROW RD",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84",
+            "MTA NYCT_SIM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203672",
+        "direction": "E",
+        "id": "MTA_203672",
+        "lat": 40.576234,
+        "locationType": 0,
+        "lon": -74.126834,
+        "name": "RICHMOND RD/ROCKLAND AV",
+        "routeIds": [
+            "MTA NYCT_S57",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203688",
+        "direction": "NE",
+        "id": "MTA_203688",
+        "lat": 40.593578,
+        "locationType": 0,
+        "lon": -74.100074,
+        "name": "RICHMOND RD/NORDEN ST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203793",
+        "direction": "W",
+        "id": "MTA_203793",
+        "lat": 40.643483,
+        "locationType": 0,
+        "lon": -74.072927,
+        "name": "SAINT GEORGE FERRY/RAMP B",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S74",
+            "MTA NYCT_S76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203855",
+        "direction": "S",
+        "id": "MTA_203855",
+        "lat": 40.549168,
+        "locationType": 0,
+        "lon": -74.211048,
+        "name": "ROSSVILLE AV/WOOD CT",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "805015",
+        "direction": "W",
+        "id": "MTA_805015",
+        "lat": 40.643555,
+        "locationType": 0,
+        "lon": -74.073184,
+        "name": "SAINT GEORGE FERRY/RAMP C",
+        "routeIds": [
+            "MTA NYCT_S46",
+            "MTA NYCT_S74",
+            "MTA NYCT_S78",
+            "MTA NYCT_S96"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "905017",
+        "direction": "NW",
+        "id": "MTA_905017",
+        "lat": 40.569096,
+        "locationType": 0,
+        "lon": -74.106898,
+        "name": "NEW DORP LN/MILL RD",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "905046",
+        "direction": "S",
+        "id": "MTA_905046",
+        "lat": 40.560931,
+        "locationType": 0,
+        "lon": -74.171352,
+        "name": "ELTINGVILLE/TRANSIT CENTER",
+        "routeIds": [
+            "MTA NYCT_S55",
+            "MTA NYCT_S56",
+            "MTA NYCT_S59",
+            "MTA NYCT_S74",
+            "MTA NYCT_S89",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM6",
+            "MTA NYCT_SIM7",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM15",
+            "MTA NYCT_SIM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "905130",
+        "direction": "N",
+        "id": "MTA_905130",
+        "lat": 40.532369,
+        "locationType": 0,
+        "lon": -74.238953,
+        "name": "ARTHUR KILL RD/CHARLESTON DEPOT",
+        "routeIds": [
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "905179",
+        "direction": "E",
+        "id": "MTA_905179",
+        "lat": 40.52948,
+        "locationType": 0,
+        "lon": -74.231061,
+        "name": "BRICKTOWN MALL/SHOPPING CENTER",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S78",
+            "MTA NYCT_S84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "905180",
+        "direction": "S",
+        "id": "MTA_905180",
+        "lat": 40.528346,
+        "locationType": 0,
+        "lon": -74.230218,
+        "name": "BRICKTOWN MALL/SHOPPING CENTER",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

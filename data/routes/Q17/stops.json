@@ -1,0 +1,1539 @@
+[
+    {
+        "code": "500004",
+        "direction": "E",
+        "id": "MTA_500004",
+        "lat": 40.71144,
+        "locationType": 0,
+        "lon": -73.790887,
+        "name": "HILLSIDE AV/171 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500008",
+        "direction": "E",
+        "id": "MTA_500008",
+        "lat": 40.713574,
+        "locationType": 0,
+        "lon": -73.77985,
+        "name": "HILLSIDE AV/182 PL",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500009",
+        "direction": "E",
+        "id": "MTA_500009",
+        "lat": 40.714085,
+        "locationType": 0,
+        "lon": -73.777516,
+        "name": "HILLSIDE AV/184 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500010",
+        "direction": "E",
+        "id": "MTA_500010",
+        "lat": 40.714481,
+        "locationType": 0,
+        "lon": -73.775904,
+        "name": "HILLSIDE AV/187 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500081",
+        "direction": "W",
+        "id": "MTA_500081",
+        "lat": 40.714768,
+        "locationType": 0,
+        "lon": -73.775267,
+        "name": "HILLSIDE AV/187 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500082",
+        "direction": "W",
+        "id": "MTA_500082",
+        "lat": 40.714049,
+        "locationType": 0,
+        "lon": -73.778431,
+        "name": "HILLSIDE AV/DALNY RD",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500197",
+        "direction": "W",
+        "id": "MTA_500197",
+        "lat": 40.712223,
+        "locationType": 0,
+        "lon": -73.785799,
+        "name": "HILLSIDE AV/EDGERTON BLVD",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501324",
+        "direction": "E",
+        "id": "MTA_501324",
+        "lat": 40.712275,
+        "locationType": 0,
+        "lon": -73.784937,
+        "name": "HILLSIDE AV/178 ST",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501328",
+        "direction": "NW",
+        "id": "MTA_501328",
+        "lat": 40.715709,
+        "locationType": 0,
+        "lon": -73.773797,
+        "name": "188 ST/87 DR",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501329",
+        "direction": "NW",
+        "id": "MTA_501329",
+        "lat": 40.717781,
+        "locationType": 0,
+        "lon": -73.774797,
+        "name": "188 ST/HENLEY RD",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501330",
+        "direction": "NW",
+        "id": "MTA_501330",
+        "lat": 40.71944,
+        "locationType": 0,
+        "lon": -73.775595,
+        "name": "188 ST/SOHO DR",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501331",
+        "direction": "NW",
+        "id": "MTA_501331",
+        "lat": 40.721292,
+        "locationType": 0,
+        "lon": -73.776487,
+        "name": "188 ST/MCLAUGHLIN AV",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501332",
+        "direction": "NW",
+        "id": "MTA_501332",
+        "lat": 40.723587,
+        "locationType": 0,
+        "lon": -73.778121,
+        "name": "188 ST/AVON RD",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501333",
+        "direction": "NW",
+        "id": "MTA_501333",
+        "lat": 40.726148,
+        "locationType": 0,
+        "lon": -73.779632,
+        "name": "188 ST/ABERDEEN RD",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501334",
+        "direction": "NW",
+        "id": "MTA_501334",
+        "lat": 40.727755,
+        "locationType": 0,
+        "lon": -73.780388,
+        "name": "188 ST/81 AV",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501335",
+        "direction": "NW",
+        "id": "MTA_501335",
+        "lat": 40.729085,
+        "locationType": 0,
+        "lon": -73.781007,
+        "name": "188 ST/UNION TPKE",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501336",
+        "direction": "SE",
+        "id": "MTA_501336",
+        "lat": 40.731552,
+        "locationType": 0,
+        "lon": -73.782176,
+        "name": "188 ST/75 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501337",
+        "direction": "NW",
+        "id": "MTA_501337",
+        "lat": 40.733027,
+        "locationType": 0,
+        "lon": -73.782878,
+        "name": "188 ST/73 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501338",
+        "direction": "NW",
+        "id": "MTA_501338",
+        "lat": 40.735606,
+        "locationType": 0,
+        "lon": -73.783923,
+        "name": "188 ST/69 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501339",
+        "direction": "N",
+        "id": "MTA_501339",
+        "lat": 40.739023,
+        "locationType": 0,
+        "lon": -73.785464,
+        "name": "188 ST/64 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88",
+            "MTABC_QM1",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501340",
+        "direction": "NW",
+        "id": "MTA_501340",
+        "lat": 40.740543,
+        "locationType": 0,
+        "lon": -73.786419,
+        "name": "188 ST/HORACE HARDING EXPWY",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501341",
+        "direction": "W",
+        "id": "MTA_501341",
+        "lat": 40.741033,
+        "locationType": 0,
+        "lon": -73.787316,
+        "name": "HORACE HARDING EXPWY/188 ST",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q30",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501342",
+        "direction": "W",
+        "id": "MTA_501342",
+        "lat": 40.740453,
+        "locationType": 0,
+        "lon": -73.789437,
+        "name": "HORACE HARDING EXPWY/185 ST",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q30",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501343",
+        "direction": "W",
+        "id": "MTA_501343",
+        "lat": 40.739834,
+        "locationType": 0,
+        "lon": -73.791693,
+        "name": "HORACE HARDING EXPWY/183 ST",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q30",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501345",
+        "direction": "W",
+        "id": "MTA_501345",
+        "lat": 40.738566,
+        "locationType": 0,
+        "lon": -73.796832,
+        "name": "HORACE HARDING EXPWY/FRESH MEADOW LN",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501346",
+        "direction": "W",
+        "id": "MTA_501346",
+        "lat": 40.738541,
+        "locationType": 0,
+        "lon": -73.799499,
+        "name": "HORACE HARDING EXPWY/170 ST",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501347",
+        "direction": "W",
+        "id": "MTA_501347",
+        "lat": 40.738607,
+        "locationType": 0,
+        "lon": -73.801289,
+        "name": "HORACE HARDING EXPWY/168 ST",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501348",
+        "direction": "W",
+        "id": "MTA_501348",
+        "lat": 40.738728,
+        "locationType": 0,
+        "lon": -73.804467,
+        "name": "HORACE HARDING EXPWY/164 ST",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501349",
+        "direction": "W",
+        "id": "MTA_501349",
+        "lat": 40.738875,
+        "locationType": 0,
+        "lon": -73.806979,
+        "name": "HORACE HARDING EXPWY/162 ST",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501350",
+        "direction": "W",
+        "id": "MTA_501350",
+        "lat": 40.738856,
+        "locationType": 0,
+        "lon": -73.808812,
+        "name": "HORACE HARDING EXPWY/160 ST",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501351",
+        "direction": "W",
+        "id": "MTA_501351",
+        "lat": 40.738936,
+        "locationType": 0,
+        "lon": -73.8108,
+        "name": "HORACE HARDING EXPWY/PARSONS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501352",
+        "direction": "W",
+        "id": "MTA_501352",
+        "lat": 40.739011,
+        "locationType": 0,
+        "lon": -73.812676,
+        "name": "HORACE HARDING EXPWY/156 ST",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501353",
+        "direction": "N",
+        "id": "MTA_501353",
+        "lat": 40.739497,
+        "locationType": 0,
+        "lon": -73.815013,
+        "name": "KISSENA BLVD/HORACE HARDING EXPWY",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501355",
+        "direction": "N",
+        "id": "MTA_501355",
+        "lat": 40.742499,
+        "locationType": 0,
+        "lon": -73.814355,
+        "name": "KISSENA BLVD/58 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501356",
+        "direction": "NW",
+        "id": "MTA_501356",
+        "lat": 40.746421,
+        "locationType": 0,
+        "lon": -73.814359,
+        "name": "KISSENA BLVD/ROSE AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501357",
+        "direction": "NW",
+        "id": "MTA_501357",
+        "lat": 40.747516,
+        "locationType": 0,
+        "lon": -73.815565,
+        "name": "KISSENA BLVD/POPLAR AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501358",
+        "direction": "NW",
+        "id": "MTA_501358",
+        "lat": 40.748541,
+        "locationType": 0,
+        "lon": -73.816749,
+        "name": "KISSENA BLVD/NEGUNDO AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501360",
+        "direction": "NW",
+        "id": "MTA_501360",
+        "lat": 40.750892,
+        "locationType": 0,
+        "lon": -73.819302,
+        "name": "KISSENA BLVD/HOLLY AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501361",
+        "direction": "NW",
+        "id": "MTA_501361",
+        "lat": 40.75251,
+        "locationType": 0,
+        "lon": -73.821069,
+        "name": "KISSENA BLVD/45 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTA NYCT_Q27",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501362",
+        "direction": "NW",
+        "id": "MTA_501362",
+        "lat": 40.754146,
+        "locationType": 0,
+        "lon": -73.823029,
+        "name": "KISSENA BLVD/CHERRY AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTA NYCT_Q27",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501363",
+        "direction": "NW",
+        "id": "MTA_501363",
+        "lat": 40.755104,
+        "locationType": 0,
+        "lon": -73.824171,
+        "name": "KISSENA BLVD/ASH AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTA NYCT_Q27",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501364",
+        "direction": "NW",
+        "id": "MTA_501364",
+        "lat": 40.756326,
+        "locationType": 0,
+        "lon": -73.825658,
+        "name": "KISSENA BLVD/MAPLE AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTA NYCT_Q27",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501365",
+        "direction": "NW",
+        "id": "MTA_501365",
+        "lat": 40.757451,
+        "locationType": 0,
+        "lon": -73.827565,
+        "name": "KISSENA BLVD/SANFORD AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTA NYCT_Q27",
+            "MTABC_Q34",
+            "MTABC_Q65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501369",
+        "direction": "SE",
+        "id": "MTA_501369",
+        "lat": 40.757921,
+        "locationType": 0,
+        "lon": -73.828629,
+        "name": "KISSENA BLVD/MAIN ST",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501370",
+        "direction": "SE",
+        "id": "MTA_501370",
+        "lat": 40.756909,
+        "locationType": 0,
+        "lon": -73.826851,
+        "name": "KISSENA BLVD/SANFORD AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTA NYCT_Q27",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501371",
+        "direction": "SE",
+        "id": "MTA_501371",
+        "lat": 40.755157,
+        "locationType": 0,
+        "lon": -73.824455,
+        "name": "KISSENA BLVD/FRANKLIN AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTA NYCT_Q27",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501372",
+        "direction": "SE",
+        "id": "MTA_501372",
+        "lat": 40.754385,
+        "locationType": 0,
+        "lon": -73.823537,
+        "name": "KISSENA BLVD/BEECH AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTA NYCT_Q27",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501373",
+        "direction": "SE",
+        "id": "MTA_501373",
+        "lat": 40.752856,
+        "locationType": 0,
+        "lon": -73.821725,
+        "name": "KISSENA BLVD/ELDER AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTA NYCT_Q27",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501374",
+        "direction": "SE",
+        "id": "MTA_501374",
+        "lat": 40.751943,
+        "locationType": 0,
+        "lon": -73.820663,
+        "name": "KISSENA BLVD/45 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTA NYCT_Q27",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501377",
+        "direction": "SE",
+        "id": "MTA_501377",
+        "lat": 40.748481,
+        "locationType": 0,
+        "lon": -73.816912,
+        "name": "KISSENA BLVD/MULBERRY AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501378",
+        "direction": "SE",
+        "id": "MTA_501378",
+        "lat": 40.74748,
+        "locationType": 0,
+        "lon": -73.815796,
+        "name": "KISSENA BLVD/OAK AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501379",
+        "direction": "SE",
+        "id": "MTA_501379",
+        "lat": 40.746158,
+        "locationType": 0,
+        "lon": -73.814313,
+        "name": "KISSENA BLVD/ROSE AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501380",
+        "direction": "S",
+        "id": "MTA_501380",
+        "lat": 40.742705,
+        "locationType": 0,
+        "lon": -73.814492,
+        "name": "KISSENA BLVD/BOOTH MEMORIAL AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501382",
+        "direction": "SW",
+        "id": "MTA_501382",
+        "lat": 40.739651,
+        "locationType": 0,
+        "lon": -73.815222,
+        "name": "KISSENA BLVD/60 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501383",
+        "direction": "E",
+        "id": "MTA_501383",
+        "lat": 40.738522,
+        "locationType": 0,
+        "lon": -73.814522,
+        "name": "HORACE HARDING EXPWY/KISSENA BLVD",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501384",
+        "direction": "E",
+        "id": "MTA_501384",
+        "lat": 40.738329,
+        "locationType": 0,
+        "lon": -73.811899,
+        "name": "HORACE HARDING EXPWY/156 ST",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501385",
+        "direction": "E",
+        "id": "MTA_501385",
+        "lat": 40.73826,
+        "locationType": 0,
+        "lon": -73.809965,
+        "name": "HORACE HARDING EXPWY/PARSONS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501386",
+        "direction": "E",
+        "id": "MTA_501386",
+        "lat": 40.738188,
+        "locationType": 0,
+        "lon": -73.808067,
+        "name": "HORACE HARDING EXPWY/160 ST",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501387",
+        "direction": "E",
+        "id": "MTA_501387",
+        "lat": 40.738116,
+        "locationType": 0,
+        "lon": -73.806209,
+        "name": "HORACE HARDING EXPWY/162 ST",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501388",
+        "direction": "E",
+        "id": "MTA_501388",
+        "lat": 40.738038,
+        "locationType": 0,
+        "lon": -73.804141,
+        "name": "HORACE HARDING EXPWY/164 ST",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501389",
+        "direction": "E",
+        "id": "MTA_501389",
+        "lat": 40.738,
+        "locationType": 0,
+        "lon": -73.80233,
+        "name": "HORACE HARDING EXPWY/166 ST",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501390",
+        "direction": "E",
+        "id": "MTA_501390",
+        "lat": 40.737933,
+        "locationType": 0,
+        "lon": -73.800529,
+        "name": "HORACE HARDING EXPWY/168 ST",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501391",
+        "direction": "E",
+        "id": "MTA_501391",
+        "lat": 40.737867,
+        "locationType": 0,
+        "lon": -73.798718,
+        "name": "HORACE HARDING EXPWY/170 ST",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501392",
+        "direction": "E",
+        "id": "MTA_501392",
+        "lat": 40.737798,
+        "locationType": 0,
+        "lon": -73.796918,
+        "name": "HORACE HARDING EXPWY/172 ST",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501393",
+        "direction": "E",
+        "id": "MTA_501393",
+        "lat": 40.738171,
+        "locationType": 0,
+        "lon": -73.795282,
+        "name": "HORACE HARDING EXPWY/64 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501394",
+        "direction": "E",
+        "id": "MTA_501394",
+        "lat": 40.739005,
+        "locationType": 0,
+        "lon": -73.792231,
+        "name": "HORACE HARDING EXPWY/UTOPIA PKWY",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501395",
+        "direction": "E",
+        "id": "MTA_501395",
+        "lat": 40.73945,
+        "locationType": 0,
+        "lon": -73.790616,
+        "name": "HORACE HARDING EXPWY/183 ST",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q30",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501396",
+        "direction": "E",
+        "id": "MTA_501396",
+        "lat": 40.740178,
+        "locationType": 0,
+        "lon": -73.787972,
+        "name": "HORACE HARDING EXPWY/186 ST",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q30",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501397",
+        "direction": "SE",
+        "id": "MTA_501397",
+        "lat": 40.740274,
+        "locationType": 0,
+        "lon": -73.78655,
+        "name": "188 ST/HORACE HARDING EXPWY",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501398",
+        "direction": "SE",
+        "id": "MTA_501398",
+        "lat": 40.738736,
+        "locationType": 0,
+        "lon": -73.785956,
+        "name": "188 ST/64 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501399",
+        "direction": "SE",
+        "id": "MTA_501399",
+        "lat": 40.73622,
+        "locationType": 0,
+        "lon": -73.78465,
+        "name": "188 ST/186 LN",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM7",
+            "MTABC_QM31",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501400",
+        "direction": "SE",
+        "id": "MTA_501400",
+        "lat": 40.734087,
+        "locationType": 0,
+        "lon": -73.783564,
+        "name": "188 ST/186 LN #2",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501401",
+        "direction": "SE",
+        "id": "MTA_501401",
+        "lat": 40.732777,
+        "locationType": 0,
+        "lon": -73.782965,
+        "name": "188 ST/73 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501402",
+        "direction": "",
+        "id": "MTA_501402",
+        "lat": 40.730934,
+        "locationType": 0,
+        "lon": -73.782087,
+        "name": "188 ST/75 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501403",
+        "direction": "SE",
+        "id": "MTA_501403",
+        "lat": 40.729335,
+        "locationType": 0,
+        "lon": -73.781331,
+        "name": "188 ST/UNION TPKE",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501404",
+        "direction": "SE",
+        "id": "MTA_501404",
+        "lat": 40.728079,
+        "locationType": 0,
+        "lon": -73.780744,
+        "name": "188 ST/80 RD",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501405",
+        "direction": "SE",
+        "id": "MTA_501405",
+        "lat": 40.726088,
+        "locationType": 0,
+        "lon": -73.779801,
+        "name": "188 ST/PERTH RD",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501406",
+        "direction": "SE",
+        "id": "MTA_501406",
+        "lat": 40.724629,
+        "locationType": 0,
+        "lon": -73.778976,
+        "name": "188 ST/MIDLAND PKWY",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501407",
+        "direction": "SE",
+        "id": "MTA_501407",
+        "lat": 40.722993,
+        "locationType": 0,
+        "lon": -73.777912,
+        "name": "188 ST/AVON RD",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501408",
+        "direction": "SE",
+        "id": "MTA_501408",
+        "lat": 40.721251,
+        "locationType": 0,
+        "lon": -73.776643,
+        "name": "188 ST/GRAND CENTRAL PKWY",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501409",
+        "direction": "SE",
+        "id": "MTA_501409",
+        "lat": 40.718396,
+        "locationType": 0,
+        "lon": -73.775245,
+        "name": "188 ST/HENLEY RD",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501410",
+        "direction": "SE",
+        "id": "MTA_501410",
+        "lat": 40.715517,
+        "locationType": 0,
+        "lon": -73.77387,
+        "name": "188 ST/WEXFORD TERR",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501414",
+        "direction": "W",
+        "id": "MTA_501414",
+        "lat": 40.71262,
+        "locationType": 0,
+        "lon": -73.783923,
+        "name": "HILLSIDE AV/MIDLAND PKWY",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501419",
+        "direction": "SW",
+        "id": "MTA_501419",
+        "lat": 40.71071,
+        "locationType": 0,
+        "lon": -73.793147,
+        "name": "HILLSIDE AV/169 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501903",
+        "direction": "E",
+        "id": "MTA_501903",
+        "lat": 40.710777,
+        "locationType": 0,
+        "lon": -73.792627,
+        "name": "HILLSIDE AV/169 ST",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503180",
+        "direction": "NW",
+        "id": "MTA_503180",
+        "lat": 40.708376,
+        "locationType": 0,
+        "lon": -73.793752,
+        "name": "168 ST/89 AV",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503195",
+        "direction": "W",
+        "id": "MTA_503195",
+        "lat": 40.711809,
+        "locationType": 0,
+        "lon": -73.790139,
+        "name": "HILLSIDE AV/172 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503273",
+        "direction": "SE",
+        "id": "MTA_503273",
+        "lat": 40.707237,
+        "locationType": 0,
+        "lon": -73.794994,
+        "name": "MERRICK BLVD/90 AV",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503674",
+        "direction": "NW",
+        "id": "MTA_503674",
+        "lat": 40.706734,
+        "locationType": 0,
+        "lon": -73.792644,
+        "name": "168 ST/JAMAICA AV",
+        "routeIds": [
+            "MTABC_Q06",
+            "MTABC_Q08",
+            "MTABC_Q09",
+            "MTA NYCT_Q17",
+            "MTABC_Q41"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503975",
+        "direction": "NW",
+        "id": "MTA_503975",
+        "lat": 40.709775,
+        "locationType": 0,
+        "lon": -73.794554,
+        "name": "168 ST/HILLSIDE AV",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504031",
+        "direction": "W",
+        "id": "MTA_504031",
+        "lat": 40.739256,
+        "locationType": 0,
+        "lon": -73.793803,
+        "name": "HORACE HARDING EXPWY/175 PL",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504040",
+        "direction": "N",
+        "id": "MTA_504040",
+        "lat": 40.737775,
+        "locationType": 0,
+        "lon": -73.79485,
+        "name": "174 ST/64 AV",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504081",
+        "direction": "SE",
+        "id": "MTA_504081",
+        "lat": 40.750904,
+        "locationType": 0,
+        "lon": -73.819543,
+        "name": "KISSENA BLVD/HOLLY AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505051",
+        "direction": "S",
+        "id": "MTA_505051",
+        "lat": 40.73994,
+        "locationType": 0,
+        "lon": -73.793003,
+        "name": "UTOPIA PKWY/59 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505213",
+        "direction": "NW",
+        "id": "MTA_505213",
+        "lat": 40.757283,
+        "locationType": 0,
+        "lon": -73.827206,
+        "name": "KISSENA BLVD/SANFORD AV",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505233",
+        "direction": "W",
+        "id": "MTA_505233",
+        "lat": 40.713535,
+        "locationType": 0,
+        "lon": -73.780431,
+        "name": "HILLSIDE AV/AVON ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505284",
+        "direction": "E",
+        "id": "MTA_505284",
+        "lat": 40.711852,
+        "locationType": 0,
+        "lon": -73.786805,
+        "name": "HILLSIDE AV/175 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804041",
+        "direction": "E",
+        "id": "MTA_804041",
+        "lat": 40.76022,
+        "locationType": 0,
+        "lon": -73.830035,
+        "name": "39 AV/MAIN ST",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804177",
+        "direction": "SE",
+        "id": "MTA_804177",
+        "lat": 40.70591,
+        "locationType": 0,
+        "lon": -73.794017,
+        "name": "MERRICK BLVD/JAMAICA AV",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804178",
+        "direction": "SE",
+        "id": "MTA_804178",
+        "lat": 40.705892,
+        "locationType": 0,
+        "lon": -73.794002,
+        "name": "MERRICK BLVD/JAMAICA AV",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904970",
+        "direction": "SE",
+        "id": "MTA_904970",
+        "lat": 40.760878,
+        "locationType": 0,
+        "lon": -73.830835,
+        "name": "MAIN ST/38 AV",
+        "routeIds": [
+            "MTA NYCT_Q17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

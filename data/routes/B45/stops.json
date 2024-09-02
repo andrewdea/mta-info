@@ -1,0 +1,843 @@
+[
+    {
+        "code": "301067",
+        "direction": "N",
+        "id": "MTA_301067",
+        "lat": 40.670684,
+        "locationType": 0,
+        "lon": -73.925307,
+        "name": "BUFFALO AV/SAINT JOHNS PL",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_B45",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302434",
+        "direction": "NE",
+        "id": "MTA_302434",
+        "lat": 40.693227,
+        "locationType": 0,
+        "lon": -73.990683,
+        "name": "JORALEMON ST/COURT ST",
+        "routeIds": [
+            "MTA NYCT_B26",
+            "MTA NYCT_B38",
+            "MTA NYCT_B41",
+            "MTA NYCT_B45",
+            "MTA NYCT_B52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303198",
+        "direction": "S",
+        "id": "MTA_303198",
+        "lat": 40.671111,
+        "locationType": 0,
+        "lon": -73.922445,
+        "name": "RALPH AV/STERLING PL",
+        "routeIds": [
+            "MTA NYCT_B45",
+            "MTA NYCT_B47",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303254",
+        "direction": "NW",
+        "id": "MTA_303254",
+        "lat": 40.684771,
+        "locationType": 0,
+        "lon": -73.977818,
+        "name": "FLATBUSH AV/ATLANTIC AV",
+        "routeIds": [
+            "MTA NYCT_B41",
+            "MTA NYCT_B45",
+            "MTA NYCT_B67"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303259",
+        "direction": "W",
+        "id": "MTA_303259",
+        "lat": 40.69047,
+        "locationType": 0,
+        "lon": -73.9877,
+        "name": "LIVINGSTON ST/SMITH ST",
+        "routeIds": [
+            "MTA NYCT_B41",
+            "MTA NYCT_B45",
+            "MTA NYCT_B67",
+            "MTABC_B103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303290",
+        "direction": "E",
+        "id": "MTA_303290",
+        "lat": 40.69022,
+        "locationType": 0,
+        "lon": -73.987469,
+        "name": "LIVINGSTON ST/SMITH ST",
+        "routeIds": [
+            "MTA NYCT_B45",
+            "MTA NYCT_B67",
+            "MTABC_B103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303294",
+        "direction": "E",
+        "id": "MTA_303294",
+        "lat": 40.687645,
+        "locationType": 0,
+        "lon": -73.980819,
+        "name": "LIVINGSTON ST/NEVINS ST",
+        "routeIds": [
+            "MTA NYCT_B41",
+            "MTA NYCT_B45",
+            "MTA NYCT_B67",
+            "MTABC_B103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303517",
+        "direction": "E",
+        "id": "MTA_303517",
+        "lat": 40.691341,
+        "locationType": 0,
+        "lon": -73.99088,
+        "name": "LIVINGSTON ST/COURT ST",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303524",
+        "direction": "SE",
+        "id": "MTA_303524",
+        "lat": 40.685406,
+        "locationType": 0,
+        "lon": -73.978525,
+        "name": "FLATBUSH AV/STATE ST",
+        "routeIds": [
+            "MTA NYCT_B45",
+            "MTA NYCT_B67"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303526",
+        "direction": "E",
+        "id": "MTA_303526",
+        "lat": 40.683769,
+        "locationType": 0,
+        "lon": -73.976996,
+        "name": "ATLANTIC AV/FLATBUSH AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303530",
+        "direction": "E",
+        "id": "MTA_303530",
+        "lat": 40.681559,
+        "locationType": 0,
+        "lon": -73.967208,
+        "name": "ATLANTIC AV/VANDERBILT AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303531",
+        "direction": "S",
+        "id": "MTA_303531",
+        "lat": 40.680669,
+        "locationType": 0,
+        "lon": -73.964429,
+        "name": "WASHINGTON AV/ATLANTIC AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303532",
+        "direction": "S",
+        "id": "MTA_303532",
+        "lat": 40.679483,
+        "locationType": 0,
+        "lon": -73.964164,
+        "name": "WASHINGTON AV/DEAN ST",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303533",
+        "direction": "S",
+        "id": "MTA_303533",
+        "lat": 40.678221,
+        "locationType": 0,
+        "lon": -73.963937,
+        "name": "WASHINGTON AV/BERGEN ST",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303534",
+        "direction": "S",
+        "id": "MTA_303534",
+        "lat": 40.676148,
+        "locationType": 0,
+        "lon": -73.963559,
+        "name": "WASHINGTON AV/PROSPECT PL",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303535",
+        "direction": "S",
+        "id": "MTA_303535",
+        "lat": 40.6742,
+        "locationType": 0,
+        "lon": -73.963167,
+        "name": "WASHINGTON AV/STERLING PL",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303536",
+        "direction": "E",
+        "id": "MTA_303536",
+        "lat": 40.673423,
+        "locationType": 0,
+        "lon": -73.962414,
+        "name": "SAINT JOHNS PL/WASHINGTON AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303537",
+        "direction": "E",
+        "id": "MTA_303537",
+        "lat": 40.672983,
+        "locationType": 0,
+        "lon": -73.960327,
+        "name": "SAINT JOHNS PL/CLASSON AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303539",
+        "direction": "E",
+        "id": "MTA_303539",
+        "lat": 40.671822,
+        "locationType": 0,
+        "lon": -73.954838,
+        "name": "SAINT JOHNS PL/BEDFORD AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303540",
+        "direction": "E",
+        "id": "MTA_303540",
+        "lat": 40.671712,
+        "locationType": 0,
+        "lon": -73.952671,
+        "name": "SAINT JOHNS PL/ROGERS AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303541",
+        "direction": "E",
+        "id": "MTA_303541",
+        "lat": 40.671593,
+        "locationType": 0,
+        "lon": -73.950469,
+        "name": "SAINT JOHNS PL/NOSTRAND AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303542",
+        "direction": "E",
+        "id": "MTA_303542",
+        "lat": 40.671394,
+        "locationType": 0,
+        "lon": -73.947232,
+        "name": "SAINT JOHNS PL/NEW YORK AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303544",
+        "direction": "E",
+        "id": "MTA_303544",
+        "lat": 40.671086,
+        "locationType": 0,
+        "lon": -73.941623,
+        "name": "SAINT JOHNS PL/KINGSTON AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303545",
+        "direction": "E",
+        "id": "MTA_303545",
+        "lat": 40.670937,
+        "locationType": 0,
+        "lon": -73.938851,
+        "name": "SAINT JOHNS PL/ALBANY AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303546",
+        "direction": "E",
+        "id": "MTA_303546",
+        "lat": 40.670787,
+        "locationType": 0,
+        "lon": -73.936097,
+        "name": "SAINT JOHNS PL/TROY AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303547",
+        "direction": "E",
+        "id": "MTA_303547",
+        "lat": 40.670665,
+        "locationType": 0,
+        "lon": -73.933844,
+        "name": "SAINT JOHNS PL/SCHENECTADY AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303548",
+        "direction": "E",
+        "id": "MTA_303548",
+        "lat": 40.670512,
+        "locationType": 0,
+        "lon": -73.931075,
+        "name": "SAINT JOHNS PL/UTICA AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303549",
+        "direction": "E",
+        "id": "MTA_303549",
+        "lat": 40.670332,
+        "locationType": 0,
+        "lon": -73.927727,
+        "name": "SAINT JOHNS PL/ROCHESTER AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303552",
+        "direction": "E",
+        "id": "MTA_303552",
+        "lat": 40.67377,
+        "locationType": 0,
+        "lon": -73.924316,
+        "name": "SAINT MARKS AV/BUFFALO AV",
+        "routeIds": [
+            "MTA NYCT_B45",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303556",
+        "direction": "S",
+        "id": "MTA_303556",
+        "lat": 40.670198,
+        "locationType": 0,
+        "lon": -73.922535,
+        "name": "RALPH AV/SAINT JOHNS PL",
+        "routeIds": [
+            "MTA NYCT_B45",
+            "MTA NYCT_B47",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303557",
+        "direction": "W",
+        "id": "MTA_303557",
+        "lat": 40.670227,
+        "locationType": 0,
+        "lon": -73.923231,
+        "name": "SAINT JOHNS PL/RALPH AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303558",
+        "direction": "W",
+        "id": "MTA_303558",
+        "lat": 40.670383,
+        "locationType": 0,
+        "lon": -73.925993,
+        "name": "SAINT JOHNS PL/BUFFALO AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303560",
+        "direction": "W",
+        "id": "MTA_303560",
+        "lat": 40.670647,
+        "locationType": 0,
+        "lon": -73.930816,
+        "name": "SAINT JOHNS PL/UTICA AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303561",
+        "direction": "W",
+        "id": "MTA_303561",
+        "lat": 40.67083,
+        "locationType": 0,
+        "lon": -73.934117,
+        "name": "SAINT JOHNS PL/SCHENECTADY AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303562",
+        "direction": "W",
+        "id": "MTA_303562",
+        "lat": 40.670988,
+        "locationType": 0,
+        "lon": -73.936889,
+        "name": "SAINT JOHNS PL/TROY AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303563",
+        "direction": "W",
+        "id": "MTA_303563",
+        "lat": 40.671124,
+        "locationType": 0,
+        "lon": -73.939661,
+        "name": "SAINT JOHNS PL/ALBANY AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303564",
+        "direction": "W",
+        "id": "MTA_303564",
+        "lat": 40.671248,
+        "locationType": 0,
+        "lon": -73.941878,
+        "name": "SAINT JOHNS PL/KINGSTON AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303565",
+        "direction": "W",
+        "id": "MTA_303565",
+        "lat": 40.671401,
+        "locationType": 0,
+        "lon": -73.94464,
+        "name": "SAINT JOHNS PL/BROOKLYN AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303566",
+        "direction": "W",
+        "id": "MTA_303566",
+        "lat": 40.671524,
+        "locationType": 0,
+        "lon": -73.947425,
+        "name": "SAINT JOHNS PL/NEW YORK AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303567",
+        "direction": "W",
+        "id": "MTA_303567",
+        "lat": 40.67168,
+        "locationType": 0,
+        "lon": -73.950198,
+        "name": "SAINT JOHNS PL/NOSTRAND AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303568",
+        "direction": "W",
+        "id": "MTA_303568",
+        "lat": 40.671833,
+        "locationType": 0,
+        "lon": -73.952967,
+        "name": "SAINT JOHNS PL/ROGERS AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303569",
+        "direction": "W",
+        "id": "MTA_303569",
+        "lat": 40.672865,
+        "locationType": 0,
+        "lon": -73.954732,
+        "name": "STERLING PL/BEDFORD AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303570",
+        "direction": "W",
+        "id": "MTA_303570",
+        "lat": 40.673424,
+        "locationType": 0,
+        "lon": -73.957396,
+        "name": "STERLING PL/FRANKLIN AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303572",
+        "direction": "W",
+        "id": "MTA_303572",
+        "lat": 40.674592,
+        "locationType": 0,
+        "lon": -73.96298,
+        "name": "STERLING PL/WASHINGTON AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303573",
+        "direction": "N",
+        "id": "MTA_303573",
+        "lat": 40.676901,
+        "locationType": 0,
+        "lon": -73.963497,
+        "name": "WASHINGTON AV/PROSPECT PL",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303574",
+        "direction": "N",
+        "id": "MTA_303574",
+        "lat": 40.678838,
+        "locationType": 0,
+        "lon": -73.963871,
+        "name": "WASHINGTON AV/BERGEN ST",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303575",
+        "direction": "N",
+        "id": "MTA_303575",
+        "lat": 40.680513,
+        "locationType": 0,
+        "lon": -73.964191,
+        "name": "WASHINGTON AV/PACIFIC ST",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303576",
+        "direction": "W",
+        "id": "MTA_303576",
+        "lat": 40.681425,
+        "locationType": 0,
+        "lon": -73.965429,
+        "name": "ATLANTIC AV/WAVERLY AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303577",
+        "direction": "W",
+        "id": "MTA_303577",
+        "lat": 40.682013,
+        "locationType": 0,
+        "lon": -73.968074,
+        "name": "ATLANTIC AV/VANDERBILT AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303578",
+        "direction": "W",
+        "id": "MTA_303578",
+        "lat": 40.682669,
+        "locationType": 0,
+        "lon": -73.971196,
+        "name": "ATLANTIC AV/CARLTON AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305582",
+        "direction": "E",
+        "id": "MTA_305582",
+        "lat": 40.673638,
+        "locationType": 0,
+        "lon": -73.922269,
+        "name": "SAINT MARKS AV/RALPH AV",
+        "routeIds": [
+            "MTA NYCT_B45",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306343",
+        "direction": "N",
+        "id": "MTA_306343",
+        "lat": 40.673264,
+        "locationType": 0,
+        "lon": -73.925056,
+        "name": "BUFFALO AV/PROSPECT PL",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_B45",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306665",
+        "direction": "E",
+        "id": "MTA_306665",
+        "lat": 40.6822,
+        "locationType": 0,
+        "lon": -73.970287,
+        "name": "ATLANTIC AV/CARLTON AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306894",
+        "direction": "W",
+        "id": "MTA_306894",
+        "lat": 40.670525,
+        "locationType": 0,
+        "lon": -73.928595,
+        "name": "SAINT JOHNS PL/ROCHESTER AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306901",
+        "direction": "E",
+        "id": "MTA_306901",
+        "lat": 40.689463,
+        "locationType": 0,
+        "lon": -73.985515,
+        "name": "LIVINGSTON ST/HOYT ST",
+        "routeIds": [
+            "MTA NYCT_B41",
+            "MTA NYCT_B45",
+            "MTA NYCT_B67",
+            "MTA NYCT_B93",
+            "MTABC_B103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308021",
+        "direction": "W",
+        "id": "MTA_308021",
+        "lat": 40.674017,
+        "locationType": 0,
+        "lon": -73.960247,
+        "name": "STERLING PL/CLASSON AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308425",
+        "direction": "E",
+        "id": "MTA_308425",
+        "lat": 40.671239,
+        "locationType": 0,
+        "lon": -73.944369,
+        "name": "SAINT JOHNS PL/BROOKLYN AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308547",
+        "direction": "E",
+        "id": "MTA_308547",
+        "lat": 40.672296,
+        "locationType": 0,
+        "lon": -73.957155,
+        "name": "SAINT JOHNS PL/FRANKLIN AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801026",
+        "direction": "E",
+        "id": "MTA_801026",
+        "lat": 40.691439,
+        "locationType": 0,
+        "lon": -73.991194,
+        "name": "LIVINGSTON ST/COURT ST",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801175",
+        "direction": "W",
+        "id": "MTA_801175",
+        "lat": 40.683056,
+        "locationType": 0,
+        "lon": -73.973505,
+        "name": "ATLANTIC AV/SOUTH PORTLAND AV",
+        "routeIds": [
+            "MTA NYCT_B45"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901731",
+        "direction": "W",
+        "id": "MTA_901731",
+        "lat": 40.688055,
+        "locationType": 0,
+        "lon": -73.981585,
+        "name": "LIVINGSTON ST/NEVINS ST",
+        "routeIds": [
+            "MTA NYCT_B41",
+            "MTA NYCT_B45",
+            "MTA NYCT_B67",
+            "MTABC_B103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901732",
+        "direction": "NW",
+        "id": "MTA_901732",
+        "lat": 40.689844,
+        "locationType": 0,
+        "lon": -73.986049,
+        "name": "LIVINGSTON ST/HOYT ST",
+        "routeIds": [
+            "MTA NYCT_B41",
+            "MTA NYCT_B45",
+            "MTA NYCT_B67",
+            "MTABC_B103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

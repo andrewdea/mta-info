@@ -1,0 +1,280 @@
+[
+    {
+        "code": "100742",
+        "direction": "NE",
+        "id": "MTA_100742",
+        "lat": 40.838422,
+        "locationType": 0,
+        "lon": -73.923294,
+        "name": "WOODYCREST AV/W 168 ST",
+        "routeIds": [
+            "MTA NYCT_BX18A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100743",
+        "direction": "N",
+        "id": "MTA_100743",
+        "lat": 40.839536,
+        "locationType": 0,
+        "lon": -73.922454,
+        "name": "SHAKESPEARE AV/W 169 ST",
+        "routeIds": [
+            "MTA NYCT_BX18A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100744",
+        "direction": "E",
+        "id": "MTA_100744",
+        "lat": 40.840265,
+        "locationType": 0,
+        "lon": -73.921646,
+        "name": "W 170 ST/EDWARD L GRANT HWY",
+        "routeIds": [
+            "MTA NYCT_BX18A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100745",
+        "direction": "E",
+        "id": "MTA_100745",
+        "lat": 40.84021,
+        "locationType": 0,
+        "lon": -73.917817,
+        "name": "W 170 ST/JEROME AV",
+        "routeIds": [
+            "MTA NYCT_BX18A",
+            "MTA NYCT_BX18B"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101285",
+        "direction": "NE",
+        "id": "MTA_101285",
+        "lat": 40.841671,
+        "locationType": 0,
+        "lon": -73.918042,
+        "name": "INWOOD AV/MACOMBS RD",
+        "routeIds": [
+            "MTA NYCT_BX18A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101286",
+        "direction": "N",
+        "id": "MTA_101286",
+        "lat": 40.844479,
+        "locationType": 0,
+        "lon": -73.917392,
+        "name": "MACOMBS RD/GOBLE PL",
+        "routeIds": [
+            "MTA NYCT_BX18A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101288",
+        "direction": "N",
+        "id": "MTA_101288",
+        "lat": 40.849149,
+        "locationType": 0,
+        "lon": -73.916029,
+        "name": "MACOMBS RD/W 176 ST",
+        "routeIds": [
+            "MTA NYCT_BX18A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101289",
+        "direction": "NW",
+        "id": "MTA_101289",
+        "lat": 40.850906,
+        "locationType": 0,
+        "lon": -73.915779,
+        "name": "WEST TREMONT AV/UNIVERSITY AV",
+        "routeIds": [
+            "MTA NYCT_BX18A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101290",
+        "direction": "W",
+        "id": "MTA_101290",
+        "lat": 40.852034,
+        "locationType": 0,
+        "lon": -73.916808,
+        "name": "WEST TREMONT AV/LORING PL SOUTH",
+        "routeIds": [
+            "MTA NYCT_BX18A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101294",
+        "direction": "SW",
+        "id": "MTA_101294",
+        "lat": 40.847579,
+        "locationType": 0,
+        "lon": -73.923251,
+        "name": "UNDERCLIFF AV/W 174 ST",
+        "routeIds": [
+            "MTA NYCT_BX18A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101295",
+        "direction": "SW",
+        "id": "MTA_101295",
+        "lat": 40.845071,
+        "locationType": 0,
+        "lon": -73.924631,
+        "name": "UNDERCLIFF AV/W 172 ST",
+        "routeIds": [
+            "MTA NYCT_BX18A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103019",
+        "direction": "SW",
+        "id": "MTA_103019",
+        "lat": 40.844087,
+        "locationType": 0,
+        "lon": -73.925382,
+        "name": "UNDERCLIFF AV/BOSCOBEL PL",
+        "routeIds": [
+            "MTA NYCT_BX18A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103034",
+        "direction": "W",
+        "id": "MTA_103034",
+        "lat": 40.840362,
+        "locationType": 0,
+        "lon": -73.917902,
+        "name": "E 170 ST/JEROME AV",
+        "routeIds": [
+            "MTA NYCT_BX18A",
+            "MTA NYCT_BX18B"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103541",
+        "direction": "SW",
+        "id": "MTA_103541",
+        "lat": 40.842892,
+        "locationType": 0,
+        "lon": -73.926796,
+        "name": "UNDERCLIFF AV/SEDGWICK AV",
+        "routeIds": [
+            "MTA NYCT_BX18A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103654",
+        "direction": "SW",
+        "id": "MTA_103654",
+        "lat": 40.852982,
+        "locationType": 0,
+        "lon": -73.91835,
+        "name": "SEDGWICK AV/WEST TREMONT AV",
+        "routeIds": [
+            "MTA NYCT_BX18A",
+            "MTA NYCT_BX40",
+            "MTA NYCT_BX42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "802165",
+        "direction": "W",
+        "id": "MTA_802165",
+        "lat": 40.838728,
+        "locationType": 0,
+        "lon": -73.91349,
+        "name": "E 170 ST/GRAND CONCOURSE",
+        "routeIds": [
+            "MTA NYCT_BX18A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "802185",
+        "direction": "E",
+        "id": "MTA_802185",
+        "lat": 40.838452,
+        "locationType": 0,
+        "lon": -73.926092,
+        "name": "W 168 ST/OGDEN AV",
+        "routeIds": [
+            "MTA NYCT_BX18A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "902097",
+        "direction": "SW",
+        "id": "MTA_902097",
+        "lat": 40.849816,
+        "locationType": 0,
+        "lon": -73.921532,
+        "name": "UNDERCLIFF AV/W 176 ST",
+        "routeIds": [
+            "MTA NYCT_BX18A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "902169",
+        "direction": "E",
+        "id": "MTA_902169",
+        "lat": 40.838512,
+        "locationType": 0,
+        "lon": -73.913583,
+        "name": "E 170 ST/GRAND CONCOURSE",
+        "routeIds": [
+            "MTA NYCT_BX18A",
+            "MTA NYCT_BX18B"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "902196",
+        "direction": "NE",
+        "id": "MTA_902196",
+        "lat": 40.847141,
+        "locationType": 0,
+        "lon": -73.916292,
+        "name": "MACOMBS RD/W 174 ST",
+        "routeIds": [
+            "MTA NYCT_BX18A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "902202",
+        "direction": "E",
+        "id": "MTA_902202",
+        "lat": 40.838721,
+        "locationType": 0,
+        "lon": -73.928037,
+        "name": "W 168 ST/W 167 ST",
+        "routeIds": [
+            "MTA NYCT_BX18A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

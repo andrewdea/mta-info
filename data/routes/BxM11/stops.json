@@ -1,0 +1,616 @@
+[
+    {
+        "code": "102759",
+        "direction": "NE",
+        "id": "MTA_102759",
+        "lat": 40.883432,
+        "locationType": 0,
+        "lon": -73.862754,
+        "name": "WHITE PLAINS RD/E 219 ST",
+        "routeIds": [
+            "MTA NYCT_BX39",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102762",
+        "direction": "NE",
+        "id": "MTA_102762",
+        "lat": 40.88769,
+        "locationType": 0,
+        "lon": -73.860385,
+        "name": "WHITE PLAINS RD/E 225 ST",
+        "routeIds": [
+            "MTA NYCT_BX39",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102769",
+        "direction": "NE",
+        "id": "MTA_102769",
+        "lat": 40.898298,
+        "locationType": 0,
+        "lon": -73.854312,
+        "name": "WHITE PLAINS RD/NEREID AV",
+        "routeIds": [
+            "MTA NYCT_BX39",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102775",
+        "direction": "NW",
+        "id": "MTA_102775",
+        "lat": 40.901883,
+        "locationType": 0,
+        "lon": -73.847031,
+        "name": "E 241 ST/BAYCHESTER AV",
+        "routeIds": [
+            "MTA NYCT_BX39",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102786",
+        "direction": "SW",
+        "id": "MTA_102786",
+        "lat": 40.888234,
+        "locationType": 0,
+        "lon": -73.860297,
+        "name": "WHITE PLAINS RD/E 225 ST",
+        "routeIds": [
+            "MTA NYCT_BX8",
+            "MTA NYCT_BX39",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102789",
+        "direction": "SW",
+        "id": "MTA_102789",
+        "lat": 40.883665,
+        "locationType": 0,
+        "lon": -73.862833,
+        "name": "WHITE PLAINS RD/E 219 ST",
+        "routeIds": [
+            "MTA NYCT_BX39",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102793",
+        "direction": "SW",
+        "id": "MTA_102793",
+        "lat": 40.877829,
+        "locationType": 0,
+        "lon": -73.866304,
+        "name": "WHITE PLAINS RD/EAST GUN HILL RD",
+        "routeIds": [
+            "MTA NYCT_BX39",
+            "MTA NYCT_BX41",
+            "MTA NYCT_BX41+",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103050",
+        "direction": "E",
+        "id": "MTA_103050",
+        "lat": 40.899061,
+        "locationType": 0,
+        "lon": -73.846603,
+        "name": "NEREID AV/EDSON AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX39",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103299",
+        "direction": "S",
+        "id": "MTA_103299",
+        "lat": 40.871585,
+        "locationType": 0,
+        "lon": -73.86723,
+        "name": "WHITE PLAINS RD/BURKE AV",
+        "routeIds": [
+            "MTA NYCT_BX39",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103302",
+        "direction": "S",
+        "id": "MTA_103302",
+        "lat": 40.865566,
+        "locationType": 0,
+        "lon": -73.867415,
+        "name": "WHITE PLAINS RD/ALLERTON AV",
+        "routeIds": [
+            "MTA NYCT_BX39",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103330",
+        "direction": "N",
+        "id": "MTA_103330",
+        "lat": 40.865297,
+        "locationType": 0,
+        "lon": -73.867296,
+        "name": "WHITE PLAINS RD/ALLERTON AV",
+        "routeIds": [
+            "MTA NYCT_BX39",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103333",
+        "direction": "N",
+        "id": "MTA_103333",
+        "lat": 40.871294,
+        "locationType": 0,
+        "lon": -73.867107,
+        "name": "WHITE PLAINS RD/BURKE AV",
+        "routeIds": [
+            "MTA NYCT_BX39",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103362",
+        "direction": "SW",
+        "id": "MTA_103362",
+        "lat": 40.856574,
+        "locationType": 0,
+        "lon": -73.869468,
+        "name": "BOSTON RD/PELHAM PKWY",
+        "routeIds": [
+            "MTA NYCT_BX22",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103408",
+        "direction": "NE",
+        "id": "MTA_103408",
+        "lat": 40.877204,
+        "locationType": 0,
+        "lon": -73.866477,
+        "name": "WHITE PLAINS RD/EAST GUN HILL RD",
+        "routeIds": [
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103501",
+        "direction": "SW",
+        "id": "MTA_103501",
+        "lat": 40.898646,
+        "locationType": 0,
+        "lon": -73.85427,
+        "name": "WHITE PLAINS RD/NEREID AV",
+        "routeIds": [
+            "MTA NYCT_BX39",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103997",
+        "direction": "NW",
+        "id": "MTA_103997",
+        "lat": 40.903339,
+        "locationType": 0,
+        "lon": -73.850048,
+        "name": "E 241 ST/CRANFORD AV",
+        "routeIds": [
+            "MTA NYCT_BX39",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "150022",
+        "direction": "NE",
+        "id": "MTA_150022",
+        "lat": 40.858293,
+        "locationType": 0,
+        "lon": -73.86796,
+        "name": "BOSTON RD/THWAITES PL",
+        "routeIds": [
+            "MTA NYCT_BX30",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "150023",
+        "direction": "SW",
+        "id": "MTA_150023",
+        "lat": 40.858613,
+        "locationType": 0,
+        "lon": -73.86788,
+        "name": "BOSTON RD/THWAITES PL",
+        "routeIds": [
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "150034",
+        "direction": "NW",
+        "id": "MTA_150034",
+        "lat": 40.854262,
+        "locationType": 0,
+        "lon": -73.870764,
+        "name": "BRONX RIVER PKWY/BRONX ZOO ENTRANCE",
+        "routeIds": [
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "150129",
+        "direction": "SW",
+        "id": "MTA_150129",
+        "lat": 40.892925,
+        "locationType": 0,
+        "lon": -73.857872,
+        "name": "WHITE PLAINS RD/E 232 ST",
+        "routeIds": [
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "150130",
+        "direction": "NE",
+        "id": "MTA_150130",
+        "lat": 40.892664,
+        "locationType": 0,
+        "lon": -73.857797,
+        "name": "WHITE PLAINS RD/E 232 ST",
+        "routeIds": [
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "150148",
+        "direction": "NW",
+        "id": "MTA_150148",
+        "lat": 40.902945,
+        "locationType": 0,
+        "lon": -73.849042,
+        "name": "E 241 ST/BARNES AV",
+        "routeIds": [
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "150168",
+        "direction": "S",
+        "id": "MTA_150168",
+        "lat": 40.853637,
+        "locationType": 0,
+        "lon": -73.872369,
+        "name": "BRONX RIVER PKWY/BOSTON RD",
+        "routeIds": [
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400125",
+        "direction": "SW",
+        "id": "MTA_400125",
+        "lat": 40.770259,
+        "locationType": 0,
+        "lon": -73.968739,
+        "name": "5 AV/E 69 ST",
+        "routeIds": [
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTABC_BXM11",
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400353",
+        "direction": "NE",
+        "id": "MTA_400353",
+        "lat": 40.746763,
+        "locationType": 0,
+        "lon": -73.983626,
+        "name": "MADISON AV/E 32 ST",
+        "routeIds": [
+            "MTABC_BXM11",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404081",
+        "direction": "SW",
+        "id": "MTA_404081",
+        "lat": 40.789203,
+        "locationType": 0,
+        "lon": -73.954934,
+        "name": "5 AV/E 98 ST",
+        "routeIds": [
+            "MTABC_BXM2",
+            "MTABC_BXM11",
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_M106"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405049",
+        "direction": "SW",
+        "id": "MTA_405049",
+        "lat": 40.748922,
+        "locationType": 0,
+        "lon": -73.984296,
+        "name": "5 AV/W 35 ST",
+        "routeIds": [
+            "MTABC_BXM9",
+            "MTABC_BXM10",
+            "MTABC_BXM11",
+            "MTA NYCT_X27",
+            "MTA NYCT_X28",
+            "MTA NYCT_X37",
+            "MTA NYCT_X38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450035",
+        "direction": "NE",
+        "id": "MTA_450035",
+        "lat": 40.770392,
+        "locationType": 0,
+        "lon": -73.96637,
+        "name": "MADISON AV/E 70 ST",
+        "routeIds": [
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450060",
+        "direction": "SW",
+        "id": "MTA_450060",
+        "lat": 40.754263,
+        "locationType": 0,
+        "lon": -73.980408,
+        "name": "5 AV/W 43 ST",
+        "routeIds": [
+            "MTABC_BXM6",
+            "MTABC_BXM7",
+            "MTABC_BXM8",
+            "MTABC_BXM9",
+            "MTABC_BXM10",
+            "MTABC_BXM11",
+            "MTABC_BXM18",
+            "MTA NYCT_SIM23",
+            "MTA NYCT_SIM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450064",
+        "direction": "SW",
+        "id": "MTA_450064",
+        "lat": 40.763824,
+        "locationType": 0,
+        "lon": -73.973479,
+        "name": "5 AV/W 58 ST",
+        "routeIds": [
+            "MTABC_BXM6",
+            "MTABC_BXM7",
+            "MTABC_BXM8",
+            "MTABC_BXM9",
+            "MTABC_BXM10",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450094",
+        "direction": "NE",
+        "id": "MTA_450094",
+        "lat": 40.750828,
+        "locationType": 0,
+        "lon": -73.980686,
+        "name": "MADISON AV/E 39 ST",
+        "routeIds": [
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450100",
+        "direction": "NE",
+        "id": "MTA_450100",
+        "lat": 40.755877,
+        "locationType": 0,
+        "lon": -73.976941,
+        "name": "MADISON AV/E 47 ST",
+        "routeIds": [
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450106",
+        "direction": "NE",
+        "id": "MTA_450106",
+        "lat": 40.760291,
+        "locationType": 0,
+        "lon": -73.973714,
+        "name": "MADISON AV/E 54 ST",
+        "routeIds": [
+            "MTABC_BM1",
+            "MTABC_BM2",
+            "MTABC_BM3",
+            "MTABC_BM4",
+            "MTABC_BM5",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450111",
+        "direction": "NE",
+        "id": "MTA_450111",
+        "lat": 40.766013,
+        "locationType": 0,
+        "lon": -73.969579,
+        "name": "MADISON AV/E 63 ST",
+        "routeIds": [
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450112",
+        "direction": "NE",
+        "id": "MTA_450112",
+        "lat": 40.779389,
+        "locationType": 0,
+        "lon": -73.959786,
+        "name": "MADISON AV/E 84 ST",
+        "routeIds": [
+            "MTABC_BXM2",
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450122",
+        "direction": "SW",
+        "id": "MTA_450122",
+        "lat": 40.759735,
+        "locationType": 0,
+        "lon": -73.976414,
+        "name": "5 AV/W 51 ST",
+        "routeIds": [
+            "MTABC_BXM11",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450351",
+        "direction": "NE",
+        "id": "MTA_450351",
+        "lat": 40.789292,
+        "locationType": 0,
+        "lon": -73.952573,
+        "name": "MADISON AV/E 99 ST",
+        "routeIds": [
+            "MTABC_BXM2",
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450446",
+        "direction": "SW",
+        "id": "MTA_450446",
+        "lat": 40.78078,
+        "locationType": 0,
+        "lon": -73.961086,
+        "name": "5 AV/W 85 ST",
+        "routeIds": [
+            "MTABC_BXM6",
+            "MTABC_BXM7",
+            "MTABC_BXM8",
+            "MTABC_BXM9",
+            "MTABC_BXM10",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450457",
+        "direction": "NE",
+        "id": "MTA_450457",
+        "lat": 40.7444,
+        "locationType": 0,
+        "lon": -73.985316,
+        "name": "MADISON AV/E 29 ST",
+        "routeIds": [
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTABC_BXM11",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "981012",
+        "direction": "SW",
+        "id": "MTA_981012",
+        "lat": 40.743842,
+        "locationType": 0,
+        "lon": -73.988048,
+        "name": "5 AV / W 27 ST",
+        "routeIds": [
+            "MTABC_BM1",
+            "MTABC_BM2",
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTABC_BXM11",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "984009",
+        "direction": "NE",
+        "id": "MTA_984009",
+        "lat": 40.857138,
+        "locationType": 0,
+        "lon": -73.868769,
+        "name": "BOSTON RD/PELHAM PKWY",
+        "routeIds": [
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

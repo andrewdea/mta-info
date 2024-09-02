@@ -1,0 +1,1036 @@
+[
+    {
+        "code": "301860",
+        "direction": "W",
+        "id": "MTA_301860",
+        "lat": 40.714513,
+        "locationType": 0,
+        "lon": -73.944865,
+        "name": "METROPOLITAN AV/GRAHAM AV",
+        "routeIds": [
+            "MTA NYCT_B24",
+            "MTA NYCT_L90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302252",
+        "direction": "N",
+        "id": "MTA_302252",
+        "lat": 40.730348,
+        "locationType": 0,
+        "lon": -73.959276,
+        "name": "WEST ST/KENT ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302254",
+        "direction": "E",
+        "id": "MTA_302254",
+        "lat": 40.730102,
+        "locationType": 0,
+        "lon": -73.954444,
+        "name": "GREENPOINT AV/MANHATTAN AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302255",
+        "direction": "E",
+        "id": "MTA_302255",
+        "lat": 40.730249,
+        "locationType": 0,
+        "lon": -73.953066,
+        "name": "GREENPOINT AV/LEONARD ST",
+        "routeIds": [
+            "MTA NYCT_B24",
+            "MTA NYCT_B98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302256",
+        "direction": "E",
+        "id": "MTA_302256",
+        "lat": 40.730383,
+        "locationType": 0,
+        "lon": -73.951691,
+        "name": "GREENPOINT AV/McGUINNESS BLVD",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302257",
+        "direction": "E",
+        "id": "MTA_302257",
+        "lat": 40.730684,
+        "locationType": 0,
+        "lon": -73.948354,
+        "name": "GREENPOINT AV/JEWEL ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302258",
+        "direction": "E",
+        "id": "MTA_302258",
+        "lat": 40.731492,
+        "locationType": 0,
+        "lon": -73.945982,
+        "name": "GREENPOINT AV/HUMBOLDT ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302278",
+        "direction": "SW",
+        "id": "MTA_302278",
+        "lat": 40.722413,
+        "locationType": 0,
+        "lon": -73.940944,
+        "name": "MEEKER AV/KINGSLAND AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302279",
+        "direction": "S",
+        "id": "MTA_302279",
+        "lat": 40.72019,
+        "locationType": 0,
+        "lon": -73.940826,
+        "name": "KINGSLAND AV/HERBERT ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302281",
+        "direction": "S",
+        "id": "MTA_302281",
+        "lat": 40.717884,
+        "locationType": 0,
+        "lon": -73.940442,
+        "name": "KINGSLAND AV/WITHERS ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302282",
+        "direction": "S",
+        "id": "MTA_302282",
+        "lat": 40.715886,
+        "locationType": 0,
+        "lon": -73.940115,
+        "name": "KINGSLAND AV/MASPETH AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302286",
+        "direction": "W",
+        "id": "MTA_302286",
+        "lat": 40.7142,
+        "locationType": 0,
+        "lon": -73.948118,
+        "name": "METROPOLITAN AV/LEONARD ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302287",
+        "direction": "W",
+        "id": "MTA_302287",
+        "lat": 40.714084,
+        "locationType": 0,
+        "lon": -73.949721,
+        "name": "METROPOLITAN AV/LORIMER ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302288",
+        "direction": "W",
+        "id": "MTA_302288",
+        "lat": 40.714091,
+        "locationType": 0,
+        "lon": -73.952005,
+        "name": "METROPOLITAN AV/MACRI SQ",
+        "routeIds": [
+            "MTA NYCT_B24",
+            "MTA NYCT_Q59"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302289",
+        "direction": "SW",
+        "id": "MTA_302289",
+        "lat": 40.713659,
+        "locationType": 0,
+        "lon": -73.954689,
+        "name": "MARCY AV/METROPOLITAN AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302291",
+        "direction": "SW",
+        "id": "MTA_302291",
+        "lat": 40.710772,
+        "locationType": 0,
+        "lon": -73.95649,
+        "name": "MARCY AV/S 2 ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302292",
+        "direction": "SW",
+        "id": "MTA_302292",
+        "lat": 40.709501,
+        "locationType": 0,
+        "lon": -73.95729,
+        "name": "MARCY AV/S 4 ST",
+        "routeIds": [
+            "MTA NYCT_B24",
+            "MTA NYCT_B60",
+            "MTA NYCT_Q54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302293",
+        "direction": "E",
+        "id": "MTA_302293",
+        "lat": 40.708202,
+        "locationType": 0,
+        "lon": -73.957591,
+        "name": "BROADWAY/MARCY AV",
+        "routeIds": [
+            "MTA NYCT_B24",
+            "MTA NYCT_B46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302310",
+        "direction": "W",
+        "id": "MTA_302310",
+        "lat": 40.708638,
+        "locationType": 0,
+        "lon": -73.958417,
+        "name": "BROADWAY/MARCY AV",
+        "routeIds": [
+            "MTA NYCT_B24",
+            "MTA NYCT_B46",
+            "MTA NYCT_B60",
+            "MTA NYCT_Q54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302311",
+        "direction": "NE",
+        "id": "MTA_302311",
+        "lat": 40.708916,
+        "locationType": 0,
+        "lon": -73.956082,
+        "name": "RODNEY ST/S 5 ST",
+        "routeIds": [
+            "MTA NYCT_B24",
+            "MTA NYCT_Q54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302312",
+        "direction": "NE",
+        "id": "MTA_302312",
+        "lat": 40.710246,
+        "locationType": 0,
+        "lon": -73.955254,
+        "name": "RODNEY ST/S 3 ST",
+        "routeIds": [
+            "MTA NYCT_B24",
+            "MTA NYCT_Q54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302314",
+        "direction": "NE",
+        "id": "MTA_302314",
+        "lat": 40.713361,
+        "locationType": 0,
+        "lon": -73.953313,
+        "name": "RODNEY ST/AINSLIE ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302315",
+        "direction": "E",
+        "id": "MTA_302315",
+        "lat": 40.714022,
+        "locationType": 0,
+        "lon": -73.951176,
+        "name": "METROPOLITAN AV/UNION AV",
+        "routeIds": [
+            "MTA NYCT_B24",
+            "MTA NYCT_L90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302317",
+        "direction": "E",
+        "id": "MTA_302317",
+        "lat": 40.714212,
+        "locationType": 0,
+        "lon": -73.947213,
+        "name": "METROPOLITAN AV/LEONARD ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302319",
+        "direction": "E",
+        "id": "MTA_302319",
+        "lat": 40.714457,
+        "locationType": 0,
+        "lon": -73.944476,
+        "name": "METROPOLITAN AV/GRAHAM AV",
+        "routeIds": [
+            "MTA NYCT_B24",
+            "MTA NYCT_L90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302321",
+        "direction": "N",
+        "id": "MTA_302321",
+        "lat": 40.716268,
+        "locationType": 0,
+        "lon": -73.940066,
+        "name": "KINGSLAND AV/SKILLMAN AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302322",
+        "direction": "N",
+        "id": "MTA_302322",
+        "lat": 40.71802,
+        "locationType": 0,
+        "lon": -73.940307,
+        "name": "KINGSLAND AV/WITHERS ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302323",
+        "direction": "N",
+        "id": "MTA_302323",
+        "lat": 40.719724,
+        "locationType": 0,
+        "lon": -73.940626,
+        "name": "KINGSLAND AV/RICHARDSON ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302346",
+        "direction": "W",
+        "id": "MTA_302346",
+        "lat": 40.732576,
+        "locationType": 0,
+        "lon": -73.943261,
+        "name": "GREENPOINT AV/KINGSLAND AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302347",
+        "direction": "W",
+        "id": "MTA_302347",
+        "lat": 40.731956,
+        "locationType": 0,
+        "lon": -73.945043,
+        "name": "GREENPOINT AV/N HENRY ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302348",
+        "direction": "W",
+        "id": "MTA_302348",
+        "lat": 40.731524,
+        "locationType": 0,
+        "lon": -73.946259,
+        "name": "GREENPOINT AV/HUMBOLDT ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302349",
+        "direction": "W",
+        "id": "MTA_302349",
+        "lat": 40.730667,
+        "locationType": 0,
+        "lon": -73.949699,
+        "name": "GREENPOINT AV/PROVOST ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302350",
+        "direction": "W",
+        "id": "MTA_302350",
+        "lat": 40.730433,
+        "locationType": 0,
+        "lon": -73.952028,
+        "name": "GREENPOINT AV/McGUINNESS BLVD",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302351",
+        "direction": "W",
+        "id": "MTA_302351",
+        "lat": 40.730307,
+        "locationType": 0,
+        "lon": -73.953343,
+        "name": "GREENPOINT AV/LEONARD ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302352",
+        "direction": "W",
+        "id": "MTA_302352",
+        "lat": 40.730201,
+        "locationType": 0,
+        "lon": -73.954683,
+        "name": "GREENPOINT AV/MANHATTAN AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306487",
+        "direction": "E",
+        "id": "MTA_306487",
+        "lat": 40.732128,
+        "locationType": 0,
+        "lon": -73.944225,
+        "name": "GREENPOINT AV/NORTH HENRY ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307214",
+        "direction": "N",
+        "id": "MTA_307214",
+        "lat": 40.721524,
+        "locationType": 0,
+        "lon": -73.940907,
+        "name": "KINGSLAND AV/LOMBARDY ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307809",
+        "direction": "NE",
+        "id": "MTA_307809",
+        "lat": 40.711723,
+        "locationType": 0,
+        "lon": -73.954316,
+        "name": "RODNEY ST/GRAND ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307912",
+        "direction": "NE",
+        "id": "MTA_307912",
+        "lat": 40.722971,
+        "locationType": 0,
+        "lon": -73.939248,
+        "name": "MEEKER AV/MORGAN AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307913",
+        "direction": "E",
+        "id": "MTA_307913",
+        "lat": 40.723884,
+        "locationType": 0,
+        "lon": -73.937198,
+        "name": "CHERRY ST/VANDERVOORT AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307921",
+        "direction": "E",
+        "id": "MTA_307921",
+        "lat": 40.709539,
+        "locationType": 0,
+        "lon": -73.95942,
+        "name": "WILLIAMSBURG BRIDGE PLAZA/LANE 2",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308103",
+        "direction": "E",
+        "id": "MTA_308103",
+        "lat": 40.729839,
+        "locationType": 0,
+        "lon": -73.957201,
+        "name": "GREENPOINT AV/FRANKLIN ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308364",
+        "direction": "W",
+        "id": "MTA_308364",
+        "lat": 40.729908,
+        "locationType": 0,
+        "lon": -73.958027,
+        "name": "GREENPOINT AV/FRANKLIN ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308582",
+        "direction": "S",
+        "id": "MTA_308582",
+        "lat": 40.715113,
+        "locationType": 0,
+        "lon": -73.942251,
+        "name": "WOODPOINT RD/CONSELYEA ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503592",
+        "direction": "W",
+        "id": "MTA_503592",
+        "lat": 40.741025,
+        "locationType": 0,
+        "lon": -73.917671,
+        "name": "47 AV/48 ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503593",
+        "direction": "S",
+        "id": "MTA_503593",
+        "lat": 40.740618,
+        "locationType": 0,
+        "lon": -73.917395,
+        "name": "48 ST/47 AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503594",
+        "direction": "N",
+        "id": "MTA_503594",
+        "lat": 40.732747,
+        "locationType": 0,
+        "lon": -73.918836,
+        "name": "48 ST/47 ST",
+        "routeIds": [
+            "MTA NYCT_B24",
+            "MTABC_Q67"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503615",
+        "direction": "S",
+        "id": "MTA_503615",
+        "lat": 40.738779,
+        "locationType": 0,
+        "lon": -73.917761,
+        "name": "48 ST/48 AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503626",
+        "direction": "N",
+        "id": "MTA_503626",
+        "lat": 40.738971,
+        "locationType": 0,
+        "lon": -73.91758,
+        "name": "48 ST/48 AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503627",
+        "direction": "S",
+        "id": "MTA_503627",
+        "lat": 40.736935,
+        "locationType": 0,
+        "lon": -73.918135,
+        "name": "48 ST/50 AV",
+        "routeIds": [
+            "MTA NYCT_B24",
+            "MTABC_Q39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503628",
+        "direction": "N",
+        "id": "MTA_503628",
+        "lat": 40.737562,
+        "locationType": 0,
+        "lon": -73.917873,
+        "name": "48 ST/50 AV",
+        "routeIds": [
+            "MTA NYCT_B24",
+            "MTABC_Q39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503832",
+        "direction": "SE",
+        "id": "MTA_503832",
+        "lat": 40.731515,
+        "locationType": 0,
+        "lon": -73.919372,
+        "name": "53 AV/48 ST",
+        "routeIds": [
+            "MTA NYCT_B24",
+            "MTABC_Q67"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503991",
+        "direction": "N",
+        "id": "MTA_503991",
+        "lat": 40.735766,
+        "locationType": 0,
+        "lon": -73.918233,
+        "name": "48 ST/BROOKLYN-QUEENS EXPWY",
+        "routeIds": [
+            "MTA NYCT_B24",
+            "MTABC_Q39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503993",
+        "direction": "W",
+        "id": "MTA_503993",
+        "lat": 40.741502,
+        "locationType": 0,
+        "lon": -73.9208,
+        "name": "GREENPOINT AV/44 ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504213",
+        "direction": "NE",
+        "id": "MTA_504213",
+        "lat": 40.734433,
+        "locationType": 0,
+        "lon": -73.937519,
+        "name": "GREENPOINT AV/REVIEW AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504214",
+        "direction": "E",
+        "id": "MTA_504214",
+        "lat": 40.735447,
+        "locationType": 0,
+        "lon": -73.934869,
+        "name": "GREENPOINT AV/BRADLEY AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504215",
+        "direction": "E",
+        "id": "MTA_504215",
+        "lat": 40.736248,
+        "locationType": 0,
+        "lon": -73.932714,
+        "name": "GREENPOINT AV/GALE AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504216",
+        "direction": "E",
+        "id": "MTA_504216",
+        "lat": 40.737632,
+        "locationType": 0,
+        "lon": -73.929512,
+        "name": "GREENPOINT AV/HUNTERS POINT AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504218",
+        "direction": "NE",
+        "id": "MTA_504218",
+        "lat": 40.739142,
+        "locationType": 0,
+        "lon": -73.925812,
+        "name": "GREENPOINT AV/39 PL",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504219",
+        "direction": "E",
+        "id": "MTA_504219",
+        "lat": 40.739761,
+        "locationType": 0,
+        "lon": -73.924389,
+        "name": "GREENPOINT AV/48 AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504220",
+        "direction": "NE",
+        "id": "MTA_504220",
+        "lat": 40.740994,
+        "locationType": 0,
+        "lon": -73.921613,
+        "name": "GREENPOINT AV/43 ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504221",
+        "direction": "E",
+        "id": "MTA_504221",
+        "lat": 40.742069,
+        "locationType": 0,
+        "lon": -73.919031,
+        "name": "GREENPOINT AV/46 ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504222",
+        "direction": "E",
+        "id": "MTA_504222",
+        "lat": 40.742562,
+        "locationType": 0,
+        "lon": -73.917504,
+        "name": "GREENPOINT AV/47 ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504223",
+        "direction": "SW",
+        "id": "MTA_504223",
+        "lat": 40.740345,
+        "locationType": 0,
+        "lon": -73.923396,
+        "name": "GREENPOINT AV/42 ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504224",
+        "direction": "W",
+        "id": "MTA_504224",
+        "lat": 40.737418,
+        "locationType": 0,
+        "lon": -73.93044,
+        "name": "GREENPOINT AV/HUNTERS POINT AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504225",
+        "direction": "SW",
+        "id": "MTA_504225",
+        "lat": 40.736456,
+        "locationType": 0,
+        "lon": -73.932609,
+        "name": "GREENPOINT AV/GALE AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504226",
+        "direction": "W",
+        "id": "MTA_504226",
+        "lat": 40.735642,
+        "locationType": 0,
+        "lon": -73.934714,
+        "name": "GREENPOINT AV/BRADLEY AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504227",
+        "direction": "W",
+        "id": "MTA_504227",
+        "lat": 40.735052,
+        "locationType": 0,
+        "lon": -73.936194,
+        "name": "GREENPOINT AV/STARR AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504228",
+        "direction": "SW",
+        "id": "MTA_504228",
+        "lat": 40.734543,
+        "locationType": 0,
+        "lon": -73.938017,
+        "name": "VAN DAM ST/REVIEW AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504435",
+        "direction": "NE",
+        "id": "MTA_504435",
+        "lat": 40.736716,
+        "locationType": 0,
+        "lon": -73.93162,
+        "name": "GREENPOINT AV/BORDEN AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504560",
+        "direction": "N",
+        "id": "MTA_504560",
+        "lat": 40.742392,
+        "locationType": 0,
+        "lon": -73.917847,
+        "name": "47 ST/GREENPOINT AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505055",
+        "direction": "SW",
+        "id": "MTA_505055",
+        "lat": 40.738736,
+        "locationType": 0,
+        "lon": -73.927046,
+        "name": "GREENPOINT AV/39 ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505056",
+        "direction": "W",
+        "id": "MTA_505056",
+        "lat": 40.738131,
+        "locationType": 0,
+        "lon": -73.928573,
+        "name": "GREENPOINT AV/38 ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505075",
+        "direction": "W",
+        "id": "MTA_505075",
+        "lat": 40.735462,
+        "locationType": 0,
+        "lon": -73.921593,
+        "name": "BROOKLYN-QUEENS EXPWY/45 ST",
+        "routeIds": [
+            "MTA NYCT_B24",
+            "MTABC_Q67"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505076",
+        "direction": "W",
+        "id": "MTA_505076",
+        "lat": 40.73966,
+        "locationType": 0,
+        "lon": -73.924952,
+        "name": "GREENPOINT AV/40 ST",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505168",
+        "direction": "W",
+        "id": "MTA_505168",
+        "lat": 40.73541,
+        "locationType": 0,
+        "lon": -73.919102,
+        "name": "BROOKLYN-QUEENS EXPWY/47 ST",
+        "routeIds": [
+            "MTA NYCT_B24",
+            "MTABC_Q67"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801067",
+        "direction": "E",
+        "id": "MTA_801067",
+        "lat": 40.730088,
+        "locationType": 0,
+        "lon": -73.954574,
+        "name": "GREENPOINT AV/MANHATTAN AV",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901628",
+        "direction": "E",
+        "id": "MTA_901628",
+        "lat": 40.709623,
+        "locationType": 0,
+        "lon": -73.959635,
+        "name": "WILLIAMSBURG BRIDGE PLAZA/LANE 2",
+        "routeIds": [
+            "MTA NYCT_B24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

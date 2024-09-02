@@ -1,0 +1,370 @@
+[
+    {
+        "code": "300440",
+        "direction": "E",
+        "id": "MTA_300440",
+        "lat": 40.604153,
+        "locationType": 0,
+        "lon": -73.972421,
+        "name": "KINGS HWY/MCDONALD AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+",
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302852",
+        "direction": "W",
+        "id": "MTA_302852",
+        "lat": 40.575476,
+        "locationType": 0,
+        "lon": -73.977167,
+        "name": "SURF AV/W 8 ST",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306288",
+        "direction": "S",
+        "id": "MTA_306288",
+        "lat": 40.589732,
+        "locationType": 0,
+        "lon": -73.974303,
+        "name": "SHELL RD/AVENUE X",
+        "routeIds": [
+            "MTA NYCT_B4",
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308306",
+        "direction": "W",
+        "id": "MTA_308306",
+        "lat": 40.580064,
+        "locationType": 0,
+        "lon": -73.974502,
+        "name": "NEPTUNE AV/W 6 ST",
+        "routeIds": [
+            "MTA NYCT_B68",
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308318",
+        "direction": "N",
+        "id": "MTA_308318",
+        "lat": 40.590454,
+        "locationType": 0,
+        "lon": -73.974029,
+        "name": "MCDONALD AV/AVENUE X",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801038",
+        "direction": "N",
+        "id": "MTA_801038",
+        "lat": 40.575688,
+        "locationType": 0,
+        "lon": -73.981163,
+        "name": "STILLWELL AV/SURF AV",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901276",
+        "direction": "S",
+        "id": "MTA_901276",
+        "lat": 40.642713,
+        "locationType": 0,
+        "lon": -73.979471,
+        "name": "MCDONALD AV/CHURCH AV",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901535",
+        "direction": "S",
+        "id": "MTA_901535",
+        "lat": 40.635615,
+        "locationType": 0,
+        "lon": -73.978146,
+        "name": "MCDONALD AV/DITMAS AV",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901536",
+        "direction": "S",
+        "id": "MTA_901536",
+        "lat": 40.630809,
+        "locationType": 0,
+        "lon": -73.977198,
+        "name": "MCDONALD AV/18 AV",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901537",
+        "direction": "S",
+        "id": "MTA_901537",
+        "lat": 40.626053,
+        "locationType": 0,
+        "lon": -73.976325,
+        "name": "MCDONALD AV/AV I",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901538",
+        "direction": "S",
+        "id": "MTA_901538",
+        "lat": 40.621196,
+        "locationType": 0,
+        "lon": -73.975446,
+        "name": "MCDONALD AV/BAY PKWY",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901539",
+        "direction": "S",
+        "id": "MTA_901539",
+        "lat": 40.613896,
+        "locationType": 0,
+        "lon": -73.974076,
+        "name": "MCDONALD AV/24 AV",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901540",
+        "direction": "S",
+        "id": "MTA_901540",
+        "lat": 40.609048,
+        "locationType": 0,
+        "lon": -73.973123,
+        "name": "MCDONALD AV/AV P",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901541",
+        "direction": "S",
+        "id": "MTA_901541",
+        "lat": 40.604312,
+        "locationType": 0,
+        "lon": -73.972296,
+        "name": "MCDONALD AV/KINGS HWY",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901542",
+        "direction": "S",
+        "id": "MTA_901542",
+        "lat": 40.597059,
+        "locationType": 0,
+        "lon": -73.973294,
+        "name": "MCDONALD AV/AV U",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901544",
+        "direction": "W",
+        "id": "MTA_901544",
+        "lat": 40.575577,
+        "locationType": 0,
+        "lon": -73.979546,
+        "name": "SURF AV/W 12 ST",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901545",
+        "direction": "E",
+        "id": "MTA_901545",
+        "lat": 40.604171,
+        "locationType": 0,
+        "lon": -73.972533,
+        "name": "KINGS HWY/MCDONALD AV",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901546",
+        "direction": "E",
+        "id": "MTA_901546",
+        "lat": 40.575292,
+        "locationType": 0,
+        "lon": -73.97697,
+        "name": "SURF AV/W 8 ST",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901547",
+        "direction": "N",
+        "id": "MTA_901547",
+        "lat": 40.596874,
+        "locationType": 0,
+        "lon": -73.973232,
+        "name": "MCDONALD AV/AV U",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901548",
+        "direction": "N",
+        "id": "MTA_901548",
+        "lat": 40.604074,
+        "locationType": 0,
+        "lon": -73.97222,
+        "name": "MCDONALD AV/KINGS HWY",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901549",
+        "direction": "N",
+        "id": "MTA_901549",
+        "lat": 40.608709,
+        "locationType": 0,
+        "lon": -73.972945,
+        "name": "MCDONALD AV/AVENUE P",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901550",
+        "direction": "N",
+        "id": "MTA_901550",
+        "lat": 40.613919,
+        "locationType": 0,
+        "lon": -73.974003,
+        "name": "MCDONALD AV/AVENUE N",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901551",
+        "direction": "N",
+        "id": "MTA_901551",
+        "lat": 40.620792,
+        "locationType": 0,
+        "lon": -73.975243,
+        "name": "MCDONALD AV/BAY PKWY",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901552",
+        "direction": "N",
+        "id": "MTA_901552",
+        "lat": 40.625903,
+        "locationType": 0,
+        "lon": -73.976203,
+        "name": "MCDONALD AV/AVENUE I",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901553",
+        "direction": "N",
+        "id": "MTA_901553",
+        "lat": 40.630644,
+        "locationType": 0,
+        "lon": -73.977082,
+        "name": "MCDONALD AV/18 AV",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901554",
+        "direction": "N",
+        "id": "MTA_901554",
+        "lat": 40.635361,
+        "locationType": 0,
+        "lon": -73.977995,
+        "name": "MCDONALD AV/DITMAS AV",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901555",
+        "direction": "N",
+        "id": "MTA_901555",
+        "lat": 40.642885,
+        "locationType": 0,
+        "lon": -73.979419,
+        "name": "MCDONALD AV/CHURCH AV",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901727",
+        "direction": "S",
+        "id": "MTA_901727",
+        "lat": 40.579873,
+        "locationType": 0,
+        "lon": -73.976339,
+        "name": "SHELL RD/NEPTUNE AV",
+        "routeIds": [
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

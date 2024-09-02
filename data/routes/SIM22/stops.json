@@ -1,0 +1,682 @@
+[
+    {
+        "code": "200371",
+        "direction": "NW",
+        "id": "MTA_200371",
+        "lat": 40.53454,
+        "locationType": 0,
+        "lon": -74.154361,
+        "name": "RICHMOND AV/HYLAN BLVD",
+        "routeIds": [
+            "MTA NYCT_S59",
+            "MTA NYCT_S79+",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM7",
+            "MTA NYCT_SIM9",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200377",
+        "direction": "NW",
+        "id": "MTA_200377",
+        "lat": 40.544188,
+        "locationType": 0,
+        "lon": -74.165039,
+        "name": "RICHMOND AV/ELTINGVILLE BLVD",
+        "routeIds": [
+            "MTA NYCT_S59",
+            "MTA NYCT_S79+",
+            "MTA NYCT_S89",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM7",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200381",
+        "direction": "N",
+        "id": "MTA_200381",
+        "lat": 40.550875,
+        "locationType": 0,
+        "lon": -74.167538,
+        "name": "RICHMOND AV/KATAN AV",
+        "routeIds": [
+            "MTA NYCT_S59",
+            "MTA NYCT_S89",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM7",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200384",
+        "direction": "N",
+        "id": "MTA_200384",
+        "lat": 40.557307,
+        "locationType": 0,
+        "lon": -74.168965,
+        "name": "RICHMOND AV/BARLOW AV",
+        "routeIds": [
+            "MTA NYCT_S59",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM7",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200462",
+        "direction": "S",
+        "id": "MTA_200462",
+        "lat": 40.556676,
+        "locationType": 0,
+        "lon": -74.169104,
+        "name": "RICHMOND AV/BARLOW AV",
+        "routeIds": [
+            "MTA NYCT_S59",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM7",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200466",
+        "direction": "S",
+        "id": "MTA_200466",
+        "lat": 40.550244,
+        "locationType": 0,
+        "lon": -74.167605,
+        "name": "RICHMOND AV/KATAN AV",
+        "routeIds": [
+            "MTA NYCT_S59",
+            "MTA NYCT_S89",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM7",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200470",
+        "direction": "SE",
+        "id": "MTA_200470",
+        "lat": 40.544066,
+        "locationType": 0,
+        "lon": -74.1652,
+        "name": "RICHMOND AV/ELTINGVILLE BLVD",
+        "routeIds": [
+            "MTA NYCT_S59",
+            "MTA NYCT_S79+",
+            "MTA NYCT_S89",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM7",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200474",
+        "direction": "SE",
+        "id": "MTA_200474",
+        "lat": 40.53803,
+        "locationType": 0,
+        "lon": -74.159389,
+        "name": "RICHMOND AV/KOCH BLVD",
+        "routeIds": [
+            "MTA NYCT_S59",
+            "MTA NYCT_S89",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM7",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200476",
+        "direction": "SE",
+        "id": "MTA_200476",
+        "lat": 40.535112,
+        "locationType": 0,
+        "lon": -74.155659,
+        "name": "RICHMOND AV/KING ST",
+        "routeIds": [
+            "MTA NYCT_S59",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM7",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200994",
+        "direction": "NE",
+        "id": "MTA_200994",
+        "lat": 40.530671,
+        "locationType": 0,
+        "lon": -74.158116,
+        "name": "HYLAN BLVD/WOODS OF ARDEN RD",
+        "routeIds": [
+            "MTA NYCT_S59",
+            "MTA NYCT_S78",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201172",
+        "direction": "W",
+        "id": "MTA_201172",
+        "lat": 40.530442,
+        "locationType": 0,
+        "lon": -74.158917,
+        "name": "HYLAN BLVD/WOODS OF ARDEN RD",
+        "routeIds": [
+            "MTA NYCT_S59",
+            "MTA NYCT_S78",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202091",
+        "direction": "NE",
+        "id": "MTA_202091",
+        "lat": 40.559141,
+        "locationType": 0,
+        "lon": -74.197252,
+        "name": "ARTHUR KILL RD/ARDEN AV",
+        "routeIds": [
+            "MTA NYCT_S56",
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202094",
+        "direction": "E",
+        "id": "MTA_202094",
+        "lat": 40.565227,
+        "locationType": 0,
+        "lon": -74.181514,
+        "name": "ARTHUR KILL RD/WOODROW RD",
+        "routeIds": [
+            "MTA NYCT_S56",
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202236",
+        "direction": "W",
+        "id": "MTA_202236",
+        "lat": 40.56518,
+        "locationType": 0,
+        "lon": -74.181085,
+        "name": "ARTHUR KILL RD/WOODROW RD",
+        "routeIds": [
+            "MTA NYCT_S56",
+            "MTA NYCT_S74",
+            "MTA NYCT_S84",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202239",
+        "direction": "SW",
+        "id": "MTA_202239",
+        "lat": 40.558578,
+        "locationType": 0,
+        "lon": -74.198122,
+        "name": "ARTHUR KILL RD/ARDEN AV",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_S84",
+            "MTA NYCT_SIM2",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202289",
+        "direction": "SE",
+        "id": "MTA_202289",
+        "lat": 40.556295,
+        "locationType": 0,
+        "lon": -74.203767,
+        "name": "ARTHUR KILL RD/VETERANS RD EAST",
+        "routeIds": [
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM2",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM23",
+            "MTA NYCT_SIM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202855",
+        "direction": "NW",
+        "id": "MTA_202855",
+        "lat": 40.538608,
+        "locationType": 0,
+        "lon": -74.159781,
+        "name": "RICHMOND AV/KOCH BLVD",
+        "routeIds": [
+            "MTA NYCT_S59",
+            "MTA NYCT_S89",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM7",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202861",
+        "direction": "E",
+        "id": "MTA_202861",
+        "lat": 40.564147,
+        "locationType": 0,
+        "lon": -74.186488,
+        "name": "ARTHUR KILL RD/SAINT JOHN NEWMANN",
+        "routeIds": [
+            "MTA NYCT_S56",
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203649",
+        "direction": "W",
+        "id": "MTA_203649",
+        "lat": 40.564356,
+        "locationType": 0,
+        "lon": -74.186377,
+        "name": "ARTHUR KILL RD/OPP ASPEN KNOLLS",
+        "routeIds": [
+            "MTA NYCT_S56",
+            "MTA NYCT_S74",
+            "MTA NYCT_S84",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203903",
+        "direction": "S",
+        "id": "MTA_203903",
+        "lat": 40.560388,
+        "locationType": 0,
+        "lon": -74.171241,
+        "name": "ELTINGVILLE/TRANSIT CENTER",
+        "routeIds": [
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400359",
+        "direction": "NE",
+        "id": "MTA_400359",
+        "lat": 40.756492,
+        "locationType": 0,
+        "lon": -73.976474,
+        "name": "MADISON AV/E 47 ST",
+        "routeIds": [
+            "MTA NYCT_SIM6",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM8X",
+            "MTA NYCT_SIM11",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401851",
+        "direction": "NW",
+        "id": "MTA_401851",
+        "lat": 40.757575,
+        "locationType": 0,
+        "lon": -73.990464,
+        "name": "W 42 ST/8 AV",
+        "routeIds": [
+            "MTA NYCT_M42",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM8X",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM25",
+            "MTA NYCT_SIM26",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402214",
+        "direction": "SE",
+        "id": "MTA_402214",
+        "lat": 40.760727,
+        "locationType": 0,
+        "lon": -73.968725,
+        "name": "E 57 ST/LEXINGTON AV",
+        "routeIds": [
+            "MTA NYCT_M31",
+            "MTA NYCT_M57",
+            "MTA NYCT_SIM6",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM8X",
+            "MTA NYCT_SIM11",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM25",
+            "MTA NYCT_SIM26",
+            "MTA NYCT_SIM31",
+            "MTA NYCT_X63",
+            "MTA NYCT_X64",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402839",
+        "direction": "SW",
+        "id": "MTA_402839",
+        "lat": 40.758062,
+        "locationType": 0,
+        "lon": -73.971336,
+        "name": "LEXINGTON AV/E 53 ST",
+        "routeIds": [
+            "MTA NYCT_M101",
+            "MTA NYCT_SIM6",
+            "MTA NYCT_SIM11",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403239",
+        "direction": "SE",
+        "id": "MTA_403239",
+        "lat": 40.757191,
+        "locationType": 0,
+        "lon": -73.989904,
+        "name": "W 42 ST/8 AV",
+        "routeIds": [
+            "MTA NYCT_M42",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM8X",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM25",
+            "MTA NYCT_SIM26",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403240",
+        "direction": "SE",
+        "id": "MTA_403240",
+        "lat": 40.756259,
+        "locationType": 0,
+        "lon": -73.987735,
+        "name": "W 42 ST/7 AV",
+        "routeIds": [
+            "MTA NYCT_M42",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM8X",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM25",
+            "MTA NYCT_SIM26",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403242",
+        "direction": "SE",
+        "id": "MTA_403242",
+        "lat": 40.754535,
+        "locationType": 0,
+        "lon": -73.98364,
+        "name": "W 42 ST/6 AV",
+        "routeIds": [
+            "MTA NYCT_M42",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM8X",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM25",
+            "MTA NYCT_SIM26",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403259",
+        "direction": "NW",
+        "id": "MTA_403259",
+        "lat": 40.756311,
+        "locationType": 0,
+        "lon": -73.98737,
+        "name": "W 42 ST/7 AV",
+        "routeIds": [
+            "MTA NYCT_M42",
+            "MTA NYCT_Q92",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM8X",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM25",
+            "MTA NYCT_SIM26",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403465",
+        "direction": "E",
+        "id": "MTA_403465",
+        "lat": 40.753319,
+        "locationType": 0,
+        "lon": -73.980751,
+        "name": "W 42 ST/5 AV",
+        "routeIds": [
+            "MTA NYCT_M42",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM8X",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM25",
+            "MTA NYCT_SIM26",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403620",
+        "direction": "SE",
+        "id": "MTA_403620",
+        "lat": 40.762047,
+        "locationType": 0,
+        "lon": -73.971943,
+        "name": "E 57 ST/MADISON AV",
+        "routeIds": [
+            "MTA NYCT_M31",
+            "MTA NYCT_M57",
+            "MTA NYCT_SIM6",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM11",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM25",
+            "MTA NYCT_SIM26",
+            "MTA NYCT_SIM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403805",
+        "direction": "W",
+        "id": "MTA_403805",
+        "lat": 40.753093,
+        "locationType": 0,
+        "lon": -73.979766,
+        "name": "E 42 ST/MADISON AV",
+        "routeIds": [
+            "MTA NYCT_M42",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403830",
+        "direction": "NW",
+        "id": "MTA_403830",
+        "lat": 40.754994,
+        "locationType": 0,
+        "lon": -73.984277,
+        "name": "W 42 ST/AV OF THE AMERICAS",
+        "routeIds": [
+            "MTA NYCT_M42",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM8X",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM25",
+            "MTA NYCT_SIM26",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404300",
+        "direction": "NE",
+        "id": "MTA_404300",
+        "lat": 40.760615,
+        "locationType": 0,
+        "lon": -73.973461,
+        "name": "MADISON AV/E 54 ST",
+        "routeIds": [
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM6",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM8X",
+            "MTA NYCT_SIM11",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM31",
+            "MTA NYCT_SIM33C",
+            "MTA NYCT_X63",
+            "MTA NYCT_X64",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405011",
+        "direction": "NW",
+        "id": "MTA_405011",
+        "lat": 40.760812,
+        "locationType": 0,
+        "lon": -73.968693,
+        "name": "E 57 ST/LEXINGTON AV",
+        "routeIds": [
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM8X",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM25",
+            "MTA NYCT_SIM26",
+            "MTA NYCT_SIM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "805165",
+        "direction": "W",
+        "id": "MTA_805165",
+        "lat": 40.560734,
+        "locationType": 0,
+        "lon": -74.171061,
+        "name": "ELTINGVILLE/TRANSIT CENTER",
+        "routeIds": [
+            "MTA NYCT_S79+",
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901515",
+        "direction": "E",
+        "id": "MTA_901515",
+        "lat": 40.557538,
+        "locationType": 0,
+        "lon": -74.206685,
+        "name": "ARTHUR KILL RD/West Service Rd",
+        "routeIds": [
+            "MTA NYCT_SIM22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "905086",
+        "direction": "NE",
+        "id": "MTA_905086",
+        "lat": 40.556666,
+        "locationType": 0,
+        "lon": -74.203716,
+        "name": "VETERANS RD EAST/ARTHUR KILL RD",
+        "routeIds": [
+            "MTA NYCT_SIM2",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "905218",
+        "direction": "SW",
+        "id": "MTA_905218",
+        "lat": 40.753912,
+        "locationType": 0,
+        "lon": -73.974299,
+        "name": "LEXINGTON AV/E 46 ST",
+        "routeIds": [
+            "MTA NYCT_SIM6",
+            "MTA NYCT_SIM11",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

@@ -1,0 +1,301 @@
+[
+    {
+        "code": "402458",
+        "direction": "SW",
+        "id": "MTA_402458",
+        "lat": 40.80458,
+        "locationType": 0,
+        "lon": -73.937417,
+        "name": "LEXINGTON AV/E 125 ST",
+        "routeIds": [
+            "MTA NYCT_M35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402460",
+        "direction": "SE",
+        "id": "MTA_402460",
+        "lat": 40.803051,
+        "locationType": 0,
+        "lon": -73.936515,
+        "name": "E 124 ST/3 AV",
+        "routeIds": [
+            "MTA NYCT_M35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402461",
+        "direction": "SE",
+        "id": "MTA_402461",
+        "lat": 40.802148,
+        "locationType": 0,
+        "lon": -73.934477,
+        "name": "E 124 ST/2 AV",
+        "routeIds": [
+            "MTA NYCT_M35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402498",
+        "direction": "NW",
+        "id": "MTA_402498",
+        "lat": 40.80367,
+        "locationType": 0,
+        "lon": -73.933538,
+        "name": "E 126 ST/2 AV",
+        "routeIds": [
+            "MTA NYCT_M35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403787",
+        "direction": "NW",
+        "id": "MTA_403787",
+        "lat": 40.804579,
+        "locationType": 0,
+        "lon": -73.935704,
+        "name": "E 126 ST/3 AV",
+        "routeIds": [
+            "MTA NYCT_M35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404350",
+        "direction": "NE",
+        "id": "MTA_404350",
+        "lat": 40.792588,
+        "locationType": 0,
+        "lon": -73.923489,
+        "name": "MAIN RDWY/OPP ICAHN STADIUM",
+        "routeIds": [
+            "MTA NYCT_M35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404352",
+        "direction": "SW",
+        "id": "MTA_404352",
+        "lat": 40.796137,
+        "locationType": 0,
+        "lon": -73.919511,
+        "name": "MAIN RDWY/EXIT RAMP",
+        "routeIds": [
+            "MTA NYCT_M35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404353",
+        "direction": "SW",
+        "id": "MTA_404353",
+        "lat": 40.792872,
+        "locationType": 0,
+        "lon": -73.92339,
+        "name": "MAIN RDWY/ICAHN STADIUM",
+        "routeIds": [
+            "MTA NYCT_M35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404355",
+        "direction": "S",
+        "id": "MTA_404355",
+        "lat": 40.78641,
+        "locationType": 0,
+        "lon": -73.929197,
+        "name": "MAIN RDWY/OPP CLARKE THOMAS",
+        "routeIds": [
+            "MTA NYCT_M35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404356",
+        "direction": "SW",
+        "id": "MTA_404356",
+        "lat": 40.786171,
+        "locationType": 0,
+        "lon": -73.931819,
+        "name": "SUNKEN GARDEN LOOP/EMPLOYMENT CENTER",
+        "routeIds": [
+            "MTA NYCT_M35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405015",
+        "direction": "SE",
+        "id": "MTA_405015",
+        "lat": 40.799485,
+        "locationType": 0,
+        "lon": -73.922512,
+        "name": "MAIN RDWY/OPP PARKS & RECREATION",
+        "routeIds": [
+            "MTA NYCT_M35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405016",
+        "direction": "SE",
+        "id": "MTA_405016",
+        "lat": 40.798576,
+        "locationType": 0,
+        "lon": -73.921361,
+        "name": "MAIN RDWY/T B T A",
+        "routeIds": [
+            "MTA NYCT_M35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405140",
+        "direction": "SW",
+        "id": "MTA_405140",
+        "lat": 40.794984,
+        "locationType": 0,
+        "lon": -73.921694,
+        "name": "MAIN RDWY/OPP GOLF CENTER PARKING",
+        "routeIds": [
+            "MTA NYCT_M35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "414350",
+        "direction": "NE",
+        "id": "MTA_414350",
+        "lat": 40.795163,
+        "locationType": 0,
+        "lon": -73.919977,
+        "name": "MAIN RDWY/TENNIS CENTER 2",
+        "routeIds": [
+            "MTA NYCT_M35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803021",
+        "direction": "NW",
+        "id": "MTA_803021",
+        "lat": 40.789986,
+        "locationType": 0,
+        "lon": -73.925758,
+        "name": "HELL GATE CIRCLE/CENTRAL RD",
+        "routeIds": [
+            "MTA NYCT_M35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803026",
+        "direction": "SE",
+        "id": "MTA_803026",
+        "lat": 40.785493,
+        "locationType": 0,
+        "lon": -73.931327,
+        "name": "SUNKEN GARDEN LOOP/CHARLES GAY CENTER",
+        "routeIds": [
+            "MTA NYCT_M35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803028",
+        "direction": "SE",
+        "id": "MTA_803028",
+        "lat": 40.785379,
+        "locationType": 0,
+        "lon": -73.929126,
+        "name": "HELL GATE CIRCLE/SUNKEN GARDEN LOOP",
+        "routeIds": [
+            "MTA NYCT_M35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803029",
+        "direction": "E",
+        "id": "MTA_803029",
+        "lat": 40.784564,
+        "locationType": 0,
+        "lon": -73.927626,
+        "name": "HELL GATE CIRCLE/Opp ODYSSEY House",
+        "routeIds": [
+            "MTA NYCT_M35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803030",
+        "direction": "N",
+        "id": "MTA_803030",
+        "lat": 40.785971,
+        "locationType": 0,
+        "lon": -73.925604,
+        "name": "HELL GATE CIRCLE/FIELD 61",
+        "routeIds": [
+            "MTA NYCT_M35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803034",
+        "direction": "SE",
+        "id": "MTA_803034",
+        "lat": 40.785524,
+        "locationType": 0,
+        "lon": -73.931402,
+        "name": "SUNKEN GARDEN LOOP/CHARLES GAY CENTER",
+        "routeIds": [
+            "MTA NYCT_M35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803239",
+        "direction": "SW",
+        "id": "MTA_803239",
+        "lat": 40.789129,
+        "locationType": 0,
+        "lon": -73.926861,
+        "name": "MAIN RDWY/MANHATTAN PSYCH CENTER",
+        "routeIds": [
+            "MTA NYCT_M35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903075",
+        "direction": "SW",
+        "id": "MTA_903075",
+        "lat": 40.804764,
+        "locationType": 0,
+        "lon": -73.93725,
+        "name": "LEXINGTON AV/E 125 ST",
+        "routeIds": [
+            "MTA NYCT_M35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903318",
+        "direction": "NE",
+        "id": "MTA_903318",
+        "lat": 40.790497,
+        "locationType": 0,
+        "lon": -73.928912,
+        "name": "RIVERS EDGE RD/MANHATTAN PSYCH CENTER",
+        "routeIds": [
+            "MTA NYCT_M35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

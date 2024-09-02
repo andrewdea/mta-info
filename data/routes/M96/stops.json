@@ -1,0 +1,326 @@
+[
+    {
+        "code": "401331",
+        "direction": "SW",
+        "id": "MTA_401331",
+        "lat": 40.792268,
+        "locationType": 0,
+        "lon": -73.964384,
+        "name": "CENTRAL PARK WEST/W 97 ST",
+        "routeIds": [
+            "MTA NYCT_M10",
+            "MTA NYCT_M96",
+            "MTA NYCT_M106"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401933",
+        "direction": "SE",
+        "id": "MTA_401933",
+        "lat": 40.794933,
+        "locationType": 0,
+        "lon": -73.972689,
+        "name": "W 96 ST/WEST END AV",
+        "routeIds": [
+            "MTA NYCT_M96",
+            "MTA NYCT_M106"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401934",
+        "direction": "SE",
+        "id": "MTA_401934",
+        "lat": 40.794392,
+        "locationType": 0,
+        "lon": -73.971407,
+        "name": "W 96 ST/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_M96",
+            "MTA NYCT_M106"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401935",
+        "direction": "SE",
+        "id": "MTA_401935",
+        "lat": 40.793798,
+        "locationType": 0,
+        "lon": -73.970006,
+        "name": "W 96 ST/AMSTERDAM AV",
+        "routeIds": [
+            "MTA NYCT_M96",
+            "MTA NYCT_M106"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401936",
+        "direction": "SE",
+        "id": "MTA_401936",
+        "lat": 40.792604,
+        "locationType": 0,
+        "lon": -73.967161,
+        "name": "W 96 ST/COLUMBUS AV",
+        "routeIds": [
+            "MTA NYCT_M96",
+            "MTA NYCT_M106"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401937",
+        "direction": "E",
+        "id": "MTA_401937",
+        "lat": 40.791667,
+        "locationType": 0,
+        "lon": -73.964944,
+        "name": "W 96 ST/CENTRAL PARK WEST",
+        "routeIds": [
+            "MTA NYCT_M96",
+            "MTA NYCT_M106"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401939",
+        "direction": "SE",
+        "id": "MTA_401939",
+        "lat": 40.786986,
+        "locationType": 0,
+        "lon": -73.953853,
+        "name": "E 96 ST/MADISON AV",
+        "routeIds": [
+            "MTA NYCT_M96"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401941",
+        "direction": "E",
+        "id": "MTA_401941",
+        "lat": 40.785852,
+        "locationType": 0,
+        "lon": -73.951207,
+        "name": "E 96 ST/LEXINGTON AV",
+        "routeIds": [
+            "MTA NYCT_M96"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401942",
+        "direction": "SE",
+        "id": "MTA_401942",
+        "lat": 40.784948,
+        "locationType": 0,
+        "lon": -73.948998,
+        "name": "E 96 ST/3 AV",
+        "routeIds": [
+            "MTA NYCT_M96"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401943",
+        "direction": "SE",
+        "id": "MTA_401943",
+        "lat": 40.784068,
+        "locationType": 0,
+        "lon": -73.946933,
+        "name": "E 96 ST/2 AV",
+        "routeIds": [
+            "MTA NYCT_M96"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401954",
+        "direction": "W",
+        "id": "MTA_401954",
+        "lat": 40.784528,
+        "locationType": 0,
+        "lon": -73.945491,
+        "name": "E 97 ST/1 AV",
+        "routeIds": [
+            "MTA NYCT_M96"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401955",
+        "direction": "NW",
+        "id": "MTA_401955",
+        "lat": 40.784894,
+        "locationType": 0,
+        "lon": -73.946279,
+        "name": "E 97 ST/2 AV",
+        "routeIds": [
+            "MTA NYCT_M96"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401957",
+        "direction": "NW",
+        "id": "MTA_401957",
+        "lat": 40.785357,
+        "locationType": 0,
+        "lon": -73.949465,
+        "name": "E 96 ST/3 AV",
+        "routeIds": [
+            "MTA NYCT_M96"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401958",
+        "direction": "NW",
+        "id": "MTA_401958",
+        "lat": 40.786099,
+        "locationType": 0,
+        "lon": -73.951246,
+        "name": "E 96 ST/LEXINGTON AV",
+        "routeIds": [
+            "MTA NYCT_M96"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401960",
+        "direction": "NW",
+        "id": "MTA_401960",
+        "lat": 40.787241,
+        "locationType": 0,
+        "lon": -73.953875,
+        "name": "E 96 ST/MADISON AV",
+        "routeIds": [
+            "MTA NYCT_M96"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401961",
+        "direction": "NW",
+        "id": "MTA_401961",
+        "lat": 40.788581,
+        "locationType": 0,
+        "lon": -73.955047,
+        "name": "E 97 ST/5 AV",
+        "routeIds": [
+            "MTA NYCT_M96"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401964",
+        "direction": "NW",
+        "id": "MTA_401964",
+        "lat": 40.794037,
+        "locationType": 0,
+        "lon": -73.970096,
+        "name": "W 96 ST/AMSTERDAM AV",
+        "routeIds": [
+            "MTA NYCT_M96",
+            "MTA NYCT_M106"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401965",
+        "direction": "NW",
+        "id": "MTA_401965",
+        "lat": 40.7946,
+        "locationType": 0,
+        "lon": -73.971451,
+        "name": "W 96 ST/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_M96",
+            "MTA NYCT_M106"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401966",
+        "direction": "NW",
+        "id": "MTA_401966",
+        "lat": 40.795852,
+        "locationType": 0,
+        "lon": -73.972403,
+        "name": "W 97 ST/WEST END AV",
+        "routeIds": [
+            "MTA NYCT_M96",
+            "MTA NYCT_M106"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403632",
+        "direction": "NW",
+        "id": "MTA_403632",
+        "lat": 40.784335,
+        "locationType": 0,
+        "lon": -73.94722,
+        "name": "E 96 ST/2 AV",
+        "routeIds": [
+            "MTA NYCT_M96"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404075",
+        "direction": "NW",
+        "id": "MTA_404075",
+        "lat": 40.793081,
+        "locationType": 0,
+        "lon": -73.967825,
+        "name": "W 96 ST/COLUMBUS AV",
+        "routeIds": [
+            "MTA NYCT_M96",
+            "MTA NYCT_M106"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404087",
+        "direction": "SE",
+        "id": "MTA_404087",
+        "lat": 40.787657,
+        "locationType": 0,
+        "lon": -73.955416,
+        "name": "E 96 ST/5 AV",
+        "routeIds": [
+            "MTA NYCT_M96"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903003",
+        "direction": "NW",
+        "id": "MTA_903003",
+        "lat": 40.78421,
+        "locationType": 0,
+        "lon": -73.944775,
+        "name": "E 97 ST/1 AV",
+        "routeIds": [
+            "MTA NYCT_M96"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903004",
+        "direction": "SE",
+        "id": "MTA_903004",
+        "lat": 40.795103,
+        "locationType": 0,
+        "lon": -73.97309,
+        "name": "W 96 ST/WEST END AV",
+        "routeIds": [
+            "MTA NYCT_M96",
+            "MTA NYCT_M106"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

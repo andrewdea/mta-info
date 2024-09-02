@@ -1,0 +1,768 @@
+[
+    {
+        "code": "401840",
+        "direction": "NW",
+        "id": "MTA_401840",
+        "lat": 40.745998,
+        "locationType": 0,
+        "lon": -73.978634,
+        "name": "E 34 ST/3 AV",
+        "routeIds": [
+            "MTABC_BM5",
+            "MTA NYCT_M34A+",
+            "MTA NYCT_M34+",
+            "MTABC_QM1",
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM20",
+            "MTABC_QM24",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401844",
+        "direction": "NW",
+        "id": "MTA_401844",
+        "lat": 40.748672,
+        "locationType": 0,
+        "lon": -73.98491,
+        "name": "W 34 ST/5 AV",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM15",
+            "MTABC_QM16",
+            "MTABC_QM17",
+            "MTABC_QM18",
+            "MTABC_QM20",
+            "MTABC_QM24",
+            "MTA NYCT_SIM23",
+            "MTA NYCT_SIM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402377",
+        "direction": "SE",
+        "id": "MTA_402377",
+        "lat": 40.763373,
+        "locationType": 0,
+        "lon": -73.971157,
+        "name": "E 59 ST/MADISON AV",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402379",
+        "direction": "SE",
+        "id": "MTA_402379",
+        "lat": 40.762003,
+        "locationType": 0,
+        "lon": -73.967798,
+        "name": "E 59 ST/LEXINGTON AV",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450011",
+        "direction": "NE",
+        "id": "MTA_450011",
+        "lat": 40.751003,
+        "locationType": 0,
+        "lon": -73.98679,
+        "name": "6 AV/W 36 ST",
+        "routeIds": [
+            "MTABC_QM3",
+            "MTABC_QM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450014",
+        "direction": "NE",
+        "id": "MTA_450014",
+        "lat": 40.75459,
+        "locationType": 0,
+        "lon": -73.984193,
+        "name": "6 AV/W 41 ST",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450018",
+        "direction": "NE",
+        "id": "MTA_450018",
+        "lat": 40.756262,
+        "locationType": 0,
+        "lon": -73.982958,
+        "name": "6 AV/W 44 ST",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450020",
+        "direction": "NE",
+        "id": "MTA_450020",
+        "lat": 40.758791,
+        "locationType": 0,
+        "lon": -73.981116,
+        "name": "6 AV/W 48 ST",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450024",
+        "direction": "NE",
+        "id": "MTA_450024",
+        "lat": 40.763175,
+        "locationType": 0,
+        "lon": -73.977918,
+        "name": "6 AV/W 55 ST",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450033",
+        "direction": "SE",
+        "id": "MTA_450033",
+        "lat": 40.762333,
+        "locationType": 0,
+        "lon": -73.972631,
+        "name": "E 57 ST/MADISON AV",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450552",
+        "direction": "NW",
+        "id": "MTA_450552",
+        "lat": 40.747533,
+        "locationType": 0,
+        "lon": -73.982055,
+        "name": "E 34 ST/PARK AV",
+        "routeIds": [
+            "MTABC_BM5",
+            "MTABC_QM1",
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM20",
+            "MTABC_QM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500863",
+        "direction": "E",
+        "id": "MTA_500863",
+        "lat": 40.758855,
+        "locationType": 0,
+        "lon": -73.798117,
+        "name": "NORTHERN BLVD/168 ST",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTA NYCT_Q13",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500867",
+        "direction": "E",
+        "id": "MTA_500867",
+        "lat": 40.757683,
+        "locationType": 0,
+        "lon": -73.791594,
+        "name": "NORTHERN BLVD/190 ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500869",
+        "direction": "E",
+        "id": "MTA_500869",
+        "lat": 40.757837,
+        "locationType": 0,
+        "lon": -73.787138,
+        "name": "NORTHERN BLVD/194 ST",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTA NYCT_Q13",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500871",
+        "direction": "E",
+        "id": "MTA_500871",
+        "lat": 40.757671,
+        "locationType": 0,
+        "lon": -73.783657,
+        "name": "NORTHERN BLVD/FRANCIS LEWIS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTA NYCT_Q13",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500874",
+        "direction": "E",
+        "id": "MTA_500874",
+        "lat": 40.758369,
+        "locationType": 0,
+        "lon": -73.776578,
+        "name": "NORTHERN BLVD/CLEARVIEW EXPWY",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTA NYCT_Q13",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500877",
+        "direction": "E",
+        "id": "MTA_500877",
+        "lat": 40.760348,
+        "locationType": 0,
+        "lon": -73.768238,
+        "name": "NORTHERN BLVD/BELL BLVD",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500879",
+        "direction": "E",
+        "id": "MTA_500879",
+        "lat": 40.760953,
+        "locationType": 0,
+        "lon": -73.764371,
+        "name": "NORTHERN BLVD/217 ST",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500881",
+        "direction": "E",
+        "id": "MTA_500881",
+        "lat": 40.761585,
+        "locationType": 0,
+        "lon": -73.760445,
+        "name": "NORTHERN BLVD/220 PL",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500882",
+        "direction": "E",
+        "id": "MTA_500882",
+        "lat": 40.761867,
+        "locationType": 0,
+        "lon": -73.758606,
+        "name": "NORTHERN BLVD/223 ST",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500889",
+        "direction": "NE",
+        "id": "MTA_500889",
+        "lat": 40.768162,
+        "locationType": 0,
+        "lon": -73.73764,
+        "name": "NORTHERN BLVD/MARATHON PKWY",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500891",
+        "direction": "E",
+        "id": "MTA_500891",
+        "lat": 40.770467,
+        "locationType": 0,
+        "lon": -73.735086,
+        "name": "LITTLE NECK PKWY/NORTHERN BLVD",
+        "routeIds": [
+            "MTA NYCT_Q36",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500895",
+        "direction": "SW",
+        "id": "MTA_500895",
+        "lat": 40.770448,
+        "locationType": 0,
+        "lon": -73.735794,
+        "name": "NORTHERN BLVD/LITTLE NECK PKWY",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500896",
+        "direction": "SW",
+        "id": "MTA_500896",
+        "lat": 40.768231,
+        "locationType": 0,
+        "lon": -73.737914,
+        "name": "NORTHERN BLVD/MARATHON PKWY",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500899",
+        "direction": "W",
+        "id": "MTA_500899",
+        "lat": 40.765458,
+        "locationType": 0,
+        "lon": -73.744199,
+        "name": "NORTHERN BLVD/DOUGLASTON PKWY",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500902",
+        "direction": "W",
+        "id": "MTA_500902",
+        "lat": 40.761993,
+        "locationType": 0,
+        "lon": -73.758902,
+        "name": "NORTHERN BLVD/223 ST",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500904",
+        "direction": "W",
+        "id": "MTA_500904",
+        "lat": 40.761273,
+        "locationType": 0,
+        "lon": -73.763383,
+        "name": "NORTHERN BLVD/219 ST",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500905",
+        "direction": "W",
+        "id": "MTA_500905",
+        "lat": 40.76098,
+        "locationType": 0,
+        "lon": -73.765222,
+        "name": "NORTHERN BLVD/217 ST",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500907",
+        "direction": "W",
+        "id": "MTA_500907",
+        "lat": 40.760353,
+        "locationType": 0,
+        "lon": -73.769242,
+        "name": "NORTHERN BLVD/BELL BLVD",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500910",
+        "direction": "W",
+        "id": "MTA_500910",
+        "lat": 40.758445,
+        "locationType": 0,
+        "lon": -73.776872,
+        "name": "NORTHERN BLVD/CLEARVIEW EXPWY",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTA NYCT_Q13",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500913",
+        "direction": "W",
+        "id": "MTA_500913",
+        "lat": 40.757792,
+        "locationType": 0,
+        "lon": -73.783353,
+        "name": "NORTHERN BLVD/FRANCIS LEWIS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTA NYCT_Q13",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500915",
+        "direction": "W",
+        "id": "MTA_500915",
+        "lat": 40.757943,
+        "locationType": 0,
+        "lon": -73.788013,
+        "name": "NORTHERN BLVD/194 ST",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTA NYCT_Q13",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500917",
+        "direction": "W",
+        "id": "MTA_500917",
+        "lat": 40.757827,
+        "locationType": 0,
+        "lon": -73.792565,
+        "name": "NORTHERN BLVD/189 ST",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTA NYCT_Q13",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500920",
+        "direction": "W",
+        "id": "MTA_500920",
+        "lat": 40.758987,
+        "locationType": 0,
+        "lon": -73.797965,
+        "name": "NORTHERN BLVD/169 ST",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTA NYCT_Q13",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500955",
+        "direction": "N",
+        "id": "MTA_500955",
+        "lat": 40.764894,
+        "locationType": 0,
+        "lon": -73.724303,
+        "name": "LITTLE NECK PKWY/HORACE HARDING EXPWY",
+        "routeIds": [
+            "MTA NYCT_Q36",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500958",
+        "direction": "W",
+        "id": "MTA_500958",
+        "lat": 40.769138,
+        "locationType": 0,
+        "lon": -73.731564,
+        "name": "LITTLE NECK PKWY/ANNANDALE LN",
+        "routeIds": [
+            "MTA NYCT_Q36",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500968",
+        "direction": "E",
+        "id": "MTA_500968",
+        "lat": 40.768913,
+        "locationType": 0,
+        "lon": -73.731265,
+        "name": "LITTLE NECK PKWY/ANNANDALE LN",
+        "routeIds": [
+            "MTA NYCT_Q36",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500997",
+        "direction": "E",
+        "id": "MTA_500997",
+        "lat": 40.764608,
+        "locationType": 0,
+        "lon": -73.822975,
+        "name": "NORTHERN BLVD/PARSONS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500999",
+        "direction": "E",
+        "id": "MTA_500999",
+        "lat": 40.765241,
+        "locationType": 0,
+        "lon": -73.816822,
+        "name": "NORTHERN BLVD/149 ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501005",
+        "direction": "E",
+        "id": "MTA_501005",
+        "lat": 40.762956,
+        "locationType": 0,
+        "lon": -73.806057,
+        "name": "NORTHERN BLVD/159 ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501008",
+        "direction": "E",
+        "id": "MTA_501008",
+        "lat": 40.759479,
+        "locationType": 0,
+        "lon": -73.799938,
+        "name": "NORTHERN BLVD/166 ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501075",
+        "direction": "NW",
+        "id": "MTA_501075",
+        "lat": 40.760527,
+        "locationType": 0,
+        "lon": -73.801469,
+        "name": "NORTHERN BLVD/165 ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501077",
+        "direction": "W",
+        "id": "MTA_501077",
+        "lat": 40.762828,
+        "locationType": 0,
+        "lon": -73.805018,
+        "name": "NORTHERN BLVD/161 ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501083",
+        "direction": "W",
+        "id": "MTA_501083",
+        "lat": 40.765423,
+        "locationType": 0,
+        "lon": -73.817865,
+        "name": "NORTHERN BLVD/149 ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501085",
+        "direction": "W",
+        "id": "MTA_501085",
+        "lat": 40.76467,
+        "locationType": 0,
+        "lon": -73.824161,
+        "name": "NORTHERN BLVD/PARSONS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501470",
+        "direction": "SW",
+        "id": "MTA_501470",
+        "lat": 40.764295,
+        "locationType": 0,
+        "lon": -73.725916,
+        "name": "NASSAU BLVD/LITTLE NECK PKWY",
+        "routeIds": [
+            "MTA NYCT_Q30",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551868",
+        "direction": "E",
+        "id": "MTA_551868",
+        "lat": 40.754508,
+        "locationType": 0,
+        "lon": -73.894472,
+        "name": "NORTHERN BLVD/72 ST",
+        "routeIds": [
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551882",
+        "direction": "E",
+        "id": "MTA_551882",
+        "lat": 40.755964,
+        "locationType": 0,
+        "lon": -73.880508,
+        "name": "NORTHERN BLVD/87 ST",
+        "routeIds": [
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552903",
+        "direction": "E",
+        "id": "MTA_552903",
+        "lat": 40.765298,
+        "locationType": 0,
+        "lon": -73.74388,
+        "name": "NORTHERN BLVD/DOUGLASTON PKWY",
+        "routeIds": [
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "981010",
+        "direction": "SE",
+        "id": "MTA_981010",
+        "lat": 40.76053,
+        "locationType": 0,
+        "lon": -73.968299,
+        "name": "E 57 ST/LEXINGTON AV",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM20",
+            "MTABC_QM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

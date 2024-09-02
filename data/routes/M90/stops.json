@@ -1,0 +1,226 @@
+[
+    {
+        "code": "304409",
+        "direction": "E",
+        "id": "MTA_304409",
+        "lat": 40.69799,
+        "locationType": 0,
+        "lon": -73.925645,
+        "name": "MYRTLE AV/DE KALB AV",
+        "routeIds": [
+            "MTA NYCT_B54",
+            "MTA NYCT_M90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304412",
+        "direction": "E",
+        "id": "MTA_304412",
+        "lat": 40.698745,
+        "locationType": 0,
+        "lon": -73.918435,
+        "name": "MYRTLE AV/KNICKERBOCKER AV",
+        "routeIds": [
+            "MTA NYCT_B54",
+            "MTA NYCT_M90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304420",
+        "direction": "W",
+        "id": "MTA_304420",
+        "lat": 40.698871,
+        "locationType": 0,
+        "lon": -73.918265,
+        "name": "MYRTLE AV/KNICKERBOCKER AV",
+        "routeIds": [
+            "MTA NYCT_B54",
+            "MTA NYCT_M90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304423",
+        "direction": "W",
+        "id": "MTA_304423",
+        "lat": 40.698157,
+        "locationType": 0,
+        "lon": -73.925089,
+        "name": "MYRTLE AV/DE KALB AV",
+        "routeIds": [
+            "MTA NYCT_B54",
+            "MTA NYCT_M90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308596",
+        "direction": "NE",
+        "id": "MTA_308596",
+        "lat": 40.700074,
+        "locationType": 0,
+        "lon": -73.911577,
+        "name": "GATES AV/WYCKOFF AV",
+        "routeIds": [
+            "MTA NYCT_B54",
+            "MTA NYCT_M90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503456",
+        "direction": "NW",
+        "id": "MTA_503456",
+        "lat": 40.706407,
+        "locationType": 0,
+        "lon": -73.896832,
+        "name": "FRESH POND RD/PUTNAM AV",
+        "routeIds": [
+            "MTA NYCT_M90",
+            "MTA NYCT_Q58",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504107",
+        "direction": "W",
+        "id": "MTA_504107",
+        "lat": 40.706427,
+        "locationType": 0,
+        "lon": -73.897352,
+        "name": "PUTNAM AV/FRESH POND RD",
+        "routeIds": [
+            "MTA NYCT_B13",
+            "MTA NYCT_B20",
+            "MTA NYCT_M90",
+            "MTA NYCT_Q58"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504119",
+        "direction": "SW",
+        "id": "MTA_504119",
+        "lat": 40.70005,
+        "locationType": 0,
+        "lon": -73.911769,
+        "name": "GATES AV/WYCKOFF AV",
+        "routeIds": [
+            "MTA NYCT_B13",
+            "MTA NYCT_B52",
+            "MTA NYCT_M90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504175",
+        "direction": "SW",
+        "id": "MTA_504175",
+        "lat": 40.704702,
+        "locationType": 0,
+        "lon": -73.90224,
+        "name": "PUTNAM AV/FAIRVIEW AV",
+        "routeIds": [
+            "MTA NYCT_B20",
+            "MTA NYCT_M90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504236",
+        "direction": "SE",
+        "id": "MTA_504236",
+        "lat": 40.702821,
+        "locationType": 0,
+        "lon": -73.907833,
+        "name": "SENECA AV/PALMETTO ST",
+        "routeIds": [
+            "MTA NYCT_B38",
+            "MTA NYCT_M90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801098",
+        "direction": "NW",
+        "id": "MTA_801098",
+        "lat": 40.702761,
+        "locationType": 0,
+        "lon": -73.907528,
+        "name": "SENECA AV/PALMETTO ST",
+        "routeIds": [
+            "MTA NYCT_M90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801101",
+        "direction": "W",
+        "id": "MTA_801101",
+        "lat": 40.696984,
+        "locationType": 0,
+        "lon": -73.935546,
+        "name": "MYRTLE AV/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_M90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801162",
+        "direction": "SE",
+        "id": "MTA_801162",
+        "lat": 40.69726,
+        "locationType": 0,
+        "lon": -73.935893,
+        "name": "BROADWAY/MYRTLE AV",
+        "routeIds": [
+            "MTA NYCT_M90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901119",
+        "direction": "E",
+        "id": "MTA_901119",
+        "lat": 40.712251,
+        "locationType": 0,
+        "lon": -73.88906,
+        "name": "METROPOLITAN AV/RENTAR PLAZA",
+        "routeIds": [
+            "MTA NYCT_M90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901127",
+        "direction": "W",
+        "id": "MTA_901127",
+        "lat": 40.712351,
+        "locationType": 0,
+        "lon": -73.889882,
+        "name": "METROPOLITAN AV/RENTAR PLAZA",
+        "routeIds": [
+            "MTA NYCT_M90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901240",
+        "direction": "SE",
+        "id": "MTA_901240",
+        "lat": 40.704696,
+        "locationType": 0,
+        "lon": -73.902568,
+        "name": "FAIRVIEW AV/PUTNAM AV",
+        "routeIds": [
+            "MTA NYCT_M90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

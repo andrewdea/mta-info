@@ -1,0 +1,1036 @@
+[
+    {
+        "code": "302355",
+        "direction": "E",
+        "id": "MTA_302355",
+        "lat": 40.702666,
+        "locationType": 0,
+        "lon": -73.993952,
+        "name": "OLD FULTON ST/ELIZABETH PL",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302356",
+        "direction": "SE",
+        "id": "MTA_302356",
+        "lat": 40.701021,
+        "locationType": 0,
+        "lon": -73.991449,
+        "name": "OLD FULTON ST/HENRY ST",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302357",
+        "direction": "SW",
+        "id": "MTA_302357",
+        "lat": 40.699591,
+        "locationType": 0,
+        "lon": -73.99129,
+        "name": "CADMAN PLAZA WEST/MIDDAGH ST",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302358",
+        "direction": "S",
+        "id": "MTA_302358",
+        "lat": 40.696696,
+        "locationType": 0,
+        "lon": -73.991464,
+        "name": "CADMAN PLAZA WEST/CLARK ST",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302359",
+        "direction": "S",
+        "id": "MTA_302359",
+        "lat": 40.698348,
+        "locationType": 0,
+        "lon": -73.991565,
+        "name": "CADMAN PLAZA WEST/CADMAN TOWER",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302367",
+        "direction": "E",
+        "id": "MTA_302367",
+        "lat": 40.68785,
+        "locationType": 0,
+        "lon": -73.97845,
+        "name": "FULTON ST/ASHLAND PL",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302368",
+        "direction": "SE",
+        "id": "MTA_302368",
+        "lat": 40.687146,
+        "locationType": 0,
+        "lon": -73.97669,
+        "name": "FULTON ST/LAFAYETTE AV",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B26",
+            "MTA NYCT_B52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302369",
+        "direction": "E",
+        "id": "MTA_302369",
+        "lat": 40.686059,
+        "locationType": 0,
+        "lon": -73.974034,
+        "name": "FULTON ST/SOUTH PORTLAND AV",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B26",
+            "MTA NYCT_B52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302370",
+        "direction": "E",
+        "id": "MTA_302370",
+        "lat": 40.68478,
+        "locationType": 0,
+        "lon": -73.970798,
+        "name": "FULTON ST/CARLTON AV",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302371",
+        "direction": "E",
+        "id": "MTA_302371",
+        "lat": 40.683904,
+        "locationType": 0,
+        "lon": -73.968617,
+        "name": "FULTON ST/CLERMONT AV",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302372",
+        "direction": "E",
+        "id": "MTA_302372",
+        "lat": 40.683332,
+        "locationType": 0,
+        "lon": -73.966593,
+        "name": "FULTON ST/CLINTON AV",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302374",
+        "direction": "E",
+        "id": "MTA_302374",
+        "lat": 40.682882,
+        "locationType": 0,
+        "lon": -73.964338,
+        "name": "FULTON ST/WASHINGTON AV",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302375",
+        "direction": "E",
+        "id": "MTA_302375",
+        "lat": 40.682662,
+        "locationType": 0,
+        "lon": -73.9633,
+        "name": "FULTON ST/SAINT JAMES PL",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302376",
+        "direction": "E",
+        "id": "MTA_302376",
+        "lat": 40.682232,
+        "locationType": 0,
+        "lon": -73.961323,
+        "name": "FULTON ST/GRAND  AV",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302377",
+        "direction": "E",
+        "id": "MTA_302377",
+        "lat": 40.681579,
+        "locationType": 0,
+        "lon": -73.958134,
+        "name": "FULTON ST/CLASSON AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302378",
+        "direction": "E",
+        "id": "MTA_302378",
+        "lat": 40.680982,
+        "locationType": 0,
+        "lon": -73.955289,
+        "name": "FULTON ST/FRANKLIN AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302379",
+        "direction": "E",
+        "id": "MTA_302379",
+        "lat": 40.6805,
+        "locationType": 0,
+        "lon": -73.952805,
+        "name": "FULTON ST/BEDFORD AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302380",
+        "direction": "E",
+        "id": "MTA_302380",
+        "lat": 40.680301,
+        "locationType": 0,
+        "lon": -73.949161,
+        "name": "FULTON ST/NOSTRAND AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302381",
+        "direction": "E",
+        "id": "MTA_302381",
+        "lat": 40.680116,
+        "locationType": 0,
+        "lon": -73.945667,
+        "name": "FULTON ST/MARCY AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302382",
+        "direction": "E",
+        "id": "MTA_302382",
+        "lat": 40.680033,
+        "locationType": 0,
+        "lon": -73.944167,
+        "name": "FULTON ST/BROOKLYN AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302383",
+        "direction": "E",
+        "id": "MTA_302383",
+        "lat": 40.67988,
+        "locationType": 0,
+        "lon": -73.941381,
+        "name": "FULTON ST/KINGSTON AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302413",
+        "direction": "W",
+        "id": "MTA_302413",
+        "lat": 40.680063,
+        "locationType": 0,
+        "lon": -73.943102,
+        "name": "FULTON ST/TOMPKINS AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302414",
+        "direction": "W",
+        "id": "MTA_302414",
+        "lat": 40.680253,
+        "locationType": 0,
+        "lon": -73.946932,
+        "name": "FULTON ST/NEW YORK AV",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302415",
+        "direction": "W",
+        "id": "MTA_302415",
+        "lat": 40.680447,
+        "locationType": 0,
+        "lon": -73.949976,
+        "name": "FULTON ST/NOSTRAND AV",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302416",
+        "direction": "W",
+        "id": "MTA_302416",
+        "lat": 40.680795,
+        "locationType": 0,
+        "lon": -73.953757,
+        "name": "FULTON ST/BEDFORD AV",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302418",
+        "direction": "W",
+        "id": "MTA_302418",
+        "lat": 40.681878,
+        "locationType": 0,
+        "lon": -73.958919,
+        "name": "FULTON ST/CLASSON AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302419",
+        "direction": "W",
+        "id": "MTA_302419",
+        "lat": 40.682497,
+        "locationType": 0,
+        "lon": -73.961904,
+        "name": "FULTON ST/GRAND AV",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302423",
+        "direction": "W",
+        "id": "MTA_302423",
+        "lat": 40.683948,
+        "locationType": 0,
+        "lon": -73.968386,
+        "name": "FULTON ST/VANDERBILT AV",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302424",
+        "direction": "W",
+        "id": "MTA_302424",
+        "lat": 40.684791,
+        "locationType": 0,
+        "lon": -73.97047,
+        "name": "FULTON ST/ADELPHI ST",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302426",
+        "direction": "W",
+        "id": "MTA_302426",
+        "lat": 40.68573,
+        "locationType": 0,
+        "lon": -73.972824,
+        "name": "FULTON ST/GREENE AV",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302427",
+        "direction": "W",
+        "id": "MTA_302427",
+        "lat": 40.686724,
+        "locationType": 0,
+        "lon": -73.975391,
+        "name": "FULTON ST/SOUTH ELLIOT PL",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B26",
+            "MTA NYCT_B52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302428",
+        "direction": "W",
+        "id": "MTA_302428",
+        "lat": 40.68738,
+        "locationType": 0,
+        "lon": -73.977028,
+        "name": "FULTON ST/FORT GREENE PL",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B26",
+            "MTA NYCT_B52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302430",
+        "direction": "W",
+        "id": "MTA_302430",
+        "lat": 40.688635,
+        "locationType": 0,
+        "lon": -73.980164,
+        "name": "FULTON ST/HUDSON AV",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B26",
+            "MTA NYCT_B52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302431",
+        "direction": "W",
+        "id": "MTA_302431",
+        "lat": 40.689671,
+        "locationType": 0,
+        "lon": -73.982815,
+        "name": "FULTON ST/BOND ST",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B26",
+            "MTA NYCT_B52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302433",
+        "direction": "W",
+        "id": "MTA_302433",
+        "lat": 40.691398,
+        "locationType": 0,
+        "lon": -73.987134,
+        "name": "FULTON ST/JAY ST",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B26",
+            "MTA NYCT_B38",
+            "MTA NYCT_B52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302437",
+        "direction": "N",
+        "id": "MTA_302437",
+        "lat": 40.696635,
+        "locationType": 0,
+        "lon": -73.991161,
+        "name": "CADMAN PLAZA WEST/TILLARY ST",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302440",
+        "direction": "NW",
+        "id": "MTA_302440",
+        "lat": 40.70106,
+        "locationType": 0,
+        "lon": -73.991106,
+        "name": "OLD FULTON ST/PROSPECT ST",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302945",
+        "direction": "E",
+        "id": "MTA_302945",
+        "lat": 40.69148,
+        "locationType": 0,
+        "lon": -73.987534,
+        "name": "FULTON ST/SMITH ST",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B38",
+            "MTA NYCT_B52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302947",
+        "direction": "SE",
+        "id": "MTA_302947",
+        "lat": 40.689709,
+        "locationType": 0,
+        "lon": -73.983099,
+        "name": "FULTON ST/BOND ST",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B26",
+            "MTA NYCT_B38",
+            "MTA NYCT_B52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306437",
+        "direction": "SE",
+        "id": "MTA_306437",
+        "lat": 40.702029,
+        "locationType": 0,
+        "lon": -73.992747,
+        "name": "OLD FULTON ST/HICKS ST",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307238",
+        "direction": "W",
+        "id": "MTA_307238",
+        "lat": 40.677953,
+        "locationType": 0,
+        "lon": -73.903754,
+        "name": "FULTON ST/VAN SINDEREN AV",
+        "routeIds": [
+            "MTA NYCT_B20",
+            "MTA NYCT_B25",
+            "MTA NYCT_Q24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307239",
+        "direction": "W",
+        "id": "MTA_307239",
+        "lat": 40.678098,
+        "locationType": 0,
+        "lon": -73.906343,
+        "name": "FULTON ST/SACKMAN ST",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307240",
+        "direction": "W",
+        "id": "MTA_307240",
+        "lat": 40.678156,
+        "locationType": 0,
+        "lon": -73.907474,
+        "name": "FULTON ST/EASTERN PKWY",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307241",
+        "direction": "W",
+        "id": "MTA_307241",
+        "lat": 40.67836,
+        "locationType": 0,
+        "lon": -73.911216,
+        "name": "FULTON ST/ROCKAWAY AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307243",
+        "direction": "W",
+        "id": "MTA_307243",
+        "lat": 40.678666,
+        "locationType": 0,
+        "lon": -73.916732,
+        "name": "FULTON ST/SARATOGA AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307244",
+        "direction": "W",
+        "id": "MTA_307244",
+        "lat": 40.678832,
+        "locationType": 0,
+        "lon": -73.919522,
+        "name": "FULTON ST/HOWARD AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307246",
+        "direction": "W",
+        "id": "MTA_307246",
+        "lat": 40.679063,
+        "locationType": 0,
+        "lon": -73.924105,
+        "name": "FULTON ST/BUFFALO AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307247",
+        "direction": "W",
+        "id": "MTA_307247",
+        "lat": 40.679324,
+        "locationType": 0,
+        "lon": -73.929591,
+        "name": "FULTON ST/MALCOLM X BLVD",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307248",
+        "direction": "W",
+        "id": "MTA_307248",
+        "lat": 40.679483,
+        "locationType": 0,
+        "lon": -73.931747,
+        "name": "FULTON ST/STUYVESANT AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307249",
+        "direction": "W",
+        "id": "MTA_307249",
+        "lat": 40.679682,
+        "locationType": 0,
+        "lon": -73.935381,
+        "name": "FULTON ST/LEWIS AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307251",
+        "direction": "E",
+        "id": "MTA_307251",
+        "lat": 40.679501,
+        "locationType": 0,
+        "lon": -73.934459,
+        "name": "FULTON ST/TROY AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307252",
+        "direction": "E",
+        "id": "MTA_307252",
+        "lat": 40.679398,
+        "locationType": 0,
+        "lon": -73.932497,
+        "name": "FULTON ST/SCHENECTADY AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307253",
+        "direction": "E",
+        "id": "MTA_307253",
+        "lat": 40.67919,
+        "locationType": 0,
+        "lon": -73.928636,
+        "name": "FULTON ST/UTICA AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307254",
+        "direction": "E",
+        "id": "MTA_307254",
+        "lat": 40.67894,
+        "locationType": 0,
+        "lon": -73.924108,
+        "name": "FULTON ST/BUFFALO AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307255",
+        "direction": "E",
+        "id": "MTA_307255",
+        "lat": 40.678762,
+        "locationType": 0,
+        "lon": -73.92125,
+        "name": "FULTON ST/RALPH AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307256",
+        "direction": "E",
+        "id": "MTA_307256",
+        "lat": 40.678615,
+        "locationType": 0,
+        "lon": -73.918564,
+        "name": "FULTON ST/HOWARD AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307257",
+        "direction": "E",
+        "id": "MTA_307257",
+        "lat": 40.678489,
+        "locationType": 0,
+        "lon": -73.915892,
+        "name": "FULTON ST/SARATOGA AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307258",
+        "direction": "W",
+        "id": "MTA_307258",
+        "lat": 40.679965,
+        "locationType": 0,
+        "lon": -73.941071,
+        "name": "FULTON ST/KINGSTON AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307259",
+        "direction": "E",
+        "id": "MTA_307259",
+        "lat": 40.678336,
+        "locationType": 0,
+        "lon": -73.913138,
+        "name": "FULTON ST/THOMAS S BOYLAND ST",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307260",
+        "direction": "E",
+        "id": "MTA_307260",
+        "lat": 40.678189,
+        "locationType": 0,
+        "lon": -73.910359,
+        "name": "FULTON ST/ROCKAWAY AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307263",
+        "direction": "E",
+        "id": "MTA_307263",
+        "lat": 40.677816,
+        "locationType": 0,
+        "lon": -73.903542,
+        "name": "FULTON ST/VAN SINDEREN AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307355",
+        "direction": "N",
+        "id": "MTA_307355",
+        "lat": 40.699009,
+        "locationType": 0,
+        "lon": -73.991217,
+        "name": "CADMAN PLAZA WEST/CRANBERRY ST",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307460",
+        "direction": "S",
+        "id": "MTA_307460",
+        "lat": 40.69256,
+        "locationType": 0,
+        "lon": -73.989131,
+        "name": "ADAMS ST/BROOKLYN SUPREME COURT",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B38",
+            "MTA NYCT_B41",
+            "MTA NYCT_B52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307491",
+        "direction": "E",
+        "id": "MTA_307491",
+        "lat": 40.69069,
+        "locationType": 0,
+        "lon": -73.985547,
+        "name": "FULTON ST/HOYT ST",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B26",
+            "MTA NYCT_B38",
+            "MTA NYCT_B52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307492",
+        "direction": "NW",
+        "id": "MTA_307492",
+        "lat": 40.690536,
+        "locationType": 0,
+        "lon": -73.984949,
+        "name": "FULTON ST/DUFFIELD ST",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B26",
+            "MTA NYCT_B38",
+            "MTA NYCT_B52"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307506",
+        "direction": "W",
+        "id": "MTA_307506",
+        "lat": 40.678922,
+        "locationType": 0,
+        "lon": -73.921386,
+        "name": "FULTON ST/MACDOUGAL ST",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307541",
+        "direction": "W",
+        "id": "MTA_307541",
+        "lat": 40.679832,
+        "locationType": 0,
+        "lon": -73.937977,
+        "name": "FULTON ST/MARCUS GARVEY BLVD",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307631",
+        "direction": "E",
+        "id": "MTA_307631",
+        "lat": 40.678066,
+        "locationType": 0,
+        "lon": -73.908188,
+        "name": "FULTON ST/EASTERN PKWY",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307926",
+        "direction": "E",
+        "id": "MTA_307926",
+        "lat": 40.679664,
+        "locationType": 0,
+        "lon": -73.937573,
+        "name": "FULTON ST/ALBANY AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307927",
+        "direction": "W",
+        "id": "MTA_307927",
+        "lat": 40.678507,
+        "locationType": 0,
+        "lon": -73.913974,
+        "name": "FULTON ST/THOMAS S BOYLAND ST",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308025",
+        "direction": "W",
+        "id": "MTA_308025",
+        "lat": 40.703318,
+        "locationType": 0,
+        "lon": -73.991102,
+        "name": "WATER ST/MAIN ST",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308626",
+        "direction": "E",
+        "id": "MTA_308626",
+        "lat": 40.702576,
+        "locationType": 0,
+        "lon": -73.99195,
+        "name": "FRONT ST/YORK ST",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308791",
+        "direction": "NE",
+        "id": "MTA_308791",
+        "lat": 40.693227,
+        "locationType": 0,
+        "lon": -73.990599,
+        "name": "CADMAN PLAZA WEST/REMSEN ST",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801071",
+        "direction": "E",
+        "id": "MTA_801071",
+        "lat": 40.702573,
+        "locationType": 0,
+        "lon": -73.99201,
+        "name": "FRONT ST/YORK ST",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801177",
+        "direction": "N",
+        "id": "MTA_801177",
+        "lat": 40.676746,
+        "locationType": 0,
+        "lon": -73.899944,
+        "name": "ALABAMA AV/FULTON ST",
+        "routeIds": [
+            "MTA NYCT_B12",
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901211",
+        "direction": "E",
+        "id": "MTA_901211",
+        "lat": 40.676719,
+        "locationType": 0,
+        "lon": -73.900118,
+        "name": "EAST NEW YORK AV/ALABAMA AV",
+        "routeIds": [
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

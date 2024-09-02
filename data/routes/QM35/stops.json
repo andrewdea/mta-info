@@ -1,0 +1,1296 @@
+[
+    {
+        "code": "403640",
+        "direction": "NE",
+        "id": "MTA_403640",
+        "lat": 40.756158,
+        "locationType": 0,
+        "lon": -73.970388,
+        "name": "3 AV/E 50 ST",
+        "routeIds": [
+            "MTABC_QM31",
+            "MTABC_QM32",
+            "MTABC_QM35",
+            "MTABC_QM36",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404169",
+        "direction": "NE",
+        "id": "MTA_404169",
+        "lat": 40.759232,
+        "locationType": 0,
+        "lon": -73.968227,
+        "name": "3 AV/E 55 ST",
+        "routeIds": [
+            "MTABC_QM31",
+            "MTABC_QM32",
+            "MTABC_QM35",
+            "MTABC_QM36",
+            "MTABC_QM44",
+            "MTA NYCT_X63",
+            "MTA NYCT_X64",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450001",
+        "direction": "NE",
+        "id": "MTA_450001",
+        "lat": 40.748354,
+        "locationType": 0,
+        "lon": -73.976096,
+        "name": "3 AV/E 38 ST",
+        "routeIds": [
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450004",
+        "direction": "NE",
+        "id": "MTA_450004",
+        "lat": 40.751559,
+        "locationType": 0,
+        "lon": -73.973767,
+        "name": "3 AV/E 43 ST",
+        "routeIds": [
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500951",
+        "direction": "NW",
+        "id": "MTA_500951",
+        "lat": 40.754425,
+        "locationType": 0,
+        "lon": -73.72303,
+        "name": "LITTLE NECK PKWY/GRAND CENTRAL PKWY",
+        "routeIds": [
+            "MTA NYCT_Q36",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500952",
+        "direction": "N",
+        "id": "MTA_500952",
+        "lat": 40.756671,
+        "locationType": 0,
+        "lon": -73.72263,
+        "name": "LITTLE NECK PKWY/255 ST",
+        "routeIds": [
+            "MTA NYCT_Q36",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500954",
+        "direction": "N",
+        "id": "MTA_500954",
+        "lat": 40.761784,
+        "locationType": 0,
+        "lon": -73.72306,
+        "name": "LITTLE NECK PKWY/58 AV",
+        "routeIds": [
+            "MTA NYCT_Q36",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500973",
+        "direction": "S",
+        "id": "MTA_500973",
+        "lat": 40.761554,
+        "locationType": 0,
+        "lon": -73.723205,
+        "name": "LITTLE NECK PKWY/58 AV",
+        "routeIds": [
+            "MTA NYCT_Q36",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500975",
+        "direction": "S",
+        "id": "MTA_500975",
+        "lat": 40.75816,
+        "locationType": 0,
+        "lon": -73.722573,
+        "name": "LITTLE NECK PKWY/61 AV",
+        "routeIds": [
+            "MTA NYCT_Q36",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500976",
+        "direction": "SW",
+        "id": "MTA_500976",
+        "lat": 40.755534,
+        "locationType": 0,
+        "lon": -73.723235,
+        "name": "LITTLE NECK PKWY/CULLMAN AV",
+        "routeIds": [
+            "MTA NYCT_Q36",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500977",
+        "direction": "SE",
+        "id": "MTA_500977",
+        "lat": 40.75316,
+        "locationType": 0,
+        "lon": -73.722392,
+        "name": "LITTLE NECK PKWY/GRAND CENTRAL PKWY",
+        "routeIds": [
+            "MTA NYCT_Q36",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501336",
+        "direction": "SE",
+        "id": "MTA_501336",
+        "lat": 40.731552,
+        "locationType": 0,
+        "lon": -73.782176,
+        "name": "188 ST/75 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501337",
+        "direction": "NW",
+        "id": "MTA_501337",
+        "lat": 40.733027,
+        "locationType": 0,
+        "lon": -73.782878,
+        "name": "188 ST/73 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501398",
+        "direction": "SE",
+        "id": "MTA_501398",
+        "lat": 40.738736,
+        "locationType": 0,
+        "lon": -73.785956,
+        "name": "188 ST/64 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501399",
+        "direction": "SE",
+        "id": "MTA_501399",
+        "lat": 40.73622,
+        "locationType": 0,
+        "lon": -73.78465,
+        "name": "188 ST/186 LN",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM7",
+            "MTABC_QM31",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501401",
+        "direction": "SE",
+        "id": "MTA_501401",
+        "lat": 40.732777,
+        "locationType": 0,
+        "lon": -73.782965,
+        "name": "188 ST/73 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501402",
+        "direction": "",
+        "id": "MTA_501402",
+        "lat": 40.730934,
+        "locationType": 0,
+        "lon": -73.782087,
+        "name": "188 ST/75 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501456",
+        "direction": "E",
+        "id": "MTA_501456",
+        "lat": 40.74985,
+        "locationType": 0,
+        "lon": -73.753354,
+        "name": "HORACE HARDING EXPWY/224 ST",
+        "routeIds": [
+            "MTA NYCT_Q30",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501457",
+        "direction": "E",
+        "id": "MTA_501457",
+        "lat": 40.750344,
+        "locationType": 0,
+        "lon": -73.750693,
+        "name": "HORACE HARDING EXPWY/CLOVERDALE BLVD",
+        "routeIds": [
+            "MTA NYCT_Q30",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501460",
+        "direction": "NW",
+        "id": "MTA_501460",
+        "lat": 40.752967,
+        "locationType": 0,
+        "lon": -73.741457,
+        "name": "DOUGLASTON PKWY/65 AV",
+        "routeIds": [
+            "MTA NYCT_Q30",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501462",
+        "direction": "NE",
+        "id": "MTA_501462",
+        "lat": 40.756908,
+        "locationType": 0,
+        "lon": -73.738767,
+        "name": "HORACE HARDING EXPWY/DOUGLASTON PKWY",
+        "routeIds": [
+            "MTA NYCT_Q30",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501463",
+        "direction": "NE",
+        "id": "MTA_501463",
+        "lat": 40.757996,
+        "locationType": 0,
+        "lon": -73.736976,
+        "name": "HORACE HARDING EXPWY/244 ST",
+        "routeIds": [
+            "MTA NYCT_Q30",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501465",
+        "direction": "E",
+        "id": "MTA_501465",
+        "lat": 40.759483,
+        "locationType": 0,
+        "lon": -73.734187,
+        "name": "HORACE HARDING EXPWY/246 PL",
+        "routeIds": [
+            "MTA NYCT_Q30",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501466",
+        "direction": "NE",
+        "id": "MTA_501466",
+        "lat": 40.760473,
+        "locationType": 0,
+        "lon": -73.731303,
+        "name": "HORACE HARDING EXPWY/MARATHON PKWY",
+        "routeIds": [
+            "MTA NYCT_Q30",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501467",
+        "direction": "NE",
+        "id": "MTA_501467",
+        "lat": 40.76175,
+        "locationType": 0,
+        "lon": -73.72928,
+        "name": "HORACE HARDING EXPWY/251 ST",
+        "routeIds": [
+            "MTA NYCT_Q30",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501475",
+        "direction": "SW",
+        "id": "MTA_501475",
+        "lat": 40.760745,
+        "locationType": 0,
+        "lon": -73.732569,
+        "name": "HORACE HARDING EXPWY/MARATHON PKWY",
+        "routeIds": [
+            "MTA NYCT_Q30",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501483",
+        "direction": "W",
+        "id": "MTA_501483",
+        "lat": 40.750851,
+        "locationType": 0,
+        "lon": -73.751586,
+        "name": "HORACE HARDING EXPWY/CLOVERDALE BLVD",
+        "routeIds": [
+            "MTA NYCT_Q30",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501623",
+        "direction": "",
+        "id": "MTA_501623",
+        "lat": 40.749632,
+        "locationType": 0,
+        "lon": -73.757128,
+        "name": "SPRINGFIELD BLVD/HORACE HARDING EXPWY",
+        "routeIds": [
+            "MTA NYCT_Q27",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501626",
+        "direction": "SE",
+        "id": "MTA_501626",
+        "lat": 40.745262,
+        "locationType": 0,
+        "lon": -73.754891,
+        "name": "SPRINGFIELD BLVD/67 AV",
+        "routeIds": [
+            "MTA NYCT_Q27",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501627",
+        "direction": "SE",
+        "id": "MTA_501627",
+        "lat": 40.742498,
+        "locationType": 0,
+        "lon": -73.753616,
+        "name": "SPRINGFIELD BLVD/73 AV",
+        "routeIds": [
+            "MTA NYCT_Q27",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501661",
+        "direction": "NW",
+        "id": "MTA_501661",
+        "lat": 40.743409,
+        "locationType": 0,
+        "lon": -73.753829,
+        "name": "SPRINGFIELD BLVD/69 AV",
+        "routeIds": [
+            "MTA NYCT_Q27",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501662",
+        "direction": "NW",
+        "id": "MTA_501662",
+        "lat": 40.745173,
+        "locationType": 0,
+        "lon": -73.754635,
+        "name": "SPRINGFIELD BLVD/67 AV",
+        "routeIds": [
+            "MTA NYCT_Q27",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501663",
+        "direction": "NW",
+        "id": "MTA_501663",
+        "lat": 40.747663,
+        "locationType": 0,
+        "lon": -73.755867,
+        "name": "SPRINGFIELD BLVD/64 AV",
+        "routeIds": [
+            "MTA NYCT_Q27",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501665",
+        "direction": "NW",
+        "id": "MTA_501665",
+        "lat": 40.749868,
+        "locationType": 0,
+        "lon": -73.75708,
+        "name": "SPRINGFIELD BLVD/HORACE HARDING EXPWY NORTH",
+        "routeIds": [
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q30",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502304",
+        "direction": "E",
+        "id": "MTA_502304",
+        "lat": 40.719071,
+        "locationType": 0,
+        "lon": -73.81169,
+        "name": "UNION TPKE/150 ST",
+        "routeIds": [
+            "MTA NYCT_Q46",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502307",
+        "direction": "E",
+        "id": "MTA_502307",
+        "lat": 40.721277,
+        "locationType": 0,
+        "lon": -73.804731,
+        "name": "UNION TPKE/164 ST",
+        "routeIds": [
+            "MTA NYCT_Q46",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502309",
+        "direction": "E",
+        "id": "MTA_502309",
+        "lat": 40.722965,
+        "locationType": 0,
+        "lon": -73.799791,
+        "name": "UNION TPKE/168 ST",
+        "routeIds": [
+            "MTA NYCT_Q46",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502345",
+        "direction": "NW",
+        "id": "MTA_502345",
+        "lat": 40.74733,
+        "locationType": 0,
+        "lon": -73.712117,
+        "name": "260 ST/UNION TPKE",
+        "routeIds": [
+            "MTA NYCT_Q46",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502347",
+        "direction": "NW",
+        "id": "MTA_502347",
+        "lat": 40.750133,
+        "locationType": 0,
+        "lon": -73.715356,
+        "name": "260 ST/74 AV",
+        "routeIds": [
+            "MTA NYCT_Q46",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502348",
+        "direction": "NW",
+        "id": "MTA_502348",
+        "lat": 40.750824,
+        "locationType": 0,
+        "lon": -73.717524,
+        "name": "260 ST/73 AV",
+        "routeIds": [
+            "MTA NYCT_Q46",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502361",
+        "direction": "E",
+        "id": "MTA_502361",
+        "lat": 40.752037,
+        "locationType": 0,
+        "lon": -73.720217,
+        "name": "260 ST/LITTLE NECK PKWY",
+        "routeIds": [
+            "MTA NYCT_Q46",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502363",
+        "direction": "SE",
+        "id": "MTA_502363",
+        "lat": 40.750625,
+        "locationType": 0,
+        "lon": -73.717469,
+        "name": "260 ST/73 AV",
+        "routeIds": [
+            "MTA NYCT_Q46",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502364",
+        "direction": "SE",
+        "id": "MTA_502364",
+        "lat": 40.749125,
+        "locationType": 0,
+        "lon": -73.716205,
+        "name": "260 ST/74 AV",
+        "routeIds": [
+            "MTA NYCT_Q46",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502371",
+        "direction": "SW",
+        "id": "MTA_502371",
+        "lat": 40.74684,
+        "locationType": 0,
+        "lon": -73.712563,
+        "name": "UNION TPKE/260 ST",
+        "routeIds": [
+            "MTA NYCT_Q46",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM8",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502406",
+        "direction": "W",
+        "id": "MTA_502406",
+        "lat": 40.722906,
+        "locationType": 0,
+        "lon": -73.80061,
+        "name": "UNION TPKE/168 ST",
+        "routeIds": [
+            "MTA NYCT_Q46",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502408",
+        "direction": "W",
+        "id": "MTA_502408",
+        "lat": 40.721642,
+        "locationType": 0,
+        "lon": -73.804323,
+        "name": "UNION TPKE/164 ST",
+        "routeIds": [
+            "MTA NYCT_Q46",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502624",
+        "direction": "E",
+        "id": "MTA_502624",
+        "lat": 40.734042,
+        "locationType": 0,
+        "lon": -73.779995,
+        "name": "73 AV/192 ST",
+        "routeIds": [
+            "MTA NYCT_Q88",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502627",
+        "direction": "E",
+        "id": "MTA_502627",
+        "lat": 40.735643,
+        "locationType": 0,
+        "lon": -73.774733,
+        "name": "73 AV/197 ST",
+        "routeIds": [
+            "MTA NYCT_Q88",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502631",
+        "direction": "E",
+        "id": "MTA_502631",
+        "lat": 40.739208,
+        "locationType": 0,
+        "lon": -73.763148,
+        "name": "73 AV/210 ST",
+        "routeIds": [
+            "MTA NYCT_Q88",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502632",
+        "direction": "E",
+        "id": "MTA_502632",
+        "lat": 40.740017,
+        "locationType": 0,
+        "lon": -73.76054,
+        "name": "73 AV/213 ST",
+        "routeIds": [
+            "MTA NYCT_Q88",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502633",
+        "direction": "E",
+        "id": "MTA_502633",
+        "lat": 40.740909,
+        "locationType": 0,
+        "lon": -73.757797,
+        "name": "73 AV/BELL BLVD",
+        "routeIds": [
+            "MTA NYCT_Q88",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502634",
+        "direction": "E",
+        "id": "MTA_502634",
+        "lat": 40.74179,
+        "locationType": 0,
+        "lon": -73.755048,
+        "name": "73 AV/220 ST",
+        "routeIds": [
+            "MTA NYCT_Q88",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502648",
+        "direction": "W",
+        "id": "MTA_502648",
+        "lat": 40.741327,
+        "locationType": 0,
+        "lon": -73.756904,
+        "name": "73 AV/218 ST",
+        "routeIds": [
+            "MTA NYCT_Q88",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502649",
+        "direction": "W",
+        "id": "MTA_502649",
+        "lat": 40.740763,
+        "locationType": 0,
+        "lon": -73.758765,
+        "name": "73 AV/BELL BLVD",
+        "routeIds": [
+            "MTA NYCT_Q88",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502650",
+        "direction": "W",
+        "id": "MTA_502650",
+        "lat": 40.739904,
+        "locationType": 0,
+        "lon": -73.76137,
+        "name": "73 AV/213 ST",
+        "routeIds": [
+            "MTA NYCT_Q88",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502651",
+        "direction": "W",
+        "id": "MTA_502651",
+        "lat": 40.739135,
+        "locationType": 0,
+        "lon": -73.764079,
+        "name": "73 AV/210 ST",
+        "routeIds": [
+            "MTA NYCT_Q88",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502654",
+        "direction": "W",
+        "id": "MTA_502654",
+        "lat": 40.735762,
+        "locationType": 0,
+        "lon": -73.774772,
+        "name": "73 AV/198 ST",
+        "routeIds": [
+            "MTA NYCT_Q88",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502657",
+        "direction": "W",
+        "id": "MTA_502657",
+        "lat": 40.734237,
+        "locationType": 0,
+        "lon": -73.779904,
+        "name": "73 AV/193 ST",
+        "routeIds": [
+            "MTA NYCT_Q88",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503037",
+        "direction": "W",
+        "id": "MTA_503037",
+        "lat": 40.719465,
+        "locationType": 0,
+        "lon": -73.811043,
+        "name": "UNION TPKE/153 ST",
+        "routeIds": [
+            "MTA NYCT_Q46",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504995",
+        "direction": "E",
+        "id": "MTA_504995",
+        "lat": 40.751171,
+        "locationType": 0,
+        "lon": -73.747113,
+        "name": "HORACE HARDING EXPWY/231 ST",
+        "routeIds": [
+            "MTA NYCT_Q30",
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552507",
+        "direction": "E",
+        "id": "MTA_552507",
+        "lat": 40.717653,
+        "locationType": 0,
+        "lon": -73.81679,
+        "name": "UNION TPKE/MAIN ST",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552508",
+        "direction": "W",
+        "id": "MTA_552508",
+        "lat": 40.717576,
+        "locationType": 0,
+        "lon": -73.818372,
+        "name": "UNION TPKE/MAIN ST",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552510",
+        "direction": "E",
+        "id": "MTA_552510",
+        "lat": 40.719789,
+        "locationType": 0,
+        "lon": -73.809114,
+        "name": "UNION TPKE/PARSONS BLVD",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552511",
+        "direction": "W",
+        "id": "MTA_552511",
+        "lat": 40.720102,
+        "locationType": 0,
+        "lon": -73.808985,
+        "name": "UNION TPKE/PARSONS BLVD",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552519",
+        "direction": "E",
+        "id": "MTA_552519",
+        "lat": 40.725759,
+        "locationType": 0,
+        "lon": -73.791415,
+        "name": "UNION TPKE/UTOPIA PKWY",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552520",
+        "direction": "W",
+        "id": "MTA_552520",
+        "lat": 40.725883,
+        "locationType": 0,
+        "lon": -73.792082,
+        "name": "UNION TPKE/UTOPIA PKWY",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552521",
+        "direction": "E",
+        "id": "MTA_552521",
+        "lat": 40.728395,
+        "locationType": 0,
+        "lon": -73.783325,
+        "name": "UNION TPKE/CHEVY CHASE ST",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552669",
+        "direction": "W",
+        "id": "MTA_552669",
+        "lat": 40.752266,
+        "locationType": 0,
+        "lon": -73.720968,
+        "name": "260 ST/LITTLE NECK PKWY",
+        "routeIds": [
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552712",
+        "direction": "NE",
+        "id": "MTA_552712",
+        "lat": 40.755694,
+        "locationType": 0,
+        "lon": -73.739325,
+        "name": "DOUGLASTON PKWY/61 AV",
+        "routeIds": [
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552713",
+        "direction": "SW",
+        "id": "MTA_552713",
+        "lat": 40.755899,
+        "locationType": 0,
+        "lon": -73.739398,
+        "name": "DOUGLASTON PKWY/61 AV",
+        "routeIds": [
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552715",
+        "direction": "SE",
+        "id": "MTA_552715",
+        "lat": 40.75277,
+        "locationType": 0,
+        "lon": -73.741609,
+        "name": "DOUGLASTON PKWY/65 AV",
+        "routeIds": [
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552827",
+        "direction": "N",
+        "id": "MTA_552827",
+        "lat": 40.758736,
+        "locationType": 0,
+        "lon": -73.722344,
+        "name": "LITTLE NECK PKWY/61 AV",
+        "routeIds": [
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552923",
+        "direction": "W",
+        "id": "MTA_552923",
+        "lat": 40.751687,
+        "locationType": 0,
+        "lon": -73.745592,
+        "name": "WEST ALLEY RD/233 ST",
+        "routeIds": [
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553179",
+        "direction": "E",
+        "id": "MTA_553179",
+        "lat": 40.763833,
+        "locationType": 0,
+        "lon": -73.724077,
+        "name": "HORACE HARDING EXPWY/LITTLE NECK PKWY",
+        "routeIds": [
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982213",
+        "direction": "W",
+        "id": "MTA_982213",
+        "lat": 40.729307,
+        "locationType": 0,
+        "lon": -73.781349,
+        "name": "UNION TPKE/188 ST",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982428",
+        "direction": "W",
+        "id": "MTA_982428",
+        "lat": 40.764468,
+        "locationType": 0,
+        "lon": -73.725108,
+        "name": "HORACE HARDING EXPWY/NASSAU BLVD",
+        "routeIds": [
+            "MTABC_QM5",
+            "MTABC_QM8",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

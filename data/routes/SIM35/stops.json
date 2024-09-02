@@ -1,0 +1,732 @@
+[
+    {
+        "code": "200411",
+        "direction": "NE",
+        "id": "MTA_200411",
+        "lat": 40.62936,
+        "locationType": 0,
+        "lon": -74.140802,
+        "name": "PORT RICHMOND AV/BEEKMAN ST",
+        "routeIds": [
+            "MTA NYCT_S59",
+            "MTA NYCT_SIM3",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200428",
+        "direction": "SW",
+        "id": "MTA_200428",
+        "lat": 40.63473,
+        "locationType": 0,
+        "lon": -74.135754,
+        "name": "PORT RICHMOND AV/CHARLES AV",
+        "routeIds": [
+            "MTA NYCT_S57",
+            "MTA NYCT_S59",
+            "MTA NYCT_SIM3",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200646",
+        "direction": "E",
+        "id": "MTA_200646",
+        "lat": 40.620484,
+        "locationType": 0,
+        "lon": -74.10979,
+        "name": "CLOVE RD/BEMENT AV",
+        "routeIds": [
+            "MTA NYCT_S53",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200708",
+        "direction": "W",
+        "id": "MTA_200708",
+        "lat": 40.609731,
+        "locationType": 0,
+        "lon": -74.090733,
+        "name": "NARROWS RD NORTH/RICHMOND RD",
+        "routeIds": [
+            "MTA NYCT_S53",
+            "MTA NYCT_S93",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200710",
+        "direction": "NW",
+        "id": "MTA_200710",
+        "lat": 40.612715,
+        "locationType": 0,
+        "lon": -74.099516,
+        "name": "CLOVE RD/HOWARD AV",
+        "routeIds": [
+            "MTA NYCT_S53",
+            "MTA NYCT_S66",
+            "MTA NYCT_S93",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200713",
+        "direction": "NW",
+        "id": "MTA_200713",
+        "lat": 40.616595,
+        "locationType": 0,
+        "lon": -74.103516,
+        "name": "CLOVE RD/VICTORY BLVD",
+        "routeIds": [
+            "MTA NYCT_S53",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200716",
+        "direction": "NW",
+        "id": "MTA_200716",
+        "lat": 40.620945,
+        "locationType": 0,
+        "lon": -74.110313,
+        "name": "CLOVE RD/BEMENT AV",
+        "routeIds": [
+            "MTA NYCT_S53",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200902",
+        "direction": "NE",
+        "id": "MTA_200902",
+        "lat": 40.634463,
+        "locationType": 0,
+        "lon": -74.135639,
+        "name": "PORT RICHMOND AV/ALBION PL",
+        "routeIds": [
+            "MTA NYCT_S57",
+            "MTA NYCT_S59",
+            "MTA NYCT_SIM3",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201492",
+        "direction": "E",
+        "id": "MTA_201492",
+        "lat": 40.624548,
+        "locationType": 0,
+        "lon": -74.141418,
+        "name": "FOREST AV/CRYSTAL AV",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201495",
+        "direction": "NE",
+        "id": "MTA_201495",
+        "lat": 40.625423,
+        "locationType": 0,
+        "lon": -74.135134,
+        "name": "FOREST AV/BURNSIDE AV",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201497",
+        "direction": "E",
+        "id": "MTA_201497",
+        "lat": 40.626273,
+        "locationType": 0,
+        "lon": -74.130921,
+        "name": "FOREST AV/JEWETT AV",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_S98",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201499",
+        "direction": "E",
+        "id": "MTA_201499",
+        "lat": 40.627015,
+        "locationType": 0,
+        "lon": -74.125302,
+        "name": "FOREST AV/MANOR RD",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_S98",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201558",
+        "direction": "W",
+        "id": "MTA_201558",
+        "lat": 40.626414,
+        "locationType": 0,
+        "lon": -74.132081,
+        "name": "FOREST AV/JEWETT AV",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_S98",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201560",
+        "direction": "SW",
+        "id": "MTA_201560",
+        "lat": 40.625137,
+        "locationType": 0,
+        "lon": -74.135801,
+        "name": "FOREST AV/BARRETT AV",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201562",
+        "direction": "W",
+        "id": "MTA_201562",
+        "lat": 40.624636,
+        "locationType": 0,
+        "lon": -74.141152,
+        "name": "FOREST AV/DECKER AV",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_S98",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201699",
+        "direction": "NW",
+        "id": "MTA_201699",
+        "lat": 40.621293,
+        "locationType": 0,
+        "lon": -74.123751,
+        "name": "MANOR RD/MARTLING AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201701",
+        "direction": "N",
+        "id": "MTA_201701",
+        "lat": 40.624636,
+        "locationType": 0,
+        "lon": -74.124678,
+        "name": "MANOR RD/CURTIS AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201730",
+        "direction": "S",
+        "id": "MTA_201730",
+        "lat": 40.623763,
+        "locationType": 0,
+        "lon": -74.124792,
+        "name": "MANOR RD/RAVENHURST AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202941",
+        "direction": "SE",
+        "id": "MTA_202941",
+        "lat": 40.615529,
+        "locationType": 0,
+        "lon": -74.102941,
+        "name": "CLOVE RD/NIAGARA ST",
+        "routeIds": [
+            "MTA NYCT_S66",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202978",
+        "direction": "N",
+        "id": "MTA_202978",
+        "lat": 40.626966,
+        "locationType": 0,
+        "lon": -74.125006,
+        "name": "MANOR RD/FOREST AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203052",
+        "direction": "SE",
+        "id": "MTA_203052",
+        "lat": 40.612259,
+        "locationType": 0,
+        "lon": -74.09927,
+        "name": "CLOVE RD/TIOGA ST",
+        "routeIds": [
+            "MTA NYCT_S53",
+            "MTA NYCT_S66",
+            "MTA NYCT_S93",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203343",
+        "direction": "E",
+        "id": "MTA_203343",
+        "lat": 40.605338,
+        "locationType": 0,
+        "lon": -74.076078,
+        "name": "NARROWS RD SOUTH/HYLAN BLVD",
+        "routeIds": [
+            "MTA NYCT_S93",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM15",
+            "MTA NYCT_SIM33C",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203344",
+        "direction": "E",
+        "id": "MTA_203344",
+        "lat": 40.603427,
+        "locationType": 0,
+        "lon": -74.068996,
+        "name": "NARROWS RD SOUTH/FINGERBOARD RD",
+        "routeIds": [
+            "MTA NYCT_S79+",
+            "MTA NYCT_S93",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM7",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM11",
+            "MTA NYCT_SIM15",
+            "MTA NYCT_SIM33C",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203345",
+        "direction": "NW",
+        "id": "MTA_203345",
+        "lat": 40.604596,
+        "locationType": 0,
+        "lon": -74.069364,
+        "name": "NARROWS RD NORTH/FINGERBOARD RD",
+        "routeIds": [
+            "MTA NYCT_S79+",
+            "MTA NYCT_S93",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM7",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM11",
+            "MTA NYCT_SIM15",
+            "MTA NYCT_SIM33C",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203605",
+        "direction": "SW",
+        "id": "MTA_203605",
+        "lat": 40.629728,
+        "locationType": 0,
+        "lon": -74.1406,
+        "name": "PORT RICHMOND AV/WALKER ST",
+        "routeIds": [
+            "MTA NYCT_SIM3",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203616",
+        "direction": "E",
+        "id": "MTA_203616",
+        "lat": 40.621006,
+        "locationType": 0,
+        "lon": -74.12336,
+        "name": "MARTLING AV/MANOR RD",
+        "routeIds": [
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203617",
+        "direction": "E",
+        "id": "MTA_203617",
+        "lat": 40.621655,
+        "locationType": 0,
+        "lon": -74.119781,
+        "name": "MARTLING AV/SLOSSON AV",
+        "routeIds": [
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203694",
+        "direction": "W",
+        "id": "MTA_203694",
+        "lat": 40.606709,
+        "locationType": 0,
+        "lon": -74.075617,
+        "name": "NARROWS RD NORTH/SAINT JOHNS AV",
+        "routeIds": [
+            "MTA NYCT_S79+",
+            "MTA NYCT_S93",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM7",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM11",
+            "MTA NYCT_SIM15",
+            "MTA NYCT_SIM33C",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203724",
+        "direction": "E",
+        "id": "MTA_203724",
+        "lat": 40.607755,
+        "locationType": 0,
+        "lon": -74.089028,
+        "name": "NARROWS RD SOUTH/TARGEE ST",
+        "routeIds": [
+            "MTA NYCT_S93",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM15",
+            "MTA NYCT_SIM33C",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203731",
+        "direction": "SW",
+        "id": "MTA_203731",
+        "lat": 40.623918,
+        "locationType": 0,
+        "lon": -74.118254,
+        "name": "MARTLING AV/BROOKSPOND PL",
+        "routeIds": [
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203733",
+        "direction": "W",
+        "id": "MTA_203733",
+        "lat": 40.608744,
+        "locationType": 0,
+        "lon": -74.088118,
+        "name": "NARROWS RD NORTH/TARGEE ST",
+        "routeIds": [
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM15",
+            "MTA NYCT_SIM33C",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203735",
+        "direction": "W",
+        "id": "MTA_203735",
+        "lat": 40.62178,
+        "locationType": 0,
+        "lon": -74.119593,
+        "name": "MARTLING AV/SLOSSON AV",
+        "routeIds": [
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203810",
+        "direction": "E",
+        "id": "MTA_203810",
+        "lat": 40.624405,
+        "locationType": 0,
+        "lon": -74.116847,
+        "name": "CLOVE RD/MARTLING AV",
+        "routeIds": [
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400903",
+        "direction": "N",
+        "id": "MTA_400903",
+        "lat": 40.704209,
+        "locationType": 0,
+        "lon": -74.014192,
+        "name": "STATE ST/BRIDGE ST",
+        "routeIds": [
+            "MTA NYCT_M20",
+            "MTA NYCT_M55",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM15",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401666",
+        "direction": "NE",
+        "id": "MTA_401666",
+        "lat": 40.705287,
+        "locationType": 0,
+        "lon": -74.007109,
+        "name": "WATER ST/WALL ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401797",
+        "direction": "SW",
+        "id": "MTA_401797",
+        "lat": 40.709399,
+        "locationType": 0,
+        "lon": -74.001915,
+        "name": "PEARL ST/FRANKFORT ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM15",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401800",
+        "direction": "SW",
+        "id": "MTA_401800",
+        "lat": 40.706027,
+        "locationType": 0,
+        "lon": -74.006285,
+        "name": "WATER ST/MAIDEN LN",
+        "routeIds": [
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM15",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401802",
+        "direction": "SW",
+        "id": "MTA_401802",
+        "lat": 40.703882,
+        "locationType": 0,
+        "lon": -74.009427,
+        "name": "WATER ST/HANOVER SQ",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM15",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403590",
+        "direction": "SW",
+        "id": "MTA_403590",
+        "lat": 40.707631,
+        "locationType": 0,
+        "lon": -74.004,
+        "name": "PEARL ST/FULTON ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM15",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404850",
+        "direction": "NE",
+        "id": "MTA_404850",
+        "lat": 40.70755,
+        "locationType": 0,
+        "lon": -74.003857,
+        "name": "PEARL ST/FULTON ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405043",
+        "direction": "NE",
+        "id": "MTA_405043",
+        "lat": 40.702409,
+        "locationType": 0,
+        "lon": -74.012665,
+        "name": "STATE ST/WHITEHALL ST",
+        "routeIds": [
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803033",
+        "direction": "NE",
+        "id": "MTA_803033",
+        "lat": 40.70363,
+        "locationType": 0,
+        "lon": -74.00954,
+        "name": "WATER ST/HANOVER SQ",
+        "routeIds": [
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803071",
+        "direction": "NE",
+        "id": "MTA_803071",
+        "lat": 40.709381,
+        "locationType": 0,
+        "lon": -74.001729,
+        "name": "PEARL ST/FRANKFORT ST",
+        "routeIds": [
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803074",
+        "direction": "NE",
+        "id": "MTA_803074",
+        "lat": 40.708907,
+        "locationType": 0,
+        "lon": -74.002294,
+        "name": "PEARL ST/PECK SLIP",
+        "routeIds": [
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903205",
+        "direction": "E",
+        "id": "MTA_903205",
+        "lat": 40.704707,
+        "locationType": 0,
+        "lon": -74.015088,
+        "name": "BATTERY PL/GREENWICH ST",
+        "routeIds": [
+            "MTA NYCT_SIM35",
+            "MTA NYCT_X27",
+            "MTA NYCT_X28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "905019",
+        "direction": "W",
+        "id": "MTA_905019",
+        "lat": 40.63385,
+        "locationType": 0,
+        "lon": -74.129613,
+        "name": "CASTLETON AV/JEWETT AV",
+        "routeIds": [
+            "MTA NYCT_SIM3",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "905021",
+        "direction": "E",
+        "id": "MTA_905021",
+        "lat": 40.633696,
+        "locationType": 0,
+        "lon": -74.129779,
+        "name": "CASTLETON AV/JEWETT AV",
+        "routeIds": [
+            "MTA NYCT_SIM3",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

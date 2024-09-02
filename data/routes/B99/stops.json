@@ -1,0 +1,214 @@
+[
+    {
+        "code": "301761",
+        "direction": "W",
+        "id": "MTA_301761",
+        "lat": 40.668829,
+        "locationType": 0,
+        "lon": -73.931252,
+        "name": "EASTERN PKWY/UTICA AV",
+        "routeIds": [
+            "MTA NYCT_B99"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306857",
+        "direction": "W",
+        "id": "MTA_306857",
+        "lat": 40.66642,
+        "locationType": 0,
+        "lon": -73.883387,
+        "name": "LIVONIA AV/ASHFORD ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B84",
+            "MTA NYCT_B99"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307984",
+        "direction": "E",
+        "id": "MTA_307984",
+        "lat": 40.668552,
+        "locationType": 0,
+        "lon": -73.931509,
+        "name": "EASTERN PKWY/UTICA AV",
+        "routeIds": [
+            "MTA NYCT_B14",
+            "MTA NYCT_B99"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308311",
+        "direction": "NW",
+        "id": "MTA_308311",
+        "lat": 40.665096,
+        "locationType": 0,
+        "lon": -73.922981,
+        "name": "E 98 ST/SUTTER AV",
+        "routeIds": [
+            "MTA NYCT_B47",
+            "MTA NYCT_B99"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901762",
+        "direction": "S",
+        "id": "MTA_901762",
+        "lat": 40.666035,
+        "locationType": 0,
+        "lon": -73.884004,
+        "name": "WARWICK ST/LIVONIA AV",
+        "routeIds": [
+            "MTA NYCT_B99"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901763",
+        "direction": "SE",
+        "id": "MTA_901763",
+        "lat": 40.665251,
+        "locationType": 0,
+        "lon": -73.9233,
+        "name": "E 98 ST/SUTTER AV",
+        "routeIds": [
+            "MTA NYCT_B99"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901764",
+        "direction": "E",
+        "id": "MTA_901764",
+        "lat": 40.663055,
+        "locationType": 0,
+        "lon": -73.905351,
+        "name": "LIVONIA AV/MOTHER GASTON BL",
+        "routeIds": [
+            "MTA NYCT_B99"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904960",
+        "direction": "E",
+        "id": "MTA_904960",
+        "lat": 40.661535,
+        "locationType": 0,
+        "lon": -73.915395,
+        "name": "LIVONIA AV/SARATOGA AV",
+        "routeIds": [
+            "MTA NYCT_B99"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904961",
+        "direction": "W",
+        "id": "MTA_904961",
+        "lat": 40.661569,
+        "locationType": 0,
+        "lon": -73.91555,
+        "name": "LIVONIA AV/SARATOGA AV",
+        "routeIds": [
+            "MTA NYCT_B99"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904962",
+        "direction": "E",
+        "id": "MTA_904962",
+        "lat": 40.662538,
+        "locationType": 0,
+        "lon": -73.908984,
+        "name": "LIVONIA AV/ROCKAWAY AV",
+        "routeIds": [
+            "MTA NYCT_B99"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904963",
+        "direction": "W",
+        "id": "MTA_904963",
+        "lat": 40.662586,
+        "locationType": 0,
+        "lon": -73.909,
+        "name": "LIVONIA AV/ROCKAWAY AV",
+        "routeIds": [
+            "MTA NYCT_B99"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904965",
+        "direction": "W",
+        "id": "MTA_904965",
+        "lat": 40.663452,
+        "locationType": 0,
+        "lon": -73.903123,
+        "name": "LIVONIA AV/SACKMAN ST",
+        "routeIds": [
+            "MTA NYCT_B99"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904966",
+        "direction": "E",
+        "id": "MTA_904966",
+        "lat": 40.664726,
+        "locationType": 0,
+        "lon": -73.893809,
+        "name": "LIVONIA AV/PENNSYLVANIA AV",
+        "routeIds": [
+            "MTA NYCT_B99"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904967",
+        "direction": "W",
+        "id": "MTA_904967",
+        "lat": 40.66479,
+        "locationType": 0,
+        "lon": -73.893918,
+        "name": "LIVONIA AV/PENNSYLVANIA AV",
+        "routeIds": [
+            "MTA NYCT_B99"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904968",
+        "direction": "E",
+        "id": "MTA_904968",
+        "lat": 40.665554,
+        "locationType": 0,
+        "lon": -73.888349,
+        "name": "LIVONIA AV/VAN SICLEN ST",
+        "routeIds": [
+            "MTA NYCT_B99"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904969",
+        "direction": "W",
+        "id": "MTA_904969",
+        "lat": 40.665611,
+        "locationType": 0,
+        "lon": -73.888437,
+        "name": "LIVONIA AV/VAN SICLEN ST",
+        "routeIds": [
+            "MTA NYCT_B99"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

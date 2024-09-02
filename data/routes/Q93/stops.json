@@ -1,0 +1,127 @@
+[
+    {
+        "code": "504409",
+        "direction": "NE",
+        "id": "MTA_504409",
+        "lat": 40.744723,
+        "locationType": 0,
+        "lon": -73.948151,
+        "name": "JACKSON AV/21 ST",
+        "routeIds": [
+            "MTA NYCT_B62",
+            "MTA NYCT_B94",
+            "MTA NYCT_B98",
+            "MTA NYCT_Q93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504415",
+        "direction": "W",
+        "id": "MTA_504415",
+        "lat": 40.745748,
+        "locationType": 0,
+        "lon": -73.94599,
+        "name": "JACKSON AV/23 ST",
+        "routeIds": [
+            "MTA NYCT_B98",
+            "MTA NYCT_Q93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504416",
+        "direction": "SW",
+        "id": "MTA_504416",
+        "lat": 40.744393,
+        "locationType": 0,
+        "lon": -73.949152,
+        "name": "JACKSON AV/47 AV",
+        "routeIds": [
+            "MTA NYCT_B62",
+            "MTA NYCT_B94",
+            "MTA NYCT_B98",
+            "MTA NYCT_Q93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505215",
+        "direction": "E",
+        "id": "MTA_505215",
+        "lat": 40.746709,
+        "locationType": 0,
+        "lon": -73.943285,
+        "name": "JACKSON AV/THOMSON AV",
+        "routeIds": [
+            "MTA NYCT_B62",
+            "MTA NYCT_Q93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904212",
+        "direction": "NE",
+        "id": "MTA_904212",
+        "lat": 40.749556,
+        "locationType": 0,
+        "lon": -73.939123,
+        "name": "28 ST/QUEENS PLAZA SOUTH",
+        "routeIds": [
+            "MTA NYCT_Q93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904237",
+        "direction": "NE",
+        "id": "MTA_904237",
+        "lat": 40.749703,
+        "locationType": 0,
+        "lon": -73.939006,
+        "name": "QUEENS PLAZA SOUTH/28 ST",
+        "routeIds": [
+            "MTA NYCT_Q93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904354",
+        "direction": "S",
+        "id": "MTA_904354",
+        "lat": 40.743131,
+        "locationType": 0,
+        "lon": -73.954018,
+        "name": "JACKSON AV/49 AV",
+        "routeIds": [
+            "MTA NYCT_Q93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904355",
+        "direction": "S",
+        "id": "MTA_904355",
+        "lat": 40.742971,
+        "locationType": 0,
+        "lon": -73.954065,
+        "name": "JACKSON AV/49 AV",
+        "routeIds": [
+            "MTA NYCT_Q93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904356",
+        "direction": "NE",
+        "id": "MTA_904356",
+        "lat": 40.743225,
+        "locationType": 0,
+        "lon": -73.951182,
+        "name": "JACKSON AV/11 ST",
+        "routeIds": [
+            "MTA NYCT_Q93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

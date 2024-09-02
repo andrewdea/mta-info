@@ -1,0 +1,951 @@
+[
+    {
+        "code": "200407",
+        "direction": "E",
+        "id": "MTA_200407",
+        "lat": 40.624967,
+        "locationType": 0,
+        "lon": -74.148422,
+        "name": "FOREST AV/RICHMOND AV",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_S59",
+            "MTA NYCT_S98",
+            "MTA NYCT_SIM3",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200434",
+        "direction": "W",
+        "id": "MTA_200434",
+        "lat": 40.625216,
+        "locationType": 0,
+        "lon": -74.148988,
+        "name": "FOREST AV/RICHMOND AV",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_S98",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_SIM33",
+            "MTA NYCT_SIM33C",
+            "MTA NYCT_SIM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200544",
+        "direction": "NE",
+        "id": "MTA_200544",
+        "lat": 40.616611,
+        "locationType": 0,
+        "lon": -74.102996,
+        "name": "VICTORY BLVD/CLOVE RD",
+        "routeIds": [
+            "MTA NYCT_S61",
+            "MTA NYCT_S62",
+            "MTA NYCT_S91",
+            "MTA NYCT_S92",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200549",
+        "direction": "NE",
+        "id": "MTA_200549",
+        "lat": 40.626759,
+        "locationType": 0,
+        "lon": -74.091341,
+        "name": "VICTORY BLVD/EDDY ST",
+        "routeIds": [
+            "MTA NYCT_S61",
+            "MTA NYCT_S62",
+            "MTA NYCT_S66",
+            "MTA NYCT_S91",
+            "MTA NYCT_S92",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200574",
+        "direction": "SW",
+        "id": "MTA_200574",
+        "lat": 40.626289,
+        "locationType": 0,
+        "lon": -74.091852,
+        "name": "VICTORY BLVD/EDDY ST",
+        "routeIds": [
+            "MTA NYCT_S61",
+            "MTA NYCT_S62",
+            "MTA NYCT_S66",
+            "MTA NYCT_S91",
+            "MTA NYCT_S92",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200713",
+        "direction": "NW",
+        "id": "MTA_200713",
+        "lat": 40.616595,
+        "locationType": 0,
+        "lon": -74.103516,
+        "name": "CLOVE RD/VICTORY BLVD",
+        "routeIds": [
+            "MTA NYCT_S53",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201055",
+        "direction": "NE",
+        "id": "MTA_201055",
+        "lat": 40.611466,
+        "locationType": 0,
+        "lon": -74.071248,
+        "name": "HYLAN BLVD/TOMPKINS AV",
+        "routeIds": [
+            "MTA NYCT_S78",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201060",
+        "direction": "NW",
+        "id": "MTA_201060",
+        "lat": 40.620475,
+        "locationType": 0,
+        "lon": -74.077147,
+        "name": "TOMPKINS AV/VANDERBILT AV",
+        "routeIds": [
+            "MTA NYCT_S52",
+            "MTA NYCT_S78",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201083",
+        "direction": "SW",
+        "id": "MTA_201083",
+        "lat": 40.626856,
+        "locationType": 0,
+        "lon": -74.07806,
+        "name": "CANAL ST/WRIGHT ST",
+        "routeIds": [
+            "MTA NYCT_S52",
+            "MTA NYCT_S74",
+            "MTA NYCT_S78",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201086",
+        "direction": "SE",
+        "id": "MTA_201086",
+        "lat": 40.620231,
+        "locationType": 0,
+        "lon": -74.077111,
+        "name": "TOMPKINS AV/VANDERBILT AV",
+        "routeIds": [
+            "MTA NYCT_S52",
+            "MTA NYCT_S78",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201090",
+        "direction": "SW",
+        "id": "MTA_201090",
+        "lat": 40.611311,
+        "locationType": 0,
+        "lon": -74.071835,
+        "name": "HYLAN BLVD/VAUGHN ST",
+        "routeIds": [
+            "MTA NYCT_S78",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201236",
+        "direction": "NW",
+        "id": "MTA_201236",
+        "lat": 40.63062,
+        "locationType": 0,
+        "lon": -74.08163,
+        "name": "CEBRA AV/SAINT PAULS AV",
+        "routeIds": [
+            "MTA NYCT_S52",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201273",
+        "direction": "SE",
+        "id": "MTA_201273",
+        "lat": 40.630532,
+        "locationType": 0,
+        "lon": -74.081745,
+        "name": "CEBRA AV/SAINT PAULS AV",
+        "routeIds": [
+            "MTA NYCT_S52",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201492",
+        "direction": "E",
+        "id": "MTA_201492",
+        "lat": 40.624548,
+        "locationType": 0,
+        "lon": -74.141418,
+        "name": "FOREST AV/CRYSTAL AV",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201495",
+        "direction": "NE",
+        "id": "MTA_201495",
+        "lat": 40.625423,
+        "locationType": 0,
+        "lon": -74.135134,
+        "name": "FOREST AV/BURNSIDE AV",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201497",
+        "direction": "E",
+        "id": "MTA_201497",
+        "lat": 40.626273,
+        "locationType": 0,
+        "lon": -74.130921,
+        "name": "FOREST AV/JEWETT AV",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_S98",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201499",
+        "direction": "E",
+        "id": "MTA_201499",
+        "lat": 40.627015,
+        "locationType": 0,
+        "lon": -74.125302,
+        "name": "FOREST AV/MANOR RD",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_S98",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201501",
+        "direction": "E",
+        "id": "MTA_201501",
+        "lat": 40.627727,
+        "locationType": 0,
+        "lon": -74.12129,
+        "name": "FOREST AV/CLOVE RD",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201503",
+        "direction": "E",
+        "id": "MTA_201503",
+        "lat": 40.628858,
+        "locationType": 0,
+        "lon": -74.116321,
+        "name": "FOREST AV/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_S98",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201505",
+        "direction": "E",
+        "id": "MTA_201505",
+        "lat": 40.629678,
+        "locationType": 0,
+        "lon": -74.110893,
+        "name": "FOREST AV/BEMENT AV",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201509",
+        "direction": "E",
+        "id": "MTA_201509",
+        "lat": 40.631203,
+        "locationType": 0,
+        "lon": -74.10012,
+        "name": "FOREST AV/HART BLVD",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_S98",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201511",
+        "direction": "E",
+        "id": "MTA_201511",
+        "lat": 40.631591,
+        "locationType": 0,
+        "lon": -74.095588,
+        "name": "FOREST AV/SILVER LAKE PARK",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201513",
+        "direction": "E",
+        "id": "MTA_201513",
+        "lat": 40.630411,
+        "locationType": 0,
+        "lon": -74.089397,
+        "name": "FOREST AV/VICTORY BLVD",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_S98",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201542",
+        "direction": "W",
+        "id": "MTA_201542",
+        "lat": 40.630592,
+        "locationType": 0,
+        "lon": -74.089527,
+        "name": "FOREST AV/OXFORD PL",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_S98",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201546",
+        "direction": "W",
+        "id": "MTA_201546",
+        "lat": 40.631205,
+        "locationType": 0,
+        "lon": -74.100959,
+        "name": "FOREST AV/HART BLVD",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_S98",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201548",
+        "direction": "W",
+        "id": "MTA_201548",
+        "lat": 40.630666,
+        "locationType": 0,
+        "lon": -74.105476,
+        "name": "FOREST AV/BARD AV",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_S98",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201550",
+        "direction": "W",
+        "id": "MTA_201550",
+        "lat": 40.629664,
+        "locationType": 0,
+        "lon": -74.111646,
+        "name": "FOREST AV/BEMENT AV",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201552",
+        "direction": "W",
+        "id": "MTA_201552",
+        "lat": 40.629042,
+        "locationType": 0,
+        "lon": -74.115975,
+        "name": "FOREST AV/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_S98",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201554",
+        "direction": "W",
+        "id": "MTA_201554",
+        "lat": 40.627939,
+        "locationType": 0,
+        "lon": -74.121161,
+        "name": "FOREST AV/CLOVE RD",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201556",
+        "direction": "W",
+        "id": "MTA_201556",
+        "lat": 40.627172,
+        "locationType": 0,
+        "lon": -74.125011,
+        "name": "FOREST AV/MANOR RD",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_S98",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201558",
+        "direction": "W",
+        "id": "MTA_201558",
+        "lat": 40.626414,
+        "locationType": 0,
+        "lon": -74.132081,
+        "name": "FOREST AV/JEWETT AV",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_S98",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201560",
+        "direction": "SW",
+        "id": "MTA_201560",
+        "lat": 40.625137,
+        "locationType": 0,
+        "lon": -74.135801,
+        "name": "FOREST AV/BARRETT AV",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201562",
+        "direction": "W",
+        "id": "MTA_201562",
+        "lat": 40.624636,
+        "locationType": 0,
+        "lon": -74.141152,
+        "name": "FOREST AV/DECKER AV",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_S98",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201569",
+        "direction": "W",
+        "id": "MTA_201569",
+        "lat": 40.626357,
+        "locationType": 0,
+        "lon": -74.158231,
+        "name": "FOREST AV/UNION AV",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_S98",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_SIM33",
+            "MTA NYCT_SIM33C",
+            "MTA NYCT_SIM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201572",
+        "direction": "W",
+        "id": "MTA_201572",
+        "lat": 40.627179,
+        "locationType": 0,
+        "lon": -74.165143,
+        "name": "FOREST AV/GRANDVIEW AV",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_S98",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_SIM33",
+            "MTA NYCT_SIM33C",
+            "MTA NYCT_SIM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202692",
+        "direction": "NE",
+        "id": "MTA_202692",
+        "lat": 40.620931,
+        "locationType": 0,
+        "lon": -74.098008,
+        "name": "VICTORY BLVD/SILVER LAKE APARTMENTS",
+        "routeIds": [
+            "MTA NYCT_S61",
+            "MTA NYCT_S62",
+            "MTA NYCT_S66",
+            "MTA NYCT_S91",
+            "MTA NYCT_S92",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202788",
+        "direction": "NE",
+        "id": "MTA_202788",
+        "lat": 40.626381,
+        "locationType": 0,
+        "lon": -74.078046,
+        "name": "CANAL ST/CANAL ST",
+        "routeIds": [
+            "MTA NYCT_S52",
+            "MTA NYCT_S74",
+            "MTA NYCT_S78",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202936",
+        "direction": "W",
+        "id": "MTA_202936",
+        "lat": 40.631964,
+        "locationType": 0,
+        "lon": -74.096864,
+        "name": "FOREST AV/BRIGHTON AV",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203092",
+        "direction": "SW",
+        "id": "MTA_203092",
+        "lat": 40.620898,
+        "locationType": 0,
+        "lon": -74.098292,
+        "name": "VICTORY BLVD/SILVER LAKE APARTMENTS",
+        "routeIds": [
+            "MTA NYCT_S61",
+            "MTA NYCT_S62",
+            "MTA NYCT_S66",
+            "MTA NYCT_S91",
+            "MTA NYCT_S92",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203407",
+        "direction": "SW",
+        "id": "MTA_203407",
+        "lat": 40.62647,
+        "locationType": 0,
+        "lon": -74.174864,
+        "name": "FOREST AV/ELIZABETH GROVE RD",
+        "routeIds": [
+            "MTA NYCT_S40",
+            "MTA NYCT_S90",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203537",
+        "direction": "E",
+        "id": "MTA_203537",
+        "lat": 40.625972,
+        "locationType": 0,
+        "lon": -74.156804,
+        "name": "FOREST AV/MAPLE PKWY",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_S98",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_SIM33",
+            "MTA NYCT_SIM33C",
+            "MTA NYCT_SIM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203677",
+        "direction": "NE",
+        "id": "MTA_203677",
+        "lat": 40.625576,
+        "locationType": 0,
+        "lon": -74.176288,
+        "name": "FOREST AV/GOETHALS RD NORTH",
+        "routeIds": [
+            "MTA NYCT_S40",
+            "MTA NYCT_S90",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203753",
+        "direction": "E",
+        "id": "MTA_203753",
+        "lat": 40.630363,
+        "locationType": 0,
+        "lon": -74.107072,
+        "name": "FOREST AV/LAWRENCE AV",
+        "routeIds": [
+            "MTA NYCT_S48",
+            "MTA NYCT_S98",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400362",
+        "direction": "NE",
+        "id": "MTA_400362",
+        "lat": 40.761386,
+        "locationType": 0,
+        "lon": -73.972943,
+        "name": "MADISON AV/E 55  ST",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32",
+            "MTA NYCT_SIM25",
+            "MTA NYCT_SIM26",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401851",
+        "direction": "NW",
+        "id": "MTA_401851",
+        "lat": 40.757575,
+        "locationType": 0,
+        "lon": -73.990464,
+        "name": "W 42 ST/8 AV",
+        "routeIds": [
+            "MTA NYCT_M42",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM8X",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM25",
+            "MTA NYCT_SIM26",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403239",
+        "direction": "SE",
+        "id": "MTA_403239",
+        "lat": 40.757191,
+        "locationType": 0,
+        "lon": -73.989904,
+        "name": "W 42 ST/8 AV",
+        "routeIds": [
+            "MTA NYCT_M42",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM8X",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM25",
+            "MTA NYCT_SIM26",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403240",
+        "direction": "SE",
+        "id": "MTA_403240",
+        "lat": 40.756259,
+        "locationType": 0,
+        "lon": -73.987735,
+        "name": "W 42 ST/7 AV",
+        "routeIds": [
+            "MTA NYCT_M42",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM8X",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM25",
+            "MTA NYCT_SIM26",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403242",
+        "direction": "SE",
+        "id": "MTA_403242",
+        "lat": 40.754535,
+        "locationType": 0,
+        "lon": -73.98364,
+        "name": "W 42 ST/6 AV",
+        "routeIds": [
+            "MTA NYCT_M42",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM8X",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM25",
+            "MTA NYCT_SIM26",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403257",
+        "direction": "NW",
+        "id": "MTA_403257",
+        "lat": 40.75357,
+        "locationType": 0,
+        "lon": -73.98098,
+        "name": "W 42 ST/5 AV",
+        "routeIds": [
+            "MTA NYCT_M42",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM8X",
+            "MTA NYCT_SIM25",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403259",
+        "direction": "NW",
+        "id": "MTA_403259",
+        "lat": 40.756311,
+        "locationType": 0,
+        "lon": -73.98737,
+        "name": "W 42 ST/7 AV",
+        "routeIds": [
+            "MTA NYCT_M42",
+            "MTA NYCT_Q92",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM8X",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM25",
+            "MTA NYCT_SIM26",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403465",
+        "direction": "E",
+        "id": "MTA_403465",
+        "lat": 40.753319,
+        "locationType": 0,
+        "lon": -73.980751,
+        "name": "W 42 ST/5 AV",
+        "routeIds": [
+            "MTA NYCT_M42",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM8X",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM25",
+            "MTA NYCT_SIM26",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403830",
+        "direction": "NW",
+        "id": "MTA_403830",
+        "lat": 40.754994,
+        "locationType": 0,
+        "lon": -73.984277,
+        "name": "W 42 ST/AV OF THE AMERICAS",
+        "routeIds": [
+            "MTA NYCT_M42",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM8X",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM25",
+            "MTA NYCT_SIM26",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404299",
+        "direction": "NE",
+        "id": "MTA_404299",
+        "lat": 40.756882,
+        "locationType": 0,
+        "lon": -73.976199,
+        "name": "MADISON AV/E 48 ST",
+        "routeIds": [
+            "MTABC_BM1",
+            "MTABC_BM2",
+            "MTABC_BM3",
+            "MTABC_BM4",
+            "MTABC_BM5",
+            "MTA NYCT_SIM23",
+            "MTA NYCT_SIM24",
+            "MTA NYCT_SIM25",
+            "MTA NYCT_SIM26",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_X27",
+            "MTA NYCT_X28",
+            "MTA NYCT_X37",
+            "MTA NYCT_X38",
+            "MTA NYCT_X63",
+            "MTA NYCT_X64",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404923",
+        "direction": "NW",
+        "id": "MTA_404923",
+        "lat": 40.766314,
+        "locationType": 0,
+        "lon": -73.977491,
+        "name": "CENTRAL PARK SOUTH/6 AV",
+        "routeIds": [
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM3",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_SIM33C"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450063",
+        "direction": "SW",
+        "id": "MTA_450063",
+        "lat": 40.761387,
+        "locationType": 0,
+        "lon": -73.975233,
+        "name": "5 AV/E 55 ST",
+        "routeIds": [
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM3",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM8X",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_SIM33C"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450124",
+        "direction": "SW",
+        "id": "MTA_450124",
+        "lat": 40.757018,
+        "locationType": 0,
+        "lon": -73.978429,
+        "name": "5TH AVE / W 48TH ST",
+        "routeIds": [
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803224",
+        "direction": "SE",
+        "id": "MTA_803224",
+        "lat": 40.764572,
+        "locationType": 0,
+        "lon": -73.977875,
+        "name": "W 57 ST/6 AV",
+        "routeIds": [
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "905044",
+        "direction": "E",
+        "id": "MTA_905044",
+        "lat": 40.627115,
+        "locationType": 0,
+        "lon": -74.165571,
+        "name": "FOREST AV/SOUTH AV",
+        "routeIds": [
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

@@ -1,0 +1,1006 @@
+[
+    {
+        "code": "500996",
+        "direction": "E",
+        "id": "MTA_500996",
+        "lat": 40.764329,
+        "locationType": 0,
+        "lon": -73.825872,
+        "name": "NORTHERN BLVD/BOWNE ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500997",
+        "direction": "E",
+        "id": "MTA_500997",
+        "lat": 40.764608,
+        "locationType": 0,
+        "lon": -73.822975,
+        "name": "NORTHERN BLVD/PARSONS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500999",
+        "direction": "E",
+        "id": "MTA_500999",
+        "lat": 40.765241,
+        "locationType": 0,
+        "lon": -73.816822,
+        "name": "NORTHERN BLVD/149 ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501000",
+        "direction": "E",
+        "id": "MTA_501000",
+        "lat": 40.765169,
+        "locationType": 0,
+        "lon": -73.815292,
+        "name": "NORTHERN BLVD/150 ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501001",
+        "direction": "E",
+        "id": "MTA_501001",
+        "lat": 40.764863,
+        "locationType": 0,
+        "lon": -73.812502,
+        "name": "NORTHERN BLVD/MURRAY ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501004",
+        "direction": "E",
+        "id": "MTA_501004",
+        "lat": 40.76356,
+        "locationType": 0,
+        "lon": -73.807864,
+        "name": "NORTHERN BLVD/157 ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501005",
+        "direction": "E",
+        "id": "MTA_501005",
+        "lat": 40.762956,
+        "locationType": 0,
+        "lon": -73.806057,
+        "name": "NORTHERN BLVD/159 ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501077",
+        "direction": "W",
+        "id": "MTA_501077",
+        "lat": 40.762828,
+        "locationType": 0,
+        "lon": -73.805018,
+        "name": "NORTHERN BLVD/161 ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501078",
+        "direction": "W",
+        "id": "MTA_501078",
+        "lat": 40.763443,
+        "locationType": 0,
+        "lon": -73.806839,
+        "name": "NORTHERN BLVD/159 ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501079",
+        "direction": "W",
+        "id": "MTA_501079",
+        "lat": 40.764025,
+        "locationType": 0,
+        "lon": -73.80862,
+        "name": "NORTHERN BLVD/157 ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501080",
+        "direction": "W",
+        "id": "MTA_501080",
+        "lat": 40.764878,
+        "locationType": 0,
+        "lon": -73.811437,
+        "name": "NORTHERN BLVD/154 ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501081",
+        "direction": "W",
+        "id": "MTA_501081",
+        "lat": 40.765227,
+        "locationType": 0,
+        "lon": -73.813375,
+        "name": "NORTHERN BLVD/MURRAY ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501082",
+        "direction": "W",
+        "id": "MTA_501082",
+        "lat": 40.76535,
+        "locationType": 0,
+        "lon": -73.815003,
+        "name": "NORTHERN BLVD/150 ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501083",
+        "direction": "W",
+        "id": "MTA_501083",
+        "lat": 40.765423,
+        "locationType": 0,
+        "lon": -73.817865,
+        "name": "NORTHERN BLVD/149 ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501084",
+        "direction": "W",
+        "id": "MTA_501084",
+        "lat": 40.765011,
+        "locationType": 0,
+        "lon": -73.820905,
+        "name": "NORTHERN BLVD/146 ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501085",
+        "direction": "W",
+        "id": "MTA_501085",
+        "lat": 40.76467,
+        "locationType": 0,
+        "lon": -73.824161,
+        "name": "NORTHERN BLVD/PARSONS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501086",
+        "direction": "W",
+        "id": "MTA_501086",
+        "lat": 40.764429,
+        "locationType": 0,
+        "lon": -73.825797,
+        "name": "NORTHERN BLVD/BOWNE ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501087",
+        "direction": "SE",
+        "id": "MTA_501087",
+        "lat": 40.763708,
+        "locationType": 0,
+        "lon": -73.82823,
+        "name": "UNION ST/NORTHERN BLVD",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q16",
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501719",
+        "direction": "E",
+        "id": "MTA_501719",
+        "lat": 40.764143,
+        "locationType": 0,
+        "lon": -73.809509,
+        "name": "NORTHERN BLVD/ROOSEVELT AV",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501722",
+        "direction": "E",
+        "id": "MTA_501722",
+        "lat": 40.762465,
+        "locationType": 0,
+        "lon": -73.803514,
+        "name": "CROCHERON AV/162 ST",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501723",
+        "direction": "E",
+        "id": "MTA_501723",
+        "lat": 40.762717,
+        "locationType": 0,
+        "lon": -73.801408,
+        "name": "CROCHERON AV/164 ST",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501724",
+        "direction": "E",
+        "id": "MTA_501724",
+        "lat": 40.762835,
+        "locationType": 0,
+        "lon": -73.799473,
+        "name": "CROCHERON AV/166 ST",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501725",
+        "direction": "E",
+        "id": "MTA_501725",
+        "lat": 40.762694,
+        "locationType": 0,
+        "lon": -73.797603,
+        "name": "CROCHERON AV/168 ST",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501726",
+        "direction": "E",
+        "id": "MTA_501726",
+        "lat": 40.762868,
+        "locationType": 0,
+        "lon": -73.794747,
+        "name": "CROCHERON AV/171 ST",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501727",
+        "direction": "E",
+        "id": "MTA_501727",
+        "lat": 40.763133,
+        "locationType": 0,
+        "lon": -73.792815,
+        "name": "CROCHERON AV/UTOPIA PKWY",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501728",
+        "direction": "E",
+        "id": "MTA_501728",
+        "lat": 40.763666,
+        "locationType": 0,
+        "lon": -73.789832,
+        "name": "CROCHERON AV/192 ST",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501730",
+        "direction": "NW",
+        "id": "MTA_501730",
+        "lat": 40.764665,
+        "locationType": 0,
+        "lon": -73.788319,
+        "name": "FRANCIS LEWIS BLVD/35 AV",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501731",
+        "direction": "NW",
+        "id": "MTA_501731",
+        "lat": 40.76646,
+        "locationType": 0,
+        "lon": -73.789693,
+        "name": "FRANCIS LEWIS BLVD/34 AV",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501732",
+        "direction": "NW",
+        "id": "MTA_501732",
+        "lat": 40.767696,
+        "locationType": 0,
+        "lon": -73.790646,
+        "name": "FRANCIS LEWIS BLVD/33 AV",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501733",
+        "direction": "NW",
+        "id": "MTA_501733",
+        "lat": 40.768615,
+        "locationType": 0,
+        "lon": -73.791448,
+        "name": "FRANCIS LEWIS BLVD/32 RD",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501735",
+        "direction": "E",
+        "id": "MTA_501735",
+        "lat": 40.770284,
+        "locationType": 0,
+        "lon": -73.787161,
+        "name": "32 AV/202 ST",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTA NYCT_Q31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501736",
+        "direction": "E",
+        "id": "MTA_501736",
+        "lat": 40.771061,
+        "locationType": 0,
+        "lon": -73.784534,
+        "name": "32 AV/205 ST",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTA NYCT_Q31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501737",
+        "direction": "E",
+        "id": "MTA_501737",
+        "lat": 40.771828,
+        "locationType": 0,
+        "lon": -73.78195,
+        "name": "32 AV/208 ST",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTA NYCT_Q31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501739",
+        "direction": "NW",
+        "id": "MTA_501739",
+        "lat": 40.774802,
+        "locationType": 0,
+        "lon": -73.781525,
+        "name": "CORPORAL KENNEDY ST/28 RD",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501741",
+        "direction": "NW",
+        "id": "MTA_501741",
+        "lat": 40.779048,
+        "locationType": 0,
+        "lon": -73.783049,
+        "name": "CORPORAL KENNEDY ST/23 AV",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501742",
+        "direction": "E",
+        "id": "MTA_501742",
+        "lat": 40.781802,
+        "locationType": 0,
+        "lon": -73.783564,
+        "name": "18 AV/211 ST",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501743",
+        "direction": "S",
+        "id": "MTA_501743",
+        "lat": 40.78173,
+        "locationType": 0,
+        "lon": -73.781791,
+        "name": "211 ST/18 AV",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501744",
+        "direction": "SE",
+        "id": "MTA_501744",
+        "lat": 40.779939,
+        "locationType": 0,
+        "lon": -73.780725,
+        "name": "211 ST/23 AV",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501750",
+        "direction": "SE",
+        "id": "MTA_501750",
+        "lat": 40.774789,
+        "locationType": 0,
+        "lon": -73.781745,
+        "name": "CORPORAL KENNEDY ST/28 AV",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501754",
+        "direction": "W",
+        "id": "MTA_501754",
+        "lat": 40.770836,
+        "locationType": 0,
+        "lon": -73.785701,
+        "name": "32 AV/204 ST",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTA NYCT_Q31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501755",
+        "direction": "W",
+        "id": "MTA_501755",
+        "lat": 40.769903,
+        "locationType": 0,
+        "lon": -73.788834,
+        "name": "32 AV/201 ST",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTA NYCT_Q31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501756",
+        "direction": "W",
+        "id": "MTA_501756",
+        "lat": 40.769452,
+        "locationType": 0,
+        "lon": -73.790312,
+        "name": "32 AV/JORDAN ST",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTA NYCT_Q31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501757",
+        "direction": "SE",
+        "id": "MTA_501757",
+        "lat": 40.768637,
+        "locationType": 0,
+        "lon": -73.791823,
+        "name": "FRANCIS LEWIS BLVD/32 AV",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501758",
+        "direction": "SE",
+        "id": "MTA_501758",
+        "lat": 40.767024,
+        "locationType": 0,
+        "lon": -73.790435,
+        "name": "FRANCIS LEWIS BLVD/33 AV",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501759",
+        "direction": "SE",
+        "id": "MTA_501759",
+        "lat": 40.765825,
+        "locationType": 0,
+        "lon": -73.78958,
+        "name": "FRANCIS LEWIS BLVD/192 ST",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501760",
+        "direction": "S",
+        "id": "MTA_501760",
+        "lat": 40.76441,
+        "locationType": 0,
+        "lon": -73.788638,
+        "name": "FRANCIS LEWIS BLVD/35 AV",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501761",
+        "direction": "W",
+        "id": "MTA_501761",
+        "lat": 40.763626,
+        "locationType": 0,
+        "lon": -73.790655,
+        "name": "CROCHERON AV/192 ST",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501762",
+        "direction": "W",
+        "id": "MTA_501762",
+        "lat": 40.763135,
+        "locationType": 0,
+        "lon": -73.7937,
+        "name": "CROCHERON AV/UTOPIA PKWY",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501763",
+        "direction": "W",
+        "id": "MTA_501763",
+        "lat": 40.762883,
+        "locationType": 0,
+        "lon": -73.795531,
+        "name": "CROCHERON AV/171 ST",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501764",
+        "direction": "W",
+        "id": "MTA_501764",
+        "lat": 40.762827,
+        "locationType": 0,
+        "lon": -73.796928,
+        "name": "CROCHERON AV/169 ST",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501765",
+        "direction": "W",
+        "id": "MTA_501765",
+        "lat": 40.76286,
+        "locationType": 0,
+        "lon": -73.798386,
+        "name": "CROCHERON AV/168 ST",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501766",
+        "direction": "W",
+        "id": "MTA_501766",
+        "lat": 40.763012,
+        "locationType": 0,
+        "lon": -73.800256,
+        "name": "CROCHERON AV/166 ST",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501767",
+        "direction": "W",
+        "id": "MTA_501767",
+        "lat": 40.76268,
+        "locationType": 0,
+        "lon": -73.802155,
+        "name": "CROCHERON AV/164 ST",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503077",
+        "direction": "NE",
+        "id": "MTA_503077",
+        "lat": 40.781249,
+        "locationType": 0,
+        "lon": -73.778214,
+        "name": "23 AV/212 ST",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503147",
+        "direction": "W",
+        "id": "MTA_503147",
+        "lat": 40.781863,
+        "locationType": 0,
+        "lon": -73.783871,
+        "name": "18 AV/CORPORAL KENNEDY ST",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503148",
+        "direction": "N",
+        "id": "MTA_503148",
+        "lat": 40.781928,
+        "locationType": 0,
+        "lon": -73.781588,
+        "name": "211 ST/18 AV",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503149",
+        "direction": "NW",
+        "id": "MTA_503149",
+        "lat": 40.780263,
+        "locationType": 0,
+        "lon": -73.780879,
+        "name": "211 ST/23 AV",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503150",
+        "direction": "E",
+        "id": "MTA_503150",
+        "lat": 40.765088,
+        "locationType": 0,
+        "lon": -73.818992,
+        "name": "NORTHERN BLVD/147 ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503248",
+        "direction": "SW",
+        "id": "MTA_503248",
+        "lat": 40.782255,
+        "locationType": 0,
+        "lon": -73.77704,
+        "name": "23 AV/BELL BLVD",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503274",
+        "direction": "E",
+        "id": "MTA_503274",
+        "lat": 40.764448,
+        "locationType": 0,
+        "lon": -73.81059,
+        "name": "NORTHERN BLVD/154 ST",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503585",
+        "direction": "SE",
+        "id": "MTA_503585",
+        "lat": 40.778823,
+        "locationType": 0,
+        "lon": -73.783025,
+        "name": "CORPORAL KENNEDY ST/23 AV",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503720",
+        "direction": "NW",
+        "id": "MTA_503720",
+        "lat": 40.776978,
+        "locationType": 0,
+        "lon": -73.78285,
+        "name": "CORPORAL KENNEDY ST/26 AV",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503721",
+        "direction": "",
+        "id": "MTA_503721",
+        "lat": 40.776751,
+        "locationType": 0,
+        "lon": -73.782948,
+        "name": "CORPORAL KENNEDY ST/26 AV",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503828",
+        "direction": "SE",
+        "id": "MTA_503828",
+        "lat": 40.780905,
+        "locationType": 0,
+        "lon": -73.777192,
+        "name": "213 PL/BAY TERRACE SHOPPING CENTER",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503921",
+        "direction": "E",
+        "id": "MTA_503921",
+        "lat": 40.77219,
+        "locationType": 0,
+        "lon": -73.780703,
+        "name": "32 AV/CORPORAL KENNEDY ST",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTA NYCT_Q31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504446",
+        "direction": "W",
+        "id": "MTA_504446",
+        "lat": 40.771594,
+        "locationType": 0,
+        "lon": -73.783157,
+        "name": "32 AV/CLEARVIEW EXPWY SERVICE RD EAST",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTA NYCT_Q31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504447",
+        "direction": "W",
+        "id": "MTA_504447",
+        "lat": 40.771215,
+        "locationType": 0,
+        "lon": -73.784436,
+        "name": "32 AV/CLEARVIEW EXPWY SERVICE RD WEST",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTA NYCT_Q31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504482",
+        "direction": "SE",
+        "id": "MTA_504482",
+        "lat": 40.772369,
+        "locationType": 0,
+        "lon": -73.78071,
+        "name": "CORPORAL KENNEDY ST/32 AV",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504487",
+        "direction": "E",
+        "id": "MTA_504487",
+        "lat": 40.760972,
+        "locationType": 0,
+        "lon": -73.827053,
+        "name": "39 AV/138 ST",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505053",
+        "direction": "E",
+        "id": "MTA_505053",
+        "lat": 40.769615,
+        "locationType": 0,
+        "lon": -73.789398,
+        "name": "32 AV/200 ST",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTA NYCT_Q31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505121",
+        "direction": "E",
+        "id": "MTA_505121",
+        "lat": 40.760694,
+        "locationType": 0,
+        "lon": -73.828177,
+        "name": "39 AV/LIPPMAN PLAZA",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q16",
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505293",
+        "direction": "NW",
+        "id": "MTA_505293",
+        "lat": 40.76357,
+        "locationType": 0,
+        "lon": -73.827999,
+        "name": "UNION ST/NORTHERN BLVD",
+        "routeIds": [
+            "MTA NYCT_Q13",
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904019",
+        "direction": "SW",
+        "id": "MTA_904019",
+        "lat": 40.782275,
+        "locationType": 0,
+        "lon": -73.777006,
+        "name": "23 AV/BELL BLVD",
+        "routeIds": [
+            "MTA NYCT_Q28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

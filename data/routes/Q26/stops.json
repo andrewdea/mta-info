@@ -1,0 +1,754 @@
+[
+    {
+        "code": "500851",
+        "direction": "E",
+        "id": "MTA_500851",
+        "lat": 40.760883,
+        "locationType": 0,
+        "lon": -73.824577,
+        "name": "ROOSEVELT AV/BOWNE ST",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A",
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500852",
+        "direction": "SE",
+        "id": "MTA_500852",
+        "lat": 40.759541,
+        "locationType": 0,
+        "lon": -73.823864,
+        "name": "BOWNE ST/41 AV",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500853",
+        "direction": "E",
+        "id": "MTA_500853",
+        "lat": 40.758462,
+        "locationType": 0,
+        "lon": -73.822046,
+        "name": "SANFORD AV/BOWNE ST",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500854",
+        "direction": "E",
+        "id": "MTA_500854",
+        "lat": 40.758772,
+        "locationType": 0,
+        "lon": -73.8208,
+        "name": "SANFORD AV/PARSONS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500931",
+        "direction": "W",
+        "id": "MTA_500931",
+        "lat": 40.758784,
+        "locationType": 0,
+        "lon": -73.821204,
+        "name": "SANFORD AV/PARSONS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501530",
+        "direction": "SE",
+        "id": "MTA_501530",
+        "lat": 40.756848,
+        "locationType": 0,
+        "lon": -73.817632,
+        "name": "PARSONS BLVD/CHERRY AV",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501531",
+        "direction": "SE",
+        "id": "MTA_501531",
+        "lat": 40.755976,
+        "locationType": 0,
+        "lon": -73.816292,
+        "name": "PARSONS BLVD/ELM AV",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501532",
+        "direction": "SE",
+        "id": "MTA_501532",
+        "lat": 40.754738,
+        "locationType": 0,
+        "lon": -73.814379,
+        "name": "PARSONS BLVD/HAWTHORNE AV",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501533",
+        "direction": "E",
+        "id": "MTA_501533",
+        "lat": 40.754148,
+        "locationType": 0,
+        "lon": -73.812948,
+        "name": "46 AV/PARSONS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501534",
+        "direction": "E",
+        "id": "MTA_501534",
+        "lat": 40.754122,
+        "locationType": 0,
+        "lon": -73.810114,
+        "name": "46 AV/156 ST",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501535",
+        "direction": "E",
+        "id": "MTA_501535",
+        "lat": 40.754012,
+        "locationType": 0,
+        "lon": -73.808736,
+        "name": "46 AV/158 ST",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501536",
+        "direction": "E",
+        "id": "MTA_501536",
+        "lat": 40.753858,
+        "locationType": 0,
+        "lon": -73.806852,
+        "name": "46 AV/160 ST",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501537",
+        "direction": "E",
+        "id": "MTA_501537",
+        "lat": 40.753715,
+        "locationType": 0,
+        "lon": -73.805023,
+        "name": "46 AV/162 ST",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501538",
+        "direction": "E",
+        "id": "MTA_501538",
+        "lat": 40.753632,
+        "locationType": 0,
+        "lon": -73.803092,
+        "name": "46 AV/164 ST",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501539",
+        "direction": "E",
+        "id": "MTA_501539",
+        "lat": 40.753678,
+        "locationType": 0,
+        "lon": -73.801215,
+        "name": "46 AV/166 ST",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501540",
+        "direction": "E",
+        "id": "MTA_501540",
+        "lat": 40.753777,
+        "locationType": 0,
+        "lon": -73.799323,
+        "name": "46 AV/168 ST",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501541",
+        "direction": "E",
+        "id": "MTA_501541",
+        "lat": 40.753823,
+        "locationType": 0,
+        "lon": -73.797396,
+        "name": "46 AV/170 ST",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501542",
+        "direction": "E",
+        "id": "MTA_501542",
+        "lat": 40.753441,
+        "locationType": 0,
+        "lon": -73.794199,
+        "name": "46 AV/AUBURNDALE LN",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501543",
+        "direction": "E",
+        "id": "MTA_501543",
+        "lat": 40.752855,
+        "locationType": 0,
+        "lon": -73.791876,
+        "name": "HOLLIS COURT BLVD/UTOPIA PKWY",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501544",
+        "direction": "E",
+        "id": "MTA_501544",
+        "lat": 40.752303,
+        "locationType": 0,
+        "lon": -73.789965,
+        "name": "HOLLIS COURT BLVD/190 ST",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501545",
+        "direction": "SE",
+        "id": "MTA_501545",
+        "lat": 40.751538,
+        "locationType": 0,
+        "lon": -73.788463,
+        "name": "HOLLIS COURT BLVD/47 AV",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501548",
+        "direction": "SE",
+        "id": "MTA_501548",
+        "lat": 40.74863,
+        "locationType": 0,
+        "lon": -73.784098,
+        "name": "HOLLIS COURT BLVD/195 ST",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501549",
+        "direction": "SE",
+        "id": "MTA_501549",
+        "lat": 40.747703,
+        "locationType": 0,
+        "lon": -73.782632,
+        "name": "HOLLIS COURT BLVD/53 AV",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501550",
+        "direction": "SE",
+        "id": "MTA_501550",
+        "lat": 40.746461,
+        "locationType": 0,
+        "lon": -73.780441,
+        "name": "HOLLIS COURT BLVD/56 AV",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501551",
+        "direction": "SE",
+        "id": "MTA_501551",
+        "lat": 40.745496,
+        "locationType": 0,
+        "lon": -73.778687,
+        "name": "HOLLIS COURT BLVD/199 ST",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501554",
+        "direction": "NW",
+        "id": "MTA_501554",
+        "lat": 40.746653,
+        "locationType": 0,
+        "lon": -73.780491,
+        "name": "HOLLIS COURT BLVD/56 AV",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501555",
+        "direction": "NW",
+        "id": "MTA_501555",
+        "lat": 40.748008,
+        "locationType": 0,
+        "lon": -73.782804,
+        "name": "HOLLIS COURT BLVD/WEEKS LN",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501556",
+        "direction": "NW",
+        "id": "MTA_501556",
+        "lat": 40.748828,
+        "locationType": 0,
+        "lon": -73.784072,
+        "name": "HOLLIS COURT BLVD/50 AV",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501557",
+        "direction": "NW",
+        "id": "MTA_501557",
+        "lat": 40.750364,
+        "locationType": 0,
+        "lon": -73.786449,
+        "name": "HOLLIS COURT BLVD/194 ST",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501560",
+        "direction": "W",
+        "id": "MTA_501560",
+        "lat": 40.752415,
+        "locationType": 0,
+        "lon": -73.789943,
+        "name": "HOLLIS COURT BLVD/190 ST",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501561",
+        "direction": "W",
+        "id": "MTA_501561",
+        "lat": 40.753271,
+        "locationType": 0,
+        "lon": -73.792864,
+        "name": "46 AV/UTOPIA PKWY",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501562",
+        "direction": "W",
+        "id": "MTA_501562",
+        "lat": 40.753623,
+        "locationType": 0,
+        "lon": -73.794462,
+        "name": "46 AV/AUBURNDALE LN",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501563",
+        "direction": "W",
+        "id": "MTA_501563",
+        "lat": 40.753855,
+        "locationType": 0,
+        "lon": -73.796768,
+        "name": "46 AV/171 ST",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501564",
+        "direction": "W",
+        "id": "MTA_501564",
+        "lat": 40.753916,
+        "locationType": 0,
+        "lon": -73.798644,
+        "name": "46 AV/169 ST",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501565",
+        "direction": "W",
+        "id": "MTA_501565",
+        "lat": 40.753812,
+        "locationType": 0,
+        "lon": -73.80055,
+        "name": "46 AV/167 ST",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501566",
+        "direction": "W",
+        "id": "MTA_501566",
+        "lat": 40.753761,
+        "locationType": 0,
+        "lon": -73.802868,
+        "name": "46 AV/164 ST",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501568",
+        "direction": "W",
+        "id": "MTA_501568",
+        "lat": 40.753954,
+        "locationType": 0,
+        "lon": -73.80661,
+        "name": "46 AV/160 ST",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501569",
+        "direction": "W",
+        "id": "MTA_501569",
+        "lat": 40.754142,
+        "locationType": 0,
+        "lon": -73.809002,
+        "name": "46 AV/158 ST",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501570",
+        "direction": "W",
+        "id": "MTA_501570",
+        "lat": 40.754266,
+        "locationType": 0,
+        "lon": -73.810879,
+        "name": "46 AV/156 ST",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501571",
+        "direction": "W",
+        "id": "MTA_501571",
+        "lat": 40.754259,
+        "locationType": 0,
+        "lon": -73.812106,
+        "name": "46 AV/149 ST",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501573",
+        "direction": "NW",
+        "id": "MTA_501573",
+        "lat": 40.755373,
+        "locationType": 0,
+        "lon": -73.815131,
+        "name": "PARSONS BLVD/45 AV",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501574",
+        "direction": "NW",
+        "id": "MTA_501574",
+        "lat": 40.756975,
+        "locationType": 0,
+        "lon": -73.817614,
+        "name": "PARSONS BLVD/CHERRY AV",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501575",
+        "direction": "NW",
+        "id": "MTA_501575",
+        "lat": 40.757753,
+        "locationType": 0,
+        "lon": -73.818825,
+        "name": "PARSONS BLVD/BEECH AV",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502762",
+        "direction": "SE",
+        "id": "MTA_502762",
+        "lat": 40.745172,
+        "locationType": 0,
+        "lon": -73.776775,
+        "name": "FRANCIS LEWIS BLVD/58 AV",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503074",
+        "direction": "SE",
+        "id": "MTA_503074",
+        "lat": 40.757712,
+        "locationType": 0,
+        "lon": -73.818969,
+        "name": "PARSONS BLVD/ASH AV",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503207",
+        "direction": "SE",
+        "id": "MTA_503207",
+        "lat": 40.750185,
+        "locationType": 0,
+        "lon": -73.78646,
+        "name": "HOLLIS COURT BLVD/48 AV",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503208",
+        "direction": "NW",
+        "id": "MTA_503208",
+        "lat": 40.751523,
+        "locationType": 0,
+        "lon": -73.788217,
+        "name": "HOLLIS COURT BLVD/47 AV",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504029",
+        "direction": "NW",
+        "id": "MTA_504029",
+        "lat": 40.745022,
+        "locationType": 0,
+        "lon": -73.777509,
+        "name": "HOLLIS COURT BLVD/FRANCIS LEWIS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504034",
+        "direction": "W",
+        "id": "MTA_504034",
+        "lat": 40.753777,
+        "locationType": 0,
+        "lon": -73.804358,
+        "name": "46 AV/163 ST",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504992",
+        "direction": "W",
+        "id": "MTA_504992",
+        "lat": 40.760927,
+        "locationType": 0,
+        "lon": -73.824935,
+        "name": "ROOSEVELT AV/BOWNE ST",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A",
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504994",
+        "direction": "E",
+        "id": "MTA_504994",
+        "lat": 40.759925,
+        "locationType": 0,
+        "lon": -73.828552,
+        "name": "ROOSEVELT AV /UNION ST",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505048",
+        "direction": "NW",
+        "id": "MTA_505048",
+        "lat": 40.758509,
+        "locationType": 0,
+        "lon": -73.823212,
+        "name": "BOWNE ST/SANFORD AV",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804031",
+        "direction": "W",
+        "id": "MTA_804031",
+        "lat": 40.759982,
+        "locationType": 0,
+        "lon": -73.828622,
+        "name": "ROOSEVELT AV/UNION ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A",
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804137",
+        "direction": "W",
+        "id": "MTA_804137",
+        "lat": 40.759834,
+        "locationType": 0,
+        "lon": -73.828873,
+        "name": "ROOSEVELT AV/MAIN ST",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904015",
+        "direction": "W",
+        "id": "MTA_904015",
+        "lat": 40.754271,
+        "locationType": 0,
+        "lon": -73.813419,
+        "name": "46 AV/PARSONS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

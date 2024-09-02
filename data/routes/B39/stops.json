@@ -1,0 +1,83 @@
+[
+    {
+        "code": "303117",
+        "direction": "E",
+        "id": "MTA_303117",
+        "lat": 40.709597,
+        "locationType": 0,
+        "lon": -73.959359,
+        "name": "WILLIAMSBURG BRIDGE PLAZA/LANE 1",
+        "routeIds": [
+            "MTA NYCT_B39",
+            "MTA NYCT_B60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403647",
+        "direction": "SW",
+        "id": "MTA_403647",
+        "lat": 40.719411,
+        "locationType": 0,
+        "lon": -73.990466,
+        "name": "ALLEN ST/DELANCEY ST",
+        "routeIds": [
+            "MTA NYCT_B39",
+            "MTA NYCT_M15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403679",
+        "direction": "W",
+        "id": "MTA_403679",
+        "lat": 40.718689,
+        "locationType": 0,
+        "lon": -73.988295,
+        "name": "DELANCEY ST/ESSEX ST",
+        "routeIds": [
+            "MTA NYCT_B39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404167",
+        "direction": "NE",
+        "id": "MTA_404167",
+        "lat": 40.719339,
+        "locationType": 0,
+        "lon": -73.990121,
+        "name": "ALLEN ST/DELANCEY ST",
+        "routeIds": [
+            "MTA NYCT_B39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801012",
+        "direction": "E",
+        "id": "MTA_801012",
+        "lat": 40.709649,
+        "locationType": 0,
+        "lon": -73.959518,
+        "name": "WILLIAMSBURG BRIDGE PLAZA/LANE 1",
+        "routeIds": [
+            "MTA NYCT_B39",
+            "MTA NYCT_B60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804174",
+        "direction": "E",
+        "id": "MTA_804174",
+        "lat": 40.71849,
+        "locationType": 0,
+        "lon": -73.988459,
+        "name": "DELANCEY ST/ESSEX ST",
+        "routeIds": [
+            "MTA NYCT_B39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

@@ -1,0 +1,1798 @@
+[
+    {
+        "code": "300002",
+        "direction": "W",
+        "id": "MTA_300002",
+        "lat": 40.578066,
+        "locationType": 0,
+        "lon": -73.943029,
+        "name": "ORIENTAL BLVD/JAFFRAY ST",
+        "routeIds": [
+            "MTA NYCT_B1",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300003",
+        "direction": "W",
+        "id": "MTA_300003",
+        "lat": 40.577909,
+        "locationType": 0,
+        "lon": -73.944643,
+        "name": "ORIENTAL BLVD/HASTINGS ST",
+        "routeIds": [
+            "MTA NYCT_B1",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300004",
+        "direction": "W",
+        "id": "MTA_300004",
+        "lat": 40.577718,
+        "locationType": 0,
+        "lon": -73.9462,
+        "name": "ORIENTAL BLVD/FALMOUTH ST",
+        "routeIds": [
+            "MTA NYCT_B1",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300006",
+        "direction": "W",
+        "id": "MTA_300006",
+        "lat": 40.577353,
+        "locationType": 0,
+        "lon": -73.949552,
+        "name": "ORIENTAL BLVD/DOVER ST",
+        "routeIds": [
+            "MTA NYCT_B1",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300007",
+        "direction": "W",
+        "id": "MTA_300007",
+        "lat": 40.577148,
+        "locationType": 0,
+        "lon": -73.951388,
+        "name": "ORIENTAL BLVD/BEAUMONT ST",
+        "routeIds": [
+            "MTA NYCT_B1",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300008",
+        "direction": "W",
+        "id": "MTA_300008",
+        "lat": 40.577003,
+        "locationType": 0,
+        "lon": -73.952724,
+        "name": "ORIENTAL BLVD/WEST END AV",
+        "routeIds": [
+            "MTA NYCT_B1",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300130",
+        "direction": "E",
+        "id": "MTA_300130",
+        "lat": 40.576998,
+        "locationType": 0,
+        "lon": -73.950519,
+        "name": "ORIENTAL BLVD/BEAUMONT ST",
+        "routeIds": [
+            "MTA NYCT_B1",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300131",
+        "direction": "E",
+        "id": "MTA_300131",
+        "lat": 40.577176,
+        "locationType": 0,
+        "lon": -73.948788,
+        "name": "ORIENTAL BLVD/DOVER ST",
+        "routeIds": [
+            "MTA NYCT_B1",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300132",
+        "direction": "E",
+        "id": "MTA_300132",
+        "lat": 40.577327,
+        "locationType": 0,
+        "lon": -73.947381,
+        "name": "ORIENTAL BLVD/OCEAN AV",
+        "routeIds": [
+            "MTA NYCT_B1",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300135",
+        "direction": "E",
+        "id": "MTA_300135",
+        "lat": 40.578066,
+        "locationType": 0,
+        "lon": -73.941234,
+        "name": "ORIENTAL BLVD/KENSINGTON ST",
+        "routeIds": [
+            "MTA NYCT_B1",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300332",
+        "direction": "NW",
+        "id": "MTA_300332",
+        "lat": 40.584161,
+        "locationType": 0,
+        "lon": -73.950714,
+        "name": "SHEEPSHEAD BAY RD/EMMONS AV",
+        "routeIds": [
+            "MTA NYCT_B4",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300334",
+        "direction": "W",
+        "id": "MTA_300334",
+        "lat": 40.585677,
+        "locationType": 0,
+        "lon": -73.95473,
+        "name": "VOORHIES AV/E 14 ST",
+        "routeIds": [
+            "MTA NYCT_B4",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300335",
+        "direction": "N",
+        "id": "MTA_300335",
+        "lat": 40.587519,
+        "locationType": 0,
+        "lon": -73.955125,
+        "name": "E 14 ST/SHEEPSHEAD BAY RD",
+        "routeIds": [
+            "MTA NYCT_B4",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300338",
+        "direction": "E",
+        "id": "MTA_300338",
+        "lat": 40.58836,
+        "locationType": 0,
+        "lon": -73.950134,
+        "name": "AVENUE Z/E 19 ST",
+        "routeIds": [
+            "MTA NYCT_B4",
+            "MTA NYCT_B36",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300362",
+        "direction": "W",
+        "id": "MTA_300362",
+        "lat": 40.5883,
+        "locationType": 0,
+        "lon": -73.95188,
+        "name": "AVENUE Z/E 18 ST",
+        "routeIds": [
+            "MTA NYCT_B4",
+            "MTA NYCT_B36",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300363",
+        "direction": "S",
+        "id": "MTA_300363",
+        "lat": 40.587307,
+        "locationType": 0,
+        "lon": -73.953339,
+        "name": "E 16 ST/SHEEPSHEAD BAY RD",
+        "routeIds": [
+            "MTA NYCT_B4",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300364",
+        "direction": "SE",
+        "id": "MTA_300364",
+        "lat": 40.585419,
+        "locationType": 0,
+        "lon": -73.951591,
+        "name": "SHEEPSHEAD BAY RD/VOORHIES AV",
+        "routeIds": [
+            "MTA NYCT_B4",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300366",
+        "direction": "SE",
+        "id": "MTA_300366",
+        "lat": 40.583619,
+        "locationType": 0,
+        "lon": -73.950517,
+        "name": "SHEEPSHEAD BAY RD/EMMONS AV",
+        "routeIds": [
+            "MTA NYCT_B4",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300367",
+        "direction": "W",
+        "id": "MTA_300367",
+        "lat": 40.583239,
+        "locationType": 0,
+        "lon": -73.953292,
+        "name": "EMMONS AV/E 16 ST",
+        "routeIds": [
+            "MTA NYCT_B4",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300827",
+        "direction": "NE",
+        "id": "MTA_300827",
+        "lat": 40.636454,
+        "locationType": 0,
+        "lon": -73.957974,
+        "name": "FOSTER AV/OCEAN AV",
+        "routeIds": [
+            "MTA NYCT_B8",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300828",
+        "direction": "NE",
+        "id": "MTA_300828",
+        "lat": 40.637313,
+        "locationType": 0,
+        "lon": -73.95619,
+        "name": "FOSTER AV/E 22 ST",
+        "routeIds": [
+            "MTA NYCT_B8",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300830",
+        "direction": "E",
+        "id": "MTA_300830",
+        "lat": 40.638357,
+        "locationType": 0,
+        "lon": -73.952741,
+        "name": "FOSTER AV/FLATBUSH AV",
+        "routeIds": [
+            "MTA NYCT_B8",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300831",
+        "direction": "N",
+        "id": "MTA_300831",
+        "lat": 40.638798,
+        "locationType": 0,
+        "lon": -73.951109,
+        "name": "ROGERS AV/FOSTER AV",
+        "routeIds": [
+            "MTA NYCT_B8",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300876",
+        "direction": "SW",
+        "id": "MTA_300876",
+        "lat": 40.638172,
+        "locationType": 0,
+        "lon": -73.954775,
+        "name": "FOSTER AV/BEDFORD AV",
+        "routeIds": [
+            "MTA NYCT_B8",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300877",
+        "direction": "SW",
+        "id": "MTA_300877",
+        "lat": 40.637102,
+        "locationType": 0,
+        "lon": -73.956936,
+        "name": "FOSTER AV/E 22 ST",
+        "routeIds": [
+            "MTA NYCT_B8",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300957",
+        "direction": "N",
+        "id": "MTA_300957",
+        "lat": 40.618887,
+        "locationType": 0,
+        "lon": -73.954963,
+        "name": "OCEAN AV/AVENUE M",
+        "routeIds": [
+            "MTA NYCT_B9",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300980",
+        "direction": "S",
+        "id": "MTA_300980",
+        "lat": 40.620582,
+        "locationType": 0,
+        "lon": -73.955476,
+        "name": "OCEAN AV/AVENUE L",
+        "routeIds": [
+            "MTA NYCT_B9",
+            "MTA NYCT_B49",
+            "MTABC_BM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302416",
+        "direction": "W",
+        "id": "MTA_302416",
+        "lat": 40.680795,
+        "locationType": 0,
+        "lon": -73.953757,
+        "name": "FULTON ST/BEDFORD AV",
+        "routeIds": [
+            "MTA NYCT_B25",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303878",
+        "direction": "S",
+        "id": "MTA_303878",
+        "lat": 40.678802,
+        "locationType": 0,
+        "lon": -73.955283,
+        "name": "FRANKLIN AV/ATLANTIC AV",
+        "routeIds": [
+            "MTA NYCT_B48",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303901",
+        "direction": "N",
+        "id": "MTA_303901",
+        "lat": 40.579575,
+        "locationType": 0,
+        "lon": -73.953305,
+        "name": "WEST END AV/HAMPTON AV",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303902",
+        "direction": "N",
+        "id": "MTA_303902",
+        "lat": 40.58162,
+        "locationType": 0,
+        "lon": -73.953693,
+        "name": "WEST END AV/SHORE BLVD",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303903",
+        "direction": "N",
+        "id": "MTA_303903",
+        "lat": 40.582935,
+        "locationType": 0,
+        "lon": -73.953936,
+        "name": "SHORE BLVD/EMMONS AV",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303911",
+        "direction": "N",
+        "id": "MTA_303911",
+        "lat": 40.588853,
+        "locationType": 0,
+        "lon": -73.949277,
+        "name": "OCEAN AV/AVENUE Z",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303912",
+        "direction": "N",
+        "id": "MTA_303912",
+        "lat": 40.590973,
+        "locationType": 0,
+        "lon": -73.949679,
+        "name": "OCEAN AV/AVENUE Y",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303913",
+        "direction": "N",
+        "id": "MTA_303913",
+        "lat": 40.593073,
+        "locationType": 0,
+        "lon": -73.95008,
+        "name": "OCEAN AV/AVENUE X",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_BM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303914",
+        "direction": "N",
+        "id": "MTA_303914",
+        "lat": 40.595181,
+        "locationType": 0,
+        "lon": -73.950478,
+        "name": "OCEAN AV/AVENUE W",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_BM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303915",
+        "direction": "N",
+        "id": "MTA_303915",
+        "lat": 40.597599,
+        "locationType": 0,
+        "lon": -73.950938,
+        "name": "OCEAN AV/AVENUE V",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303916",
+        "direction": "N",
+        "id": "MTA_303916",
+        "lat": 40.599713,
+        "locationType": 0,
+        "lon": -73.951339,
+        "name": "OCEAN AV/AVENUE U",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_BM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303917",
+        "direction": "N",
+        "id": "MTA_303917",
+        "lat": 40.602564,
+        "locationType": 0,
+        "lon": -73.951904,
+        "name": "OCEAN AV/AVENUE T",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303918",
+        "direction": "N",
+        "id": "MTA_303918",
+        "lat": 40.604355,
+        "locationType": 0,
+        "lon": -73.952218,
+        "name": "OCEAN AV/AVENUE S",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_BM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303919",
+        "direction": "N",
+        "id": "MTA_303919",
+        "lat": 40.606666,
+        "locationType": 0,
+        "lon": -73.952652,
+        "name": "OCEAN AV/AVENUE R",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_BM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303920",
+        "direction": "N",
+        "id": "MTA_303920",
+        "lat": 40.609131,
+        "locationType": 0,
+        "lon": -73.953122,
+        "name": "OCEAN AV/QUENTIN RD",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303921",
+        "direction": "N",
+        "id": "MTA_303921",
+        "lat": 40.610608,
+        "locationType": 0,
+        "lon": -73.953479,
+        "name": "OCEAN AV/KINGS HWY",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_BM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303922",
+        "direction": "N",
+        "id": "MTA_303922",
+        "lat": 40.613866,
+        "locationType": 0,
+        "lon": -73.95402,
+        "name": "OCEAN AV/AVENUE O",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303923",
+        "direction": "N",
+        "id": "MTA_303923",
+        "lat": 40.616496,
+        "locationType": 0,
+        "lon": -73.954511,
+        "name": "OCEAN AV/AVENUE N",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_BM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303926",
+        "direction": "N",
+        "id": "MTA_303926",
+        "lat": 40.623682,
+        "locationType": 0,
+        "lon": -73.955872,
+        "name": "OCEAN AV/AVENUE K",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_BM1",
+            "MTABC_BM3",
+            "MTABC_BM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303927",
+        "direction": "N",
+        "id": "MTA_303927",
+        "lat": 40.626078,
+        "locationType": 0,
+        "lon": -73.95632,
+        "name": "OCEAN AV/AVENUE J",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_BM1",
+            "MTABC_BM3",
+            "MTABC_BM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303928",
+        "direction": "N",
+        "id": "MTA_303928",
+        "lat": 40.628016,
+        "locationType": 0,
+        "lon": -73.956697,
+        "name": "OCEAN AV/AVENUE I",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_BM1",
+            "MTABC_BM3",
+            "MTABC_BM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303929",
+        "direction": "N",
+        "id": "MTA_303929",
+        "lat": 40.630833,
+        "locationType": 0,
+        "lon": -73.957225,
+        "name": "OCEAN AV/AVENUE H",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303930",
+        "direction": "N",
+        "id": "MTA_303930",
+        "lat": 40.633193,
+        "locationType": 0,
+        "lon": -73.957678,
+        "name": "OCEAN AV/GLENWOOD RD",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_BM1",
+            "MTABC_BM3",
+            "MTABC_BM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303931",
+        "direction": "N",
+        "id": "MTA_303931",
+        "lat": 40.635178,
+        "locationType": 0,
+        "lon": -73.958047,
+        "name": "OCEAN AV/FARRAGUT RD",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303937",
+        "direction": "N",
+        "id": "MTA_303937",
+        "lat": 40.641107,
+        "locationType": 0,
+        "lon": -73.95136,
+        "name": "ROGERS AV/AVENUE D",
+        "routeIds": [
+            "MTA NYCT_B44+",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303938",
+        "direction": "N",
+        "id": "MTA_303938",
+        "lat": 40.643413,
+        "locationType": 0,
+        "lon": -73.951607,
+        "name": "ROGERS AV/CLARENDON RD",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303939",
+        "direction": "N",
+        "id": "MTA_303939",
+        "lat": 40.645298,
+        "locationType": 0,
+        "lon": -73.951811,
+        "name": "ROGERS AV/BEVERLEY RD",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303940",
+        "direction": "N",
+        "id": "MTA_303940",
+        "lat": 40.647083,
+        "locationType": 0,
+        "lon": -73.952,
+        "name": "ROGERS AV/TILDEN AV",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303942",
+        "direction": "N",
+        "id": "MTA_303942",
+        "lat": 40.651173,
+        "locationType": 0,
+        "lon": -73.95244,
+        "name": "ROGERS AV/CHURCH AV",
+        "routeIds": [
+            "MTA NYCT_B44+",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303943",
+        "direction": "N",
+        "id": "MTA_303943",
+        "lat": 40.652819,
+        "locationType": 0,
+        "lon": -73.952612,
+        "name": "ROGERS AV/LINDEN BLVD",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303944",
+        "direction": "N",
+        "id": "MTA_303944",
+        "lat": 40.654269,
+        "locationType": 0,
+        "lon": -73.952774,
+        "name": "ROGERS AV/LENOX RD",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303945",
+        "direction": "N",
+        "id": "MTA_303945",
+        "lat": 40.65552,
+        "locationType": 0,
+        "lon": -73.952902,
+        "name": "ROGERS AV/CLARKSON AV",
+        "routeIds": [
+            "MTA NYCT_B44+",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303946",
+        "direction": "N",
+        "id": "MTA_303946",
+        "lat": 40.657225,
+        "locationType": 0,
+        "lon": -73.953085,
+        "name": "ROGERS AV/WINTHROP ST",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303947",
+        "direction": "N",
+        "id": "MTA_303947",
+        "lat": 40.658828,
+        "locationType": 0,
+        "lon": -73.95326,
+        "name": "ROGERS AV/FENIMORE ST",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303948",
+        "direction": "N",
+        "id": "MTA_303948",
+        "lat": 40.659835,
+        "locationType": 0,
+        "lon": -73.953364,
+        "name": "ROGERS AV/MIDWOOD ST",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303949",
+        "direction": "N",
+        "id": "MTA_303949",
+        "lat": 40.661641,
+        "locationType": 0,
+        "lon": -73.953554,
+        "name": "ROGERS AV/LINCOLN RD",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303950",
+        "direction": "N",
+        "id": "MTA_303950",
+        "lat": 40.663626,
+        "locationType": 0,
+        "lon": -73.953748,
+        "name": "ROGERS AV/EMPIRE BLVD",
+        "routeIds": [
+            "MTA NYCT_B44+",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303951",
+        "direction": "N",
+        "id": "MTA_303951",
+        "lat": 40.665855,
+        "locationType": 0,
+        "lon": -73.953594,
+        "name": "ROGERS AV/MONTGOMERY ST",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303953",
+        "direction": "N",
+        "id": "MTA_303953",
+        "lat": 40.667642,
+        "locationType": 0,
+        "lon": -73.953427,
+        "name": "ROGERS AV/CARROLL ST",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303954",
+        "direction": "N",
+        "id": "MTA_303954",
+        "lat": 40.668544,
+        "locationType": 0,
+        "lon": -73.95334,
+        "name": "ROGERS AV/PRESIDENT ST",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303955",
+        "direction": "N",
+        "id": "MTA_303955",
+        "lat": 40.669673,
+        "locationType": 0,
+        "lon": -73.953231,
+        "name": "ROGERS AV/EASTERN PKWY",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303956",
+        "direction": "N",
+        "id": "MTA_303956",
+        "lat": 40.672058,
+        "locationType": 0,
+        "lon": -73.952995,
+        "name": "ROGERS AV/SAINT JOHNS PL",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303957",
+        "direction": "N",
+        "id": "MTA_303957",
+        "lat": 40.673886,
+        "locationType": 0,
+        "lon": -73.952828,
+        "name": "ROGERS AV/PARK PL",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303958",
+        "direction": "N",
+        "id": "MTA_303958",
+        "lat": 40.675598,
+        "locationType": 0,
+        "lon": -73.952668,
+        "name": "ROGERS AV/ST MARKS AV",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303959",
+        "direction": "N",
+        "id": "MTA_303959",
+        "lat": 40.67736,
+        "locationType": 0,
+        "lon": -73.952627,
+        "name": "BEDFORD AV/DEAN ST",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303960",
+        "direction": "N",
+        "id": "MTA_303960",
+        "lat": 40.679153,
+        "locationType": 0,
+        "lon": -73.952972,
+        "name": "BEDFORD AV/ATLANTIC AV",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303966",
+        "direction": "E",
+        "id": "MTA_303966",
+        "lat": 40.677433,
+        "locationType": 0,
+        "lon": -73.955064,
+        "name": "DEAN ST/FRANKLIN AV",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303967",
+        "direction": "E",
+        "id": "MTA_303967",
+        "lat": 40.676985,
+        "locationType": 0,
+        "lon": -73.952934,
+        "name": "DEAN ST/BEDFORD AV",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303968",
+        "direction": "S",
+        "id": "MTA_303968",
+        "lat": 40.675964,
+        "locationType": 0,
+        "lon": -73.953259,
+        "name": "BEDFORD AV/BERGEN ST",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303969",
+        "direction": "S",
+        "id": "MTA_303969",
+        "lat": 40.674235,
+        "locationType": 0,
+        "lon": -73.953884,
+        "name": "BEDFORD AV/PROSPECT PL",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303970",
+        "direction": "S",
+        "id": "MTA_303970",
+        "lat": 40.672862,
+        "locationType": 0,
+        "lon": -73.954383,
+        "name": "BEDFORD AV/STERLING PL",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303971",
+        "direction": "S",
+        "id": "MTA_303971",
+        "lat": 40.671542,
+        "locationType": 0,
+        "lon": -73.954859,
+        "name": "BEDFORD AV/SAINT JOHNS PL",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303972",
+        "direction": "S",
+        "id": "MTA_303972",
+        "lat": 40.670423,
+        "locationType": 0,
+        "lon": -73.955267,
+        "name": "BEDFORD AV/EASTERN PKWY",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303974",
+        "direction": "S",
+        "id": "MTA_303974",
+        "lat": 40.667204,
+        "locationType": 0,
+        "lon": -73.95643,
+        "name": "BEDFORD AV/CARROLL ST",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303975",
+        "direction": "S",
+        "id": "MTA_303975",
+        "lat": 40.665411,
+        "locationType": 0,
+        "lon": -73.957073,
+        "name": "BEDFORD AV/MONTGOMERY ST",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303976",
+        "direction": "S",
+        "id": "MTA_303976",
+        "lat": 40.662983,
+        "locationType": 0,
+        "lon": -73.957279,
+        "name": "BEDFORD AV/EMPIRE BLVD",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303977",
+        "direction": "S",
+        "id": "MTA_303977",
+        "lat": 40.661624,
+        "locationType": 0,
+        "lon": -73.957094,
+        "name": "BEDFORD AV/LEFFERTS AV",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303978",
+        "direction": "S",
+        "id": "MTA_303978",
+        "lat": 40.660172,
+        "locationType": 0,
+        "lon": -73.956906,
+        "name": "BEDFORD AV/MAPLE ST",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303979",
+        "direction": "S",
+        "id": "MTA_303979",
+        "lat": 40.658717,
+        "locationType": 0,
+        "lon": -73.956778,
+        "name": "BEDFORD AV/RUTLAND RD",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303981",
+        "direction": "S",
+        "id": "MTA_303981",
+        "lat": 40.655541,
+        "locationType": 0,
+        "lon": -73.956442,
+        "name": "BEDFORD AV/PARKSIDE AV",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303982",
+        "direction": "S",
+        "id": "MTA_303982",
+        "lat": 40.654712,
+        "locationType": 0,
+        "lon": -73.956352,
+        "name": "BEDFORD AV/CLARKSON AV",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303983",
+        "direction": "S",
+        "id": "MTA_303983",
+        "lat": 40.653447,
+        "locationType": 0,
+        "lon": -73.956219,
+        "name": "BEDFORD AV/LENOX RD",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303985",
+        "direction": "S",
+        "id": "MTA_303985",
+        "lat": 40.649829,
+        "locationType": 0,
+        "lon": -73.95595,
+        "name": "BEDFORD AV/CHURCH AV",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303986",
+        "direction": "S",
+        "id": "MTA_303986",
+        "lat": 40.648377,
+        "locationType": 0,
+        "lon": -73.955844,
+        "name": "BEDFORD AV/SNYDER AV",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303987",
+        "direction": "SE",
+        "id": "MTA_303987",
+        "lat": 40.646335,
+        "locationType": 0,
+        "lon": -73.955586,
+        "name": "BEDFORD AV/TILDEN AV",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303988",
+        "direction": "S",
+        "id": "MTA_303988",
+        "lat": 40.644482,
+        "locationType": 0,
+        "lon": -73.954788,
+        "name": "BEDFORD AV/BEVERLEY RD",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303989",
+        "direction": "S",
+        "id": "MTA_303989",
+        "lat": 40.642552,
+        "locationType": 0,
+        "lon": -73.954576,
+        "name": "BEDFORD AV/CLARENDON RD",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303990",
+        "direction": "S",
+        "id": "MTA_303990",
+        "lat": 40.640238,
+        "locationType": 0,
+        "lon": -73.954329,
+        "name": "BEDFORD AV/AVENUE D",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303996",
+        "direction": "S",
+        "id": "MTA_303996",
+        "lat": 40.632592,
+        "locationType": 0,
+        "lon": -73.957836,
+        "name": "OCEAN AV/GLENWOOD RD",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_BM1",
+            "MTABC_BM3",
+            "MTABC_BM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303997",
+        "direction": "S",
+        "id": "MTA_303997",
+        "lat": 40.630144,
+        "locationType": 0,
+        "lon": -73.957362,
+        "name": "OCEAN AV/AVENUE H",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303998",
+        "direction": "S",
+        "id": "MTA_303998",
+        "lat": 40.628217,
+        "locationType": 0,
+        "lon": -73.957003,
+        "name": "OCEAN AV/AVENUE I",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_BM1",
+            "MTABC_BM3",
+            "MTABC_BM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303999",
+        "direction": "S",
+        "id": "MTA_303999",
+        "lat": 40.625376,
+        "locationType": 0,
+        "lon": -73.956461,
+        "name": "OCEAN AV/AVENUE J",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_BM1",
+            "MTABC_BM3",
+            "MTABC_BM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304000",
+        "direction": "S",
+        "id": "MTA_304000",
+        "lat": 40.622999,
+        "locationType": 0,
+        "lon": -73.956013,
+        "name": "OCEAN AV/AVENUE K",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_BM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304002",
+        "direction": "S",
+        "id": "MTA_304002",
+        "lat": 40.618239,
+        "locationType": 0,
+        "lon": -73.955115,
+        "name": "OCEAN AV/AVENUE M",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304004",
+        "direction": "S",
+        "id": "MTA_304004",
+        "lat": 40.613147,
+        "locationType": 0,
+        "lon": -73.954153,
+        "name": "OCEAN AV/AVENUE O",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304005",
+        "direction": "S",
+        "id": "MTA_304005",
+        "lat": 40.610992,
+        "locationType": 0,
+        "lon": -73.95368,
+        "name": "OCEAN AV/AVENUE P",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_BM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304006",
+        "direction": "S",
+        "id": "MTA_304006",
+        "lat": 40.608469,
+        "locationType": 0,
+        "lon": -73.953263,
+        "name": "OCEAN AV/QUENTIN RD",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304007",
+        "direction": "S",
+        "id": "MTA_304007",
+        "lat": 40.606013,
+        "locationType": 0,
+        "lon": -73.9528,
+        "name": "OCEAN AV/AVENUE R",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_BM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304008",
+        "direction": "S",
+        "id": "MTA_304008",
+        "lat": 40.603721,
+        "locationType": 0,
+        "lon": -73.952366,
+        "name": "OCEAN AV/AVENUE S",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_BM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304009",
+        "direction": "S",
+        "id": "MTA_304009",
+        "lat": 40.601308,
+        "locationType": 0,
+        "lon": -73.951907,
+        "name": "OCEAN AV/AVENUE T",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304011",
+        "direction": "S",
+        "id": "MTA_304011",
+        "lat": 40.596946,
+        "locationType": 0,
+        "lon": -73.951078,
+        "name": "OCEAN AV/AVENUE V",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304012",
+        "direction": "S",
+        "id": "MTA_304012",
+        "lat": 40.59458,
+        "locationType": 0,
+        "lon": -73.950637,
+        "name": "OCEAN AV/AVENUE W",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_BM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304013",
+        "direction": "S",
+        "id": "MTA_304013",
+        "lat": 40.592865,
+        "locationType": 0,
+        "lon": -73.950267,
+        "name": "OCEAN AV/AVENUE X",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304014",
+        "direction": "S",
+        "id": "MTA_304014",
+        "lat": 40.590306,
+        "locationType": 0,
+        "lon": -73.94983,
+        "name": "OCEAN AV/AVENUE Y",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304015",
+        "direction": "S",
+        "id": "MTA_304015",
+        "lat": 40.588604,
+        "locationType": 0,
+        "lon": -73.949508,
+        "name": "OCEAN AV/AVENUE Z",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304019",
+        "direction": "SE",
+        "id": "MTA_304019",
+        "lat": 40.5844,
+        "locationType": 0,
+        "lon": -73.950979,
+        "name": "SHEEPSHEAD BAY RD/SHORE PKWY",
+        "routeIds": [
+            "MTA NYCT_B4",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304022",
+        "direction": "S",
+        "id": "MTA_304022",
+        "lat": 40.582669,
+        "locationType": 0,
+        "lon": -73.954239,
+        "name": "SHORE BLVD/NEPTUNE AV",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304023",
+        "direction": "S",
+        "id": "MTA_304023",
+        "lat": 40.578946,
+        "locationType": 0,
+        "lon": -73.953378,
+        "name": "WEST END AV/OCEAN VIEW AV",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304024",
+        "direction": "S",
+        "id": "MTA_304024",
+        "lat": 40.577017,
+        "locationType": 0,
+        "lon": -73.953015,
+        "name": "WEST END AV/ORIENTAL BLVD",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306496",
+        "direction": "S",
+        "id": "MTA_306496",
+        "lat": 40.656782,
+        "locationType": 0,
+        "lon": -73.956574,
+        "name": "BEDFORD AV/WINTHROP ST",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306500",
+        "direction": "S",
+        "id": "MTA_306500",
+        "lat": 40.668071,
+        "locationType": 0,
+        "lon": -73.956113,
+        "name": "BEDFORD AV/PRESIDENT ST",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306730",
+        "direction": "S",
+        "id": "MTA_306730",
+        "lat": 40.636002,
+        "locationType": 0,
+        "lon": -73.95844,
+        "name": "OCEAN AV/FOSTER AV",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307520",
+        "direction": "N",
+        "id": "MTA_307520",
+        "lat": 40.621275,
+        "locationType": 0,
+        "lon": -73.955419,
+        "name": "OCEAN AV/AVENUE L",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_BM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307626",
+        "direction": "S",
+        "id": "MTA_307626",
+        "lat": 40.616252,
+        "locationType": 0,
+        "lon": -73.954738,
+        "name": "OCEAN AV/AVENUE N",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_BM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307665",
+        "direction": "S",
+        "id": "MTA_307665",
+        "lat": 40.680474,
+        "locationType": 0,
+        "lon": -73.955643,
+        "name": "FRANKLIN AV/LEFFERTS PL",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307894",
+        "direction": "S",
+        "id": "MTA_307894",
+        "lat": 40.598764,
+        "locationType": 0,
+        "lon": -73.951363,
+        "name": "OCEAN AV/AVENUE U",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_BM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308159",
+        "direction": "E",
+        "id": "MTA_308159",
+        "lat": 40.578036,
+        "locationType": 0,
+        "lon": -73.939948,
+        "name": "ORIENTAL BLVD/MACKENZIE ST",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308281",
+        "direction": "W",
+        "id": "MTA_308281",
+        "lat": 40.58502,
+        "locationType": 0,
+        "lon": -73.95173,
+        "name": "SHORE PKWY/SHEEPSHEAD BAY RD",
+        "routeIds": [
+            "MTA NYCT_B4",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308282",
+        "direction": "E",
+        "id": "MTA_308282",
+        "lat": 40.587988,
+        "locationType": 0,
+        "lon": -73.953686,
+        "name": "AVENUE Z/E 15 ST",
+        "routeIds": [
+            "MTA NYCT_B4",
+            "MTA NYCT_B36",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308351",
+        "direction": "E",
+        "id": "MTA_308351",
+        "lat": 40.577746,
+        "locationType": 0,
+        "lon": -73.943997,
+        "name": "ORIENTAL BLVD/HASTINGS ST",
+        "routeIds": [
+            "MTA NYCT_B1",
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308565",
+        "direction": "N",
+        "id": "MTA_308565",
+        "lat": 40.648137,
+        "locationType": 0,
+        "lon": -73.9521,
+        "name": "ROGERS AV/ALBERMARLE RD",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801143",
+        "direction": "E",
+        "id": "MTA_801143",
+        "lat": 40.578107,
+        "locationType": 0,
+        "lon": -73.940647,
+        "name": "MACKENZIE LOOP (Last stop)",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901087",
+        "direction": "S",
+        "id": "MTA_901087",
+        "lat": 40.680644,
+        "locationType": 0,
+        "lon": -73.955715,
+        "name": "FRANKLIN AV/LEFFERTS PL",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901443",
+        "direction": "E",
+        "id": "MTA_901443",
+        "lat": 40.577018,
+        "locationType": 0,
+        "lon": -73.950581,
+        "name": "ORIENTAL BLVD/BEAUMONT ST (LTD - does not stop)",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903220",
+        "direction": "E",
+        "id": "MTA_903220",
+        "lat": 40.577019,
+        "locationType": 0,
+        "lon": -73.950611,
+        "name": "ORIENTAL BL/BEAUMONT ST",
+        "routeIds": [
+            "MTA NYCT_B49"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

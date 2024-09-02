@@ -1,0 +1,524 @@
+[
+    {
+        "code": "200170",
+        "direction": "SE",
+        "id": "MTA_200170",
+        "lat": 40.598594,
+        "locationType": 0,
+        "lon": -74.063665,
+        "name": "LILY POND AV/McCLEAN AV",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200178",
+        "direction": "S",
+        "id": "MTA_200178",
+        "lat": 40.637299,
+        "locationType": 0,
+        "lon": -74.076175,
+        "name": "BAY ST/VICTORY BLVD",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S74",
+            "MTA NYCT_S76",
+            "MTA NYCT_S81",
+            "MTA NYCT_S84",
+            "MTA NYCT_S86"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200184",
+        "direction": "SE",
+        "id": "MTA_200184",
+        "lat": 40.626764,
+        "locationType": 0,
+        "lon": -74.075789,
+        "name": "BAY ST/WATER ST",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S76",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200190",
+        "direction": "SE",
+        "id": "MTA_200190",
+        "lat": 40.618718,
+        "locationType": 0,
+        "lon": -74.069635,
+        "name": "BAY ST/WILLOW AV",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200194",
+        "direction": "SE",
+        "id": "MTA_200194",
+        "lat": 40.611925,
+        "locationType": 0,
+        "lon": -74.064632,
+        "name": "BAY ST/SAINT JOHNS AV",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200219",
+        "direction": "SW",
+        "id": "MTA_200219",
+        "lat": 40.586334,
+        "locationType": 0,
+        "lon": -74.070612,
+        "name": "FATHER CAPODANNO BLVD/WINFIELD ST",
+        "routeIds": [
+            "MTA NYCT_S52",
+            "MTA NYCT_S81",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM6",
+            "MTA NYCT_SIM9"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200220",
+        "direction": "SW",
+        "id": "MTA_200220",
+        "lat": 40.583476,
+        "locationType": 0,
+        "lon": -74.073534,
+        "name": "FATHER CAPODANNO BLVD/DELAWARE AV",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S52",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200223",
+        "direction": "SW",
+        "id": "MTA_200223",
+        "lat": 40.579032,
+        "locationType": 0,
+        "lon": -74.078173,
+        "name": "FATHER CAPODANNO BLVD/SEAVIEW AV",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM6",
+            "MTA NYCT_SIM9"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200224",
+        "direction": "SW",
+        "id": "MTA_200224",
+        "lat": 40.577919,
+        "locationType": 0,
+        "lon": -74.079482,
+        "name": "FATHER CAPODANNO BLVD/BUEL AV",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200225",
+        "direction": "SW",
+        "id": "MTA_200225",
+        "lat": 40.576933,
+        "locationType": 0,
+        "lon": -74.081166,
+        "name": "FATHER CAPODANNO BLVD/NAUGHTON AV",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200226",
+        "direction": "SW",
+        "id": "MTA_200226",
+        "lat": 40.576037,
+        "locationType": 0,
+        "lon": -74.082752,
+        "name": "FATHER CAPODANNO BLVD/SLATER BLVD",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200228",
+        "direction": "SW",
+        "id": "MTA_200228",
+        "lat": 40.573994,
+        "locationType": 0,
+        "lon": -74.086252,
+        "name": "FATHER CAPODANNO BLVD/JEFFERSON AV",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200233",
+        "direction": "NW",
+        "id": "MTA_200233",
+        "lat": 40.572957,
+        "locationType": 0,
+        "lon": -74.094191,
+        "name": "MIDLAND AV/FREEBORN ST",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200234",
+        "direction": "NW",
+        "id": "MTA_200234",
+        "lat": 40.574688,
+        "locationType": 0,
+        "lon": -74.097292,
+        "name": "MIDLAND AV/MORELAND ST",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM6",
+            "MTA NYCT_SIM9"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200235",
+        "direction": "NW",
+        "id": "MTA_200235",
+        "lat": 40.57548,
+        "locationType": 0,
+        "lon": -74.0986,
+        "name": "MIDLAND AV/MASON AV",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200236",
+        "direction": "NW",
+        "id": "MTA_200236",
+        "lat": 40.577166,
+        "locationType": 0,
+        "lon": -74.100967,
+        "name": "MIDLAND AV/BOUNDARY AV",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S76",
+            "MTA NYCT_S78",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200237",
+        "direction": "SW",
+        "id": "MTA_200237",
+        "lat": 40.577699,
+        "locationType": 0,
+        "lon": -74.102611,
+        "name": "HYLAN BLVD/MIDLAND AV",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S78",
+            "MTA NYCT_S79+",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200238",
+        "direction": "NW",
+        "id": "MTA_200238",
+        "lat": 40.577099,
+        "locationType": 0,
+        "lon": -74.10474,
+        "name": "LINCOLN AV/GRANT PL",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200240",
+        "direction": "NW",
+        "id": "MTA_200240",
+        "lat": 40.579527,
+        "locationType": 0,
+        "lon": -74.108863,
+        "name": "LINCOLN AV/SOUTH RAILROAD AV",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203096",
+        "direction": "SW",
+        "id": "MTA_203096",
+        "lat": 40.582375,
+        "locationType": 0,
+        "lon": -74.074577,
+        "name": "FATHER CAPODANNO BLVD/ALTER AV",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S52",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203097",
+        "direction": "SW",
+        "id": "MTA_203097",
+        "lat": 40.580155,
+        "locationType": 0,
+        "lon": -74.07694,
+        "name": "FATHER CAPODANNO BLVD/CROMWELL AV",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S52",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203173",
+        "direction": "SW",
+        "id": "MTA_203173",
+        "lat": 40.571232,
+        "locationType": 0,
+        "lon": -74.090044,
+        "name": "FATHER CAPODANNO BLVD/HEMPSTEAD AV",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203226",
+        "direction": "SW",
+        "id": "MTA_203226",
+        "lat": 40.590146,
+        "locationType": 0,
+        "lon": -74.066995,
+        "name": "FATHER CAPODANNO BLVD/SAND LN",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S52",
+            "MTA NYCT_S81",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM6",
+            "MTA NYCT_SIM9"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203413",
+        "direction": "SE",
+        "id": "MTA_203413",
+        "lat": 40.604363,
+        "locationType": 0,
+        "lon": -74.05905,
+        "name": "NEW YORK AV/DRUM AV",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203426",
+        "direction": "NW",
+        "id": "MTA_203426",
+        "lat": 40.571202,
+        "locationType": 0,
+        "lon": -74.090898,
+        "name": "MIDLAND AV/PATTERSON AV",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM6",
+            "MTA NYCT_SIM9"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203482",
+        "direction": "NW",
+        "id": "MTA_203482",
+        "lat": 40.572339,
+        "locationType": 0,
+        "lon": -74.092962,
+        "name": "MIDLAND AV/COLONY ST",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203553",
+        "direction": "NW",
+        "id": "MTA_203553",
+        "lat": 40.578782,
+        "locationType": 0,
+        "lon": -74.107439,
+        "name": "LINCOLN AV/EDISON ST",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203634",
+        "direction": "SW",
+        "id": "MTA_203634",
+        "lat": 40.574839,
+        "locationType": 0,
+        "lon": -74.084779,
+        "name": "FATHER CAPODANNO BLVD/GRAHAM BLVD",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM6",
+            "MTA NYCT_SIM9"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203637",
+        "direction": "W",
+        "id": "MTA_203637",
+        "lat": 40.643133,
+        "locationType": 0,
+        "lon": -74.074001,
+        "name": "SAINT GEORGE FERRY/RAMP B S51 & S81",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203741",
+        "direction": "SE",
+        "id": "MTA_203741",
+        "lat": 40.605669,
+        "locationType": 0,
+        "lon": -74.060008,
+        "name": "NEW YORK AV/COAST GUARD DR",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203742",
+        "direction": "W",
+        "id": "MTA_203742",
+        "lat": 40.601008,
+        "locationType": 0,
+        "lon": -74.057728,
+        "name": "BATTERY RD/AIR FORCE RESERVE",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203743",
+        "direction": "W",
+        "id": "MTA_203743",
+        "lat": 40.600388,
+        "locationType": 0,
+        "lon": -74.059641,
+        "name": "BATTERY RD/TENNESSEE RD",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203744",
+        "direction": "SE",
+        "id": "MTA_203744",
+        "lat": 40.602646,
+        "locationType": 0,
+        "lon": -74.057846,
+        "name": "NEW YORK AV/MARSHALL RD",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203965",
+        "direction": "SW",
+        "id": "MTA_203965",
+        "lat": 40.588357,
+        "locationType": 0,
+        "lon": -74.068825,
+        "name": "FATHER CAPODANNO BLVD/WENTWORTH AV",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S52",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "905103",
+        "direction": "NW",
+        "id": "MTA_905103",
+        "lat": 40.580952,
+        "locationType": 0,
+        "lon": -74.111446,
+        "name": "LINCOLN AV/RICHMOND RD",
+        "routeIds": [
+            "MTA NYCT_S51",
+            "MTA NYCT_S81"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

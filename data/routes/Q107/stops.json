@@ -1,0 +1,225 @@
+[
+    {
+        "code": "503298",
+        "direction": "E",
+        "id": "MTA_503298",
+        "lat": 40.743433,
+        "locationType": 0,
+        "lon": -73.92314,
+        "name": "QUEENS BLVD/41 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q60",
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503299",
+        "direction": "E",
+        "id": "MTA_503299",
+        "lat": 40.743113,
+        "locationType": 0,
+        "lon": -73.920029,
+        "name": "QUEENS BLVD/45 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q60",
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503306",
+        "direction": "E",
+        "id": "MTA_503306",
+        "lat": 40.745576,
+        "locationType": 0,
+        "lon": -73.903286,
+        "name": "ROOSEVELT AV/61 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503309",
+        "direction": "E",
+        "id": "MTA_503309",
+        "lat": 40.746289,
+        "locationType": 0,
+        "lon": -73.89647,
+        "name": "ROOSEVELT AV/69 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503321",
+        "direction": "W",
+        "id": "MTA_503321",
+        "lat": 40.746333,
+        "locationType": 0,
+        "lon": -73.896771,
+        "name": "ROOSEVELT AV/69 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503324",
+        "direction": "W",
+        "id": "MTA_503324",
+        "lat": 40.745631,
+        "locationType": 0,
+        "lon": -73.903362,
+        "name": "ROOSEVELT AV/61 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503330",
+        "direction": "W",
+        "id": "MTA_503330",
+        "lat": 40.743336,
+        "locationType": 0,
+        "lon": -73.918117,
+        "name": "QUEENS BLVD/46 ST",
+        "routeIds": [
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503333",
+        "direction": "W",
+        "id": "MTA_503333",
+        "lat": 40.743963,
+        "locationType": 0,
+        "lon": -73.923515,
+        "name": "QUEENS BLVD/41 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q60",
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503336",
+        "direction": "W",
+        "id": "MTA_503336",
+        "lat": 40.744626,
+        "locationType": 0,
+        "lon": -73.929584,
+        "name": "QUEENS BLVD/35 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q60",
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505192",
+        "direction": "E",
+        "id": "MTA_505192",
+        "lat": 40.746894,
+        "locationType": 0,
+        "lon": -73.890609,
+        "name": "ROOSEVELT AV/75 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q47",
+            "MTABC_Q70+",
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551614",
+        "direction": "SE",
+        "id": "MTA_551614",
+        "lat": 40.749854,
+        "locationType": 0,
+        "lon": -73.939193,
+        "name": "QUEENS PLAZA SOUTH/28 ST",
+        "routeIds": [
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804212",
+        "direction": "E",
+        "id": "MTA_804212",
+        "lat": 40.744478,
+        "locationType": 0,
+        "lon": -73.931893,
+        "name": "QUEENS BLVD/33 ST",
+        "routeIds": [
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804213",
+        "direction": "E",
+        "id": "MTA_804213",
+        "lat": 40.744149,
+        "locationType": 0,
+        "lon": -73.912387,
+        "name": "ROOSEVELT AV/52 ST",
+        "routeIds": [
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804214",
+        "direction": "E",
+        "id": "MTA_804214",
+        "lat": 40.74678,
+        "locationType": 0,
+        "lon": -73.891819,
+        "name": "ROOSEVELT AV/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804215",
+        "direction": "W",
+        "id": "MTA_804215",
+        "lat": 40.744214,
+        "locationType": 0,
+        "lon": -73.912407,
+        "name": "ROOSEVELT AV/52 ST",
+        "routeIds": [
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804216",
+        "direction": "W",
+        "id": "MTA_804216",
+        "lat": 40.748819,
+        "locationType": 0,
+        "lon": -73.937879,
+        "name": "JACKSON AV/QUEENS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

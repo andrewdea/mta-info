@@ -1,0 +1,74 @@
+[
+    {
+        "code": "403259",
+        "direction": "NW",
+        "id": "MTA_403259",
+        "lat": 40.756311,
+        "locationType": 0,
+        "lon": -73.98737,
+        "name": "W 42 ST/7 AV",
+        "routeIds": [
+            "MTA NYCT_M42",
+            "MTA NYCT_Q92",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM8X",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM25",
+            "MTA NYCT_SIM26",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903292",
+        "direction": "SE",
+        "id": "MTA_903292",
+        "lat": 40.755158,
+        "locationType": 0,
+        "lon": -74.000668,
+        "name": "W 34 ST/HUDSON BLVD EAST",
+        "routeIds": [
+            "MTA NYCT_Q92"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903293",
+        "direction": "SE",
+        "id": "MTA_903293",
+        "lat": 40.755143,
+        "locationType": 0,
+        "lon": -74.000609,
+        "name": "W 34 ST/HUDSON BLVD EAST",
+        "routeIds": [
+            "MTA NYCT_Q92"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903294",
+        "direction": "SE",
+        "id": "MTA_903294",
+        "lat": 40.758403,
+        "locationType": 0,
+        "lon": -73.988634,
+        "name": "W 44 ST/8 AV",
+        "routeIds": [
+            "MTA NYCT_Q92"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903295",
+        "direction": "NW",
+        "id": "MTA_903295",
+        "lat": 40.756191,
+        "locationType": 0,
+        "lon": -73.98719,
+        "name": "W 42 ST/7 AV",
+        "routeIds": [
+            "MTA NYCT_Q92"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

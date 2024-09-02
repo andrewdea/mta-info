@@ -1,0 +1,587 @@
+[
+    {
+        "code": "401165",
+        "direction": "E",
+        "id": "MTA_401165",
+        "lat": 40.711588,
+        "locationType": 0,
+        "lon": -74.007089,
+        "name": "PARK ROW/BEEKMAN ST",
+        "routeIds": [
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM11",
+            "MTABC_QM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401800",
+        "direction": "SW",
+        "id": "MTA_401800",
+        "lat": 40.706027,
+        "locationType": 0,
+        "lon": -74.006285,
+        "name": "WATER ST/MAIDEN LN",
+        "routeIds": [
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM15",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402085",
+        "direction": "SE",
+        "id": "MTA_402085",
+        "lat": 40.709555,
+        "locationType": 0,
+        "lon": -74.001873,
+        "name": "FRANKFORT ST/PEARL ST",
+        "routeIds": [
+            "MTA NYCT_M22",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM11",
+            "MTABC_QM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403293",
+        "direction": "SW",
+        "id": "MTA_403293",
+        "lat": 40.708771,
+        "locationType": 0,
+        "lon": -74.002757,
+        "name": "PEARL ST / PECK SLIP",
+        "routeIds": [
+            "MTABC_BM1",
+            "MTABC_BM2",
+            "MTABC_BM3",
+            "MTABC_BM4",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM11",
+            "MTABC_QM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405060",
+        "direction": "NE",
+        "id": "MTA_405060",
+        "lat": 40.711917,
+        "locationType": 0,
+        "lon": -74.010139,
+        "name": "CHURCH ST/VESEY ST",
+        "routeIds": [
+            "MTABC_BXM18",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM11",
+            "MTABC_QM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405337",
+        "direction": "SW",
+        "id": "MTA_405337",
+        "lat": 40.704661,
+        "locationType": 0,
+        "lon": -74.008294,
+        "name": "WATER ST/GOUVERNEUR LN",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM11",
+            "MTABC_QM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405399",
+        "direction": "W",
+        "id": "MTA_405399",
+        "lat": 40.703104,
+        "locationType": 0,
+        "lon": -74.011308,
+        "name": "WATER ST/BROAD ST",
+        "routeIds": [
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM11",
+            "MTABC_QM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450203",
+        "direction": "N",
+        "id": "MTA_450203",
+        "lat": 40.704386,
+        "locationType": 0,
+        "lon": -74.014174,
+        "name": "STATE ST/BATTERY PL",
+        "routeIds": [
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM11",
+            "MTABC_QM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450378",
+        "direction": "NE",
+        "id": "MTA_450378",
+        "lat": 40.708267,
+        "locationType": 0,
+        "lon": -74.012551,
+        "name": "TRINITY PL/THAMES ST",
+        "routeIds": [
+            "MTABC_BXM18",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM11",
+            "MTABC_QM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501336",
+        "direction": "SE",
+        "id": "MTA_501336",
+        "lat": 40.731552,
+        "locationType": 0,
+        "lon": -73.782176,
+        "name": "188 ST/75 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501337",
+        "direction": "NW",
+        "id": "MTA_501337",
+        "lat": 40.733027,
+        "locationType": 0,
+        "lon": -73.782878,
+        "name": "188 ST/73 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501338",
+        "direction": "NW",
+        "id": "MTA_501338",
+        "lat": 40.735606,
+        "locationType": 0,
+        "lon": -73.783923,
+        "name": "188 ST/69 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501339",
+        "direction": "N",
+        "id": "MTA_501339",
+        "lat": 40.739023,
+        "locationType": 0,
+        "lon": -73.785464,
+        "name": "188 ST/64 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88",
+            "MTABC_QM1",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501398",
+        "direction": "SE",
+        "id": "MTA_501398",
+        "lat": 40.738736,
+        "locationType": 0,
+        "lon": -73.785956,
+        "name": "188 ST/64 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501399",
+        "direction": "SE",
+        "id": "MTA_501399",
+        "lat": 40.73622,
+        "locationType": 0,
+        "lon": -73.78465,
+        "name": "188 ST/186 LN",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q88",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM7",
+            "MTABC_QM31",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501401",
+        "direction": "SE",
+        "id": "MTA_501401",
+        "lat": 40.732777,
+        "locationType": 0,
+        "lon": -73.782965,
+        "name": "188 ST/73 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501402",
+        "direction": "",
+        "id": "MTA_501402",
+        "lat": 40.730934,
+        "locationType": 0,
+        "lon": -73.782087,
+        "name": "188 ST/75 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502304",
+        "direction": "E",
+        "id": "MTA_502304",
+        "lat": 40.719071,
+        "locationType": 0,
+        "lon": -73.81169,
+        "name": "UNION TPKE/150 ST",
+        "routeIds": [
+            "MTA NYCT_Q46",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502307",
+        "direction": "E",
+        "id": "MTA_502307",
+        "lat": 40.721277,
+        "locationType": 0,
+        "lon": -73.804731,
+        "name": "UNION TPKE/164 ST",
+        "routeIds": [
+            "MTA NYCT_Q46",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502309",
+        "direction": "E",
+        "id": "MTA_502309",
+        "lat": 40.722965,
+        "locationType": 0,
+        "lon": -73.799791,
+        "name": "UNION TPKE/168 ST",
+        "routeIds": [
+            "MTA NYCT_Q46",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502406",
+        "direction": "W",
+        "id": "MTA_502406",
+        "lat": 40.722906,
+        "locationType": 0,
+        "lon": -73.80061,
+        "name": "UNION TPKE/168 ST",
+        "routeIds": [
+            "MTA NYCT_Q46",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502408",
+        "direction": "W",
+        "id": "MTA_502408",
+        "lat": 40.721642,
+        "locationType": 0,
+        "lon": -73.804323,
+        "name": "UNION TPKE/164 ST",
+        "routeIds": [
+            "MTA NYCT_Q46",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503037",
+        "direction": "W",
+        "id": "MTA_503037",
+        "lat": 40.719465,
+        "locationType": 0,
+        "lon": -73.811043,
+        "name": "UNION TPKE/153 ST",
+        "routeIds": [
+            "MTA NYCT_Q46",
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552507",
+        "direction": "E",
+        "id": "MTA_552507",
+        "lat": 40.717653,
+        "locationType": 0,
+        "lon": -73.81679,
+        "name": "UNION TPKE/MAIN ST",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552508",
+        "direction": "W",
+        "id": "MTA_552508",
+        "lat": 40.717576,
+        "locationType": 0,
+        "lon": -73.818372,
+        "name": "UNION TPKE/MAIN ST",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552510",
+        "direction": "E",
+        "id": "MTA_552510",
+        "lat": 40.719789,
+        "locationType": 0,
+        "lon": -73.809114,
+        "name": "UNION TPKE/PARSONS BLVD",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552511",
+        "direction": "W",
+        "id": "MTA_552511",
+        "lat": 40.720102,
+        "locationType": 0,
+        "lon": -73.808985,
+        "name": "UNION TPKE/PARSONS BLVD",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552519",
+        "direction": "E",
+        "id": "MTA_552519",
+        "lat": 40.725759,
+        "locationType": 0,
+        "lon": -73.791415,
+        "name": "UNION TPKE/UTOPIA PKWY",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552520",
+        "direction": "W",
+        "id": "MTA_552520",
+        "lat": 40.725883,
+        "locationType": 0,
+        "lon": -73.792082,
+        "name": "UNION TPKE/UTOPIA PKWY",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552521",
+        "direction": "E",
+        "id": "MTA_552521",
+        "lat": 40.728395,
+        "locationType": 0,
+        "lon": -73.783325,
+        "name": "UNION TPKE/CHEVY CHASE ST",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM31",
+            "MTABC_QM35",
+            "MTABC_QM36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982214",
+        "direction": "W",
+        "id": "MTA_982214",
+        "lat": 40.729083,
+        "locationType": 0,
+        "lon": -73.782014,
+        "name": "UNION TPKE/187 ST",
+        "routeIds": [
+            "MTABC_QM7",
+            "MTABC_QM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

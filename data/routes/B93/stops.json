@@ -1,0 +1,169 @@
+[
+    {
+        "code": "301934",
+        "direction": "W",
+        "id": "MTA_301934",
+        "lat": 40.689826,
+        "locationType": 0,
+        "lon": -73.976966,
+        "name": "DE KALB AV/FORT GREENE PL",
+        "routeIds": [
+            "MTA NYCT_B38",
+            "MTA NYCT_B93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303022",
+        "direction": "E",
+        "id": "MTA_303022",
+        "lat": 40.688199,
+        "locationType": 0,
+        "lon": -73.965384,
+        "name": "LAFAYETTE AV/WASHINGTON AV",
+        "routeIds": [
+            "MTA NYCT_B38",
+            "MTA NYCT_B93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303024",
+        "direction": "E",
+        "id": "MTA_303024",
+        "lat": 40.688864,
+        "locationType": 0,
+        "lon": -73.959597,
+        "name": "LAFAYETTE AV/CLASSON AV",
+        "routeIds": [
+            "MTA NYCT_B38",
+            "MTA NYCT_B93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303026",
+        "direction": "E",
+        "id": "MTA_303026",
+        "lat": 40.689433,
+        "locationType": 0,
+        "lon": -73.954685,
+        "name": "LAFAYETTE AV/BEDFORD AV",
+        "routeIds": [
+            "MTA NYCT_B38",
+            "MTA NYCT_B93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303027",
+        "direction": "E",
+        "id": "MTA_303027",
+        "lat": 40.689857,
+        "locationType": 0,
+        "lon": -73.950967,
+        "name": "LAFAYETTE AV/NOSTRAND AV",
+        "routeIds": [
+            "MTA NYCT_B38",
+            "MTA NYCT_B93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303092",
+        "direction": "W",
+        "id": "MTA_303092",
+        "lat": 40.69036,
+        "locationType": 0,
+        "lon": -73.960713,
+        "name": "DE KALB AV/CLASSON AV",
+        "routeIds": [
+            "MTA NYCT_B38",
+            "MTA NYCT_B93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303094",
+        "direction": "W",
+        "id": "MTA_303094",
+        "lat": 40.689678,
+        "locationType": 0,
+        "lon": -73.966584,
+        "name": "DE KALB AV/WASHINGTON AV",
+        "routeIds": [
+            "MTA NYCT_B38",
+            "MTA NYCT_B93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303258",
+        "direction": "NW",
+        "id": "MTA_303258",
+        "lat": 40.689844,
+        "locationType": 0,
+        "lon": -73.986081,
+        "name": "LIVINGSTON ST/HOYT ST",
+        "routeIds": [
+            "MTA NYCT_B93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306901",
+        "direction": "E",
+        "id": "MTA_306901",
+        "lat": 40.689463,
+        "locationType": 0,
+        "lon": -73.985515,
+        "name": "LIVINGSTON ST/HOYT ST",
+        "routeIds": [
+            "MTA NYCT_B41",
+            "MTA NYCT_B45",
+            "MTA NYCT_B67",
+            "MTA NYCT_B93",
+            "MTABC_B103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901117",
+        "direction": "S",
+        "id": "MTA_901117",
+        "lat": 40.692265,
+        "locationType": 0,
+        "lon": -73.987377,
+        "name": "JAY ST/WILLOUGHBY  ST",
+        "routeIds": [
+            "MTA NYCT_B93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901758",
+        "direction": "E",
+        "id": "MTA_901758",
+        "lat": 40.687162,
+        "locationType": 0,
+        "lon": -73.974443,
+        "name": "LAFAYETTE AV/SOUTH PORTLAND AV",
+        "routeIds": [
+            "MTA NYCT_B93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901759",
+        "direction": "N",
+        "id": "MTA_901759",
+        "lat": 40.692364,
+        "locationType": 0,
+        "lon": -73.98883,
+        "name": "ADAMS ST/WILLOUGHBY ST",
+        "routeIds": [
+            "MTA NYCT_B93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

@@ -1,0 +1,416 @@
+[
+    {
+        "code": "401840",
+        "direction": "NW",
+        "id": "MTA_401840",
+        "lat": 40.745998,
+        "locationType": 0,
+        "lon": -73.978634,
+        "name": "E 34 ST/3 AV",
+        "routeIds": [
+            "MTABC_BM5",
+            "MTA NYCT_M34A+",
+            "MTA NYCT_M34+",
+            "MTABC_QM1",
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM20",
+            "MTABC_QM24",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401844",
+        "direction": "NW",
+        "id": "MTA_401844",
+        "lat": 40.748672,
+        "locationType": 0,
+        "lon": -73.98491,
+        "name": "W 34 ST/5 AV",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM15",
+            "MTABC_QM16",
+            "MTABC_QM17",
+            "MTABC_QM18",
+            "MTABC_QM20",
+            "MTABC_QM24",
+            "MTA NYCT_SIM23",
+            "MTA NYCT_SIM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450013",
+        "direction": "NE",
+        "id": "MTA_450013",
+        "lat": 40.751742,
+        "locationType": 0,
+        "lon": -73.98619,
+        "name": "6 AV/W 37 ST",
+        "routeIds": [
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450016",
+        "direction": "NE",
+        "id": "MTA_450016",
+        "lat": 40.755621,
+        "locationType": 0,
+        "lon": -73.983396,
+        "name": "6 AV/W 43 ST",
+        "routeIds": [
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450022",
+        "direction": "NE",
+        "id": "MTA_450022",
+        "lat": 40.760426,
+        "locationType": 0,
+        "lon": -73.979877,
+        "name": "6 AV/W 51 ST",
+        "routeIds": [
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450031",
+        "direction": "SE",
+        "id": "MTA_450031",
+        "lat": 40.762636,
+        "locationType": 0,
+        "lon": -73.973311,
+        "name": "E 57 ST/5 AV",
+        "routeIds": [
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450066",
+        "direction": "NE",
+        "id": "MTA_450066",
+        "lat": 40.750341,
+        "locationType": 0,
+        "lon": -73.987222,
+        "name": "6 AV/W 35 ST",
+        "routeIds": [
+            "MTABC_BXM2",
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450376",
+        "direction": "NE",
+        "id": "MTA_450376",
+        "lat": 40.76371,
+        "locationType": 0,
+        "lon": -73.977473,
+        "name": "6 AV/W 56 ST",
+        "routeIds": [
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450552",
+        "direction": "NW",
+        "id": "MTA_450552",
+        "lat": 40.747533,
+        "locationType": 0,
+        "lon": -73.982055,
+        "name": "E 34 ST/PARK AV",
+        "routeIds": [
+            "MTABC_BM5",
+            "MTABC_QM1",
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM20",
+            "MTABC_QM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502984",
+        "direction": "W",
+        "id": "MTA_502984",
+        "lat": 40.737303,
+        "locationType": 0,
+        "lon": -73.854059,
+        "name": "HORACE HARDING EXPWY/WESTSIDE AV",
+        "routeIds": [
+            "MTA NYCT_Q88",
+            "MTABC_QM10",
+            "MTABC_QM11",
+            "MTABC_QM40"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550470",
+        "direction": "SW",
+        "id": "MTA_550470",
+        "lat": 40.732651,
+        "locationType": 0,
+        "lon": -73.871091,
+        "name": "WOODHAVEN BLVD/HOFFMAN DR",
+        "routeIds": [
+            "MTABC_QM10",
+            "MTABC_QM11",
+            "MTABC_QM12",
+            "MTABC_QM40",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550909",
+        "direction": "NW",
+        "id": "MTA_550909",
+        "lat": 40.736161,
+        "locationType": 0,
+        "lon": -73.851164,
+        "name": "108 ST / 62 DR",
+        "routeIds": [
+            "MTABC_Q23",
+            "MTABC_QM10",
+            "MTABC_QM11",
+            "MTABC_QM40"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551311",
+        "direction": "W",
+        "id": "MTA_551311",
+        "lat": 40.736668,
+        "locationType": 0,
+        "lon": -73.866052,
+        "name": "57 AV/JUNCTION BLVD",
+        "routeIds": [
+            "MTABC_Q38",
+            "MTABC_QM10",
+            "MTABC_QM11",
+            "MTABC_QM40"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551319",
+        "direction": "NW",
+        "id": "MTA_551319",
+        "lat": 40.736544,
+        "locationType": 0,
+        "lon": -73.859004,
+        "name": "99 ST/60 AV",
+        "routeIds": [
+            "MTABC_Q38",
+            "MTABC_QM10",
+            "MTABC_QM11",
+            "MTABC_QM40"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551325",
+        "direction": "W",
+        "id": "MTA_551325",
+        "lat": 40.737193,
+        "locationType": 0,
+        "lon": -73.864219,
+        "name": "57 AV/97 ST",
+        "routeIds": [
+            "MTABC_Q38",
+            "MTABC_QM10",
+            "MTABC_QM11",
+            "MTABC_QM40"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551352",
+        "direction": "E",
+        "id": "MTA_551352",
+        "lat": 40.732789,
+        "locationType": 0,
+        "lon": -73.854833,
+        "name": "63 RD/102 ST",
+        "routeIds": [
+            "MTABC_Q38",
+            "MTABC_QM10",
+            "MTABC_QM11",
+            "MTABC_QM40"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551991",
+        "direction": "SE",
+        "id": "MTA_551991",
+        "lat": 40.736514,
+        "locationType": 0,
+        "lon": -73.865856,
+        "name": "JUNCTION BLVD/57 AV",
+        "routeIds": [
+            "MTABC_Q72",
+            "MTABC_QM10",
+            "MTABC_QM11",
+            "MTABC_QM40"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552672",
+        "direction": "W",
+        "id": "MTA_552672",
+        "lat": 40.738386,
+        "locationType": 0,
+        "lon": -73.860313,
+        "name": "57 AV/99 ST",
+        "routeIds": [
+            "MTABC_QM10",
+            "MTABC_QM11",
+            "MTABC_QM40"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552966",
+        "direction": "NE",
+        "id": "MTA_552966",
+        "lat": 40.730374,
+        "locationType": 0,
+        "lon": -73.861951,
+        "name": "63 RD/QUEENS BLVD",
+        "routeIds": [
+            "MTABC_Q38",
+            "MTABC_QM10",
+            "MTABC_QM11",
+            "MTABC_QM40"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552994",
+        "direction": "W",
+        "id": "MTA_552994",
+        "lat": 40.735541,
+        "locationType": 0,
+        "lon": -73.869884,
+        "name": "57 AV/92 ST",
+        "routeIds": [
+            "MTABC_Q29",
+            "MTABC_Q38",
+            "MTABC_QM10",
+            "MTABC_QM11",
+            "MTABC_QM40"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553178",
+        "direction": "NE",
+        "id": "MTA_553178",
+        "lat": 40.731613,
+        "locationType": 0,
+        "lon": -73.871195,
+        "name": "WOODHAVEN BLVD/BOOTH ST",
+        "routeIds": [
+            "MTABC_QM10",
+            "MTABC_QM11",
+            "MTABC_QM12",
+            "MTABC_QM40",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553210",
+        "direction": "NW",
+        "id": "MTA_553210",
+        "lat": 40.734473,
+        "locationType": 0,
+        "lon": -73.850264,
+        "name": "108 ST/63 RD",
+        "routeIds": [
+            "MTABC_QM10",
+            "MTABC_QM11",
+            "MTABC_QM40"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "981010",
+        "direction": "SE",
+        "id": "MTA_981010",
+        "lat": 40.76053,
+        "locationType": 0,
+        "lon": -73.968299,
+        "name": "E 57 ST/LEXINGTON AV",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM20",
+            "MTABC_QM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982223",
+        "direction": "E",
+        "id": "MTA_982223",
+        "lat": 40.7323,
+        "locationType": 0,
+        "lon": -73.858097,
+        "name": "63 RD/98 PL",
+        "routeIds": [
+            "MTABC_Q38",
+            "MTABC_QM10",
+            "MTABC_QM11",
+            "MTABC_QM40"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

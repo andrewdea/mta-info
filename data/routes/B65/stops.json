@@ -1,0 +1,883 @@
+[
+    {
+        "code": "301067",
+        "direction": "N",
+        "id": "MTA_301067",
+        "lat": 40.670684,
+        "locationType": 0,
+        "lon": -73.925307,
+        "name": "BUFFALO AV/SAINT JOHNS PL",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_B45",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301069",
+        "direction": "N",
+        "id": "MTA_301069",
+        "lat": 40.674151,
+        "locationType": 0,
+        "lon": -73.924975,
+        "name": "BUFFALO AV/SAINT MARKS AV",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301070",
+        "direction": "W",
+        "id": "MTA_301070",
+        "lat": 40.67481,
+        "locationType": 0,
+        "lon": -73.925429,
+        "name": "BERGEN ST/BUFFALO AV",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301071",
+        "direction": "W",
+        "id": "MTA_301071",
+        "lat": 40.674932,
+        "locationType": 0,
+        "lon": -73.927631,
+        "name": "BERGEN ST/ROCHESTER AV",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301072",
+        "direction": "W",
+        "id": "MTA_301072",
+        "lat": 40.675082,
+        "locationType": 0,
+        "lon": -73.930386,
+        "name": "BERGEN ST/UTICA AV",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301073",
+        "direction": "W",
+        "id": "MTA_301073",
+        "lat": 40.675229,
+        "locationType": 0,
+        "lon": -73.933089,
+        "name": "BERGEN ST/SCHENECTADY AV",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301074",
+        "direction": "W",
+        "id": "MTA_301074",
+        "lat": 40.675382,
+        "locationType": 0,
+        "lon": -73.935937,
+        "name": "BERGEN ST/TROY AV",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301110",
+        "direction": "E",
+        "id": "MTA_301110",
+        "lat": 40.676193,
+        "locationType": 0,
+        "lon": -73.93833,
+        "name": "DEAN ST/ALBANY AV",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301115",
+        "direction": "S",
+        "id": "MTA_301115",
+        "lat": 40.674586,
+        "locationType": 0,
+        "lon": -73.927855,
+        "name": "ROCHESTER AV/BERGEN ST",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301116",
+        "direction": "E",
+        "id": "MTA_301116",
+        "lat": 40.673914,
+        "locationType": 0,
+        "lon": -73.927351,
+        "name": "SAINT MARKS AV/ROCHESTER AV",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303198",
+        "direction": "S",
+        "id": "MTA_303198",
+        "lat": 40.671111,
+        "locationType": 0,
+        "lon": -73.922445,
+        "name": "RALPH AV/STERLING PL",
+        "routeIds": [
+            "MTA NYCT_B45",
+            "MTA NYCT_B47",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303552",
+        "direction": "E",
+        "id": "MTA_303552",
+        "lat": 40.67377,
+        "locationType": 0,
+        "lon": -73.924316,
+        "name": "SAINT MARKS AV/BUFFALO AV",
+        "routeIds": [
+            "MTA NYCT_B45",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303556",
+        "direction": "S",
+        "id": "MTA_303556",
+        "lat": 40.670198,
+        "locationType": 0,
+        "lon": -73.922535,
+        "name": "RALPH AV/SAINT JOHNS PL",
+        "routeIds": [
+            "MTA NYCT_B45",
+            "MTA NYCT_B47",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303966",
+        "direction": "E",
+        "id": "MTA_303966",
+        "lat": 40.677433,
+        "locationType": 0,
+        "lon": -73.955064,
+        "name": "DEAN ST/FRANKLIN AV",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303967",
+        "direction": "E",
+        "id": "MTA_303967",
+        "lat": 40.676985,
+        "locationType": 0,
+        "lon": -73.952934,
+        "name": "DEAN ST/BEDFORD AV",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305407",
+        "direction": "E",
+        "id": "MTA_305407",
+        "lat": 40.688371,
+        "locationType": 0,
+        "lon": -73.988811,
+        "name": "ATLANTIC AV/SMITH ST",
+        "routeIds": [
+            "MTA NYCT_B63",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305408",
+        "direction": "E",
+        "id": "MTA_305408",
+        "lat": 40.687563,
+        "locationType": 0,
+        "lon": -73.986727,
+        "name": "ATLANTIC AV/HOYT ST",
+        "routeIds": [
+            "MTA NYCT_B63",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305409",
+        "direction": "E",
+        "id": "MTA_305409",
+        "lat": 40.686734,
+        "locationType": 0,
+        "lon": -73.984586,
+        "name": "ATLANTIC AV/BOND ST",
+        "routeIds": [
+            "MTA NYCT_B63",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305410",
+        "direction": "E",
+        "id": "MTA_305410",
+        "lat": 40.68592,
+        "locationType": 0,
+        "lon": -73.982507,
+        "name": "ATLANTIC AV/NEVINS ST",
+        "routeIds": [
+            "MTA NYCT_B63",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305411",
+        "direction": "E",
+        "id": "MTA_305411",
+        "lat": 40.685314,
+        "locationType": 0,
+        "lon": -73.980912,
+        "name": "ATLANTIC AV/3 AV",
+        "routeIds": [
+            "MTA NYCT_B63",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305561",
+        "direction": "E",
+        "id": "MTA_305561",
+        "lat": 40.682133,
+        "locationType": 0,
+        "lon": -73.976759,
+        "name": "DEAN ST/5 AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305582",
+        "direction": "E",
+        "id": "MTA_305582",
+        "lat": 40.673638,
+        "locationType": 0,
+        "lon": -73.922269,
+        "name": "SAINT MARKS AV/RALPH AV",
+        "routeIds": [
+            "MTA NYCT_B45",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305597",
+        "direction": "W",
+        "id": "MTA_305597",
+        "lat": 40.676019,
+        "locationType": 0,
+        "lon": -73.947596,
+        "name": "BERGEN ST/NEW YORK AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305598",
+        "direction": "W",
+        "id": "MTA_305598",
+        "lat": 40.676171,
+        "locationType": 0,
+        "lon": -73.950325,
+        "name": "BERGEN ST/NOSTRAND AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305600",
+        "direction": "W",
+        "id": "MTA_305600",
+        "lat": 40.676939,
+        "locationType": 0,
+        "lon": -73.956139,
+        "name": "BERGEN ST/FRANKLIN AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305606",
+        "direction": "W",
+        "id": "MTA_305606",
+        "lat": 40.680208,
+        "locationType": 0,
+        "lon": -73.971748,
+        "name": "BERGEN ST/CARLTON AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305607",
+        "direction": "W",
+        "id": "MTA_305607",
+        "lat": 40.680894,
+        "locationType": 0,
+        "lon": -73.974964,
+        "name": "BERGEN ST/FLATBUSH AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305608",
+        "direction": "W",
+        "id": "MTA_305608",
+        "lat": 40.681477,
+        "locationType": 0,
+        "lon": -73.976882,
+        "name": "BERGEN ST/5 AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305610",
+        "direction": "W",
+        "id": "MTA_305610",
+        "lat": 40.683404,
+        "locationType": 0,
+        "lon": -73.981824,
+        "name": "BERGEN ST/3 AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305611",
+        "direction": "W",
+        "id": "MTA_305611",
+        "lat": 40.684193,
+        "locationType": 0,
+        "lon": -73.983843,
+        "name": "BERGEN ST/NEVINS ST",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305612",
+        "direction": "W",
+        "id": "MTA_305612",
+        "lat": 40.685208,
+        "locationType": 0,
+        "lon": -73.986457,
+        "name": "BERGEN ST/BOND ST",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305613",
+        "direction": "W",
+        "id": "MTA_305613",
+        "lat": 40.686049,
+        "locationType": 0,
+        "lon": -73.988606,
+        "name": "BERGEN ST/HOYT ST",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306034",
+        "direction": "NE",
+        "id": "MTA_306034",
+        "lat": 40.686974,
+        "locationType": 0,
+        "lon": -73.990228,
+        "name": "SMITH ST/BERGEN ST",
+        "routeIds": [
+            "MTA NYCT_B57",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306328",
+        "direction": "NE",
+        "id": "MTA_306328",
+        "lat": 40.691215,
+        "locationType": 0,
+        "lon": -73.987395,
+        "name": "SMITH ST/FULTON ST",
+        "routeIds": [
+            "MTA NYCT_B61",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306343",
+        "direction": "N",
+        "id": "MTA_306343",
+        "lat": 40.673264,
+        "locationType": 0,
+        "lon": -73.925056,
+        "name": "BUFFALO AV/PROSPECT PL",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_B45",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306495",
+        "direction": "W",
+        "id": "MTA_306495",
+        "lat": 40.676384,
+        "locationType": 0,
+        "lon": -73.953475,
+        "name": "BERGEN ST/BEDFORD AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307010",
+        "direction": "NE",
+        "id": "MTA_307010",
+        "lat": 40.68878,
+        "locationType": 0,
+        "lon": -73.98898,
+        "name": "SMITH ST/ATLANTIC AV",
+        "routeIds": [
+            "MTA NYCT_B57",
+            "MTA NYCT_B61",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307408",
+        "direction": "S",
+        "id": "MTA_307408",
+        "lat": 40.692022,
+        "locationType": 0,
+        "lon": -73.989228,
+        "name": "BOERUM PL/JORALEMON ST",
+        "routeIds": [
+            "MTA NYCT_B61",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307595",
+        "direction": "E",
+        "id": "MTA_307595",
+        "lat": 40.683863,
+        "locationType": 0,
+        "lon": -73.981211,
+        "name": "DEAN ST/3 AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307811",
+        "direction": "E",
+        "id": "MTA_307811",
+        "lat": 40.676076,
+        "locationType": 0,
+        "lon": -73.936146,
+        "name": "DEAN ST/TROY AV",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307812",
+        "direction": "E",
+        "id": "MTA_307812",
+        "lat": 40.675896,
+        "locationType": 0,
+        "lon": -73.932818,
+        "name": "DEAN ST/SCHENECTADY AV",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307813",
+        "direction": "E",
+        "id": "MTA_307813",
+        "lat": 40.67574,
+        "locationType": 0,
+        "lon": -73.930039,
+        "name": "DEAN ST/UTICA AV",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307814",
+        "direction": "E",
+        "id": "MTA_307814",
+        "lat": 40.675621,
+        "locationType": 0,
+        "lon": -73.92789,
+        "name": "DEAN ST/ROCHESTER AV",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307815",
+        "direction": "E",
+        "id": "MTA_307815",
+        "lat": 40.681669,
+        "locationType": 0,
+        "lon": -73.975281,
+        "name": "DEAN ST/FLATBUSH AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307816",
+        "direction": "E",
+        "id": "MTA_307816",
+        "lat": 40.680718,
+        "locationType": 0,
+        "lon": -73.970739,
+        "name": "DEAN ST/CARLTON AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307817",
+        "direction": "E",
+        "id": "MTA_307817",
+        "lat": 40.680042,
+        "locationType": 0,
+        "lon": -73.967519,
+        "name": "DEAN ST/VANDERBILT AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307819",
+        "direction": "E",
+        "id": "MTA_307819",
+        "lat": 40.678142,
+        "locationType": 0,
+        "lon": -73.958453,
+        "name": "DEAN ST/CLASSON AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307820",
+        "direction": "E",
+        "id": "MTA_307820",
+        "lat": 40.676827,
+        "locationType": 0,
+        "lon": -73.949985,
+        "name": "DEAN ST/NOSTRAND AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307821",
+        "direction": "E",
+        "id": "MTA_307821",
+        "lat": 40.67665,
+        "locationType": 0,
+        "lon": -73.946697,
+        "name": "DEAN ST/NEW YORK AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307822",
+        "direction": "E",
+        "id": "MTA_307822",
+        "lat": 40.676495,
+        "locationType": 0,
+        "lon": -73.943914,
+        "name": "DEAN ST/BROOKLYN AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307823",
+        "direction": "E",
+        "id": "MTA_307823",
+        "lat": 40.676348,
+        "locationType": 0,
+        "lon": -73.941156,
+        "name": "DEAN ST/KINGSTON AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307824",
+        "direction": "W",
+        "id": "MTA_307824",
+        "lat": 40.675534,
+        "locationType": 0,
+        "lon": -73.939214,
+        "name": "BERGEN ST/ALBANY AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307825",
+        "direction": "W",
+        "id": "MTA_307825",
+        "lat": 40.675714,
+        "locationType": 0,
+        "lon": -73.94204,
+        "name": "BERGEN ST/KINGSTON AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307826",
+        "direction": "W",
+        "id": "MTA_307826",
+        "lat": 40.675869,
+        "locationType": 0,
+        "lon": -73.944859,
+        "name": "BERGEN ST/BROOKLYN AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307827",
+        "direction": "W",
+        "id": "MTA_307827",
+        "lat": 40.677654,
+        "locationType": 0,
+        "lon": -73.959513,
+        "name": "BERGEN ST/CLASSON AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307828",
+        "direction": "W",
+        "id": "MTA_307828",
+        "lat": 40.678671,
+        "locationType": 0,
+        "lon": -73.964365,
+        "name": "BERGEN ST/WASHINGTON AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307829",
+        "direction": "W",
+        "id": "MTA_307829",
+        "lat": 40.679573,
+        "locationType": 0,
+        "lon": -73.968673,
+        "name": "BERGEN ST/VANDERBILT AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308054",
+        "direction": "W",
+        "id": "MTA_308054",
+        "lat": 40.67819,
+        "locationType": 0,
+        "lon": -73.962083,
+        "name": "BERGEN ST/GRAND AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308056",
+        "direction": "E",
+        "id": "MTA_308056",
+        "lat": 40.678808,
+        "locationType": 0,
+        "lon": -73.961614,
+        "name": "DEAN ST/GRAND AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308131",
+        "direction": "W",
+        "id": "MTA_308131",
+        "lat": 40.681015,
+        "locationType": 0,
+        "lon": -73.975692,
+        "name": "BERGEN ST/FLATBUSH AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308544",
+        "direction": "E",
+        "id": "MTA_308544",
+        "lat": 40.679225,
+        "locationType": 0,
+        "lon": -73.963611,
+        "name": "DEAN ST/WASHINGTON AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308571",
+        "direction": "W",
+        "id": "MTA_308571",
+        "lat": 40.682762,
+        "locationType": 0,
+        "lon": -73.980132,
+        "name": "BERGEN ST/4 AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308835",
+        "direction": "W",
+        "id": "MTA_308835",
+        "lat": 40.670249,
+        "locationType": 0,
+        "lon": -73.92385,
+        "name": "SAINT JOHNS PL/RALPH AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901055",
+        "direction": "NE",
+        "id": "MTA_901055",
+        "lat": 40.690715,
+        "locationType": 0,
+        "lon": -73.987693,
+        "name": "SMITH ST/LIVINGSTON ST",
+        "routeIds": [
+            "MTA NYCT_B61",
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901604",
+        "direction": "E",
+        "id": "MTA_901604",
+        "lat": 40.682985,
+        "locationType": 0,
+        "lon": -73.978981,
+        "name": "DEAN ST/4 AV",
+        "routeIds": [
+            "MTA NYCT_B65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

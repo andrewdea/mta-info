@@ -1,0 +1,802 @@
+[
+    {
+        "code": "401840",
+        "direction": "NW",
+        "id": "MTA_401840",
+        "lat": 40.745998,
+        "locationType": 0,
+        "lon": -73.978634,
+        "name": "E 34 ST/3 AV",
+        "routeIds": [
+            "MTABC_BM5",
+            "MTA NYCT_M34A+",
+            "MTA NYCT_M34+",
+            "MTABC_QM1",
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM20",
+            "MTABC_QM24",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401844",
+        "direction": "NW",
+        "id": "MTA_401844",
+        "lat": 40.748672,
+        "locationType": 0,
+        "lon": -73.98491,
+        "name": "W 34 ST/5 AV",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM15",
+            "MTABC_QM16",
+            "MTABC_QM17",
+            "MTABC_QM18",
+            "MTABC_QM20",
+            "MTABC_QM24",
+            "MTA NYCT_SIM23",
+            "MTA NYCT_SIM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402379",
+        "direction": "SE",
+        "id": "MTA_402379",
+        "lat": 40.762003,
+        "locationType": 0,
+        "lon": -73.967798,
+        "name": "E 59 ST/LEXINGTON AV",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450014",
+        "direction": "NE",
+        "id": "MTA_450014",
+        "lat": 40.75459,
+        "locationType": 0,
+        "lon": -73.984193,
+        "name": "6 AV/W 41 ST",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450018",
+        "direction": "NE",
+        "id": "MTA_450018",
+        "lat": 40.756262,
+        "locationType": 0,
+        "lon": -73.982958,
+        "name": "6 AV/W 44 ST",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450020",
+        "direction": "NE",
+        "id": "MTA_450020",
+        "lat": 40.758791,
+        "locationType": 0,
+        "lon": -73.981116,
+        "name": "6 AV/W 48 ST",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450024",
+        "direction": "NE",
+        "id": "MTA_450024",
+        "lat": 40.763175,
+        "locationType": 0,
+        "lon": -73.977918,
+        "name": "6 AV/W 55 ST",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450033",
+        "direction": "SE",
+        "id": "MTA_450033",
+        "lat": 40.762333,
+        "locationType": 0,
+        "lon": -73.972631,
+        "name": "E 57 ST/MADISON AV",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450392",
+        "direction": "NE",
+        "id": "MTA_450392",
+        "lat": 40.750759,
+        "locationType": 0,
+        "lon": -73.986967,
+        "name": "6 AV/W 35 ST",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450552",
+        "direction": "NW",
+        "id": "MTA_450552",
+        "lat": 40.747533,
+        "locationType": 0,
+        "lon": -73.982055,
+        "name": "E 34 ST/PARK AV",
+        "routeIds": [
+            "MTABC_BM5",
+            "MTABC_QM1",
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM20",
+            "MTABC_QM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501097",
+        "direction": "N",
+        "id": "MTA_501097",
+        "lat": 40.774854,
+        "locationType": 0,
+        "lon": -73.826088,
+        "name": "UNION ST/26 AV",
+        "routeIds": [
+            "MTA NYCT_Q20A",
+            "MTA NYCT_Q20B",
+            "MTABC_Q34",
+            "MTA NYCT_Q44+",
+            "MTABC_QM2",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501100",
+        "direction": "E",
+        "id": "MTA_501100",
+        "lat": 40.776811,
+        "locationType": 0,
+        "lon": -73.82178,
+        "name": "WILLETS POINT BLVD/146 ST",
+        "routeIds": [
+            "MTABC_Q34",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501133",
+        "direction": "W",
+        "id": "MTA_501133",
+        "lat": 40.776959,
+        "locationType": 0,
+        "lon": -73.821561,
+        "name": "WILLETS POINT BLVD/146 ST",
+        "routeIds": [
+            "MTABC_Q34",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501136",
+        "direction": "S",
+        "id": "MTA_501136",
+        "lat": 40.774121,
+        "locationType": 0,
+        "lon": -73.826445,
+        "name": "UNION ST/26 AV",
+        "routeIds": [
+            "MTA NYCT_Q20A",
+            "MTA NYCT_Q20B",
+            "MTABC_Q34",
+            "MTA NYCT_Q44+",
+            "MTABC_QM2",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501250",
+        "direction": "N",
+        "id": "MTA_501250",
+        "lat": 40.774296,
+        "locationType": 0,
+        "lon": -73.792676,
+        "name": "UTOPIA PKWY/26 AV",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501252",
+        "direction": "N",
+        "id": "MTA_501252",
+        "lat": 40.777335,
+        "locationType": 0,
+        "lon": -73.79328,
+        "name": "UTOPIA PKWY/22 AV",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501253",
+        "direction": "N",
+        "id": "MTA_501253",
+        "lat": 40.779049,
+        "locationType": 0,
+        "lon": -73.793611,
+        "name": "UTOPIA PKWY/21 AV",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501254",
+        "direction": "N",
+        "id": "MTA_501254",
+        "lat": 40.780781,
+        "locationType": 0,
+        "lon": -73.793952,
+        "name": "UTOPIA PKWY/19 AV",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501255",
+        "direction": "N",
+        "id": "MTA_501255",
+        "lat": 40.782571,
+        "locationType": 0,
+        "lon": -73.794304,
+        "name": "UTOPIA PKWY/17 AV",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501256",
+        "direction": "N",
+        "id": "MTA_501256",
+        "lat": 40.783955,
+        "locationType": 0,
+        "lon": -73.794581,
+        "name": "UTOPIA PKWY/16 AV",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501262",
+        "direction": "NE",
+        "id": "MTA_501262",
+        "lat": 40.781269,
+        "locationType": 0,
+        "lon": -73.801194,
+        "name": "WILLETS POINT BLVD/19 AV",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501264",
+        "direction": "NE",
+        "id": "MTA_501264",
+        "lat": 40.783233,
+        "locationType": 0,
+        "lon": -73.798906,
+        "name": "WILLETS POINT BLVD/17 AV",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501265",
+        "direction": "NE",
+        "id": "MTA_501265",
+        "lat": 40.784832,
+        "locationType": 0,
+        "lon": -73.796727,
+        "name": "WILLETS POINT BLVD/15 DR",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501273",
+        "direction": "S",
+        "id": "MTA_501273",
+        "lat": 40.783733,
+        "locationType": 0,
+        "lon": -73.794809,
+        "name": "UTOPIA PKWY/16 AV",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501275",
+        "direction": "S",
+        "id": "MTA_501275",
+        "lat": 40.780106,
+        "locationType": 0,
+        "lon": -73.794095,
+        "name": "UTOPIA PKWY/19 AV",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501276",
+        "direction": "S",
+        "id": "MTA_501276",
+        "lat": 40.777514,
+        "locationType": 0,
+        "lon": -73.793579,
+        "name": "UTOPIA PKWY/21 RD",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501279",
+        "direction": "S",
+        "id": "MTA_501279",
+        "lat": 40.77412,
+        "locationType": 0,
+        "lon": -73.792911,
+        "name": "UTOPIA PKWY/25 AV",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501285",
+        "direction": "SW",
+        "id": "MTA_501285",
+        "lat": 40.784346,
+        "locationType": 0,
+        "lon": -73.797586,
+        "name": "WILLETS POINT BLVD/16 AV",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501286",
+        "direction": "SW",
+        "id": "MTA_501286",
+        "lat": 40.78274,
+        "locationType": 0,
+        "lon": -73.799788,
+        "name": "WILLETS POINT BLVD/17 AV",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501741",
+        "direction": "NW",
+        "id": "MTA_501741",
+        "lat": 40.779048,
+        "locationType": 0,
+        "lon": -73.783049,
+        "name": "CORPORAL KENNEDY ST/23 AV",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501743",
+        "direction": "S",
+        "id": "MTA_501743",
+        "lat": 40.78173,
+        "locationType": 0,
+        "lon": -73.781791,
+        "name": "211 ST/18 AV",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503720",
+        "direction": "NW",
+        "id": "MTA_503720",
+        "lat": 40.776978,
+        "locationType": 0,
+        "lon": -73.78285,
+        "name": "CORPORAL KENNEDY ST/26 AV",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503721",
+        "direction": "",
+        "id": "MTA_503721",
+        "lat": 40.776751,
+        "locationType": 0,
+        "lon": -73.782948,
+        "name": "CORPORAL KENNEDY ST/26 AV",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504527",
+        "direction": "S",
+        "id": "MTA_504527",
+        "lat": 40.781515,
+        "locationType": 0,
+        "lon": -73.794372,
+        "name": "UTOPIA PKWY/169 ST",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551142",
+        "direction": "E",
+        "id": "MTA_551142",
+        "lat": 40.772191,
+        "locationType": 0,
+        "lon": -73.829299,
+        "name": "28 RD/139 ST",
+        "routeIds": [
+            "MTABC_Q34",
+            "MTABC_QM2",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551143",
+        "direction": "E",
+        "id": "MTA_551143",
+        "lat": 40.773022,
+        "locationType": 0,
+        "lon": -73.827623,
+        "name": "28 AV/141 ST",
+        "routeIds": [
+            "MTABC_Q34",
+            "MTABC_QM2",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551144",
+        "direction": "S",
+        "id": "MTA_551144",
+        "lat": 40.772918,
+        "locationType": 0,
+        "lon": -73.827973,
+        "name": "141 ST/28 AV",
+        "routeIds": [
+            "MTABC_Q34",
+            "MTABC_QM2",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551145",
+        "direction": "E",
+        "id": "MTA_551145",
+        "lat": 40.77646,
+        "locationType": 0,
+        "lon": -73.817366,
+        "name": "WILLETS POINT BLVD/149 ST",
+        "routeIds": [
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551146",
+        "direction": "W",
+        "id": "MTA_551146",
+        "lat": 40.776518,
+        "locationType": 0,
+        "lon": -73.817518,
+        "name": "WILLETS POINT BLVD/149 ST",
+        "routeIds": [
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551148",
+        "direction": "S",
+        "id": "MTA_551148",
+        "lat": 40.77208,
+        "locationType": 0,
+        "lon": -73.829665,
+        "name": "139 ST/28 RD",
+        "routeIds": [
+            "MTABC_Q34",
+            "MTABC_QM2",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552503",
+        "direction": "SW",
+        "id": "MTA_552503",
+        "lat": 40.771582,
+        "locationType": 0,
+        "lon": -73.833747,
+        "name": "WHITESTONE EXPWY/LINDEN PL",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM20",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552504",
+        "direction": "NE",
+        "id": "MTA_552504",
+        "lat": 40.771091,
+        "locationType": 0,
+        "lon": -73.832982,
+        "name": "WHITESTONE EXPWY/LINDEN PL",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM20",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552667",
+        "direction": "E",
+        "id": "MTA_552667",
+        "lat": 40.774905,
+        "locationType": 0,
+        "lon": -73.788703,
+        "name": "26 AV/203 ST",
+        "routeIds": [
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552668",
+        "direction": "W",
+        "id": "MTA_552668",
+        "lat": 40.775122,
+        "locationType": 0,
+        "lon": -73.788469,
+        "name": "26 AV/204 ST",
+        "routeIds": [
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552671",
+        "direction": "SW",
+        "id": "MTA_552671",
+        "lat": 40.770208,
+        "locationType": 0,
+        "lon": -73.830735,
+        "name": "31 RD/138 ST",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552927",
+        "direction": "W",
+        "id": "MTA_552927",
+        "lat": 40.778251,
+        "locationType": 0,
+        "lon": -73.80905,
+        "name": "WILLETS POINT BLVD/154 ST",
+        "routeIds": [
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552928",
+        "direction": "E",
+        "id": "MTA_552928",
+        "lat": 40.778049,
+        "locationType": 0,
+        "lon": -73.809278,
+        "name": "WILLETS POINT BLVD/154 ST",
+        "routeIds": [
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552929",
+        "direction": "SW",
+        "id": "MTA_552929",
+        "lat": 40.78169,
+        "locationType": 0,
+        "lon": -73.801026,
+        "name": "WILLETS POINT BLVD/19 AV",
+        "routeIds": [
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552931",
+        "direction": "SW",
+        "id": "MTA_552931",
+        "lat": 40.78041,
+        "locationType": 0,
+        "lon": -73.802414,
+        "name": "WILLETS POINT BLVD/FRANCIS LEWIS BLVD",
+        "routeIds": [
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "981008",
+        "direction": "SE",
+        "id": "MTA_981008",
+        "lat": 40.76295,
+        "locationType": 0,
+        "lon": -73.970106,
+        "name": "E 59 ST/PARK AV",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "981010",
+        "direction": "SE",
+        "id": "MTA_981010",
+        "lat": 40.76053,
+        "locationType": 0,
+        "lon": -73.968299,
+        "name": "E 57 ST/LEXINGTON AV",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM20",
+            "MTABC_QM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982060",
+        "direction": "S",
+        "id": "MTA_982060",
+        "lat": 40.770343,
+        "locationType": 0,
+        "lon": -73.830605,
+        "name": "138 ST/31 RD",
+        "routeIds": [
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982069",
+        "direction": "W",
+        "id": "MTA_982069",
+        "lat": 40.778958,
+        "locationType": 0,
+        "lon": -73.782645,
+        "name": "23 AV/CORPORAL KENNEDY ST",
+        "routeIds": [
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

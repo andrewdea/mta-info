@@ -1,0 +1,374 @@
+[
+    {
+        "code": "450030",
+        "direction": "SE",
+        "id": "MTA_450030",
+        "lat": 40.760391,
+        "locationType": 0,
+        "lon": -73.968015,
+        "name": "E 57 ST/ 3 AV",
+        "routeIds": [
+            "MTABC_QM4",
+            "MTABC_QM15",
+            "MTABC_QM16",
+            "MTABC_QM17",
+            "MTABC_QM18",
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450034",
+        "direction": "SE",
+        "id": "MTA_450034",
+        "lat": 40.761653,
+        "locationType": 0,
+        "lon": -73.971012,
+        "name": "E 57 ST/ PARK AV",
+        "routeIds": [
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450038",
+        "direction": "NE",
+        "id": "MTA_450038",
+        "lat": 40.74722,
+        "locationType": 0,
+        "lon": -73.983266,
+        "name": "MADISON AV/ E 33 ST",
+        "routeIds": [
+            "MTABC_BXM18",
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450039",
+        "direction": "NE",
+        "id": "MTA_450039",
+        "lat": 40.750395,
+        "locationType": 0,
+        "lon": -73.980965,
+        "name": "MADISON AV/ E 38 ST",
+        "routeIds": [
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450041",
+        "direction": "NE",
+        "id": "MTA_450041",
+        "lat": 40.757135,
+        "locationType": 0,
+        "lon": -73.975967,
+        "name": "MADISON AV/ E 49 ST",
+        "routeIds": [
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450042",
+        "direction": "NE",
+        "id": "MTA_450042",
+        "lat": 40.760871,
+        "locationType": 0,
+        "lon": -73.973284,
+        "name": "MADISON AV/E 55 ST",
+        "routeIds": [
+            "MTABC_QM21",
+            "MTA NYCT_SIM23",
+            "MTA NYCT_SIM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450078",
+        "direction": "NW",
+        "id": "MTA_450078",
+        "lat": 40.740783,
+        "locationType": 0,
+        "lon": -73.987563,
+        "name": "E 23 ST/MADISON AV",
+        "routeIds": [
+            "MTABC_BXM7",
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450081",
+        "direction": "NE",
+        "id": "MTA_450081",
+        "lat": 40.743302,
+        "locationType": 0,
+        "lon": -73.986094,
+        "name": "MADISON AV/ E 27 ST",
+        "routeIds": [
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450098",
+        "direction": "NE",
+        "id": "MTA_450098",
+        "lat": 40.754483,
+        "locationType": 0,
+        "lon": -73.977988,
+        "name": "MADISON AV/E 45 ST",
+        "routeIds": [
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500637",
+        "direction": "SE",
+        "id": "MTA_500637",
+        "lat": 40.679436,
+        "locationType": 0,
+        "lon": -73.77317,
+        "name": "BEDELL ST/127 AV",
+        "routeIds": [
+            "MTA NYCT_Q85",
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500638",
+        "direction": "SE",
+        "id": "MTA_500638",
+        "lat": 40.677963,
+        "locationType": 0,
+        "lon": -73.770803,
+        "name": "BEDELL ST/130 AV",
+        "routeIds": [
+            "MTA NYCT_Q85",
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500639",
+        "direction": "SE",
+        "id": "MTA_500639",
+        "lat": 40.676275,
+        "locationType": 0,
+        "lon": -73.768083,
+        "name": "BEDELL ST/133 AV",
+        "routeIds": [
+            "MTA NYCT_Q85",
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500640",
+        "direction": "SE",
+        "id": "MTA_500640",
+        "lat": 40.674876,
+        "locationType": 0,
+        "lon": -73.765831,
+        "name": "BEDELL ST/134 RD",
+        "routeIds": [
+            "MTA NYCT_Q85",
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550263",
+        "direction": "E",
+        "id": "MTA_550263",
+        "lat": 40.684113,
+        "locationType": 0,
+        "lon": -73.801447,
+        "name": "LINDEN BLVD/142 ST",
+        "routeIds": [
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550265",
+        "direction": "E",
+        "id": "MTA_550265",
+        "lat": 40.686372,
+        "locationType": 0,
+        "lon": -73.793487,
+        "name": "LINDEN BLVD/SUTPHIN BLVD",
+        "routeIds": [
+            "MTABC_QM21",
+            "MTA NYCT_X63"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550279",
+        "direction": "W",
+        "id": "MTA_550279",
+        "lat": 40.686252,
+        "locationType": 0,
+        "lon": -73.794367,
+        "name": "LINDEN BLVD/SUTPHIN BLVD",
+        "routeIds": [
+            "MTABC_QM21",
+            "MTA NYCT_X63"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550281",
+        "direction": "W",
+        "id": "MTA_550281",
+        "lat": 40.684131,
+        "locationType": 0,
+        "lon": -73.80196,
+        "name": "LINDEN BLVD/142 ST",
+        "routeIds": [
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551669",
+        "direction": "SE",
+        "id": "MTA_551669",
+        "lat": 40.71184,
+        "locationType": 0,
+        "lon": -73.825475,
+        "name": "QUEENS BLVD/ 83 AV",
+        "routeIds": [
+            "MTABC_Q60",
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551670",
+        "direction": "SE",
+        "id": "MTA_551670",
+        "lat": 40.708862,
+        "locationType": 0,
+        "lon": -73.818957,
+        "name": "QUEENS BLVD/ MAIN ST",
+        "routeIds": [
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551671",
+        "direction": "NW",
+        "id": "MTA_551671",
+        "lat": 40.709755,
+        "locationType": 0,
+        "lon": -73.819888,
+        "name": "QUEENS BLVD/MAIN ST",
+        "routeIds": [
+            "MTABC_Q60",
+            "MTABC_QM21",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551691",
+        "direction": "NW",
+        "id": "MTA_551691",
+        "lat": 40.712235,
+        "locationType": 0,
+        "lon": -73.825568,
+        "name": "QUEENS BLVD/HOOVER AV",
+        "routeIds": [
+            "MTABC_Q60",
+            "MTABC_QM18",
+            "MTABC_QM21",
+            "MTA NYCT_X63",
+            "MTA NYCT_X64",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552322",
+        "direction": "NW",
+        "id": "MTA_552322",
+        "lat": 40.672192,
+        "locationType": 0,
+        "lon": -73.774503,
+        "name": "GUY R BREWER BLVD/137 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q113",
+            "MTABC_Q114",
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552328",
+        "direction": "NW",
+        "id": "MTA_552328",
+        "lat": 40.676756,
+        "locationType": 0,
+        "lon": -73.778004,
+        "name": "GUY R BREWER BLVD/130 AV",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q114",
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552336",
+        "direction": "NW",
+        "id": "MTA_552336",
+        "lat": 40.684467,
+        "locationType": 0,
+        "lon": -73.783005,
+        "name": "GUY R BREWER BLVD/FOCH BLVD",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q113",
+            "MTABC_Q114",
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552337",
+        "direction": "SE",
+        "id": "MTA_552337",
+        "lat": 40.684143,
+        "locationType": 0,
+        "lon": -73.783031,
+        "name": "GUY R BREWER BLVD/FOCH BLVD",
+        "routeIds": [
+            "MTABC_Q111",
+            "MTABC_Q113",
+            "MTABC_Q114",
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552551",
+        "direction": "S",
+        "id": "MTA_552551",
+        "lat": 40.673607,
+        "locationType": 0,
+        "lon": -73.765406,
+        "name": "176 ST/ 137 AV",
+        "routeIds": [
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

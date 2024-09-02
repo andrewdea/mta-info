@@ -1,0 +1,626 @@
+[
+    {
+        "code": "401844",
+        "direction": "NW",
+        "id": "MTA_401844",
+        "lat": 40.748672,
+        "locationType": 0,
+        "lon": -73.98491,
+        "name": "W 34 ST/5 AV",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM15",
+            "MTABC_QM16",
+            "MTABC_QM17",
+            "MTABC_QM18",
+            "MTABC_QM20",
+            "MTABC_QM24",
+            "MTA NYCT_SIM23",
+            "MTA NYCT_SIM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450017",
+        "direction": "NE",
+        "id": "MTA_450017",
+        "lat": 40.755988,
+        "locationType": 0,
+        "lon": -73.983132,
+        "name": "6 AV/W 44 ST",
+        "routeIds": [
+            "MTABC_QM15",
+            "MTABC_QM16",
+            "MTABC_QM17",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450023",
+        "direction": "NE",
+        "id": "MTA_450023",
+        "lat": 40.760335,
+        "locationType": 0,
+        "lon": -73.979922,
+        "name": "6 AV/W 51 ST",
+        "routeIds": [
+            "MTABC_QM15",
+            "MTABC_QM16",
+            "MTABC_QM17",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450030",
+        "direction": "SE",
+        "id": "MTA_450030",
+        "lat": 40.760391,
+        "locationType": 0,
+        "lon": -73.968015,
+        "name": "E 57 ST/ 3 AV",
+        "routeIds": [
+            "MTABC_QM4",
+            "MTABC_QM15",
+            "MTABC_QM16",
+            "MTABC_QM17",
+            "MTABC_QM18",
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450032",
+        "direction": "SE",
+        "id": "MTA_450032",
+        "lat": 40.762384,
+        "locationType": 0,
+        "lon": -73.972752,
+        "name": "E 57 ST/MADISON AV",
+        "routeIds": [
+            "MTABC_QM15",
+            "MTABC_QM16",
+            "MTABC_QM17",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450377",
+        "direction": "NE",
+        "id": "MTA_450377",
+        "lat": 40.764119,
+        "locationType": 0,
+        "lon": -73.97718,
+        "name": "6 AV/W 57 ST",
+        "routeIds": [
+            "MTABC_QM15",
+            "MTABC_QM16",
+            "MTABC_QM17",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450417",
+        "direction": "NE",
+        "id": "MTA_450417",
+        "lat": 40.752159,
+        "locationType": 0,
+        "lon": -73.985874,
+        "name": "6 AV/W 38 ST",
+        "routeIds": [
+            "MTABC_QM15",
+            "MTABC_QM16",
+            "MTABC_QM17",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450553",
+        "direction": "NW",
+        "id": "MTA_450553",
+        "lat": 40.747646,
+        "locationType": 0,
+        "lon": -73.98234,
+        "name": "E 34 ST/PARK AV",
+        "routeIds": [
+            "MTABC_QM15",
+            "MTABC_QM16",
+            "MTABC_QM17",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550417",
+        "direction": "S",
+        "id": "MTA_550417",
+        "lat": 40.652627,
+        "locationType": 0,
+        "lon": -73.838457,
+        "name": "CROSS BAY BLVD/163 AV",
+        "routeIds": [
+            "MTABC_Q21",
+            "MTABC_Q41",
+            "MTABC_Q52+",
+            "MTABC_Q53+",
+            "MTABC_QM16",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550423",
+        "direction": "S",
+        "id": "MTA_550423",
+        "lat": 40.659283,
+        "locationType": 0,
+        "lon": -73.840092,
+        "name": "CROSS BAY BLVD/159 AV",
+        "routeIds": [
+            "MTABC_Q21",
+            "MTABC_Q41",
+            "MTABC_QM16",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550713",
+        "direction": "S",
+        "id": "MTA_550713",
+        "lat": 40.607873,
+        "locationType": 0,
+        "lon": -73.819479,
+        "name": "CROSS BAY BLVD/NOEL RD",
+        "routeIds": [
+            "MTABC_Q52+",
+            "MTABC_Q53+",
+            "MTABC_QM16",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550770",
+        "direction": "E",
+        "id": "MTA_550770",
+        "lat": 40.586479,
+        "locationType": 0,
+        "lon": -73.815197,
+        "name": "ROCKAWAY BEACH BLVD/BEACH 92 ST",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550778",
+        "direction": "E",
+        "id": "MTA_550778",
+        "lat": 40.588118,
+        "locationType": 0,
+        "lon": -73.805263,
+        "name": "ROCKAWAY BEACH BLVD/BEACH 79 ST",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550780",
+        "direction": "W",
+        "id": "MTA_550780",
+        "lat": 40.588383,
+        "locationType": 0,
+        "lon": -73.804486,
+        "name": "ROCKAWAY BEACH BLVD/BEACH 77 ST",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550788",
+        "direction": "E",
+        "id": "MTA_550788",
+        "lat": 40.59276,
+        "locationType": 0,
+        "lon": -73.795861,
+        "name": "BEACH CHANNEL DR/BEACH 67 ST",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550789",
+        "direction": "W",
+        "id": "MTA_550789",
+        "lat": 40.592953,
+        "locationType": 0,
+        "lon": -73.796423,
+        "name": "BEACH CHANNEL DR/BEACH 67 ST",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550796",
+        "direction": "E",
+        "id": "MTA_550796",
+        "lat": 40.594972,
+        "locationType": 0,
+        "lon": -73.78476,
+        "name": "BEACH CHANNEL DR/BEACH 54 ST",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550797",
+        "direction": "W",
+        "id": "MTA_550797",
+        "lat": 40.595194,
+        "locationType": 0,
+        "lon": -73.784759,
+        "name": "BEACH CHANNEL DR/BEACH 54 ST",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_Q52+",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550804",
+        "direction": "E",
+        "id": "MTA_550804",
+        "lat": 40.595605,
+        "locationType": 0,
+        "lon": -73.775486,
+        "name": "BEACH CHANNEL DR/BEACH 44 ST",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550818",
+        "direction": "E",
+        "id": "MTA_550818",
+        "lat": 40.595047,
+        "locationType": 0,
+        "lon": -73.755819,
+        "name": "SEAGIRT BLVD/CREST RD",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_Q113",
+            "MTABC_Q114",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550819",
+        "direction": "W",
+        "id": "MTA_550819",
+        "lat": 40.595403,
+        "locationType": 0,
+        "lon": -73.756206,
+        "name": "SEAGIRT BLVD/CREST RD",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550820",
+        "direction": "N",
+        "id": "MTA_550820",
+        "lat": 40.595455,
+        "locationType": 0,
+        "lon": -73.753044,
+        "name": "BEACH 19 ST/SEAGIRT BLVD",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550822",
+        "direction": "N",
+        "id": "MTA_550822",
+        "lat": 40.599682,
+        "locationType": 0,
+        "lon": -73.752233,
+        "name": "BEACH 19 ST/GATEWAY BLVD",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550846",
+        "direction": "N",
+        "id": "MTA_550846",
+        "lat": 40.604398,
+        "locationType": 0,
+        "lon": -73.753476,
+        "name": "BEACH 21 ST/MOTT AV",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550847",
+        "direction": "S",
+        "id": "MTA_550847",
+        "lat": 40.602524,
+        "locationType": 0,
+        "lon": -73.753445,
+        "name": "BEACH 20 ST/CORNAGA AV",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550849",
+        "direction": "S",
+        "id": "MTA_550849",
+        "lat": 40.599332,
+        "locationType": 0,
+        "lon": -73.754271,
+        "name": "BEACH 20 ST/BROOKHAVEN AV",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550851",
+        "direction": "S",
+        "id": "MTA_550851",
+        "lat": 40.595428,
+        "locationType": 0,
+        "lon": -73.754169,
+        "name": "BEACH 20 ST/SEAGIRT BLVD",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550852",
+        "direction": "W",
+        "id": "MTA_550852",
+        "lat": 40.596324,
+        "locationType": 0,
+        "lon": -73.769179,
+        "name": "BEACH CHANNEL DR/BEACH 36 ST",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552708",
+        "direction": "W",
+        "id": "MTA_552708",
+        "lat": 40.602353,
+        "locationType": 0,
+        "lon": -73.753546,
+        "name": "CORNAGA AV/BEACH 20 ST",
+        "routeIds": [
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553027",
+        "direction": "N",
+        "id": "MTA_553027",
+        "lat": 40.601521,
+        "locationType": 0,
+        "lon": -73.820088,
+        "name": "CROSS BAY BLVD/E 16 RD",
+        "routeIds": [
+            "MTABC_Q21",
+            "MTABC_Q52+",
+            "MTABC_Q53+",
+            "MTABC_QM16",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553031",
+        "direction": "W",
+        "id": "MTA_553031",
+        "lat": 40.595768,
+        "locationType": 0,
+        "lon": -73.775893,
+        "name": "BEACH CHANNEL DR/BEACH 44 ST",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553190",
+        "direction": "N",
+        "id": "MTA_553190",
+        "lat": 40.660765,
+        "locationType": 0,
+        "lon": -73.840067,
+        "name": "CROSS BAY BLVD/158 AV",
+        "routeIds": [
+            "MTABC_QM16",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553364",
+        "direction": "N",
+        "id": "MTA_553364",
+        "lat": 40.60796,
+        "locationType": 0,
+        "lon": -73.819122,
+        "name": "CROSS BAY BLVD/NOEL RD",
+        "routeIds": [
+            "MTABC_Q52+",
+            "MTABC_Q53+",
+            "MTABC_QM16",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "981015",
+        "direction": "NW",
+        "id": "MTA_981015",
+        "lat": 40.746194,
+        "locationType": 0,
+        "lon": -73.978967,
+        "name": "E 34 ST/3 AV",
+        "routeIds": [
+            "MTABC_QM15",
+            "MTABC_QM16",
+            "MTABC_QM17",
+            "MTABC_QM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982111",
+        "direction": "S",
+        "id": "MTA_982111",
+        "lat": 40.600206,
+        "locationType": 0,
+        "lon": -73.82068,
+        "name": "CROSS BAY BLVD/W 18 RD",
+        "routeIds": [
+            "MTABC_Q52+",
+            "MTABC_Q53+",
+            "MTABC_QM16",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982137",
+        "direction": "N",
+        "id": "MTA_982137",
+        "lat": 40.652413,
+        "locationType": 0,
+        "lon": -73.838019,
+        "name": "CROSS BAY BLVD/163 AV",
+        "routeIds": [
+            "MTABC_Q52+",
+            "MTABC_Q53+",
+            "MTABC_QM16",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982141",
+        "direction": "W",
+        "id": "MTA_982141",
+        "lat": 40.586583,
+        "locationType": 0,
+        "lon": -73.815367,
+        "name": "ROCKAWAY BEACH BLVD/BEACH 92 ST",
+        "routeIds": [
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982150",
+        "direction": "N",
+        "id": "MTA_982150",
+        "lat": 40.603301,
+        "locationType": 0,
+        "lon": -73.753827,
+        "name": "BEACH 21 ST TERMINAL/BEACH 21 ST",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982457",
+        "direction": "E",
+        "id": "MTA_982457",
+        "lat": 40.59595,
+        "locationType": 0,
+        "lon": -73.762217,
+        "name": "SEAGIRT BLVD/BEACH 29 ST",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982458",
+        "direction": "W",
+        "id": "MTA_982458",
+        "lat": 40.596267,
+        "locationType": 0,
+        "lon": -73.762276,
+        "name": "SEAGIRT BLVD/BEACH 29 ST",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982459",
+        "direction": "E",
+        "id": "MTA_982459",
+        "lat": 40.596165,
+        "locationType": 0,
+        "lon": -73.768863,
+        "name": "BEACH CHANNEL DR/BEACH 36 ST",
+        "routeIds": [
+            "MTABC_Q22",
+            "MTABC_QM17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

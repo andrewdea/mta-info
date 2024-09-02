@@ -1,0 +1,2090 @@
+[
+    {
+        "code": "300418",
+        "direction": "NW",
+        "id": "MTA_300418",
+        "lat": 40.586092,
+        "locationType": 0,
+        "lon": -73.987889,
+        "name": "CROPSEY AV/BAY 49 ST",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_X28",
+            "MTA NYCT_X38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300419",
+        "direction": "NW",
+        "id": "MTA_300419",
+        "lat": 40.588211,
+        "locationType": 0,
+        "lon": -73.989591,
+        "name": "CROPSEY AV/BAY 46 ST",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300420",
+        "direction": "NW",
+        "id": "MTA_300420",
+        "lat": 40.58941,
+        "locationType": 0,
+        "lon": -73.990563,
+        "name": "CROPSEY AV/BAY 44 ST",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_X28",
+            "MTA NYCT_X38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300421",
+        "direction": "NW",
+        "id": "MTA_300421",
+        "lat": 40.590742,
+        "locationType": 0,
+        "lon": -73.99164,
+        "name": "CROPSEY AV/26 AV",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300422",
+        "direction": "NW",
+        "id": "MTA_300422",
+        "lat": 40.592279,
+        "locationType": 0,
+        "lon": -73.992878,
+        "name": "CROPSEY AV/25 AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_X28",
+            "MTA NYCT_X38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300424",
+        "direction": "NW",
+        "id": "MTA_300424",
+        "lat": 40.59596,
+        "locationType": 0,
+        "lon": -73.99691,
+        "name": "CROPSEY AV/23 AV",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82",
+            "MTA NYCT_X28",
+            "MTA NYCT_X38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300427",
+        "direction": "NE",
+        "id": "MTA_300427",
+        "lat": 40.598406,
+        "locationType": 0,
+        "lon": -73.997389,
+        "name": "BAY PKWY/BATH AV",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300428",
+        "direction": "NE",
+        "id": "MTA_300428",
+        "lat": 40.600434,
+        "locationType": 0,
+        "lon": -73.995232,
+        "name": "BAY PKWY/BENSON AV",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300429",
+        "direction": "NE",
+        "id": "MTA_300429",
+        "lat": 40.602335,
+        "locationType": 0,
+        "lon": -73.993317,
+        "name": "BAY PKWY/86 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300432",
+        "direction": "NE",
+        "id": "MTA_300432",
+        "lat": 40.606366,
+        "locationType": 0,
+        "lon": -73.989185,
+        "name": "BAY PKWY/78 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300433",
+        "direction": "E",
+        "id": "MTA_300433",
+        "lat": 40.605901,
+        "locationType": 0,
+        "lon": -73.986599,
+        "name": "KINGS HWY/STILLWELL AV",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300434",
+        "direction": "E",
+        "id": "MTA_300434",
+        "lat": 40.605566,
+        "locationType": 0,
+        "lon": -73.984352,
+        "name": "KINGS HWY/W 11 ST",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300437",
+        "direction": "E",
+        "id": "MTA_300437",
+        "lat": 40.604796,
+        "locationType": 0,
+        "lon": -73.977704,
+        "name": "KINGS HWY/W 5 ST",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300438",
+        "direction": "E",
+        "id": "MTA_300438",
+        "lat": 40.604593,
+        "locationType": 0,
+        "lon": -73.976322,
+        "name": "KINGS HWY/W 3 ST",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300440",
+        "direction": "E",
+        "id": "MTA_300440",
+        "lat": 40.604153,
+        "locationType": 0,
+        "lon": -73.972421,
+        "name": "KINGS HWY/MCDONALD AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+",
+            "MTA NYCT_B90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300441",
+        "direction": "E",
+        "id": "MTA_300441",
+        "lat": 40.604424,
+        "locationType": 0,
+        "lon": -73.969576,
+        "name": "KINGS HWY/E 3 ST",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300442",
+        "direction": "NE",
+        "id": "MTA_300442",
+        "lat": 40.605439,
+        "locationType": 0,
+        "lon": -73.967361,
+        "name": "KINGS HWY/OCEAN PKWY",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300443",
+        "direction": "E",
+        "id": "MTA_300443",
+        "lat": 40.606182,
+        "locationType": 0,
+        "lon": -73.965268,
+        "name": "KINGS HWY/E 7 ST",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300445",
+        "direction": "E",
+        "id": "MTA_300445",
+        "lat": 40.607467,
+        "locationType": 0,
+        "lon": -73.961376,
+        "name": "KINGS HWY/CONEY ISLAND AV",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300446",
+        "direction": "E",
+        "id": "MTA_300446",
+        "lat": 40.607908,
+        "locationType": 0,
+        "lon": -73.960227,
+        "name": "KINGS HWY/E 13 ST",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300448",
+        "direction": "E",
+        "id": "MTA_300448",
+        "lat": 40.61001,
+        "locationType": 0,
+        "lon": -73.955222,
+        "name": "KINGS HWY/E 18 ST",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300449",
+        "direction": "E",
+        "id": "MTA_300449",
+        "lat": 40.61054,
+        "locationType": 0,
+        "lon": -73.953732,
+        "name": "KINGS HWY/OCEAN AV",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300450",
+        "direction": "E",
+        "id": "MTA_300450",
+        "lat": 40.611336,
+        "locationType": 0,
+        "lon": -73.951181,
+        "name": "KINGS HWY/E 22 ST",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300451",
+        "direction": "NE",
+        "id": "MTA_300451",
+        "lat": 40.612831,
+        "locationType": 0,
+        "lon": -73.949277,
+        "name": "KINGS HWY/BEDFORD AV",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300452",
+        "direction": "NE",
+        "id": "MTA_300452",
+        "lat": 40.614047,
+        "locationType": 0,
+        "lon": -73.947586,
+        "name": "KINGS HWY/E 27 ST",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300453",
+        "direction": "NE",
+        "id": "MTA_300453",
+        "lat": 40.615238,
+        "locationType": 0,
+        "lon": -73.94581,
+        "name": "KINGS HWY/E 29 ST",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300455",
+        "direction": "NE",
+        "id": "MTA_300455",
+        "lat": 40.617286,
+        "locationType": 0,
+        "lon": -73.943444,
+        "name": "KINGS HWY/AVENUE N",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300456",
+        "direction": "NE",
+        "id": "MTA_300456",
+        "lat": 40.61878,
+        "locationType": 0,
+        "lon": -73.942175,
+        "name": "KINGS HWY/NEW YORK AV",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300458",
+        "direction": "E",
+        "id": "MTA_300458",
+        "lat": 40.621437,
+        "locationType": 0,
+        "lon": -73.939312,
+        "name": "KINGS HWY/E 37 ST",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300461",
+        "direction": "W",
+        "id": "MTA_300461",
+        "lat": 40.621517,
+        "locationType": 0,
+        "lon": -73.939238,
+        "name": "KINGS HWY/E 37 ST",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300464",
+        "direction": "SW",
+        "id": "MTA_300464",
+        "lat": 40.617502,
+        "locationType": 0,
+        "lon": -73.943347,
+        "name": "KINGS HWY/AVENUE N",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300465",
+        "direction": "SW",
+        "id": "MTA_300465",
+        "lat": 40.616201,
+        "locationType": 0,
+        "lon": -73.944651,
+        "name": "KINGS HWY/NOSTRAND AV",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300466",
+        "direction": "SW",
+        "id": "MTA_300466",
+        "lat": 40.614915,
+        "locationType": 0,
+        "lon": -73.946398,
+        "name": "KINGS HWY/E 28 ST",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300469",
+        "direction": "W",
+        "id": "MTA_300469",
+        "lat": 40.61136,
+        "locationType": 0,
+        "lon": -73.951457,
+        "name": "KINGS HWY/E 22 ST",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300470",
+        "direction": "W",
+        "id": "MTA_300470",
+        "lat": 40.610932,
+        "locationType": 0,
+        "lon": -73.954068,
+        "name": "AVENUE P/OCEAN AV",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300471",
+        "direction": "S",
+        "id": "MTA_300471",
+        "lat": 40.61034,
+        "locationType": 0,
+        "lon": -73.955736,
+        "name": "E 18 ST/AVENUE P",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300472",
+        "direction": "SW",
+        "id": "MTA_300472",
+        "lat": 40.608974,
+        "locationType": 0,
+        "lon": -73.957913,
+        "name": "KINGS HWY/E 16 ST",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300473",
+        "direction": "W",
+        "id": "MTA_300473",
+        "lat": 40.608115,
+        "locationType": 0,
+        "lon": -73.95995,
+        "name": "KINGS HWY/E 13 ST",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300474",
+        "direction": "W",
+        "id": "MTA_300474",
+        "lat": 40.607249,
+        "locationType": 0,
+        "lon": -73.962372,
+        "name": "KINGS HWY/CONEY ISLAND AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300475",
+        "direction": "W",
+        "id": "MTA_300475",
+        "lat": 40.606374,
+        "locationType": 0,
+        "lon": -73.965124,
+        "name": "KINGS HWY/E 8 ST",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300476",
+        "direction": "W",
+        "id": "MTA_300476",
+        "lat": 40.605847,
+        "locationType": 0,
+        "lon": -73.966597,
+        "name": "KINGS HWY/OCEAN PKWY",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300477",
+        "direction": "W",
+        "id": "MTA_300477",
+        "lat": 40.604569,
+        "locationType": 0,
+        "lon": -73.969493,
+        "name": "KINGS HWY/E 4 ST",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300478",
+        "direction": "W",
+        "id": "MTA_300478",
+        "lat": 40.604265,
+        "locationType": 0,
+        "lon": -73.971906,
+        "name": "KINGS HWY/McDONALD AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300480",
+        "direction": "W",
+        "id": "MTA_300480",
+        "lat": 40.604628,
+        "locationType": 0,
+        "lon": -73.975529,
+        "name": "KINGS HWY/W 2 ST",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300481",
+        "direction": "W",
+        "id": "MTA_300481",
+        "lat": 40.604821,
+        "locationType": 0,
+        "lon": -73.97698,
+        "name": "KINGS HWY/W 4 ST",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300482",
+        "direction": "W",
+        "id": "MTA_300482",
+        "lat": 40.605104,
+        "locationType": 0,
+        "lon": -73.978896,
+        "name": "KINGS HWY/W 6 ST",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300486",
+        "direction": "W",
+        "id": "MTA_300486",
+        "lat": 40.606014,
+        "locationType": 0,
+        "lon": -73.986733,
+        "name": "KINGS HWY/STILLWELL AV",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300488",
+        "direction": "SW",
+        "id": "MTA_300488",
+        "lat": 40.605937,
+        "locationType": 0,
+        "lon": -73.989707,
+        "name": "BAY PKWY/79 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300490",
+        "direction": "SW",
+        "id": "MTA_300490",
+        "lat": 40.603469,
+        "locationType": 0,
+        "lon": -73.992365,
+        "name": "BAY PKWY/83 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300491",
+        "direction": "SW",
+        "id": "MTA_300491",
+        "lat": 40.602119,
+        "locationType": 0,
+        "lon": -73.993777,
+        "name": "BAY PKWY/86 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300492",
+        "direction": "SW",
+        "id": "MTA_300492",
+        "lat": 40.600058,
+        "locationType": 0,
+        "lon": -73.99592,
+        "name": "BAY PKWY/BENSON AV",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300493",
+        "direction": "SW",
+        "id": "MTA_300493",
+        "lat": 40.598676,
+        "locationType": 0,
+        "lon": -73.997292,
+        "name": "BAY PKWY/BATH AV",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300495",
+        "direction": "SE",
+        "id": "MTA_300495",
+        "lat": 40.596918,
+        "locationType": 0,
+        "lon": -73.998484,
+        "name": "CROPSEY AV/BAY PKWY",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_X28",
+            "MTA NYCT_X38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300496",
+        "direction": "SE",
+        "id": "MTA_300496",
+        "lat": 40.595889,
+        "locationType": 0,
+        "lon": -73.997256,
+        "name": "CROPSEY AV/23 AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_X28",
+            "MTA NYCT_X38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300497",
+        "direction": "SE",
+        "id": "MTA_300497",
+        "lat": 40.593924,
+        "locationType": 0,
+        "lon": -73.994851,
+        "name": "CROPSEY AV/24 AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300499",
+        "direction": "SE",
+        "id": "MTA_300499",
+        "lat": 40.59198,
+        "locationType": 0,
+        "lon": -73.993018,
+        "name": "CROPSEY AV/25 AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_X28",
+            "MTA NYCT_X38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300500",
+        "direction": "SE",
+        "id": "MTA_300500",
+        "lat": 40.590053,
+        "locationType": 0,
+        "lon": -73.991456,
+        "name": "CROPSEY AV/26 AV",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300501",
+        "direction": "SE",
+        "id": "MTA_300501",
+        "lat": 40.588727,
+        "locationType": 0,
+        "lon": -73.99039,
+        "name": "CROPSEY AV/BAY 44 ST",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_X28",
+            "MTA NYCT_X38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300502",
+        "direction": "SE",
+        "id": "MTA_300502",
+        "lat": 40.587574,
+        "locationType": 0,
+        "lon": -73.989465,
+        "name": "CROPSEY AV/BAY 46 ST",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300503",
+        "direction": "SE",
+        "id": "MTA_300503",
+        "lat": 40.58599,
+        "locationType": 0,
+        "lon": -73.988187,
+        "name": "CROPSEY AV/BAY 49 ST",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_X28",
+            "MTA NYCT_X38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300560",
+        "direction": "NE",
+        "id": "MTA_300560",
+        "lat": 40.632435,
+        "locationType": 0,
+        "lon": -73.917964,
+        "name": "FLATLANDS AV/RALPH AV",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300563",
+        "direction": "NE",
+        "id": "MTA_300563",
+        "lat": 40.635669,
+        "locationType": 0,
+        "lon": -73.912833,
+        "name": "FLATLANDS AV/E 80 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300564",
+        "direction": "NE",
+        "id": "MTA_300564",
+        "lat": 40.636307,
+        "locationType": 0,
+        "lon": -73.911845,
+        "name": "FLATLANDS AV/E 82 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300565",
+        "direction": "NE",
+        "id": "MTA_300565",
+        "lat": 40.637481,
+        "locationType": 0,
+        "lon": -73.910039,
+        "name": "FLATLANDS AV/E 84 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300566",
+        "direction": "NE",
+        "id": "MTA_300566",
+        "lat": 40.638457,
+        "locationType": 0,
+        "lon": -73.90852,
+        "name": "FLATLANDS AV/E 86 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300567",
+        "direction": "NE",
+        "id": "MTA_300567",
+        "lat": 40.6394,
+        "locationType": 0,
+        "lon": -73.907063,
+        "name": "FLATLANDS AV/E 88 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300568",
+        "direction": "NE",
+        "id": "MTA_300568",
+        "lat": 40.640161,
+        "locationType": 0,
+        "lon": -73.906024,
+        "name": "FLATLANDS AV/REMSEN AV",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300569",
+        "direction": "NE",
+        "id": "MTA_300569",
+        "lat": 40.641223,
+        "locationType": 0,
+        "lon": -73.90424,
+        "name": "FLATLANDS AV/E 92 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300570",
+        "direction": "NE",
+        "id": "MTA_300570",
+        "lat": 40.642232,
+        "locationType": 0,
+        "lon": -73.902689,
+        "name": "FLATLANDS AV/E 94 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300608",
+        "direction": "SW",
+        "id": "MTA_300608",
+        "lat": 40.642084,
+        "locationType": 0,
+        "lon": -73.903226,
+        "name": "FLATLANDS AV/E 94 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B17",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300609",
+        "direction": "SW",
+        "id": "MTA_300609",
+        "lat": 40.641064,
+        "locationType": 0,
+        "lon": -73.904852,
+        "name": "FLATLANDS AV/E 92 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B17",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300610",
+        "direction": "SW",
+        "id": "MTA_300610",
+        "lat": 40.640398,
+        "locationType": 0,
+        "lon": -73.905913,
+        "name": "FLATLANDS AV/REMSEN AV",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300611",
+        "direction": "SW",
+        "id": "MTA_300611",
+        "lat": 40.639151,
+        "locationType": 0,
+        "lon": -73.907846,
+        "name": "FLATLANDS AV/E 88 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300612",
+        "direction": "SW",
+        "id": "MTA_300612",
+        "lat": 40.638208,
+        "locationType": 0,
+        "lon": -73.909295,
+        "name": "FLATLANDS AV/E 86 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300613",
+        "direction": "SW",
+        "id": "MTA_300613",
+        "lat": 40.637259,
+        "locationType": 0,
+        "lon": -73.91077,
+        "name": "FLATLANDS AV/E 84 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300614",
+        "direction": "SW",
+        "id": "MTA_300614",
+        "lat": 40.63633,
+        "locationType": 0,
+        "lon": -73.912123,
+        "name": "FLATLANDS AV/E 82 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300615",
+        "direction": "SW",
+        "id": "MTA_300615",
+        "lat": 40.635345,
+        "locationType": 0,
+        "lon": -73.91372,
+        "name": "FLATLANDS AV/E 80 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300617",
+        "direction": "SW",
+        "id": "MTA_300617",
+        "lat": 40.63355,
+        "locationType": 0,
+        "lon": -73.916374,
+        "name": "FLATLANDS AV/E 76 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300618",
+        "direction": "SW",
+        "id": "MTA_300618",
+        "lat": 40.632236,
+        "locationType": 0,
+        "lon": -73.918456,
+        "name": "FLATLANDS AV/RALPH AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302799",
+        "direction": "E",
+        "id": "MTA_302799",
+        "lat": 40.576569,
+        "locationType": 0,
+        "lon": -73.984454,
+        "name": "MERMAID AV/W 17 ST",
+        "routeIds": [
+            "MTA NYCT_B74",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304052",
+        "direction": "NE",
+        "id": "MTA_304052",
+        "lat": 40.628107,
+        "locationType": 0,
+        "lon": -73.924526,
+        "name": "FLATLANDS AV/E 53 ST",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304053",
+        "direction": "NE",
+        "id": "MTA_304053",
+        "lat": 40.630435,
+        "locationType": 0,
+        "lon": -73.920928,
+        "name": "FLATLANDS AV/E 57 ST",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304071",
+        "direction": "NE",
+        "id": "MTA_304071",
+        "lat": 40.646732,
+        "locationType": 0,
+        "lon": -73.895698,
+        "name": "FLATLANDS AV/ E 103 ST",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304072",
+        "direction": "NE",
+        "id": "MTA_304072",
+        "lat": 40.647692,
+        "locationType": 0,
+        "lon": -73.894212,
+        "name": "FLATLANDS AV/E 105 ST",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+",
+            "MTABC_B103",
+            "MTABC_BM2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304073",
+        "direction": "NE",
+        "id": "MTA_304073",
+        "lat": 40.64875,
+        "locationType": 0,
+        "lon": -73.892574,
+        "name": "FLATLANDS AV/E 108 ST",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304078",
+        "direction": "SE",
+        "id": "MTA_304078",
+        "lat": 40.650381,
+        "locationType": 0,
+        "lon": -73.884737,
+        "name": "PENNSYLVANIA AV/VANDALIA AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+",
+            "MTA NYCT_B83",
+            "MTABC_BM2",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304083",
+        "direction": "",
+        "id": "MTA_304083",
+        "lat": 40.643021,
+        "locationType": 0,
+        "lon": -73.878132,
+        "name": "SEAVIEW AV/PENNSYLVANIA AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+",
+            "MTA NYCT_B83",
+            "MTABC_BM2",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304084",
+        "direction": "NW",
+        "id": "MTA_304084",
+        "lat": 40.646437,
+        "locationType": 0,
+        "lon": -73.879941,
+        "name": "PENNSYLVANIA AV/GENEVA LOOP",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B83",
+            "MTABC_BM2",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304085",
+        "direction": "NW",
+        "id": "MTA_304085",
+        "lat": 40.64792,
+        "locationType": 0,
+        "lon": -73.881636,
+        "name": "PENNSYLVANIA AV/SCHROEDERS AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+",
+            "MTA NYCT_B83",
+            "MTABC_BM2",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304087",
+        "direction": "NW",
+        "id": "MTA_304087",
+        "lat": 40.651709,
+        "locationType": 0,
+        "lon": -73.885341,
+        "name": "PENNSYLVANIA AV/VANDALIA AV",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304090",
+        "direction": "SW",
+        "id": "MTA_304090",
+        "lat": 40.649825,
+        "locationType": 0,
+        "lon": -73.891665,
+        "name": "FLATLANDS AV/WILLIAMS AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTABC_B103",
+            "MTABC_BM2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304091",
+        "direction": "SW",
+        "id": "MTA_304091",
+        "lat": 40.648698,
+        "locationType": 0,
+        "lon": -73.893083,
+        "name": "FLATLANDS AV/E 108 ST",
+        "routeIds": [
+            "MTA NYCT_B60",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304092",
+        "direction": "SW",
+        "id": "MTA_304092",
+        "lat": 40.647412,
+        "locationType": 0,
+        "lon": -73.895075,
+        "name": "FLATLANDS AV/E 105 ST",
+        "routeIds": [
+            "MTA NYCT_B60",
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304113",
+        "direction": "SW",
+        "id": "MTA_304113",
+        "lat": 40.630235,
+        "locationType": 0,
+        "lon": -73.921638,
+        "name": "FLATLANDS AV/E 57 ST",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304114",
+        "direction": "SW",
+        "id": "MTA_304114",
+        "lat": 40.628189,
+        "locationType": 0,
+        "lon": -73.924793,
+        "name": "FLATLANDS AV/AVENUE J",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "304115",
+        "direction": "SW",
+        "id": "MTA_304115",
+        "lat": 40.62602,
+        "locationType": 0,
+        "lon": -73.928138,
+        "name": "FLATLANDS AV/UTICA AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305544",
+        "direction": "E",
+        "id": "MTA_305544",
+        "lat": 40.576973,
+        "locationType": 0,
+        "lon": -73.981396,
+        "name": "MERMAID AV/STILLWELL AV",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306382",
+        "direction": "NE",
+        "id": "MTA_306382",
+        "lat": 40.646791,
+        "locationType": 0,
+        "lon": -73.899644,
+        "name": "GLENWOOD RD/E 100 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B60",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306452",
+        "direction": "NW",
+        "id": "MTA_306452",
+        "lat": 40.645187,
+        "locationType": 0,
+        "lon": -73.878555,
+        "name": "PENNSYLVANIA AV/HORNELL LOOP",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B83",
+            "MTABC_BM2",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306589",
+        "direction": "SW",
+        "id": "MTA_306589",
+        "lat": 40.643623,
+        "locationType": 0,
+        "lon": -73.900785,
+        "name": "FLATLANDS AV/ROCKAWAY PKWY",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B17",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306915",
+        "direction": "W",
+        "id": "MTA_306915",
+        "lat": 40.605846,
+        "locationType": 0,
+        "lon": -73.985364,
+        "name": "KINGS HWY/W 12 ST",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306949",
+        "direction": "NE",
+        "id": "MTA_306949",
+        "lat": 40.651737,
+        "locationType": 0,
+        "lon": -73.888339,
+        "name": "FLATLANDS AV/ALABAMA AV",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306950",
+        "direction": "SW",
+        "id": "MTA_306950",
+        "lat": 40.651136,
+        "locationType": 0,
+        "lon": -73.890168,
+        "name": "FLATLANDS AV/LOUISIANA AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307005",
+        "direction": "NE",
+        "id": "MTA_307005",
+        "lat": 40.650979,
+        "locationType": 0,
+        "lon": -73.890005,
+        "name": "FLATLANDS AV/LOUISIANA AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307107",
+        "direction": "SE",
+        "id": "MTA_307107",
+        "lat": 40.64438,
+        "locationType": 0,
+        "lon": -73.878008,
+        "name": "PENNSYLVANIA AV/SEAVIEW AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B83",
+            "MTABC_BM2",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307158",
+        "direction": "E",
+        "id": "MTA_307158",
+        "lat": 40.622058,
+        "locationType": 0,
+        "lon": -73.937036,
+        "name": "KINGS HWY/RYDER ST",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307206",
+        "direction": "SE",
+        "id": "MTA_307206",
+        "lat": 40.646144,
+        "locationType": 0,
+        "lon": -73.88011,
+        "name": "PENNSYLVANIA AV/GENEVA LOOP",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B83",
+            "MTABC_BM2",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307432",
+        "direction": "NW",
+        "id": "MTA_307432",
+        "lat": 40.643356,
+        "locationType": 0,
+        "lon": -73.901563,
+        "name": "E 96 ST/FLATLANDS AV",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307508",
+        "direction": "NE",
+        "id": "MTA_307508",
+        "lat": 40.625963,
+        "locationType": 0,
+        "lon": -73.927911,
+        "name": "FLATLANDS AV/UTICA AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307531",
+        "direction": "SW",
+        "id": "MTA_307531",
+        "lat": 40.624261,
+        "locationType": 0,
+        "lon": -73.930685,
+        "name": "FLATLANDS AV/SCHENECTADY AV",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307532",
+        "direction": "SW",
+        "id": "MTA_307532",
+        "lat": 40.622937,
+        "locationType": 0,
+        "lon": -73.932716,
+        "name": "FLATLANDS AV/AVENUE L",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307533",
+        "direction": "SW",
+        "id": "MTA_307533",
+        "lat": 40.621319,
+        "locationType": 0,
+        "lon": -73.935232,
+        "name": "FLATLANDS AV/FLATBUSH AV",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307534",
+        "direction": "NE",
+        "id": "MTA_307534",
+        "lat": 40.621408,
+        "locationType": 0,
+        "lon": -73.934998,
+        "name": "FLATLANDS AV/FLATBUSH AV",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307535",
+        "direction": "NE",
+        "id": "MTA_307535",
+        "lat": 40.622865,
+        "locationType": 0,
+        "lon": -73.932785,
+        "name": "FLATLANDS AV/TROY AV",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307539",
+        "direction": "SE",
+        "id": "MTA_307539",
+        "lat": 40.647608,
+        "locationType": 0,
+        "lon": -73.881733,
+        "name": "PENNSYLVANIA AV/SCHROEDERS AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307591",
+        "direction": "NE",
+        "id": "MTA_307591",
+        "lat": 40.624296,
+        "locationType": 0,
+        "lon": -73.930583,
+        "name": "FLATLANDS AV/SCHENECTADY AV",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307739",
+        "direction": "W",
+        "id": "MTA_307739",
+        "lat": 40.605596,
+        "locationType": 0,
+        "lon": -73.983466,
+        "name": "KINGS HWY/W 10 ST",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307742",
+        "direction": "NE",
+        "id": "MTA_307742",
+        "lat": 40.609038,
+        "locationType": 0,
+        "lon": -73.957521,
+        "name": "KINGS HWY/E 16 ST",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307983",
+        "direction": "SW",
+        "id": "MTA_307983",
+        "lat": 40.612821,
+        "locationType": 0,
+        "lon": -73.949455,
+        "name": "KINGS HWY/BEDFORD AV",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308002",
+        "direction": "SW",
+        "id": "MTA_308002",
+        "lat": 40.613806,
+        "locationType": 0,
+        "lon": -73.948116,
+        "name": "KINGS HWY/E 26 ST",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308004",
+        "direction": "NE",
+        "id": "MTA_308004",
+        "lat": 40.645456,
+        "locationType": 0,
+        "lon": -73.901761,
+        "name": "GLENWOOD RD/ROCKAWAY PKWY",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308017",
+        "direction": "NW",
+        "id": "MTA_308017",
+        "lat": 40.578275,
+        "locationType": 0,
+        "lon": -73.981718,
+        "name": "STILLWELL AV/NEPTUNE AV",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308044",
+        "direction": "SE",
+        "id": "MTA_308044",
+        "lat": 40.645075,
+        "locationType": 0,
+        "lon": -73.902291,
+        "name": "ROCKAWAY PKWY/GLENWOOD RD",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B42",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308047",
+        "direction": "NE",
+        "id": "MTA_308047",
+        "lat": 40.633944,
+        "locationType": 0,
+        "lon": -73.915509,
+        "name": "FLATLANDS AV/E 77 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308108",
+        "direction": "SW",
+        "id": "MTA_308108",
+        "lat": 40.618724,
+        "locationType": 0,
+        "lon": -73.942303,
+        "name": "KINGS HWY/NEW YORK AV",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308114",
+        "direction": "SW",
+        "id": "MTA_308114",
+        "lat": 40.646733,
+        "locationType": 0,
+        "lon": -73.896124,
+        "name": "FLATLANDS AV/E 103 ST",
+        "routeIds": [
+            "MTA NYCT_B60",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308160",
+        "direction": "SW",
+        "id": "MTA_308160",
+        "lat": 40.651993,
+        "locationType": 0,
+        "lon": -73.888364,
+        "name": "FLATLANDS AV/GEORGIA AV",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308195",
+        "direction": "E",
+        "id": "MTA_308195",
+        "lat": 40.605134,
+        "locationType": 0,
+        "lon": -73.980387,
+        "name": "KINGS HWY/W 7 ST",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308363",
+        "direction": "SW",
+        "id": "MTA_308363",
+        "lat": 40.634191,
+        "locationType": 0,
+        "lon": -73.915429,
+        "name": "FLATLANDS AV/E 78 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308365",
+        "direction": "NE",
+        "id": "MTA_308365",
+        "lat": 40.603843,
+        "locationType": 0,
+        "lon": -73.991688,
+        "name": "BAY PKWY/83 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308410",
+        "direction": "N",
+        "id": "MTA_308410",
+        "lat": 40.58137,
+        "locationType": 0,
+        "lon": -73.985657,
+        "name": "CROPSEY AV/HART PL",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308411",
+        "direction": "N",
+        "id": "MTA_308411",
+        "lat": 40.583358,
+        "locationType": 0,
+        "lon": -73.986269,
+        "name": "CROPSEY AV/CANAL AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_X28",
+            "MTA NYCT_X38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308412",
+        "direction": "S",
+        "id": "MTA_308412",
+        "lat": 40.58335,
+        "locationType": 0,
+        "lon": -73.986611,
+        "name": "CROPSEY AV/BAY 52 ST",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_X28",
+            "MTA NYCT_X38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308413",
+        "direction": "S",
+        "id": "MTA_308413",
+        "lat": 40.580668,
+        "locationType": 0,
+        "lon": -73.985699,
+        "name": "CROPSEY AV/HART PL",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308478",
+        "direction": "NW",
+        "id": "MTA_308478",
+        "lat": 40.577042,
+        "locationType": 0,
+        "lon": -73.981163,
+        "name": "STILLWELL TERMINAL/BUS LOOP",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308595",
+        "direction": "NW",
+        "id": "MTA_308595",
+        "lat": 40.597032,
+        "locationType": 0,
+        "lon": -73.998301,
+        "name": "CROPSEY AV/BAY 31 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B82",
+            "MTA NYCT_X28",
+            "MTA NYCT_X38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308850",
+        "direction": "NE",
+        "id": "MTA_308850",
+        "lat": 40.616049,
+        "locationType": 0,
+        "lon": -73.944742,
+        "name": "KINGS HWY/NOSTRAND AV",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308855",
+        "direction": "W",
+        "id": "MTA_308855",
+        "lat": 40.622122,
+        "locationType": 0,
+        "lon": -73.937456,
+        "name": "KINGS HWY/RYDER ST",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308864",
+        "direction": "NW",
+        "id": "MTA_308864",
+        "lat": 40.650558,
+        "locationType": 0,
+        "lon": -73.884532,
+        "name": "PENNSYLVANIA AV/VANDALIA AV",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308866",
+        "direction": "SW",
+        "id": "MTA_308866",
+        "lat": 40.647473,
+        "locationType": 0,
+        "lon": -73.8988,
+        "name": "GLENWOOD RD/E 102 ST",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308868",
+        "direction": "W",
+        "id": "MTA_308868",
+        "lat": 40.605326,
+        "locationType": 0,
+        "lon": -73.980974,
+        "name": "KINGS HWY/W 8 ST",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308903",
+        "direction": "SW",
+        "id": "MTA_308903",
+        "lat": 40.645679,
+        "locationType": 0,
+        "lon": -73.902111,
+        "name": "ROCKAWAY PKWY/SUBWAY STATION",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801081",
+        "direction": "S",
+        "id": "MTA_801081",
+        "lat": 40.578785,
+        "locationType": 0,
+        "lon": -73.985273,
+        "name": "W 17 ST/NEPTUNE AV",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801192",
+        "direction": "NW",
+        "id": "MTA_801192",
+        "lat": 40.593774,
+        "locationType": 0,
+        "lon": -73.994363,
+        "name": "CROPSEY AV/BAY 37 ST",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901080",
+        "direction": "SW",
+        "id": "MTA_901080",
+        "lat": 40.642968,
+        "locationType": 0,
+        "lon": -73.878269,
+        "name": "SEAVIEW AV/PENNSYLVANIA AV",
+        "routeIds": [
+            "MTA NYCT_B82",
+            "MTA NYCT_B82+",
+            "MTA NYCT_B83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901090",
+        "direction": "SW",
+        "id": "MTA_901090",
+        "lat": 40.620145,
+        "locationType": 0,
+        "lon": -73.941484,
+        "name": "KINGS HWY/FRASER SQ",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901096",
+        "direction": "NE",
+        "id": "MTA_901096",
+        "lat": 40.619832,
+        "locationType": 0,
+        "lon": -73.940893,
+        "name": "KINGS HWY/FRASER SQ",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901469",
+        "direction": "SE",
+        "id": "MTA_901469",
+        "lat": 40.593014,
+        "locationType": 0,
+        "lon": -73.993795,
+        "name": "CROPSEY AV/BAY 38 ST",
+        "routeIds": [
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

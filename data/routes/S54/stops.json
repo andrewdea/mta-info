@@ -1,0 +1,1924 @@
+[
+    {
+        "code": "200063",
+        "direction": "SW",
+        "id": "MTA_200063",
+        "lat": 40.641451,
+        "locationType": 0,
+        "lon": -74.116263,
+        "name": "RICHMOND TERR/NORTH BURGHER AV",
+        "routeIds": [
+            "MTA NYCT_S40",
+            "MTA NYCT_S54",
+            "MTA NYCT_S90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200263",
+        "direction": "E",
+        "id": "MTA_200263",
+        "lat": 40.634047,
+        "locationType": 0,
+        "lon": -74.122725,
+        "name": "CASTLETON AV/TAYLOR ST",
+        "routeIds": [
+            "MTA NYCT_S46",
+            "MTA NYCT_S53",
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200266",
+        "direction": "E",
+        "id": "MTA_200266",
+        "lat": 40.6345,
+        "locationType": 0,
+        "lon": -74.117325,
+        "name": "CASTLETON AV/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_S46",
+            "MTA NYCT_S53",
+            "MTA NYCT_S54",
+            "MTA NYCT_S96"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200311",
+        "direction": "W",
+        "id": "MTA_200311",
+        "lat": 40.634487,
+        "locationType": 0,
+        "lon": -74.119274,
+        "name": "CASTLETON AV/CAROLINE ST",
+        "routeIds": [
+            "MTA NYCT_S46",
+            "MTA NYCT_S53",
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200312",
+        "direction": "W",
+        "id": "MTA_200312",
+        "lat": 40.634238,
+        "locationType": 0,
+        "lon": -74.121612,
+        "name": "CASTLETON AV/BARKER ST",
+        "routeIds": [
+            "MTA NYCT_S46",
+            "MTA NYCT_S53",
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200313",
+        "direction": "W",
+        "id": "MTA_200313",
+        "lat": 40.634104,
+        "locationType": 0,
+        "lon": -74.123446,
+        "name": "CASTLETON AV/TAYLOR ST",
+        "routeIds": [
+            "MTA NYCT_S46",
+            "MTA NYCT_S53",
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200314",
+        "direction": "W",
+        "id": "MTA_200314",
+        "lat": 40.633917,
+        "locationType": 0,
+        "lon": -74.125845,
+        "name": "CASTLETON AV/CLOVE RD",
+        "routeIds": [
+            "MTA NYCT_S46",
+            "MTA NYCT_S53",
+            "MTA NYCT_S54",
+            "MTA NYCT_S96"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200341",
+        "direction": "W",
+        "id": "MTA_200341",
+        "lat": 40.574683,
+        "locationType": 0,
+        "lon": -74.12957,
+        "name": "RICHMOND RD/McCULLY AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200342",
+        "direction": "W",
+        "id": "MTA_200342",
+        "lat": 40.574082,
+        "locationType": 0,
+        "lon": -74.131314,
+        "name": "RICHMOND RD/HITCHCOCK AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200343",
+        "direction": "W",
+        "id": "MTA_200343",
+        "lat": 40.573238,
+        "locationType": 0,
+        "lon": -74.134995,
+        "name": "RICHMOND RD/WILDER AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200350",
+        "direction": "S",
+        "id": "MTA_200350",
+        "lat": 40.571816,
+        "locationType": 0,
+        "lon": -74.147224,
+        "name": "ARTHUR KILL RD/CENTER ST",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200357",
+        "direction": "SE",
+        "id": "MTA_200357",
+        "lat": 40.559067,
+        "locationType": 0,
+        "lon": -74.153908,
+        "name": "GIFFORDS LN/BARLOW AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200358",
+        "direction": "SE",
+        "id": "MTA_200358",
+        "lat": 40.557037,
+        "locationType": 0,
+        "lon": -74.152954,
+        "name": "GIFFORDS LN/LEVERETT AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200359",
+        "direction": "SE",
+        "id": "MTA_200359",
+        "lat": 40.555286,
+        "locationType": 0,
+        "lon": -74.152234,
+        "name": "GIFFORDS LN/WOODLAND AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM6"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200361",
+        "direction": "SE",
+        "id": "MTA_200361",
+        "lat": 40.550038,
+        "locationType": 0,
+        "lon": -74.150987,
+        "name": "NELSON AV/AMBOY RD",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM6"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200362",
+        "direction": "SE",
+        "id": "MTA_200362",
+        "lat": 40.5472,
+        "locationType": 0,
+        "lon": -74.149919,
+        "name": "NELSON AV/BELDEN ST",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200363",
+        "direction": "SE",
+        "id": "MTA_200363",
+        "lat": 40.544923,
+        "locationType": 0,
+        "lon": -74.148604,
+        "name": "NELSON AV/HILLCREST ST",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM6"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200364",
+        "direction": "SE",
+        "id": "MTA_200364",
+        "lat": 40.543516,
+        "locationType": 0,
+        "lon": -74.147684,
+        "name": "NELSON AV/DRIGGS ST",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200367",
+        "direction": "SW",
+        "id": "MTA_200367",
+        "lat": 40.539628,
+        "locationType": 0,
+        "lon": -74.148405,
+        "name": "HYLAN BLVD/OSBORNE AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200368",
+        "direction": "SW",
+        "id": "MTA_200368",
+        "lat": 40.537497,
+        "locationType": 0,
+        "lon": -74.150362,
+        "name": "HYLAN BLVD/ARMSTRONG AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S78",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM7",
+            "MTA NYCT_SIM9",
+            "MTA NYCT_SIM10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200479",
+        "direction": "NE",
+        "id": "MTA_200479",
+        "lat": 40.5356,
+        "locationType": 0,
+        "lon": -74.152275,
+        "name": "HYLAN BLVD/WINCHESTER AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S78",
+            "MTA NYCT_S79+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200480",
+        "direction": "NE",
+        "id": "MTA_200480",
+        "lat": 40.536515,
+        "locationType": 0,
+        "lon": -74.151212,
+        "name": "HYLAN BLVD/LITTLEFIELD AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200484",
+        "direction": "NW",
+        "id": "MTA_200484",
+        "lat": 40.542676,
+        "locationType": 0,
+        "lon": -74.146084,
+        "name": "NELSON AV/HYLAN BLVD",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM6"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200486",
+        "direction": "NW",
+        "id": "MTA_200486",
+        "lat": 40.545058,
+        "locationType": 0,
+        "lon": -74.14854,
+        "name": "NELSON AV/MONTICELLO TERR",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM6"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200487",
+        "direction": "NW",
+        "id": "MTA_200487",
+        "lat": 40.547411,
+        "locationType": 0,
+        "lon": -74.149822,
+        "name": "NELSON AV/BELDEN ST",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200488",
+        "direction": "N",
+        "id": "MTA_200488",
+        "lat": 40.549872,
+        "locationType": 0,
+        "lon": -74.150666,
+        "name": "NELSON AV/AMBOY RD",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM6"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200490",
+        "direction": "NW",
+        "id": "MTA_200490",
+        "lat": 40.553552,
+        "locationType": 0,
+        "lon": -74.151193,
+        "name": "GIFFORDS LN/KATAN AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200491",
+        "direction": "NW",
+        "id": "MTA_200491",
+        "lat": 40.555681,
+        "locationType": 0,
+        "lon": -74.152216,
+        "name": "GIFFORDS LN/GIBSON AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM6"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200492",
+        "direction": "NW",
+        "id": "MTA_200492",
+        "lat": 40.557117,
+        "locationType": 0,
+        "lon": -74.152847,
+        "name": "GIFFORDS LN/LEVERETT AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200496",
+        "direction": "NE",
+        "id": "MTA_200496",
+        "lat": 40.563968,
+        "locationType": 0,
+        "lon": -74.155575,
+        "name": "ARTHUR KILL RD/GIFFORDS LN",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200507",
+        "direction": "E",
+        "id": "MTA_200507",
+        "lat": 40.573193,
+        "locationType": 0,
+        "lon": -74.134276,
+        "name": "RICHMOND RD/WILDER AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200508",
+        "direction": "E",
+        "id": "MTA_200508",
+        "lat": 40.57367,
+        "locationType": 0,
+        "lon": -74.131991,
+        "name": "RICHMOND RD/ALTOONA AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200509",
+        "direction": "E",
+        "id": "MTA_200509",
+        "lat": 40.574758,
+        "locationType": 0,
+        "lon": -74.128692,
+        "name": "RICHMOND RD/BISHOP ST",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201141",
+        "direction": "SW",
+        "id": "MTA_201141",
+        "lat": 40.542228,
+        "locationType": 0,
+        "lon": -74.146245,
+        "name": "HYLAN BLVD/NELSON AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S78",
+            "MTA NYCT_S79+",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM7",
+            "MTA NYCT_SIM9",
+            "MTA NYCT_SIM10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201363",
+        "direction": "SW",
+        "id": "MTA_201363",
+        "lat": 40.597129,
+        "locationType": 0,
+        "lon": -74.133157,
+        "name": "BRIELLE AV/ROANOKE ST",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S57"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201366",
+        "direction": "SW",
+        "id": "MTA_201366",
+        "lat": 40.589135,
+        "locationType": 0,
+        "lon": -74.138714,
+        "name": "BRIELLE AV/ROCKLAND AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S57"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201369",
+        "direction": "SE",
+        "id": "MTA_201369",
+        "lat": 40.582631,
+        "locationType": 0,
+        "lon": -74.130374,
+        "name": "ROCKLAND AV/MEISNER AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S57"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201370",
+        "direction": "SE",
+        "id": "MTA_201370",
+        "lat": 40.579634,
+        "locationType": 0,
+        "lon": -74.127528,
+        "name": "ROCKLAND AV/NEVADA AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S57"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201462",
+        "direction": "N",
+        "id": "MTA_201462",
+        "lat": 40.577467,
+        "locationType": 0,
+        "lon": -74.12716,
+        "name": "ROCKLAND AV/SAINT GEORGE RD",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S57"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201463",
+        "direction": "NW",
+        "id": "MTA_201463",
+        "lat": 40.579709,
+        "locationType": 0,
+        "lon": -74.127388,
+        "name": "ROCKLAND AV/NEVADA AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S57"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201464",
+        "direction": "NW",
+        "id": "MTA_201464",
+        "lat": 40.581074,
+        "locationType": 0,
+        "lon": -74.128456,
+        "name": "ROCKLAND AV/FLORIDA TERR",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S57"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201465",
+        "direction": "NW",
+        "id": "MTA_201465",
+        "lat": 40.583109,
+        "locationType": 0,
+        "lon": -74.130591,
+        "name": "ROCKLAND AV/MANOR RD",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S57"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201684",
+        "direction": "E",
+        "id": "MTA_201684",
+        "lat": 40.59859,
+        "locationType": 0,
+        "lon": -74.130348,
+        "name": "BRIELLE AV/BRADLEY AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201685",
+        "direction": "E",
+        "id": "MTA_201685",
+        "lat": 40.598342,
+        "locationType": 0,
+        "lon": -74.128154,
+        "name": "BRIELLE AV/LIVINGSTON AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201686",
+        "direction": "E",
+        "id": "MTA_201686",
+        "lat": 40.598076,
+        "locationType": 0,
+        "lon": -74.125586,
+        "name": "BRIELLE AV/GANSEVOORT BLVD",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S57",
+            "MTA NYCT_S61"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201687",
+        "direction": "NE",
+        "id": "MTA_201687",
+        "lat": 40.598993,
+        "locationType": 0,
+        "lon": -74.123273,
+        "name": "BRIELLE AV/MANOR RD",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201688",
+        "direction": "N",
+        "id": "MTA_201688",
+        "lat": 40.602056,
+        "locationType": 0,
+        "lon": -74.120549,
+        "name": "MANOR RD/OCEAN TERR",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201689",
+        "direction": "N",
+        "id": "MTA_201689",
+        "lat": 40.603299,
+        "locationType": 0,
+        "lon": -74.120569,
+        "name": "MANOR RD/CROAK AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201690",
+        "direction": "N",
+        "id": "MTA_201690",
+        "lat": 40.604831,
+        "locationType": 0,
+        "lon": -74.120741,
+        "name": "MANOR RD/TILLMAN ST",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201691",
+        "direction": "N",
+        "id": "MTA_201691",
+        "lat": 40.60667,
+        "locationType": 0,
+        "lon": -74.120845,
+        "name": "MANOR RD/WESTWOOD AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201692",
+        "direction": "N",
+        "id": "MTA_201692",
+        "lat": 40.608712,
+        "locationType": 0,
+        "lon": -74.121054,
+        "name": "MANOR RD/SCHMIDTS LN",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201693",
+        "direction": "NW",
+        "id": "MTA_201693",
+        "lat": 40.610497,
+        "locationType": 0,
+        "lon": -74.121388,
+        "name": "MANOR RD/NORTH GANNON AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201694",
+        "direction": "N",
+        "id": "MTA_201694",
+        "lat": 40.612951,
+        "locationType": 0,
+        "lon": -74.122452,
+        "name": "MANOR RD/VICTORY BLVD",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201695",
+        "direction": "N",
+        "id": "MTA_201695",
+        "lat": 40.614544,
+        "locationType": 0,
+        "lon": -74.122517,
+        "name": "MANOR RD/DONGAN AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201696",
+        "direction": "NW",
+        "id": "MTA_201696",
+        "lat": 40.615879,
+        "locationType": 0,
+        "lon": -74.123101,
+        "name": "MANOR RD/STURGES ST",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201697",
+        "direction": "N",
+        "id": "MTA_201697",
+        "lat": 40.617273,
+        "locationType": 0,
+        "lon": -74.123503,
+        "name": "MANOR RD/RICE AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201698",
+        "direction": "N",
+        "id": "MTA_201698",
+        "lat": 40.619038,
+        "locationType": 0,
+        "lon": -74.123261,
+        "name": "MANOR RD/DRAKE AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201699",
+        "direction": "NW",
+        "id": "MTA_201699",
+        "lat": 40.621293,
+        "locationType": 0,
+        "lon": -74.123751,
+        "name": "MANOR RD/MARTLING AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201700",
+        "direction": "N",
+        "id": "MTA_201700",
+        "lat": 40.622567,
+        "locationType": 0,
+        "lon": -74.1243,
+        "name": "MANOR RD/KINGSLEY AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201701",
+        "direction": "N",
+        "id": "MTA_201701",
+        "lat": 40.624636,
+        "locationType": 0,
+        "lon": -74.124678,
+        "name": "MANOR RD/CURTIS AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201711",
+        "direction": "N",
+        "id": "MTA_201711",
+        "lat": 40.63686,
+        "locationType": 0,
+        "lon": -74.117441,
+        "name": "BROADWAY/HENDERSON AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201712",
+        "direction": "N",
+        "id": "MTA_201712",
+        "lat": 40.63795,
+        "locationType": 0,
+        "lon": -74.11754,
+        "name": "BROADWAY/WAYNE ST",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201713",
+        "direction": "E",
+        "id": "MTA_201713",
+        "lat": 40.638243,
+        "locationType": 0,
+        "lon": -74.115277,
+        "name": "WAYNE ST/NORTH BURGHER AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201719",
+        "direction": "S",
+        "id": "MTA_201719",
+        "lat": 40.638158,
+        "locationType": 0,
+        "lon": -74.11776,
+        "name": "BROADWAY/WAYNE ST",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201720",
+        "direction": "S",
+        "id": "MTA_201720",
+        "lat": 40.636652,
+        "locationType": 0,
+        "lon": -74.117696,
+        "name": "BROADWAY/HENDERSON AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201721",
+        "direction": "S",
+        "id": "MTA_201721",
+        "lat": 40.634711,
+        "locationType": 0,
+        "lon": -74.117365,
+        "name": "BROADWAY/CASTLETON AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201730",
+        "direction": "S",
+        "id": "MTA_201730",
+        "lat": 40.623763,
+        "locationType": 0,
+        "lon": -74.124792,
+        "name": "MANOR RD/RAVENHURST AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201731",
+        "direction": "SE",
+        "id": "MTA_201731",
+        "lat": 40.622009,
+        "locationType": 0,
+        "lon": -74.124291,
+        "name": "MANOR RD/KINGSLEY AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201732",
+        "direction": "S",
+        "id": "MTA_201732",
+        "lat": 40.620679,
+        "locationType": 0,
+        "lon": -74.123709,
+        "name": "MANOR RD/MAINE AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201733",
+        "direction": "S",
+        "id": "MTA_201733",
+        "lat": 40.619296,
+        "locationType": 0,
+        "lon": -74.123512,
+        "name": "MANOR RD/CONSTANT AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201734",
+        "direction": "S",
+        "id": "MTA_201734",
+        "lat": 40.617558,
+        "locationType": 0,
+        "lon": -74.123732,
+        "name": "MANOR RD/JOAN PL",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201735",
+        "direction": "SE",
+        "id": "MTA_201735",
+        "lat": 40.616077,
+        "locationType": 0,
+        "lon": -74.123461,
+        "name": "MANOR RD/CROWELL AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201736",
+        "direction": "S",
+        "id": "MTA_201736",
+        "lat": 40.614653,
+        "locationType": 0,
+        "lon": -74.122782,
+        "name": "MANOR RD/DONGAN AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201737",
+        "direction": "S",
+        "id": "MTA_201737",
+        "lat": 40.6132,
+        "locationType": 0,
+        "lon": -74.122715,
+        "name": "MANOR RD/VICTORY BLVD",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201738",
+        "direction": "S",
+        "id": "MTA_201738",
+        "lat": 40.609994,
+        "locationType": 0,
+        "lon": -74.121414,
+        "name": "MANOR RD/NORTH GANNON AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201739",
+        "direction": "S",
+        "id": "MTA_201739",
+        "lat": 40.608528,
+        "locationType": 0,
+        "lon": -74.121205,
+        "name": "MANOR RD/SCHMIDTS LN",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201740",
+        "direction": "S",
+        "id": "MTA_201740",
+        "lat": 40.606466,
+        "locationType": 0,
+        "lon": -74.121007,
+        "name": "MANOR RD/WESTWOOD AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201741",
+        "direction": "S",
+        "id": "MTA_201741",
+        "lat": 40.604287,
+        "locationType": 0,
+        "lon": -74.120942,
+        "name": "MANOR RD/HOLDEN BLVD",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201742",
+        "direction": "S",
+        "id": "MTA_201742",
+        "lat": 40.602709,
+        "locationType": 0,
+        "lon": -74.120824,
+        "name": "MANOR RD/QUEEN ST",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201743",
+        "direction": "S",
+        "id": "MTA_201743",
+        "lat": 40.601575,
+        "locationType": 0,
+        "lon": -74.120757,
+        "name": "MANOR RD/HAROLD ST",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201744",
+        "direction": "SW",
+        "id": "MTA_201744",
+        "lat": 40.599336,
+        "locationType": 0,
+        "lon": -74.123075,
+        "name": "BRIELLE AV/GOWER ST",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201745",
+        "direction": "W",
+        "id": "MTA_201745",
+        "lat": 40.598213,
+        "locationType": 0,
+        "lon": -74.125675,
+        "name": "BRIELLE AV/GANSEVOORT BLVD",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201746",
+        "direction": "W",
+        "id": "MTA_201746",
+        "lat": 40.598488,
+        "locationType": 0,
+        "lon": -74.12787,
+        "name": "BRIELLE AV/LIVINGSTON AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201747",
+        "direction": "W",
+        "id": "MTA_201747",
+        "lat": 40.598699,
+        "locationType": 0,
+        "lon": -74.130557,
+        "name": "BRIELLE AV/BRADLEY AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202103",
+        "direction": "NE",
+        "id": "MTA_202103",
+        "lat": 40.566047,
+        "locationType": 0,
+        "lon": -74.153706,
+        "name": "ARTHUR KILL RD/GREAVES AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202546",
+        "direction": "NE",
+        "id": "MTA_202546",
+        "lat": 40.597245,
+        "locationType": 0,
+        "lon": -74.132625,
+        "name": "BRIELLE AV/ROANOKE ST",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S57"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202586",
+        "direction": "S",
+        "id": "MTA_202586",
+        "lat": 40.639838,
+        "locationType": 0,
+        "lon": -74.11794,
+        "name": "BROADWAY/RICHMOND TERR",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202611",
+        "direction": "SW",
+        "id": "MTA_202611",
+        "lat": 40.566708,
+        "locationType": 0,
+        "lon": -74.153134,
+        "name": "ARTHUR KILL RD/CORBIN AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202651",
+        "direction": "E",
+        "id": "MTA_202651",
+        "lat": 40.572037,
+        "locationType": 0,
+        "lon": -74.143805,
+        "name": "RICHMOND RD/ST PATRICKS PL",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202664",
+        "direction": "SW",
+        "id": "MTA_202664",
+        "lat": 40.536319,
+        "locationType": 0,
+        "lon": -74.151798,
+        "name": "HYLAN BLVD/PACIFIC AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202665",
+        "direction": "SW",
+        "id": "MTA_202665",
+        "lat": 40.53529,
+        "locationType": 0,
+        "lon": -74.152943,
+        "name": "HYLAN BLVD/WINCHESTER AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202678",
+        "direction": "W",
+        "id": "MTA_202678",
+        "lat": 40.589058,
+        "locationType": 0,
+        "lon": -74.138471,
+        "name": "ROCKLAND AV/BRIELLE AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S57"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202724",
+        "direction": "NE",
+        "id": "MTA_202724",
+        "lat": 40.56699,
+        "locationType": 0,
+        "lon": -74.152587,
+        "name": "ARTHUR KILL RD/CORBIN AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202725",
+        "direction": "SW",
+        "id": "MTA_202725",
+        "lat": 40.568674,
+        "locationType": 0,
+        "lon": -74.150795,
+        "name": "ARTHUR KILL RD/FRANKLIN LN",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202726",
+        "direction": "SW",
+        "id": "MTA_202726",
+        "lat": 40.565163,
+        "locationType": 0,
+        "lon": -74.155103,
+        "name": "ARTHUR KILL RD/MILES AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202800",
+        "direction": "NE",
+        "id": "MTA_202800",
+        "lat": 40.570486,
+        "locationType": 0,
+        "lon": -74.148319,
+        "name": "ARTHUR KILL RD/UNITED HEBREW CEMETERY",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202933",
+        "direction": "W",
+        "id": "MTA_202933",
+        "lat": 40.572831,
+        "locationType": 0,
+        "lon": -74.138458,
+        "name": "RICHMOND RD/SPRUCE ST",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202978",
+        "direction": "N",
+        "id": "MTA_202978",
+        "lat": 40.626966,
+        "locationType": 0,
+        "lon": -74.125006,
+        "name": "MANOR RD/FOREST AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203009",
+        "direction": "NE",
+        "id": "MTA_203009",
+        "lat": 40.594363,
+        "locationType": 0,
+        "lon": -74.135093,
+        "name": "BRIELLE AV/BABE RUTH FIELD",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203028",
+        "direction": "S",
+        "id": "MTA_203028",
+        "lat": 40.577727,
+        "locationType": 0,
+        "lon": -74.127328,
+        "name": "ROCKLAND AV/SAINT GEORGE RD",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S57"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203030",
+        "direction": "NW",
+        "id": "MTA_203030",
+        "lat": 40.631602,
+        "locationType": 0,
+        "lon": -74.124745,
+        "name": "CLOVE RD/CARY AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203031",
+        "direction": "N",
+        "id": "MTA_203031",
+        "lat": 40.633742,
+        "locationType": 0,
+        "lon": -74.125859,
+        "name": "CLOVE RD/CASTLETON AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203047",
+        "direction": "SE",
+        "id": "MTA_203047",
+        "lat": 40.631802,
+        "locationType": 0,
+        "lon": -74.125012,
+        "name": "CLOVE RD/POST AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203048",
+        "direction": "SE",
+        "id": "MTA_203048",
+        "lat": 40.629314,
+        "locationType": 0,
+        "lon": -74.123408,
+        "name": "CLOVE RD/DELAFIELD AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203049",
+        "direction": "S",
+        "id": "MTA_203049",
+        "lat": 40.626832,
+        "locationType": 0,
+        "lon": -74.125208,
+        "name": "MANOR RD/FOREST AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203113",
+        "direction": "NE",
+        "id": "MTA_203113",
+        "lat": 40.568815,
+        "locationType": 0,
+        "lon": -74.150335,
+        "name": "ARTHUR KILL RD/NEWVALE AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203146",
+        "direction": "SE",
+        "id": "MTA_203146",
+        "lat": 40.563349,
+        "locationType": 0,
+        "lon": -74.155799,
+        "name": "GIFFORDS LN/ARTHUR KILL RD",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203147",
+        "direction": "SE",
+        "id": "MTA_203147",
+        "lat": 40.561194,
+        "locationType": 0,
+        "lon": -74.154863,
+        "name": "GIFFORDS LN/GURLEY AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203148",
+        "direction": "W",
+        "id": "MTA_203148",
+        "lat": 40.62833,
+        "locationType": 0,
+        "lon": -74.125366,
+        "name": "DELAFIELD AV/MANOR RD",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203208",
+        "direction": "SW",
+        "id": "MTA_203208",
+        "lat": 40.570945,
+        "locationType": 0,
+        "lon": -74.147924,
+        "name": "ARTHUR KILL RD/UNITED HEBREW CEMETERY",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203214",
+        "direction": "NW",
+        "id": "MTA_203214",
+        "lat": 40.559697,
+        "locationType": 0,
+        "lon": -74.153996,
+        "name": "GIFFORDS LN/BARLOW AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203215",
+        "direction": "NW",
+        "id": "MTA_203215",
+        "lat": 40.561686,
+        "locationType": 0,
+        "lon": -74.154875,
+        "name": "GIFFORDS LN/GURLEY AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203361",
+        "direction": "NE",
+        "id": "MTA_203361",
+        "lat": 40.539861,
+        "locationType": 0,
+        "lon": -74.147927,
+        "name": "HYLAN BLVD/GOODALL ST",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S78"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203399",
+        "direction": "NE",
+        "id": "MTA_203399",
+        "lat": 40.537571,
+        "locationType": 0,
+        "lon": -74.149984,
+        "name": "HYLAN BLVD/ARMSTRONG AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S78",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM7",
+            "MTA NYCT_SIM9",
+            "MTA NYCT_SIM10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203404",
+        "direction": "S",
+        "id": "MTA_203404",
+        "lat": 40.551808,
+        "locationType": 0,
+        "lon": -74.1507,
+        "name": "GIFFORDS LN/BALTIMORE ST",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203453",
+        "direction": "SW",
+        "id": "MTA_203453",
+        "lat": 40.594673,
+        "locationType": 0,
+        "lon": -74.135086,
+        "name": "BRIELLE AV/BABE RUTH FIELD",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203460",
+        "direction": "N",
+        "id": "MTA_203460",
+        "lat": 40.551887,
+        "locationType": 0,
+        "lon": -74.150538,
+        "name": "GIFFORDS LN/BALTIMORE ST",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203463",
+        "direction": "NW",
+        "id": "MTA_203463",
+        "lat": 40.533924,
+        "locationType": 0,
+        "lon": -74.154134,
+        "name": "HYLAN BLVD/RICHMOND AV (LOT)",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S59",
+            "MTA NYCT_S89"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203602",
+        "direction": "S",
+        "id": "MTA_203602",
+        "lat": 40.552998,
+        "locationType": 0,
+        "lon": -74.151152,
+        "name": "GIFFORDS LN/KATAN AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203625",
+        "direction": "E",
+        "id": "MTA_203625",
+        "lat": 40.572539,
+        "locationType": 0,
+        "lon": -74.139746,
+        "name": "RICHMOND RD/MCKINLEY AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203643",
+        "direction": "E",
+        "id": "MTA_203643",
+        "lat": 40.629154,
+        "locationType": 0,
+        "lon": -74.123257,
+        "name": "DELAFIELD AV/CLOVE RD",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203644",
+        "direction": "E",
+        "id": "MTA_203644",
+        "lat": 40.572927,
+        "locationType": 0,
+        "lon": -74.136482,
+        "name": "RICHMOND RD/ANDREWS AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203646",
+        "direction": "W",
+        "id": "MTA_203646",
+        "lat": 40.572036,
+        "locationType": 0,
+        "lon": -74.146706,
+        "name": "RICHMOND RD/ST PATRICKS PL",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203651",
+        "direction": "NW",
+        "id": "MTA_203651",
+        "lat": 40.587751,
+        "locationType": 0,
+        "lon": -74.13636,
+        "name": "ROCKLAND AV/MANOR RD",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203655",
+        "direction": "NE",
+        "id": "MTA_203655",
+        "lat": 40.571396,
+        "locationType": 0,
+        "lon": -74.147209,
+        "name": "ARTHUR KILL RD/CENTER ST",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S74"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203662",
+        "direction": "SE",
+        "id": "MTA_203662",
+        "lat": 40.592997,
+        "locationType": 0,
+        "lon": -74.134377,
+        "name": "SEAVIEW HOSPITAL/TRAFFIC LOOP",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S57"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203663",
+        "direction": "S",
+        "id": "MTA_203663",
+        "lat": 40.591421,
+        "locationType": 0,
+        "lon": -74.132451,
+        "name": "SEAVIEW HOSPITAL/DR E ROBITZEK BUILDING",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S57"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203664",
+        "direction": "NW",
+        "id": "MTA_203664",
+        "lat": 40.593266,
+        "locationType": 0,
+        "lon": -74.134187,
+        "name": "SEAVIEW HOSPITAL EXIT/TRAFFIC LOOP",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S57"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203682",
+        "direction": "N",
+        "id": "MTA_203682",
+        "lat": 40.576212,
+        "locationType": 0,
+        "lon": -74.126992,
+        "name": "RICHMOND RD/ROCKLAND AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203757",
+        "direction": "W",
+        "id": "MTA_203757",
+        "lat": 40.572485,
+        "locationType": 0,
+        "lon": -74.141554,
+        "name": "RICHMOND RD/LIGHTHOUSE AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203786",
+        "direction": "W",
+        "id": "MTA_203786",
+        "lat": 40.573058,
+        "locationType": 0,
+        "lon": -74.136749,
+        "name": "RICHMOND RD/AULTMAN AV",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_SIM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203973",
+        "direction": "S",
+        "id": "MTA_203973",
+        "lat": 40.592386,
+        "locationType": 0,
+        "lon": -74.130793,
+        "name": "SEAVIEW HOSPITAL/PARK LN",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S57"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "204019",
+        "direction": "E",
+        "id": "MTA_204019",
+        "lat": 40.634264,
+        "locationType": 0,
+        "lon": -74.119979,
+        "name": "CASTLETON AV/ALASKA ST",
+        "routeIds": [
+            "MTA NYCT_S46",
+            "MTA NYCT_S53",
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "805010",
+        "direction": "SE",
+        "id": "MTA_805010",
+        "lat": 40.592923,
+        "locationType": 0,
+        "lon": -74.134134,
+        "name": "SEAVIEW HOSPITAL/TRAFFIC LOOP",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S57"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "805011",
+        "direction": "S",
+        "id": "MTA_805011",
+        "lat": 40.591517,
+        "locationType": 0,
+        "lon": -74.132512,
+        "name": "SEAVIEW HOSPITAL/DR E ROBITZEK BUILDING",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S57"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "805012",
+        "direction": "NW",
+        "id": "MTA_805012",
+        "lat": 40.593099,
+        "locationType": 0,
+        "lon": -74.133898,
+        "name": "SEAVIEW HOSPITAL EXIT/TRAFFIC LOOP",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S57"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "905106",
+        "direction": "S",
+        "id": "MTA_905106",
+        "lat": 40.640208,
+        "locationType": 0,
+        "lon": -74.118016,
+        "name": "BROADWAY/RICHMOND TERR",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "905107",
+        "direction": "E",
+        "id": "MTA_905107",
+        "lat": 40.533357,
+        "locationType": 0,
+        "lon": -74.154253,
+        "name": "HYLAN BLVD/RICHMOND AV",
+        "routeIds": [
+            "MTA NYCT_S54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "905182",
+        "direction": "S",
+        "id": "MTA_905182",
+        "lat": 40.592552,
+        "locationType": 0,
+        "lon": -74.130589,
+        "name": "SEAVIEW HOSPITAL/PARK LN",
+        "routeIds": [
+            "MTA NYCT_S54",
+            "MTA NYCT_S57"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

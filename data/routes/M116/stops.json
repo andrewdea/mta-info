@@ -1,0 +1,582 @@
+[
+    {
+        "code": "400394",
+        "direction": "NE",
+        "id": "MTA_400394",
+        "lat": 40.804877,
+        "locationType": 0,
+        "lon": -73.956842,
+        "name": "MANHATTAN AV/W 116 ST",
+        "routeIds": [
+            "MTA NYCT_M7",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400482",
+        "direction": "SW",
+        "id": "MTA_400482",
+        "lat": 40.804751,
+        "locationType": 0,
+        "lon": -73.957121,
+        "name": "MANHATTAN AV/W 116 ST",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M7",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400483",
+        "direction": "SW",
+        "id": "MTA_400483",
+        "lat": 40.803829,
+        "locationType": 0,
+        "lon": -73.957789,
+        "name": "MANHATTAN AV/W 114 ST",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M7",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400484",
+        "direction": "SW",
+        "id": "MTA_400484",
+        "lat": 40.802216,
+        "locationType": 0,
+        "lon": -73.958968,
+        "name": "MANHATTAN AV/W 112 ST",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M7",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401036",
+        "direction": "SE",
+        "id": "MTA_401036",
+        "lat": 40.800184,
+        "locationType": 0,
+        "lon": -73.965359,
+        "name": "W 106 ST/AMSTERDAM AV",
+        "routeIds": [
+            "MTA NYCT_M7",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401037",
+        "direction": "SE",
+        "id": "MTA_401037",
+        "lat": 40.798989,
+        "locationType": 0,
+        "lon": -73.962527,
+        "name": "W 106 ST/COLUMBUS AV",
+        "routeIds": [
+            "MTA NYCT_M7",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401038",
+        "direction": "NE",
+        "id": "MTA_401038",
+        "lat": 40.798937,
+        "locationType": 0,
+        "lon": -73.96118,
+        "name": "MANHATTAN AV/W 106 ST",
+        "routeIds": [
+            "MTA NYCT_M7",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401039",
+        "direction": "NE",
+        "id": "MTA_401039",
+        "lat": 40.800471,
+        "locationType": 0,
+        "lon": -73.960056,
+        "name": "MANHATTAN AV/W 109 ST",
+        "routeIds": [
+            "MTA NYCT_M7",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401044",
+        "direction": "SE",
+        "id": "MTA_401044",
+        "lat": 40.804229,
+        "locationType": 0,
+        "lon": -73.955203,
+        "name": "W 116 ST/FREDERICK DOUGLASS BLVD",
+        "routeIds": [
+            "MTA NYCT_M7",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401045",
+        "direction": "SE",
+        "id": "MTA_401045",
+        "lat": 40.802908,
+        "locationType": 0,
+        "lon": -73.952032,
+        "name": "W 116 ST/ADAM C POWELL BLVD",
+        "routeIds": [
+            "MTA NYCT_M7",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401078",
+        "direction": "NW",
+        "id": "MTA_401078",
+        "lat": 40.803561,
+        "locationType": 0,
+        "lon": -73.953097,
+        "name": "W 116 ST/SAINT NICHOLAS AV",
+        "routeIds": [
+            "MTA NYCT_M7",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401079",
+        "direction": "NW",
+        "id": "MTA_401079",
+        "lat": 40.804421,
+        "locationType": 0,
+        "lon": -73.955141,
+        "name": "W 116 ST/FREDERICK DOUGLASS BLVD",
+        "routeIds": [
+            "MTA NYCT_M7",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401084",
+        "direction": "SW",
+        "id": "MTA_401084",
+        "lat": 40.799754,
+        "locationType": 0,
+        "lon": -73.960764,
+        "name": "MANHATTAN AV/W 108 ST",
+        "routeIds": [
+            "MTA NYCT_M7",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401085",
+        "direction": "SW",
+        "id": "MTA_401085",
+        "lat": 40.798802,
+        "locationType": 0,
+        "lon": -73.961459,
+        "name": "MANHATTAN AV/W 106 ST",
+        "routeIds": [
+            "MTA NYCT_M7",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401727",
+        "direction": "NE",
+        "id": "MTA_401727",
+        "lat": 40.796323,
+        "locationType": 0,
+        "lon": -73.935122,
+        "name": "1 AV/E 116 ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401729",
+        "direction": "NE",
+        "id": "MTA_401729",
+        "lat": 40.798936,
+        "locationType": 0,
+        "lon": -73.933223,
+        "name": "1 AV/E 120 ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401730",
+        "direction": "NE",
+        "id": "MTA_401730",
+        "lat": 40.80036,
+        "locationType": 0,
+        "lon": -73.932182,
+        "name": "1 AV/PALADINO AV",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401977",
+        "direction": "NW",
+        "id": "MTA_401977",
+        "lat": 40.801329,
+        "locationType": 0,
+        "lon": -73.967601,
+        "name": "W 106 ST/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401988",
+        "direction": "SE",
+        "id": "MTA_401988",
+        "lat": 40.801755,
+        "locationType": 0,
+        "lon": -73.949213,
+        "name": "W 116 ST/MALCOLM X BLVD",
+        "routeIds": [
+            "MTA NYCT_M102",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401989",
+        "direction": "E",
+        "id": "MTA_401989",
+        "lat": 40.800666,
+        "locationType": 0,
+        "lon": -73.94671,
+        "name": "W 116 ST/5 AV",
+        "routeIds": [
+            "MTA NYCT_M102",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401990",
+        "direction": "SE",
+        "id": "MTA_401990",
+        "lat": 40.799718,
+        "locationType": 0,
+        "lon": -73.944398,
+        "name": "E 116 ST/MADISON AV",
+        "routeIds": [
+            "MTA NYCT_M102",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401992",
+        "direction": "SE",
+        "id": "MTA_401992",
+        "lat": 40.798605,
+        "locationType": 0,
+        "lon": -73.941821,
+        "name": "E 116 ST/LEXINGTON AV",
+        "routeIds": [
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401993",
+        "direction": "SE",
+        "id": "MTA_401993",
+        "lat": 40.797712,
+        "locationType": 0,
+        "lon": -73.939691,
+        "name": "E 116 ST/3 AV",
+        "routeIds": [
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401994",
+        "direction": "SE",
+        "id": "MTA_401994",
+        "lat": 40.796991,
+        "locationType": 0,
+        "lon": -73.937987,
+        "name": "E 116 ST/2 AV",
+        "routeIds": [
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401998",
+        "direction": "NW",
+        "id": "MTA_401998",
+        "lat": 40.797641,
+        "locationType": 0,
+        "lon": -73.931109,
+        "name": "PLEASANT AV/E 120 ST",
+        "routeIds": [
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401999",
+        "direction": "NW",
+        "id": "MTA_401999",
+        "lat": 40.795306,
+        "locationType": 0,
+        "lon": -73.93351,
+        "name": "E 116 ST/PLEASANT AV",
+        "routeIds": [
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402000",
+        "direction": "W",
+        "id": "MTA_402000",
+        "lat": 40.796005,
+        "locationType": 0,
+        "lon": -73.935171,
+        "name": "E 116 ST/1 AV",
+        "routeIds": [
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402001",
+        "direction": "NW",
+        "id": "MTA_402001",
+        "lat": 40.797247,
+        "locationType": 0,
+        "lon": -73.938121,
+        "name": "E 116 ST/2 AV",
+        "routeIds": [
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402002",
+        "direction": "NW",
+        "id": "MTA_402002",
+        "lat": 40.797928,
+        "locationType": 0,
+        "lon": -73.939742,
+        "name": "E 116 ST/3 AV",
+        "routeIds": [
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402003",
+        "direction": "NW",
+        "id": "MTA_402003",
+        "lat": 40.798601,
+        "locationType": 0,
+        "lon": -73.941471,
+        "name": "E 116 ST/LEXINGTON AV",
+        "routeIds": [
+            "MTA NYCT_M102",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402004",
+        "direction": "NW",
+        "id": "MTA_402004",
+        "lat": 40.799171,
+        "locationType": 0,
+        "lon": -73.942827,
+        "name": "E 116 ST/PARK AV",
+        "routeIds": [
+            "MTA NYCT_M102",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402005",
+        "direction": "NW",
+        "id": "MTA_402005",
+        "lat": 40.800172,
+        "locationType": 0,
+        "lon": -73.94517,
+        "name": "E 116 ST/MADISON AV",
+        "routeIds": [
+            "MTA NYCT_M102",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402006",
+        "direction": "NW",
+        "id": "MTA_402006",
+        "lat": 40.800626,
+        "locationType": 0,
+        "lon": -73.946224,
+        "name": "E 116 ST/5 AV",
+        "routeIds": [
+            "MTA NYCT_M102",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402016",
+        "direction": "NW",
+        "id": "MTA_402016",
+        "lat": 40.799239,
+        "locationType": 0,
+        "lon": -73.962661,
+        "name": "W 106 ST/COLUMBUS AV",
+        "routeIds": [
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402017",
+        "direction": "NW",
+        "id": "MTA_402017",
+        "lat": 40.800678,
+        "locationType": 0,
+        "lon": -73.966059,
+        "name": "W 106 ST/AMSTERDAM AV",
+        "routeIds": [
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403392",
+        "direction": "SW",
+        "id": "MTA_403392",
+        "lat": 40.800882,
+        "locationType": 0,
+        "lon": -73.95994,
+        "name": "MANHATTAN AV/CATHEDRAL PKWY",
+        "routeIds": [
+            "MTA NYCT_M7",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404274",
+        "direction": "NW",
+        "id": "MTA_404274",
+        "lat": 40.802292,
+        "locationType": 0,
+        "lon": -73.950025,
+        "name": "W 116 ST/MALCOLM X BLVD",
+        "routeIds": [
+            "MTA NYCT_M7",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404911",
+        "direction": "SE",
+        "id": "MTA_404911",
+        "lat": 40.801154,
+        "locationType": 0,
+        "lon": -73.967576,
+        "name": "W 106 ST/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405087",
+        "direction": "NE",
+        "id": "MTA_405087",
+        "lat": 40.80173,
+        "locationType": 0,
+        "lon": -73.959138,
+        "name": "MANHATTAN AV/W 111 ST",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M7",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405092",
+        "direction": "NE",
+        "id": "MTA_405092",
+        "lat": 40.803344,
+        "locationType": 0,
+        "lon": -73.957959,
+        "name": "MANHATTAN AV/W 113 ST",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M7",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405315",
+        "direction": "SW",
+        "id": "MTA_405315",
+        "lat": 40.795918,
+        "locationType": 0,
+        "lon": -73.932694,
+        "name": "PLEASANT AV/E 117 ST",
+        "routeIds": [
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803059",
+        "direction": "NW",
+        "id": "MTA_803059",
+        "lat": 40.797614,
+        "locationType": 0,
+        "lon": -73.93101,
+        "name": "PLEASANT AV/E 120 ST",
+        "routeIds": [
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

@@ -1,0 +1,1240 @@
+[
+    {
+        "code": "500119",
+        "direction": "NE",
+        "id": "MTA_500119",
+        "lat": 40.713163,
+        "locationType": 0,
+        "lon": -73.735765,
+        "name": "SPRINGFIELD BLVD/HEMPSTEAD AV",
+        "routeIds": [
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500126",
+        "direction": "SW",
+        "id": "MTA_500126",
+        "lat": 40.712961,
+        "locationType": 0,
+        "lon": -73.736072,
+        "name": "SPRINGFIELD BLVD/HEMPSTEAD AV",
+        "routeIds": [
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500127",
+        "direction": "SW",
+        "id": "MTA_500127",
+        "lat": 40.712056,
+        "locationType": 0,
+        "lon": -73.736559,
+        "name": "SPRINGFIELD BLVD/HOLLIS AV",
+        "routeIds": [
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500182",
+        "direction": "NW",
+        "id": "MTA_500182",
+        "lat": 40.700813,
+        "locationType": 0,
+        "lon": -73.764254,
+        "name": "FARMERS BLVD/112 AV",
+        "routeIds": [
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500183",
+        "direction": "NW",
+        "id": "MTA_500183",
+        "lat": 40.701992,
+        "locationType": 0,
+        "lon": -73.765629,
+        "name": "FARMERS BLVD/111 AV",
+        "routeIds": [
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500220",
+        "direction": "SE",
+        "id": "MTA_500220",
+        "lat": 40.701694,
+        "locationType": 0,
+        "lon": -73.765492,
+        "name": "FARMERS BLVD/JORDAN AV",
+        "routeIds": [
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500221",
+        "direction": "SE",
+        "id": "MTA_500221",
+        "lat": 40.700516,
+        "locationType": 0,
+        "lon": -73.764139,
+        "name": "FARMERS BLVD/KEESEVILLE AV",
+        "routeIds": [
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500222",
+        "direction": "SE",
+        "id": "MTA_500222",
+        "lat": 40.699235,
+        "locationType": 0,
+        "lon": -73.76302,
+        "name": "FARMERS BLVD/113 AV",
+        "routeIds": [
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q83",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500256",
+        "direction": "NE",
+        "id": "MTA_500256",
+        "lat": 40.702673,
+        "locationType": 0,
+        "lon": -73.790146,
+        "name": "LIBERTY AV/168 PL",
+        "routeIds": [
+            "MTA NYCT_Q42",
+            "MTA NYCT_Q83",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500257",
+        "direction": "E",
+        "id": "MTA_500257",
+        "lat": 40.703355,
+        "locationType": 0,
+        "lon": -73.788445,
+        "name": "LIBERTY AV/170 ST",
+        "routeIds": [
+            "MTA NYCT_Q42",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500258",
+        "direction": "E",
+        "id": "MTA_500258",
+        "lat": 40.704458,
+        "locationType": 0,
+        "lon": -73.785042,
+        "name": "LIBERTY AV/173 ST",
+        "routeIds": [
+            "MTA NYCT_Q42",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500259",
+        "direction": "E",
+        "id": "MTA_500259",
+        "lat": 40.70534,
+        "locationType": 0,
+        "lon": -73.782662,
+        "name": "LIBERTY AV/177 ST",
+        "routeIds": [
+            "MTA NYCT_Q42",
+            "MTA NYCT_Q83",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500264",
+        "direction": "E",
+        "id": "MTA_500264",
+        "lat": 40.704238,
+        "locationType": 0,
+        "lon": -73.77055,
+        "name": "LIBERTY AV/CAMDEN AV",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500265",
+        "direction": "E",
+        "id": "MTA_500265",
+        "lat": 40.703707,
+        "locationType": 0,
+        "lon": -73.768518,
+        "name": "LIBERTY AV/ELMIRA AV",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500266",
+        "direction": "SE",
+        "id": "MTA_500266",
+        "lat": 40.703202,
+        "locationType": 0,
+        "lon": -73.767156,
+        "name": "LIBERTY AV/HILBURN AV",
+        "routeIds": [
+            "MTA NYCT_Q83",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500271",
+        "direction": "E",
+        "id": "MTA_500271",
+        "lat": 40.698554,
+        "locationType": 0,
+        "lon": -73.760065,
+        "name": "MURDOCK AV/194 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500272",
+        "direction": "E",
+        "id": "MTA_500272",
+        "lat": 40.699134,
+        "locationType": 0,
+        "lon": -73.757826,
+        "name": "MURDOCK AV/196 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500273",
+        "direction": "E",
+        "id": "MTA_500273",
+        "lat": 40.699572,
+        "locationType": 0,
+        "lon": -73.756058,
+        "name": "MURDOCK AV/198 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500280",
+        "direction": "E",
+        "id": "MTA_500280",
+        "lat": 40.702711,
+        "locationType": 0,
+        "lon": -73.743971,
+        "name": "MURDOCK AV/212 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500281",
+        "direction": "E",
+        "id": "MTA_500281",
+        "lat": 40.703421,
+        "locationType": 0,
+        "lon": -73.740895,
+        "name": "MURDOCK AV/SPRINGFIELD BLVD",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500282",
+        "direction": "E",
+        "id": "MTA_500282",
+        "lat": 40.70231,
+        "locationType": 0,
+        "lon": -73.74305,
+        "name": "COLFAX ST/212 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500283",
+        "direction": "E",
+        "id": "MTA_500283",
+        "lat": 40.701788,
+        "locationType": 0,
+        "lon": -73.741346,
+        "name": "COLFAX ST/SPRINGFIELD BLVD",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500284",
+        "direction": "E",
+        "id": "MTA_500284",
+        "lat": 40.701841,
+        "locationType": 0,
+        "lon": -73.73833,
+        "name": "114 AV/219 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500285",
+        "direction": "E",
+        "id": "MTA_500285",
+        "lat": 40.701782,
+        "locationType": 0,
+        "lon": -73.736379,
+        "name": "114 AV/221 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500286",
+        "direction": "E",
+        "id": "MTA_500286",
+        "lat": 40.701723,
+        "locationType": 0,
+        "lon": -73.734457,
+        "name": "114 AV/223 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500287",
+        "direction": "E",
+        "id": "MTA_500287",
+        "lat": 40.701661,
+        "locationType": 0,
+        "lon": -73.732488,
+        "name": "114 AV/225 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500288",
+        "direction": "E",
+        "id": "MTA_500288",
+        "lat": 40.701566,
+        "locationType": 0,
+        "lon": -73.730585,
+        "name": "114 AV/227 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500289",
+        "direction": "N",
+        "id": "MTA_500289",
+        "lat": 40.702262,
+        "locationType": 0,
+        "lon": -73.730337,
+        "name": "227 ST/113 DR",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500290",
+        "direction": "N",
+        "id": "MTA_500290",
+        "lat": 40.705185,
+        "locationType": 0,
+        "lon": -73.739724,
+        "name": "SPRINGFIELD BLVD/112 RD",
+        "routeIds": [
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500291",
+        "direction": "N",
+        "id": "MTA_500291",
+        "lat": 40.706208,
+        "locationType": 0,
+        "lon": -73.739327,
+        "name": "SPRINGFIELD BLVD/111 RD",
+        "routeIds": [
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500293",
+        "direction": "NE",
+        "id": "MTA_500293",
+        "lat": 40.710427,
+        "locationType": 0,
+        "lon": -73.737269,
+        "name": "SPRINGFIELD BLVD/107 AV",
+        "routeIds": [
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500294",
+        "direction": "NE",
+        "id": "MTA_500294",
+        "lat": 40.712382,
+        "locationType": 0,
+        "lon": -73.736136,
+        "name": "SPRINGFIELD BLVD/104 AV",
+        "routeIds": [
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500296",
+        "direction": "N",
+        "id": "MTA_500296",
+        "lat": 40.715251,
+        "locationType": 0,
+        "lon": -73.735489,
+        "name": "SPRINGFIELD BLVD/100 AV",
+        "routeIds": [
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500297",
+        "direction": "N",
+        "id": "MTA_500297",
+        "lat": 40.716656,
+        "locationType": 0,
+        "lon": -73.735372,
+        "name": "SPRINGFIELD BLVD/98 AV",
+        "routeIds": [
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500298",
+        "direction": "SE",
+        "id": "MTA_500298",
+        "lat": 40.717922,
+        "locationType": 0,
+        "lon": -73.736383,
+        "name": "AMBOY LN/JAMAICA AV",
+        "routeIds": [
+            "MTA NYCT_Q83",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500300",
+        "direction": "W",
+        "id": "MTA_500300",
+        "lat": 40.702475,
+        "locationType": 0,
+        "lon": -73.732233,
+        "name": "113 DR/225 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500301",
+        "direction": "W",
+        "id": "MTA_500301",
+        "lat": 40.702521,
+        "locationType": 0,
+        "lon": -73.734184,
+        "name": "113 DR/223 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500302",
+        "direction": "W",
+        "id": "MTA_500302",
+        "lat": 40.702575,
+        "locationType": 0,
+        "lon": -73.736142,
+        "name": "113 DR/221 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500303",
+        "direction": "W",
+        "id": "MTA_500303",
+        "lat": 40.702629,
+        "locationType": 0,
+        "lon": -73.738078,
+        "name": "113 DR/219 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500304",
+        "direction": "S",
+        "id": "MTA_500304",
+        "lat": 40.71776,
+        "locationType": 0,
+        "lon": -73.735479,
+        "name": "SPRINGFIELD BLVD/AMBOY LN",
+        "routeIds": [
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500305",
+        "direction": "S",
+        "id": "MTA_500305",
+        "lat": 40.715351,
+        "locationType": 0,
+        "lon": -73.73564,
+        "name": "SPRINGFIELD BLVD/99 AV",
+        "routeIds": [
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500309",
+        "direction": "SW",
+        "id": "MTA_500309",
+        "lat": 40.710285,
+        "locationType": 0,
+        "lon": -73.737554,
+        "name": "SPRINGFIELD BLVD/107 AV",
+        "routeIds": [
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500310",
+        "direction": "SW",
+        "id": "MTA_500310",
+        "lat": 40.70909,
+        "locationType": 0,
+        "lon": -73.738179,
+        "name": "SPRINGFIELD BLVD/109 AV",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500312",
+        "direction": "S",
+        "id": "MTA_500312",
+        "lat": 40.705687,
+        "locationType": 0,
+        "lon": -73.739754,
+        "name": "SPRINGFIELD BLVD/111 RD",
+        "routeIds": [
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500313",
+        "direction": "S",
+        "id": "MTA_500313",
+        "lat": 40.704411,
+        "locationType": 0,
+        "lon": -73.740297,
+        "name": "SPRINGFIELD BLVD/112 RD",
+        "routeIds": [
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500315",
+        "direction": "W",
+        "id": "MTA_500315",
+        "lat": 40.703532,
+        "locationType": 0,
+        "lon": -73.740957,
+        "name": "MURDOCK AV/SPRINGFIELD BLVD",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500317",
+        "direction": "W",
+        "id": "MTA_500317",
+        "lat": 40.702475,
+        "locationType": 0,
+        "lon": -73.745451,
+        "name": "MURDOCK AV/210 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500318",
+        "direction": "W",
+        "id": "MTA_500318",
+        "lat": 40.70201,
+        "locationType": 0,
+        "lon": -73.747224,
+        "name": "MURDOCK AV/208 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500320",
+        "direction": "W",
+        "id": "MTA_500320",
+        "lat": 40.700874,
+        "locationType": 0,
+        "lon": -73.751529,
+        "name": "MURDOCK AV/204 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500321",
+        "direction": "W",
+        "id": "MTA_500321",
+        "lat": 40.700402,
+        "locationType": 0,
+        "lon": -73.753309,
+        "name": "MURDOCK AV/202 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500322",
+        "direction": "W",
+        "id": "MTA_500322",
+        "lat": 40.699935,
+        "locationType": 0,
+        "lon": -73.755099,
+        "name": "MURDOCK AV/200 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500323",
+        "direction": "W",
+        "id": "MTA_500323",
+        "lat": 40.699474,
+        "locationType": 0,
+        "lon": -73.756873,
+        "name": "MURDOCK AV/198 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500331",
+        "direction": "W",
+        "id": "MTA_500331",
+        "lat": 40.704228,
+        "locationType": 0,
+        "lon": -73.769919,
+        "name": "LIBERTY AV/187 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500332",
+        "direction": "W",
+        "id": "MTA_500332",
+        "lat": 40.704935,
+        "locationType": 0,
+        "lon": -73.773174,
+        "name": "LIBERTY AV/184 ST",
+        "routeIds": [
+            "MTA NYCT_Q83",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500334",
+        "direction": "W",
+        "id": "MTA_500334",
+        "lat": 40.705676,
+        "locationType": 0,
+        "lon": -73.778128,
+        "name": "LIBERTY AV/182 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500335",
+        "direction": "W",
+        "id": "MTA_500335",
+        "lat": 40.70544,
+        "locationType": 0,
+        "lon": -73.780303,
+        "name": "LIBERTY AV/180 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500336",
+        "direction": "W",
+        "id": "MTA_500336",
+        "lat": 40.705371,
+        "locationType": 0,
+        "lon": -73.783023,
+        "name": "LIBERTY AV/177 ST",
+        "routeIds": [
+            "MTA NYCT_Q83",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500337",
+        "direction": "W",
+        "id": "MTA_500337",
+        "lat": 40.704255,
+        "locationType": 0,
+        "lon": -73.78598,
+        "name": "LIBERTY AV/172 ST",
+        "routeIds": [
+            "MTA NYCT_Q42",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503062",
+        "direction": "E",
+        "id": "MTA_503062",
+        "lat": 40.701461,
+        "locationType": 0,
+        "lon": -73.748798,
+        "name": "MURDOCK AV/FRANCIS LEWIS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503064",
+        "direction": "W",
+        "id": "MTA_503064",
+        "lat": 40.70304,
+        "locationType": 0,
+        "lon": -73.743192,
+        "name": "MURDOCK AV/212 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503067",
+        "direction": "W",
+        "id": "MTA_503067",
+        "lat": 40.701607,
+        "locationType": 0,
+        "lon": -73.748794,
+        "name": "MURDOCK AV/FRANCIS LEWIS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503070",
+        "direction": "W",
+        "id": "MTA_503070",
+        "lat": 40.698432,
+        "locationType": 0,
+        "lon": -73.760902,
+        "name": "MURDOCK AV/194 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503080",
+        "direction": "E",
+        "id": "MTA_503080",
+        "lat": 40.702542,
+        "locationType": 0,
+        "lon": -73.744636,
+        "name": "MURDOCK AV/210 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503166",
+        "direction": "NW",
+        "id": "MTA_503166",
+        "lat": 40.705487,
+        "locationType": 0,
+        "lon": -73.803627,
+        "name": "153 ST/89 AV",
+        "routeIds": [
+            "MTA NYCT_Q83",
+            "MTABC_Q110",
+            "MTABC_Q111",
+            "MTABC_Q112",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503167",
+        "direction": "NW",
+        "id": "MTA_503167",
+        "lat": 40.70677,
+        "locationType": 0,
+        "lon": -73.804168,
+        "name": "153 ST/HILLSIDE AV",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503168",
+        "direction": "SE",
+        "id": "MTA_503168",
+        "lat": 40.702233,
+        "locationType": 0,
+        "lon": -73.804568,
+        "name": "150 ST/JAMAICA AV",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503169",
+        "direction": "NW",
+        "id": "MTA_503169",
+        "lat": 40.707123,
+        "locationType": 0,
+        "lon": -73.804385,
+        "name": "153 ST/HILLSIDE AV",
+        "routeIds": [
+            "MTA NYCT_Q83",
+            "MTABC_Q111",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503175",
+        "direction": "W",
+        "id": "MTA_503175",
+        "lat": 40.702441,
+        "locationType": 0,
+        "lon": -73.800129,
+        "name": "ARCHER AV/PARSONS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503244",
+        "direction": "E",
+        "id": "MTA_503244",
+        "lat": 40.700492,
+        "locationType": 0,
+        "lon": -73.752524,
+        "name": "MURDOCK AV/202 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503245",
+        "direction": "E",
+        "id": "MTA_503245",
+        "lat": 40.700966,
+        "locationType": 0,
+        "lon": -73.750708,
+        "name": "MURDOCK AV/204 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503246",
+        "direction": "E",
+        "id": "MTA_503246",
+        "lat": 40.702076,
+        "locationType": 0,
+        "lon": -73.746441,
+        "name": "MURDOCK AV/208 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503247",
+        "direction": "W",
+        "id": "MTA_503247",
+        "lat": 40.698105,
+        "locationType": 0,
+        "lon": -73.762151,
+        "name": "MURDOCK AV/FARMERS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503604",
+        "direction": "W",
+        "id": "MTA_503604",
+        "lat": 40.705511,
+        "locationType": 0,
+        "lon": -73.776288,
+        "name": "LIBERTY AV/183 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503671",
+        "direction": "SW",
+        "id": "MTA_503671",
+        "lat": 40.703844,
+        "locationType": 0,
+        "lon": -73.794377,
+        "name": "ARCHER AV/165 ST",
+        "routeIds": [
+            "MTA NYCT_Q42",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503784",
+        "direction": "NW",
+        "id": "MTA_503784",
+        "lat": 40.699096,
+        "locationType": 0,
+        "lon": -73.762805,
+        "name": "FARMERS BLVD/113 RD",
+        "routeIds": [
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q83",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503831",
+        "direction": "E",
+        "id": "MTA_503831",
+        "lat": 40.704717,
+        "locationType": 0,
+        "lon": -73.772709,
+        "name": "LIBERTY AV/184 ST",
+        "routeIds": [
+            "MTA NYCT_Q83",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503911",
+        "direction": "E",
+        "id": "MTA_503911",
+        "lat": 40.698055,
+        "locationType": 0,
+        "lon": -73.761898,
+        "name": "MURDOCK AV/FARMERS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503922",
+        "direction": "W",
+        "id": "MTA_503922",
+        "lat": 40.699146,
+        "locationType": 0,
+        "lon": -73.758153,
+        "name": "MURDOCK AV/196 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503950",
+        "direction": "NE",
+        "id": "MTA_503950",
+        "lat": 40.703854,
+        "locationType": 0,
+        "lon": -73.793991,
+        "name": "ARCHER AV/165 ST",
+        "routeIds": [
+            "MTA NYCT_Q42",
+            "MTA NYCT_Q83",
+            "MTA NYCT_Q84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504008",
+        "direction": "W",
+        "id": "MTA_504008",
+        "lat": 40.70237,
+        "locationType": 0,
+        "lon": -73.791688,
+        "name": "LIBERTY AV/MERRICK BLVD",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q42",
+            "MTA NYCT_Q83",
+            "MTA NYCT_Q85",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504437",
+        "direction": "W",
+        "id": "MTA_504437",
+        "lat": 40.703637,
+        "locationType": 0,
+        "lon": -73.787923,
+        "name": "LIBERTY AV/170 ST",
+        "routeIds": [
+            "MTA NYCT_Q42",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504464",
+        "direction": "E",
+        "id": "MTA_504464",
+        "lat": 40.705582,
+        "locationType": 0,
+        "lon": -73.777805,
+        "name": "LIBERTY AV/180 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504465",
+        "direction": "E",
+        "id": "MTA_504465",
+        "lat": 40.705391,
+        "locationType": 0,
+        "lon": -73.776286,
+        "name": "LIBERTY AV/183 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504467",
+        "direction": "E",
+        "id": "MTA_504467",
+        "lat": 40.702311,
+        "locationType": 0,
+        "lon": -73.800367,
+        "name": "ARCHER AV/PARSONS BLVD BAY D",
+        "routeIds": [
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504469",
+        "direction": "E",
+        "id": "MTA_504469",
+        "lat": 40.702217,
+        "locationType": 0,
+        "lon": -73.800606,
+        "name": "ARCHER AV/PARSONS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q83",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504523",
+        "direction": "W",
+        "id": "MTA_504523",
+        "lat": 40.703831,
+        "locationType": 0,
+        "lon": -73.767425,
+        "name": "BRINKERHOFF AV/189 ST",
+        "routeIds": [
+            "MTA NYCT_Q83",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504541",
+        "direction": "E",
+        "id": "MTA_504541",
+        "lat": 40.699916,
+        "locationType": 0,
+        "lon": -73.754793,
+        "name": "MURDOCK AV/200 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505143",
+        "direction": "NE",
+        "id": "MTA_505143",
+        "lat": 40.708728,
+        "locationType": 0,
+        "lon": -73.738184,
+        "name": "SPRINGFIELD BLVD/109 AV",
+        "routeIds": [
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804005",
+        "direction": "NW",
+        "id": "MTA_804005",
+        "lat": 40.705929,
+        "locationType": 0,
+        "lon": -73.75326,
+        "name": "111 AV / 204 ST",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804086",
+        "direction": "E",
+        "id": "MTA_804086",
+        "lat": 40.701765,
+        "locationType": 0,
+        "lon": -73.741271,
+        "name": "COLFAX ST/SPRINGFIELD BLVD",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904104",
+        "direction": "N",
+        "id": "MTA_904104",
+        "lat": 40.702108,
+        "locationType": 0,
+        "lon": -73.730337,
+        "name": "227 ST/113 DR",
+        "routeIds": [
+            "MTA NYCT_Q83"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

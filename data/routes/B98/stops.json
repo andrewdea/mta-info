@@ -1,0 +1,282 @@
+[
+    {
+        "code": "302255",
+        "direction": "E",
+        "id": "MTA_302255",
+        "lat": 40.730249,
+        "locationType": 0,
+        "lon": -73.953066,
+        "name": "GREENPOINT AV/LEONARD ST",
+        "routeIds": [
+            "MTA NYCT_B24",
+            "MTA NYCT_B98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303441",
+        "direction": "SE",
+        "id": "MTA_303441",
+        "lat": 40.699506,
+        "locationType": 0,
+        "lon": -73.953484,
+        "name": "LEE AV/FLUSHING AV",
+        "routeIds": [
+            "MTA NYCT_B44",
+            "MTA NYCT_B44+",
+            "MTA NYCT_B98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303444",
+        "direction": "S",
+        "id": "MTA_303444",
+        "lat": 40.694587,
+        "locationType": 0,
+        "lon": -73.952485,
+        "name": "NOSTRAND AV/MYRTLE AV",
+        "routeIds": [
+            "MTA NYCT_B44",
+            "MTA NYCT_B98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303447",
+        "direction": "S",
+        "id": "MTA_303447",
+        "lat": 40.689536,
+        "locationType": 0,
+        "lon": -73.951479,
+        "name": "NOSTRAND AV/LAFAYETTE AV",
+        "routeIds": [
+            "MTA NYCT_B44",
+            "MTA NYCT_B98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305170",
+        "direction": "S",
+        "id": "MTA_305170",
+        "lat": 40.729832,
+        "locationType": 0,
+        "lon": -73.954159,
+        "name": "MANHATTAN AV/GREENPOINT AV",
+        "routeIds": [
+            "MTA NYCT_B43",
+            "MTA NYCT_B62",
+            "MTA NYCT_B94",
+            "MTA NYCT_B98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305174",
+        "direction": "SE",
+        "id": "MTA_305174",
+        "lat": 40.723452,
+        "locationType": 0,
+        "lon": -73.950693,
+        "name": "MANHATTAN AV/NASSAU AV",
+        "routeIds": [
+            "MTA NYCT_B43",
+            "MTA NYCT_B62",
+            "MTA NYCT_B94",
+            "MTA NYCT_B98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307121",
+        "direction": "NW",
+        "id": "MTA_307121",
+        "lat": 40.72369,
+        "locationType": 0,
+        "lon": -73.950686,
+        "name": "MANHATTAN AV/NASSAU AV",
+        "routeIds": [
+            "MTA NYCT_B43",
+            "MTA NYCT_B98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308929",
+        "direction": "N",
+        "id": "MTA_308929",
+        "lat": 40.714215,
+        "locationType": 0,
+        "lon": -73.951617,
+        "name": "UNION AV/METROPOLITAN AV",
+        "routeIds": [
+            "MTA NYCT_B98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504409",
+        "direction": "NE",
+        "id": "MTA_504409",
+        "lat": 40.744723,
+        "locationType": 0,
+        "lon": -73.948151,
+        "name": "JACKSON AV/21 ST",
+        "routeIds": [
+            "MTA NYCT_B62",
+            "MTA NYCT_B94",
+            "MTA NYCT_B98",
+            "MTA NYCT_Q93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504415",
+        "direction": "W",
+        "id": "MTA_504415",
+        "lat": 40.745748,
+        "locationType": 0,
+        "lon": -73.94599,
+        "name": "JACKSON AV/23 ST",
+        "routeIds": [
+            "MTA NYCT_B98",
+            "MTA NYCT_Q93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504416",
+        "direction": "SW",
+        "id": "MTA_504416",
+        "lat": 40.744393,
+        "locationType": 0,
+        "lon": -73.949152,
+        "name": "JACKSON AV/47 AV",
+        "routeIds": [
+            "MTA NYCT_B62",
+            "MTA NYCT_B94",
+            "MTA NYCT_B98",
+            "MTA NYCT_Q93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804184",
+        "direction": "W",
+        "id": "MTA_804184",
+        "lat": 40.746648,
+        "locationType": 0,
+        "lon": -73.943655,
+        "name": "JACKSON AV/45 AV",
+        "routeIds": [
+            "MTA NYCT_B98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901694",
+        "direction": "S",
+        "id": "MTA_901694",
+        "lat": 40.71392,
+        "locationType": 0,
+        "lon": -73.951692,
+        "name": "UNION AV/METROPOLITAN AV",
+        "routeIds": [
+            "MTA NYCT_B98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901695",
+        "direction": "S",
+        "id": "MTA_901695",
+        "lat": 40.705349,
+        "locationType": 0,
+        "lon": -73.950238,
+        "name": "UNION AV/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_B98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901697",
+        "direction": "E",
+        "id": "MTA_901697",
+        "lat": 40.689857,
+        "locationType": 0,
+        "lon": -73.950996,
+        "name": "LAFAYETTE AV/NOSTRAND AV",
+        "routeIds": [
+            "MTA NYCT_B98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901699",
+        "direction": "N",
+        "id": "MTA_901699",
+        "lat": 40.699952,
+        "locationType": 0,
+        "lon": -73.950084,
+        "name": "UNION AV/GERRY AV",
+        "routeIds": [
+            "MTA NYCT_B98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901700",
+        "direction": "N",
+        "id": "MTA_901700",
+        "lat": 40.70534,
+        "locationType": 0,
+        "lon": -73.950179,
+        "name": "UNION AV/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_B98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901701",
+        "direction": "N",
+        "id": "MTA_901701",
+        "lat": 40.745906,
+        "locationType": 0,
+        "lon": -73.945602,
+        "name": "23 ST/JACKSON AV",
+        "routeIds": [
+            "MTA NYCT_B94",
+            "MTA NYCT_B98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901755",
+        "direction": "N",
+        "id": "MTA_901755",
+        "lat": 40.695416,
+        "locationType": 0,
+        "lon": -73.949189,
+        "name": "MARCY AV/MYRTLE AV",
+        "routeIds": [
+            "MTA NYCT_B98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904981",
+        "direction": "W",
+        "id": "MTA_904981",
+        "lat": 40.746745,
+        "locationType": 0,
+        "lon": -73.943416,
+        "name": "JACKSON AV/45 AV",
+        "routeIds": [
+            "MTA NYCT_B98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

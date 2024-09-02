@@ -1,0 +1,11 @@
+# Mac OS
+.DS_Store
+
+# IDE - Emacs
+*~
+\#*\#
+*.dir-locals.el
+
+# python
+.venv
+__pycache__

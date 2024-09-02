@@ -1,0 +1,1057 @@
+[
+    {
+        "code": "400747",
+        "direction": "N",
+        "id": "MTA_400747",
+        "lat": 40.77186,
+        "locationType": 0,
+        "lon": -73.981984,
+        "name": "BROADWAY/W 63 ST",
+        "routeIds": [
+            "MTABC_BXM2",
+            "MTA NYCT_M5",
+            "MTA NYCT_M7",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400750",
+        "direction": "N",
+        "id": "MTA_400750",
+        "lat": 40.776682,
+        "locationType": 0,
+        "lon": -73.981922,
+        "name": "BROADWAY/W 69 ST",
+        "routeIds": [
+            "MTA NYCT_M5",
+            "MTA NYCT_M7",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400856",
+        "direction": "S",
+        "id": "MTA_400856",
+        "lat": 40.775414,
+        "locationType": 0,
+        "lon": -73.982417,
+        "name": "BROADWAY/W 68 ST",
+        "routeIds": [
+            "MTA NYCT_M5",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400860",
+        "direction": "S",
+        "id": "MTA_400860",
+        "lat": 40.76947,
+        "locationType": 0,
+        "lon": -73.982326,
+        "name": "BROADWAY/W 61 ST",
+        "routeIds": [
+            "MTA NYCT_M5",
+            "MTA NYCT_M7",
+            "MTA NYCT_M10",
+            "MTA NYCT_M20",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400861",
+        "direction": "SE",
+        "id": "MTA_400861",
+        "lat": 40.767676,
+        "locationType": 0,
+        "lon": -73.982261,
+        "name": "COLUMBUS CIRCLE/8 AV",
+        "routeIds": [
+            "MTA NYCT_M5",
+            "MTA NYCT_M7",
+            "MTA NYCT_M10",
+            "MTA NYCT_M20",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400948",
+        "direction": "SW",
+        "id": "MTA_400948",
+        "lat": 40.766137,
+        "locationType": 0,
+        "lon": -73.979694,
+        "name": "7 AV/W 58 ST",
+        "routeIds": [
+            "MTA NYCT_M20",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400950",
+        "direction": "SW",
+        "id": "MTA_400950",
+        "lat": 40.763718,
+        "locationType": 0,
+        "lon": -73.981405,
+        "name": "7 AV/W 54 ST",
+        "routeIds": [
+            "MTA NYCT_M7",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400951",
+        "direction": "SW",
+        "id": "MTA_400951",
+        "lat": 40.762793,
+        "locationType": 0,
+        "lon": -73.982131,
+        "name": "7 AV/W 53 ST",
+        "routeIds": [
+            "MTA NYCT_M20",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401016",
+        "direction": "N",
+        "id": "MTA_401016",
+        "lat": 40.769517,
+        "locationType": 0,
+        "lon": -73.981883,
+        "name": "BROADWAY/W 61 ST",
+        "routeIds": [
+            "MTA NYCT_M5",
+            "MTA NYCT_M7",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401239",
+        "direction": "NE",
+        "id": "MTA_401239",
+        "lat": 40.763788,
+        "locationType": 0,
+        "lon": -73.984867,
+        "name": "8 AV/W 52 ST",
+        "routeIds": [
+            "MTA NYCT_M20",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401445",
+        "direction": "NE",
+        "id": "MTA_401445",
+        "lat": 40.81434,
+        "locationType": 0,
+        "lon": -73.955492,
+        "name": "AMSTERDAM AV/W 126 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403103",
+        "direction": "N",
+        "id": "MTA_403103",
+        "lat": 40.779589,
+        "locationType": 0,
+        "lon": -73.981517,
+        "name": "BROADWAY/W 73 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403104",
+        "direction": "N",
+        "id": "MTA_403104",
+        "lat": 40.781301,
+        "locationType": 0,
+        "lon": -73.981021,
+        "name": "BROADWAY/W 75 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403105",
+        "direction": "NE",
+        "id": "MTA_403105",
+        "lat": 40.782726,
+        "locationType": 0,
+        "lon": -73.980497,
+        "name": "BROADWAY/W 77 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403106",
+        "direction": "NE",
+        "id": "MTA_403106",
+        "lat": 40.784084,
+        "locationType": 0,
+        "lon": -73.979583,
+        "name": "BROADWAY/W 79 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403107",
+        "direction": "NE",
+        "id": "MTA_403107",
+        "lat": 40.785994,
+        "locationType": 0,
+        "lon": -73.978167,
+        "name": "BROADWAY/W 82 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403109",
+        "direction": "NE",
+        "id": "MTA_403109",
+        "lat": 40.788533,
+        "locationType": 0,
+        "lon": -73.976086,
+        "name": "BROADWAY/W 86 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403110",
+        "direction": "NE",
+        "id": "MTA_403110",
+        "lat": 40.789801,
+        "locationType": 0,
+        "lon": -73.975114,
+        "name": "BROADWAY/W 88 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403111",
+        "direction": "NE",
+        "id": "MTA_403111",
+        "lat": 40.791669,
+        "locationType": 0,
+        "lon": -73.973745,
+        "name": "BROADWAY/W 91 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403112",
+        "direction": "NE",
+        "id": "MTA_403112",
+        "lat": 40.792967,
+        "locationType": 0,
+        "lon": -73.972806,
+        "name": "BROADWAY/W 93 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403114",
+        "direction": "NE",
+        "id": "MTA_403114",
+        "lat": 40.796724,
+        "locationType": 0,
+        "lon": -73.970048,
+        "name": "BROADWAY/W 99 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403115",
+        "direction": "NE",
+        "id": "MTA_403115",
+        "lat": 40.798143,
+        "locationType": 0,
+        "lon": -73.968924,
+        "name": "BROADWAY/W 101 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403116",
+        "direction": "NE",
+        "id": "MTA_403116",
+        "lat": 40.79932,
+        "locationType": 0,
+        "lon": -73.968241,
+        "name": "BROADWAY/W 103 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403118",
+        "direction": "NE",
+        "id": "MTA_403118",
+        "lat": 40.803132,
+        "locationType": 0,
+        "lon": -73.967242,
+        "name": "BROADWAY/W 108 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403119",
+        "direction": "NE",
+        "id": "MTA_403119",
+        "lat": 40.804269,
+        "locationType": 0,
+        "lon": -73.96635,
+        "name": "BROADWAY/CATHEDRAL PKWY",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403122",
+        "direction": "NE",
+        "id": "MTA_403122",
+        "lat": 40.807895,
+        "locationType": 0,
+        "lon": -73.963813,
+        "name": "BROADWAY/W 116 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M60+",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403125",
+        "direction": "NE",
+        "id": "MTA_403125",
+        "lat": 40.812034,
+        "locationType": 0,
+        "lon": -73.960739,
+        "name": "BROADWAY/W 122 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403126",
+        "direction": "NE",
+        "id": "MTA_403126",
+        "lat": 40.813972,
+        "locationType": 0,
+        "lon": -73.959307,
+        "name": "BROADWAY/LA SALLE ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403127",
+        "direction": "NE",
+        "id": "MTA_403127",
+        "lat": 40.814923,
+        "locationType": 0,
+        "lon": -73.95853,
+        "name": "BROADWAY/TIEMANN PL",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403139",
+        "direction": "SW",
+        "id": "MTA_403139",
+        "lat": 40.811475,
+        "locationType": 0,
+        "lon": -73.95402,
+        "name": "MORNINGSIDE AV/W 125 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403142",
+        "direction": "SW",
+        "id": "MTA_403142",
+        "lat": 40.815025,
+        "locationType": 0,
+        "lon": -73.959043,
+        "name": "BROADWAY/TIEMANN PL",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403144",
+        "direction": "SW",
+        "id": "MTA_403144",
+        "lat": 40.813736,
+        "locationType": 0,
+        "lon": -73.959961,
+        "name": "BROADWAY/LA SALLE ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403145",
+        "direction": "SW",
+        "id": "MTA_403145",
+        "lat": 40.811738,
+        "locationType": 0,
+        "lon": -73.961462,
+        "name": "BROADWAY/W 122 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403147",
+        "direction": "SW",
+        "id": "MTA_403147",
+        "lat": 40.807957,
+        "locationType": 0,
+        "lon": -73.96422,
+        "name": "BROADWAY/W 116 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M60+",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403148",
+        "direction": "SW",
+        "id": "MTA_403148",
+        "lat": 40.806645,
+        "locationType": 0,
+        "lon": -73.965164,
+        "name": "BROADWAY/W 114 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403149",
+        "direction": "SW",
+        "id": "MTA_403149",
+        "lat": 40.805377,
+        "locationType": 0,
+        "lon": -73.966071,
+        "name": "BROADWAY/W 112 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403150",
+        "direction": "SW",
+        "id": "MTA_403150",
+        "lat": 40.804085,
+        "locationType": 0,
+        "lon": -73.967018,
+        "name": "BROADWAY/CATHEDRAL PKWY",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403151",
+        "direction": "SW",
+        "id": "MTA_403151",
+        "lat": 40.803163,
+        "locationType": 0,
+        "lon": -73.967726,
+        "name": "BROADWAY/W 108 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403152",
+        "direction": "S",
+        "id": "MTA_403152",
+        "lat": 40.800986,
+        "locationType": 0,
+        "lon": -73.96811,
+        "name": "BROADWAY/W 106 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403153",
+        "direction": "SW",
+        "id": "MTA_403153",
+        "lat": 40.799738,
+        "locationType": 0,
+        "lon": -73.968497,
+        "name": "BROADWAY/W 104 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403154",
+        "direction": "SW",
+        "id": "MTA_403154",
+        "lat": 40.798434,
+        "locationType": 0,
+        "lon": -73.969289,
+        "name": "BROADWAY/W 102 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403155",
+        "direction": "SW",
+        "id": "MTA_403155",
+        "lat": 40.79718,
+        "locationType": 0,
+        "lon": -73.970232,
+        "name": "BROADWAY/W 100 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403158",
+        "direction": "SW",
+        "id": "MTA_403158",
+        "lat": 40.793162,
+        "locationType": 0,
+        "lon": -73.973094,
+        "name": "BROADWAY/W 94 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403159",
+        "direction": "SW",
+        "id": "MTA_403159",
+        "lat": 40.791906,
+        "locationType": 0,
+        "lon": -73.974012,
+        "name": "BROADWAY/W 92 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403162",
+        "direction": "SW",
+        "id": "MTA_403162",
+        "lat": 40.788066,
+        "locationType": 0,
+        "lon": -73.976942,
+        "name": "BROADWAY/W 86 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403163",
+        "direction": "SW",
+        "id": "MTA_403163",
+        "lat": 40.78682,
+        "locationType": 0,
+        "lon": -73.977979,
+        "name": "BROADWAY/W 84 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403164",
+        "direction": "SW",
+        "id": "MTA_403164",
+        "lat": 40.785596,
+        "locationType": 0,
+        "lon": -73.9789,
+        "name": "BROADWAY/W 82 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403165",
+        "direction": "SW",
+        "id": "MTA_403165",
+        "lat": 40.783599,
+        "locationType": 0,
+        "lon": -73.980392,
+        "name": "BROADWAY/W 79 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403166",
+        "direction": "S",
+        "id": "MTA_403166",
+        "lat": 40.781642,
+        "locationType": 0,
+        "lon": -73.981411,
+        "name": "BROADWAY/W 76 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403167",
+        "direction": "S",
+        "id": "MTA_403167",
+        "lat": 40.780165,
+        "locationType": 0,
+        "lon": -73.981863,
+        "name": "BROADWAY/W 74 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403168",
+        "direction": "S",
+        "id": "MTA_403168",
+        "lat": 40.778655,
+        "locationType": 0,
+        "lon": -73.982115,
+        "name": "BROADWAY/W 72 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403169",
+        "direction": "S",
+        "id": "MTA_403169",
+        "lat": 40.776767,
+        "locationType": 0,
+        "lon": -73.982304,
+        "name": "BROADWAY/W 70 ST",
+        "routeIds": [
+            "MTA NYCT_M5",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403171",
+        "direction": "S",
+        "id": "MTA_403171",
+        "lat": 40.773284,
+        "locationType": 0,
+        "lon": -73.982406,
+        "name": "BROADWAY/W 65 ST",
+        "routeIds": [
+            "MTA NYCT_M5",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403271",
+        "direction": "N",
+        "id": "MTA_403271",
+        "lat": 40.774269,
+        "locationType": 0,
+        "lon": -73.982027,
+        "name": "BROADWAY/W 66 ST",
+        "routeIds": [
+            "MTA NYCT_M5",
+            "MTA NYCT_M7",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403604",
+        "direction": "NW",
+        "id": "MTA_403604",
+        "lat": 40.813693,
+        "locationType": 0,
+        "lon": -73.956392,
+        "name": "W 125 ST/AMSTERDAM AV",
+        "routeIds": [
+            "MTA NYCT_M104",
+            "MTA NYCT_M125"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403763",
+        "direction": "NW",
+        "id": "MTA_403763",
+        "lat": 40.815072,
+        "locationType": 0,
+        "lon": -73.957587,
+        "name": "W 125 ST/OLD BROADWAY",
+        "routeIds": [
+            "MTA NYCT_M104",
+            "MTA NYCT_M125"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403781",
+        "direction": "SE",
+        "id": "MTA_403781",
+        "lat": 40.767567,
+        "locationType": 0,
+        "lon": -73.980989,
+        "name": "CENTRAL PARK SOUTH/COLUMBUS CIRCLE",
+        "routeIds": [
+            "MTA NYCT_M5",
+            "MTA NYCT_M7",
+            "MTA NYCT_M20",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403797",
+        "direction": "SW",
+        "id": "MTA_403797",
+        "lat": 40.760853,
+        "locationType": 0,
+        "lon": -73.983568,
+        "name": "7 AV/W 50 ST",
+        "routeIds": [
+            "MTABC_BXM2",
+            "MTA NYCT_M7",
+            "MTA NYCT_M20",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403942",
+        "direction": "S",
+        "id": "MTA_403942",
+        "lat": 40.814223,
+        "locationType": 0,
+        "lon": -73.953176,
+        "name": "CONVENT AV/W 129 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404138",
+        "direction": "S",
+        "id": "MTA_404138",
+        "lat": 40.771637,
+        "locationType": 0,
+        "lon": -73.98234,
+        "name": "BROADWAY/W 63 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404153",
+        "direction": "SW",
+        "id": "MTA_404153",
+        "lat": 40.755484,
+        "locationType": 0,
+        "lon": -73.987378,
+        "name": "7 AV/W 41 ST",
+        "routeIds": [
+            "MTA NYCT_M20",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404260",
+        "direction": "NE",
+        "id": "MTA_404260",
+        "lat": 40.806258,
+        "locationType": 0,
+        "lon": -73.964954,
+        "name": "BROADWAY/W 113 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404262",
+        "direction": "NE",
+        "id": "MTA_404262",
+        "lat": 40.810341,
+        "locationType": 0,
+        "lon": -73.961983,
+        "name": "BROADWAY/W 120 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M60+",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404846",
+        "direction": "NE",
+        "id": "MTA_404846",
+        "lat": 40.761902,
+        "locationType": 0,
+        "lon": -73.986239,
+        "name": "8 AV/W 49 ST",
+        "routeIds": [
+            "MTA NYCT_M20",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404872",
+        "direction": "NE",
+        "id": "MTA_404872",
+        "lat": 40.759796,
+        "locationType": 0,
+        "lon": -73.987859,
+        "name": "8 AV/W 46 ST",
+        "routeIds": [
+            "MTA NYCT_M20",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404919",
+        "direction": "NE",
+        "id": "MTA_404919",
+        "lat": 40.758004,
+        "locationType": 0,
+        "lon": -73.989093,
+        "name": "8 AV/W 43 ST",
+        "routeIds": [
+            "MTA NYCT_M20",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405234",
+        "direction": "SW",
+        "id": "MTA_405234",
+        "lat": 40.810369,
+        "locationType": 0,
+        "lon": -73.962559,
+        "name": "BROADWAY/W 120 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M60+",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405248",
+        "direction": "NE",
+        "id": "MTA_405248",
+        "lat": 40.795174,
+        "locationType": 0,
+        "lon": -73.971197,
+        "name": "BROADWAY/W 97 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405249",
+        "direction": "SW",
+        "id": "MTA_405249",
+        "lat": 40.794932,
+        "locationType": 0,
+        "lon": -73.971848,
+        "name": "BROADWAY/W 97 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405297",
+        "direction": "SW",
+        "id": "MTA_405297",
+        "lat": 40.757476,
+        "locationType": 0,
+        "lon": -73.985927,
+        "name": "7 AV/W 44 ST",
+        "routeIds": [
+            "MTA NYCT_M7",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405374",
+        "direction": "NW",
+        "id": "MTA_405374",
+        "lat": 40.756549,
+        "locationType": 0,
+        "lon": -73.990123,
+        "name": "W 41 ST/8 AV",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405393",
+        "direction": "NE",
+        "id": "MTA_405393",
+        "lat": 40.766284,
+        "locationType": 0,
+        "lon": -73.983072,
+        "name": "8 AV/W  56 ST",
+        "routeIds": [
+            "MTA NYCT_M20",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405394",
+        "direction": "N",
+        "id": "MTA_405394",
+        "lat": 40.80059,
+        "locationType": 0,
+        "lon": -73.967806,
+        "name": "BROADWAY/W 105 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405541",
+        "direction": "SW",
+        "id": "MTA_405541",
+        "lat": 40.790087,
+        "locationType": 0,
+        "lon": -73.975267,
+        "name": "BROADWAY/W 89 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803144",
+        "direction": "NW",
+        "id": "MTA_803144",
+        "lat": 40.756408,
+        "locationType": 0,
+        "lon": -73.989815,
+        "name": "W 41 ST/8 AV",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903089",
+        "direction": "NE",
+        "id": "MTA_903089",
+        "lat": 40.814906,
+        "locationType": 0,
+        "lon": -73.955044,
+        "name": "AMSTERDAM AV/W 129 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903299",
+        "direction": "NE",
+        "id": "MTA_903299",
+        "lat": 40.787515,
+        "locationType": 0,
+        "lon": -73.976976,
+        "name": "BROADWAY/W 85 ST",
+        "routeIds": [
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

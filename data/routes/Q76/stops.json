@@ -1,0 +1,1854 @@
+[
+    {
+        "code": "500002",
+        "direction": "NW",
+        "id": "MTA_500002",
+        "lat": 40.709146,
+        "locationType": 0,
+        "lon": -73.797156,
+        "name": "165 ST/HILLSIDE AV",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500004",
+        "direction": "E",
+        "id": "MTA_500004",
+        "lat": 40.71144,
+        "locationType": 0,
+        "lon": -73.790887,
+        "name": "HILLSIDE AV/171 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500008",
+        "direction": "E",
+        "id": "MTA_500008",
+        "lat": 40.713574,
+        "locationType": 0,
+        "lon": -73.77985,
+        "name": "HILLSIDE AV/182 PL",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500009",
+        "direction": "E",
+        "id": "MTA_500009",
+        "lat": 40.714085,
+        "locationType": 0,
+        "lon": -73.777516,
+        "name": "HILLSIDE AV/184 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500010",
+        "direction": "E",
+        "id": "MTA_500010",
+        "lat": 40.714481,
+        "locationType": 0,
+        "lon": -73.775904,
+        "name": "HILLSIDE AV/187 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500011",
+        "direction": "E",
+        "id": "MTA_500011",
+        "lat": 40.715309,
+        "locationType": 0,
+        "lon": -73.772827,
+        "name": "HILLSIDE AV/189 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500012",
+        "direction": "E",
+        "id": "MTA_500012",
+        "lat": 40.716032,
+        "locationType": 0,
+        "lon": -73.770711,
+        "name": "HILLSIDE AV/191 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500013",
+        "direction": "E",
+        "id": "MTA_500013",
+        "lat": 40.716736,
+        "locationType": 0,
+        "lon": -73.768676,
+        "name": "HILLSIDE AV/193 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500014",
+        "direction": "NE",
+        "id": "MTA_500014",
+        "lat": 40.717362,
+        "locationType": 0,
+        "lon": -73.767011,
+        "name": "HILLSIDE AV/195 PL",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500017",
+        "direction": "NE",
+        "id": "MTA_500017",
+        "lat": 40.719903,
+        "locationType": 0,
+        "lon": -73.762044,
+        "name": "HILLSIDE AV/202 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500078",
+        "direction": "W",
+        "id": "MTA_500078",
+        "lat": 40.716563,
+        "locationType": 0,
+        "lon": -73.769609,
+        "name": "HILLSIDE AV/193 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500079",
+        "direction": "W",
+        "id": "MTA_500079",
+        "lat": 40.71588,
+        "locationType": 0,
+        "lon": -73.771498,
+        "name": "HILLSIDE AV/191 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500080",
+        "direction": "W",
+        "id": "MTA_500080",
+        "lat": 40.715217,
+        "locationType": 0,
+        "lon": -73.773444,
+        "name": "HILLSIDE AV/188 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500081",
+        "direction": "W",
+        "id": "MTA_500081",
+        "lat": 40.714768,
+        "locationType": 0,
+        "lon": -73.775267,
+        "name": "HILLSIDE AV/187 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500082",
+        "direction": "W",
+        "id": "MTA_500082",
+        "lat": 40.714049,
+        "locationType": 0,
+        "lon": -73.778431,
+        "name": "HILLSIDE AV/DALNY RD",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500084",
+        "direction": "W",
+        "id": "MTA_500084",
+        "lat": 40.711837,
+        "locationType": 0,
+        "lon": -73.787658,
+        "name": "HILLSIDE AV/175 ST",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500197",
+        "direction": "W",
+        "id": "MTA_500197",
+        "lat": 40.712223,
+        "locationType": 0,
+        "lon": -73.785799,
+        "name": "HILLSIDE AV/EDGERTON BLVD",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500209",
+        "direction": "E",
+        "id": "MTA_500209",
+        "lat": 40.712393,
+        "locationType": 0,
+        "lon": -73.784555,
+        "name": "HILLSIDE AV/178 ST",
+        "routeIds": [
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501172",
+        "direction": "E",
+        "id": "MTA_501172",
+        "lat": 40.786303,
+        "locationType": 0,
+        "lon": -73.809539,
+        "name": "CROSS ISLAND PKWY/CLINTONVILLE ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q76",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501198",
+        "direction": "W",
+        "id": "MTA_501198",
+        "lat": 40.787166,
+        "locationType": 0,
+        "lon": -73.810164,
+        "name": "CROSS ISLAND PKWY/CLINTONVILLE ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q76",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501199",
+        "direction": "W",
+        "id": "MTA_501199",
+        "lat": 40.787358,
+        "locationType": 0,
+        "lon": -73.811731,
+        "name": "CROSS ISLAND PKWY/150 PL",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501248",
+        "direction": "NW",
+        "id": "MTA_501248",
+        "lat": 40.771804,
+        "locationType": 0,
+        "lon": -73.794236,
+        "name": "FRANCIS LEWIS BLVD/28 AV",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501257",
+        "direction": "NW",
+        "id": "MTA_501257",
+        "lat": 40.773429,
+        "locationType": 0,
+        "lon": -73.796141,
+        "name": "FRANCIS LEWIS BLVD/169 ST",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501258",
+        "direction": "NW",
+        "id": "MTA_501258",
+        "lat": 40.774689,
+        "locationType": 0,
+        "lon": -73.797924,
+        "name": "FRANCIS LEWIS BLVD/25 AV",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501259",
+        "direction": "NW",
+        "id": "MTA_501259",
+        "lat": 40.776215,
+        "locationType": 0,
+        "lon": -73.799292,
+        "name": "FRANCIS LEWIS BLVD/24 AV",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501260",
+        "direction": "NW",
+        "id": "MTA_501260",
+        "lat": 40.778021,
+        "locationType": 0,
+        "lon": -73.800824,
+        "name": "FRANCIS LEWIS BLVD/163 ST",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501261",
+        "direction": "NW",
+        "id": "MTA_501261",
+        "lat": 40.78012,
+        "locationType": 0,
+        "lon": -73.802252,
+        "name": "FRANCIS LEWIS BLVD/WILLETS POINT BLVD",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501288",
+        "direction": "SE",
+        "id": "MTA_501288",
+        "lat": 40.779734,
+        "locationType": 0,
+        "lon": -73.802459,
+        "name": "FRANCIS LEWIS BLVD/WILLETS POINT BLVD",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501289",
+        "direction": "SE",
+        "id": "MTA_501289",
+        "lat": 40.778588,
+        "locationType": 0,
+        "lon": -73.801704,
+        "name": "FRANCIS LEWIS BLVD/21 AV",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501290",
+        "direction": "SE",
+        "id": "MTA_501290",
+        "lat": 40.777054,
+        "locationType": 0,
+        "lon": -73.800427,
+        "name": "FRANCIS LEWIS BLVD/163 ST",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501291",
+        "direction": "SE",
+        "id": "MTA_501291",
+        "lat": 40.775702,
+        "locationType": 0,
+        "lon": -73.799174,
+        "name": "FRANCIS LEWIS BLVD/24 AV",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501292",
+        "direction": "SE",
+        "id": "MTA_501292",
+        "lat": 40.774168,
+        "locationType": 0,
+        "lon": -73.797803,
+        "name": "FRANCIS LEWIS BLVD/25 AV",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501293",
+        "direction": "SE",
+        "id": "MTA_501293",
+        "lat": 40.77319,
+        "locationType": 0,
+        "lon": -73.796199,
+        "name": "FRANCIS LEWIS BLVD/168 ST",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501294",
+        "direction": "SE",
+        "id": "MTA_501294",
+        "lat": 40.772588,
+        "locationType": 0,
+        "lon": -73.795295,
+        "name": "FRANCIS LEWIS BLVD/169 ST",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501295",
+        "direction": "SE",
+        "id": "MTA_501295",
+        "lat": 40.771722,
+        "locationType": 0,
+        "lon": -73.794518,
+        "name": "FRANCIS LEWIS BLVD/170 ST",
+        "routeIds": [
+            "MTA NYCT_Q16",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501320",
+        "direction": "E",
+        "id": "MTA_501320",
+        "lat": 40.710435,
+        "locationType": 0,
+        "lon": -73.793486,
+        "name": "HILLSIDE AV/168 PL",
+        "routeIds": [
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501414",
+        "direction": "W",
+        "id": "MTA_501414",
+        "lat": 40.71262,
+        "locationType": 0,
+        "lon": -73.783923,
+        "name": "HILLSIDE AV/MIDLAND PKWY",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501419",
+        "direction": "SW",
+        "id": "MTA_501419",
+        "lat": 40.71071,
+        "locationType": 0,
+        "lon": -73.793147,
+        "name": "HILLSIDE AV/169 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501730",
+        "direction": "NW",
+        "id": "MTA_501730",
+        "lat": 40.764665,
+        "locationType": 0,
+        "lon": -73.788319,
+        "name": "FRANCIS LEWIS BLVD/35 AV",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501731",
+        "direction": "NW",
+        "id": "MTA_501731",
+        "lat": 40.76646,
+        "locationType": 0,
+        "lon": -73.789693,
+        "name": "FRANCIS LEWIS BLVD/34 AV",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501732",
+        "direction": "NW",
+        "id": "MTA_501732",
+        "lat": 40.767696,
+        "locationType": 0,
+        "lon": -73.790646,
+        "name": "FRANCIS LEWIS BLVD/33 AV",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501733",
+        "direction": "NW",
+        "id": "MTA_501733",
+        "lat": 40.768615,
+        "locationType": 0,
+        "lon": -73.791448,
+        "name": "FRANCIS LEWIS BLVD/32 RD",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501758",
+        "direction": "SE",
+        "id": "MTA_501758",
+        "lat": 40.767024,
+        "locationType": 0,
+        "lon": -73.790435,
+        "name": "FRANCIS LEWIS BLVD/33 AV",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501759",
+        "direction": "SE",
+        "id": "MTA_501759",
+        "lat": 40.765825,
+        "locationType": 0,
+        "lon": -73.78958,
+        "name": "FRANCIS LEWIS BLVD/192 ST",
+        "routeIds": [
+            "MTA NYCT_Q28",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502115",
+        "direction": "SW",
+        "id": "MTA_502115",
+        "lat": 40.719904,
+        "locationType": 0,
+        "lon": -73.762312,
+        "name": "HILLSIDE AV/202 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502241",
+        "direction": "S",
+        "id": "MTA_502241",
+        "lat": 40.784173,
+        "locationType": 0,
+        "lon": -73.821396,
+        "name": "PARSONS BLVD/17 RD",
+        "routeIds": [
+            "MTA NYCT_Q20B",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502433",
+        "direction": "W",
+        "id": "MTA_502433",
+        "lat": 40.787208,
+        "locationType": 0,
+        "lon": -73.820973,
+        "name": "14 AV/146 ST",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502434",
+        "direction": "SE",
+        "id": "MTA_502434",
+        "lat": 40.786504,
+        "locationType": 0,
+        "lon": -73.8223,
+        "name": "PARSONS BLVD/14 AV",
+        "routeIds": [
+            "MTA NYCT_Q20B",
+            "MTA NYCT_Q44+",
+            "MTA NYCT_Q76",
+            "MTABC_QM2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502685",
+        "direction": "NW",
+        "id": "MTA_502685",
+        "lat": 40.723779,
+        "locationType": 0,
+        "lon": -73.762827,
+        "name": "FRANCIS LEWIS BLVD/86 RD",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502686",
+        "direction": "NW",
+        "id": "MTA_502686",
+        "lat": 40.72466,
+        "locationType": 0,
+        "lon": -73.764556,
+        "name": "FRANCIS LEWIS BLVD/EPSOM COURSE",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502688",
+        "direction": "NW",
+        "id": "MTA_502688",
+        "lat": 40.732118,
+        "locationType": 0,
+        "lon": -73.770197,
+        "name": "FRANCIS LEWIS BLVD/UNION TPKE",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502689",
+        "direction": "NW",
+        "id": "MTA_502689",
+        "lat": 40.736625,
+        "locationType": 0,
+        "lon": -73.772856,
+        "name": "FRANCIS LEWIS BLVD/73 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502690",
+        "direction": "NW",
+        "id": "MTA_502690",
+        "lat": 40.742925,
+        "locationType": 0,
+        "lon": -73.775406,
+        "name": "FRANCIS LEWIS BLVD/HORACE HARDING EXPWY SOUTH",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502691",
+        "direction": "NW",
+        "id": "MTA_502691",
+        "lat": 40.744051,
+        "locationType": 0,
+        "lon": -73.775939,
+        "name": "FRANCIS LEWIS BLVD/HORACE HARDING EXPWY NORTH",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502692",
+        "direction": "NW",
+        "id": "MTA_502692",
+        "lat": 40.745902,
+        "locationType": 0,
+        "lon": -73.776809,
+        "name": "FRANCIS LEWIS BLVD/58 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502693",
+        "direction": "NW",
+        "id": "MTA_502693",
+        "lat": 40.747506,
+        "locationType": 0,
+        "lon": -73.777565,
+        "name": "FRANCIS LEWIS BLVD/56 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502694",
+        "direction": "NW",
+        "id": "MTA_502694",
+        "lat": 40.749094,
+        "locationType": 0,
+        "lon": -73.778321,
+        "name": "FRANCIS LEWIS BLVD/53 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502695",
+        "direction": "NW",
+        "id": "MTA_502695",
+        "lat": 40.75066,
+        "locationType": 0,
+        "lon": -73.779067,
+        "name": "FRANCIS LEWIS BLVD/50 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502696",
+        "direction": "NW",
+        "id": "MTA_502696",
+        "lat": 40.752201,
+        "locationType": 0,
+        "lon": -73.779798,
+        "name": "FRANCIS LEWIS BLVD/48 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502697",
+        "direction": "NW",
+        "id": "MTA_502697",
+        "lat": 40.753658,
+        "locationType": 0,
+        "lon": -73.780605,
+        "name": "FRANCIS LEWIS BLVD/47 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502698",
+        "direction": "NW",
+        "id": "MTA_502698",
+        "lat": 40.755024,
+        "locationType": 0,
+        "lon": -73.781742,
+        "name": "FRANCIS LEWIS BLVD/46 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502699",
+        "direction": "NW",
+        "id": "MTA_502699",
+        "lat": 40.756337,
+        "locationType": 0,
+        "lon": -73.782441,
+        "name": "FRANCIS LEWIS BLVD/45 RD",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502700",
+        "direction": "NW",
+        "id": "MTA_502700",
+        "lat": 40.75729,
+        "locationType": 0,
+        "lon": -73.782918,
+        "name": "FRANCIS LEWIS BLVD/44 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502701",
+        "direction": "NW",
+        "id": "MTA_502701",
+        "lat": 40.758205,
+        "locationType": 0,
+        "lon": -73.783417,
+        "name": "FRANCIS LEWIS BLVD/43 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502703",
+        "direction": "NW",
+        "id": "MTA_502703",
+        "lat": 40.761156,
+        "locationType": 0,
+        "lon": -73.784912,
+        "name": "FRANCIS LEWIS BLVD/STATION RD",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502704",
+        "direction": "NW",
+        "id": "MTA_502704",
+        "lat": 40.762917,
+        "locationType": 0,
+        "lon": -73.785535,
+        "name": "FRANCIS LEWIS BLVD/38 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502717",
+        "direction": "NW",
+        "id": "MTA_502717",
+        "lat": 40.781725,
+        "locationType": 0,
+        "lon": -73.803316,
+        "name": "FRANCIS LEWIS BLVD/160 ST",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502718",
+        "direction": "NW",
+        "id": "MTA_502718",
+        "lat": 40.782931,
+        "locationType": 0,
+        "lon": -73.804132,
+        "name": "FRANCIS LEWIS BLVD/17 RD",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502719",
+        "direction": "NW",
+        "id": "MTA_502719",
+        "lat": 40.785157,
+        "locationType": 0,
+        "lon": -73.805497,
+        "name": "FRANCIS LEWIS BLVD/16 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502722",
+        "direction": "W",
+        "id": "MTA_502722",
+        "lat": 40.787619,
+        "locationType": 0,
+        "lon": -73.813886,
+        "name": "CROSS ISLAND PKWY/150 ST",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502724",
+        "direction": "W",
+        "id": "MTA_502724",
+        "lat": 40.787636,
+        "locationType": 0,
+        "lon": -73.819162,
+        "name": "14 AV/147 ST",
+        "routeIds": [
+            "MTA NYCT_Q76",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502727",
+        "direction": "E",
+        "id": "MTA_502727",
+        "lat": 40.78688,
+        "locationType": 0,
+        "lon": -73.821902,
+        "name": "14 AV/PARSONS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502728",
+        "direction": "E",
+        "id": "MTA_502728",
+        "lat": 40.787504,
+        "locationType": 0,
+        "lon": -73.819202,
+        "name": "14 AV/147 ST",
+        "routeIds": [
+            "MTA NYCT_Q76",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502735",
+        "direction": "SE",
+        "id": "MTA_502735",
+        "lat": 40.785042,
+        "locationType": 0,
+        "lon": -73.805816,
+        "name": "FRANCIS LEWIS BLVD/LOCKE AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502736",
+        "direction": "SE",
+        "id": "MTA_502736",
+        "lat": 40.783135,
+        "locationType": 0,
+        "lon": -73.80459,
+        "name": "FRANCIS LEWIS BLVD/17 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502737",
+        "direction": "SE",
+        "id": "MTA_502737",
+        "lat": 40.7816,
+        "locationType": 0,
+        "lon": -73.803702,
+        "name": "FRANCIS LEWIS BLVD/18 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502746",
+        "direction": "SE",
+        "id": "MTA_502746",
+        "lat": 40.77085,
+        "locationType": 0,
+        "lon": -73.793759,
+        "name": "FRANCIS LEWIS BLVD/171 ST",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502750",
+        "direction": "SE",
+        "id": "MTA_502750",
+        "lat": 40.763932,
+        "locationType": 0,
+        "lon": -73.787821,
+        "name": "FRANCIS LEWIS BLVD/194 ST",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502751",
+        "direction": "SE",
+        "id": "MTA_502751",
+        "lat": 40.762642,
+        "locationType": 0,
+        "lon": -73.785666,
+        "name": "FRANCIS LEWIS BLVD/38 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502752",
+        "direction": "S",
+        "id": "MTA_502752",
+        "lat": 40.761165,
+        "locationType": 0,
+        "lon": -73.785198,
+        "name": "FRANCIS LEWIS BLVD/STATION RD",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502753",
+        "direction": "SE",
+        "id": "MTA_502753",
+        "lat": 40.759536,
+        "locationType": 0,
+        "lon": -73.784517,
+        "name": "FRANCIS LEWIS BLVD/42 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502754",
+        "direction": "SE",
+        "id": "MTA_502754",
+        "lat": 40.757396,
+        "locationType": 0,
+        "lon": -73.783423,
+        "name": "FRANCIS LEWIS BLVD/NORTHERN BLVD",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502755",
+        "direction": "SE",
+        "id": "MTA_502755",
+        "lat": 40.756332,
+        "locationType": 0,
+        "lon": -73.782853,
+        "name": "FRANCIS LEWIS BLVD/45 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502756",
+        "direction": "SE",
+        "id": "MTA_502756",
+        "lat": 40.754389,
+        "locationType": 0,
+        "lon": -73.781567,
+        "name": "FRANCIS LEWIS BLVD/46 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502757",
+        "direction": "SE",
+        "id": "MTA_502757",
+        "lat": 40.753001,
+        "locationType": 0,
+        "lon": -73.780503,
+        "name": "FRANCIS LEWIS BLVD/47 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502758",
+        "direction": "SE",
+        "id": "MTA_502758",
+        "lat": 40.751554,
+        "locationType": 0,
+        "lon": -73.7798,
+        "name": "FRANCIS LEWIS BLVD/48 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502759",
+        "direction": "SE",
+        "id": "MTA_502759",
+        "lat": 40.749993,
+        "locationType": 0,
+        "lon": -73.779062,
+        "name": "FRANCIS LEWIS BLVD/50 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502760",
+        "direction": "SE",
+        "id": "MTA_502760",
+        "lat": 40.748391,
+        "locationType": 0,
+        "lon": -73.778299,
+        "name": "FRANCIS LEWIS BLVD/53 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502761",
+        "direction": "SE",
+        "id": "MTA_502761",
+        "lat": 40.74679,
+        "locationType": 0,
+        "lon": -73.777542,
+        "name": "FRANCIS LEWIS BLVD/56 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502762",
+        "direction": "SE",
+        "id": "MTA_502762",
+        "lat": 40.745172,
+        "locationType": 0,
+        "lon": -73.776775,
+        "name": "FRANCIS LEWIS BLVD/58 AV",
+        "routeIds": [
+            "MTA NYCT_Q26",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502763",
+        "direction": "SE",
+        "id": "MTA_502763",
+        "lat": 40.743941,
+        "locationType": 0,
+        "lon": -73.776188,
+        "name": "FRANCIS LEWIS BLVD/HORACE HARDING EXPWY NORTH",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502764",
+        "direction": "SE",
+        "id": "MTA_502764",
+        "lat": 40.742685,
+        "locationType": 0,
+        "lon": -73.77554,
+        "name": "FRANCIS LEWIS BLVD/HORACE HARDING EXPWY SOUTH",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502765",
+        "direction": "SE",
+        "id": "MTA_502765",
+        "lat": 40.735914,
+        "locationType": 0,
+        "lon": -73.772835,
+        "name": "FRANCIS LEWIS BLVD/73 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502766",
+        "direction": "SE",
+        "id": "MTA_502766",
+        "lat": 40.731454,
+        "locationType": 0,
+        "lon": -73.770045,
+        "name": "FRANCIS LEWIS BLVD/UNION TPKE",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502767",
+        "direction": "SE",
+        "id": "MTA_502767",
+        "lat": 40.725154,
+        "locationType": 0,
+        "lon": -73.7655,
+        "name": "FRANCIS LEWIS BLVD/MCLAUGHLIN AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502768",
+        "direction": "SE",
+        "id": "MTA_502768",
+        "lat": 40.723223,
+        "locationType": 0,
+        "lon": -73.762252,
+        "name": "FRANCIS LEWIS BLVD/204 ST",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502769",
+        "direction": "SE",
+        "id": "MTA_502769",
+        "lat": 40.721161,
+        "locationType": 0,
+        "lon": -73.759582,
+        "name": "FRANCIS LEWIS BLVD/HILLSIDE AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503041",
+        "direction": "SE",
+        "id": "MTA_503041",
+        "lat": 40.768973,
+        "locationType": 0,
+        "lon": -73.792115,
+        "name": "FRANCIS LEWIS BLVD/32 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503195",
+        "direction": "W",
+        "id": "MTA_503195",
+        "lat": 40.711809,
+        "locationType": 0,
+        "lon": -73.790139,
+        "name": "HILLSIDE AV/172 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503551",
+        "direction": "NE",
+        "id": "MTA_503551",
+        "lat": 40.782022,
+        "locationType": 0,
+        "lon": -73.8219,
+        "name": "PARSONS BLVD/20 AV",
+        "routeIds": [
+            "MTA NYCT_Q20B",
+            "MTA NYCT_Q44+",
+            "MTA NYCT_Q76",
+            "MTABC_QM2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503552",
+        "direction": "N",
+        "id": "MTA_503552",
+        "lat": 40.784315,
+        "locationType": 0,
+        "lon": -73.821251,
+        "name": "PARSONS BLVD/17 AV",
+        "routeIds": [
+            "MTA NYCT_Q20B",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503571",
+        "direction": "E",
+        "id": "MTA_503571",
+        "lat": 40.711741,
+        "locationType": 0,
+        "lon": -73.787248,
+        "name": "HILLSIDE AV/175 ST",
+        "routeIds": [
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503730",
+        "direction": "NW",
+        "id": "MTA_503730",
+        "lat": 40.722088,
+        "locationType": 0,
+        "lon": -73.760168,
+        "name": "FRANCIS LEWIS BLVD/WHITEHALL TERR",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503731",
+        "direction": "SE",
+        "id": "MTA_503731",
+        "lat": 40.724394,
+        "locationType": 0,
+        "lon": -73.76451,
+        "name": "FRANCIS LEWIS BLVD/EPSOM COURSE",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503773",
+        "direction": "W",
+        "id": "MTA_503773",
+        "lat": 40.707939,
+        "locationType": 0,
+        "lon": -73.795668,
+        "name": "165 ST TERMINAL/BAY 3",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503787",
+        "direction": "NW",
+        "id": "MTA_503787",
+        "lat": 40.725403,
+        "locationType": 0,
+        "lon": -73.765369,
+        "name": "FRANCIS LEWIS BLVD/GRAND CENTRAL PKWY",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503919",
+        "direction": "E",
+        "id": "MTA_503919",
+        "lat": 40.785918,
+        "locationType": 0,
+        "lon": -73.807705,
+        "name": "CROSS ISLAND PKWY/154 ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503978",
+        "direction": "NE",
+        "id": "MTA_503978",
+        "lat": 40.719173,
+        "locationType": 0,
+        "lon": -73.763711,
+        "name": "HILLSIDE AV/199 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504027",
+        "direction": "E",
+        "id": "MTA_504027",
+        "lat": 40.71319,
+        "locationType": 0,
+        "lon": -73.781385,
+        "name": "HILLSIDE AV/181 ST",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504044",
+        "direction": "NW",
+        "id": "MTA_504044",
+        "lat": 40.771493,
+        "locationType": 0,
+        "lon": -73.782139,
+        "name": "208 ST /32 AV BAY 2",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504473",
+        "direction": "NW",
+        "id": "MTA_504473",
+        "lat": 40.770852,
+        "locationType": 0,
+        "lon": -73.793409,
+        "name": "FRANCIS LEWIS BLVD/172 ST",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505013",
+        "direction": "W",
+        "id": "MTA_505013",
+        "lat": 40.781741,
+        "locationType": 0,
+        "lon": -73.826119,
+        "name": "20 AV/WHITESTONE EXPWY",
+        "routeIds": [
+            "MTA NYCT_Q20A",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505014",
+        "direction": "W",
+        "id": "MTA_505014",
+        "lat": 40.781704,
+        "locationType": 0,
+        "lon": -73.832632,
+        "name": "20 AV/PETRACCA PL-TARGET",
+        "routeIds": [
+            "MTA NYCT_Q20A",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505015",
+        "direction": "W",
+        "id": "MTA_505015",
+        "lat": 40.781708,
+        "locationType": 0,
+        "lon": -73.835792,
+        "name": "20 AV/132 ST",
+        "routeIds": [
+            "MTA NYCT_Q20A",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505016",
+        "direction": "W",
+        "id": "MTA_505016",
+        "lat": 40.781696,
+        "locationType": 0,
+        "lon": -73.837679,
+        "name": "20 AV/131 ST",
+        "routeIds": [
+            "MTA NYCT_Q20A",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505027",
+        "direction": "E",
+        "id": "MTA_505027",
+        "lat": 40.781547,
+        "locationType": 0,
+        "lon": -73.834828,
+        "name": "20 AV/OPP SHOPRITE",
+        "routeIds": [
+            "MTA NYCT_Q20A",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505028",
+        "direction": "E",
+        "id": "MTA_505028",
+        "lat": 40.781546,
+        "locationType": 0,
+        "lon": -73.832391,
+        "name": "20 AV/OPP TARGET",
+        "routeIds": [
+            "MTA NYCT_Q20A",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505029",
+        "direction": "E",
+        "id": "MTA_505029",
+        "lat": 40.781566,
+        "locationType": 0,
+        "lon": -73.827495,
+        "name": "20 AV/POSTAL FACILITY",
+        "routeIds": [
+            "MTA NYCT_Q20A",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505037",
+        "direction": "SW",
+        "id": "MTA_505037",
+        "lat": 40.782058,
+        "locationType": 0,
+        "lon": -73.822055,
+        "name": "PARSONS BLVD/20 AV",
+        "routeIds": [
+            "MTA NYCT_Q20B",
+            "MTA NYCT_Q44+",
+            "MTA NYCT_Q76",
+            "MTABC_QM2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505059",
+        "direction": "E",
+        "id": "MTA_505059",
+        "lat": 40.786904,
+        "locationType": 0,
+        "lon": -73.81306,
+        "name": "CROSS ISLAND PKWY/150 ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505060",
+        "direction": "SE",
+        "id": "MTA_505060",
+        "lat": 40.787464,
+        "locationType": 0,
+        "lon": -73.816274,
+        "name": "CROSS ISLAND PKWY/149 ST",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505061",
+        "direction": "S",
+        "id": "MTA_505061",
+        "lat": 40.782137,
+        "locationType": 0,
+        "lon": -73.836712,
+        "name": "132 ST /20 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505092",
+        "direction": "W",
+        "id": "MTA_505092",
+        "lat": 40.781725,
+        "locationType": 0,
+        "lon": -73.828199,
+        "name": "20 AV/PETRACCA PL-BOBS",
+        "routeIds": [
+            "MTA NYCT_Q20A",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505125",
+        "direction": "N",
+        "id": "MTA_505125",
+        "lat": 40.784457,
+        "locationType": 0,
+        "lon": -73.837536,
+        "name": "131 ST/15 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505201",
+        "direction": "SW",
+        "id": "MTA_505201",
+        "lat": 40.718858,
+        "locationType": 0,
+        "lon": -73.764627,
+        "name": "HILLSIDE AV/198 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505233",
+        "direction": "W",
+        "id": "MTA_505233",
+        "lat": 40.713535,
+        "locationType": 0,
+        "lon": -73.780431,
+        "name": "HILLSIDE AV/AVON ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804052",
+        "direction": "SE",
+        "id": "MTA_804052",
+        "lat": 40.707663,
+        "locationType": 0,
+        "lon": -73.795217,
+        "name": "165 ST/TERMINAL",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904010",
+        "direction": "S",
+        "id": "MTA_904010",
+        "lat": 40.782063,
+        "locationType": 0,
+        "lon": -73.836719,
+        "name": "132 ST/20 AV",
+        "routeIds": [
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

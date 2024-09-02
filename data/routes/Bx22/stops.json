@@ -1,0 +1,1039 @@
+[
+    {
+        "code": "100080",
+        "direction": "SW",
+        "id": "MTA_100080",
+        "lat": 40.874629,
+        "locationType": 0,
+        "lon": -73.891539,
+        "name": "PAUL AV/BEDFORD PARK BLVD",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX22",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100565",
+        "direction": "W",
+        "id": "MTA_100565",
+        "lat": 40.858134,
+        "locationType": 0,
+        "lon": -73.882985,
+        "name": "EAST FORDHAM RD/CAMBERLENG AV",
+        "routeIds": [
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX12",
+            "MTA NYCT_BX17",
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100567",
+        "direction": "NW",
+        "id": "MTA_100567",
+        "lat": 40.859851,
+        "locationType": 0,
+        "lon": -73.887646,
+        "name": "EASTFORDHAM RD/BATHGATE AV",
+        "routeIds": [
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX12",
+            "MTA NYCT_BX17",
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100571",
+        "direction": "N",
+        "id": "MTA_100571",
+        "lat": 40.863823,
+        "locationType": 0,
+        "lon": -73.894194,
+        "name": "EAST KINGSBRIDGE RD/E 192 ST",
+        "routeIds": [
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100573",
+        "direction": "NW",
+        "id": "MTA_100573",
+        "lat": 40.867294,
+        "locationType": 0,
+        "lon": -73.896876,
+        "name": "EAST KINGSBRIDGE RD/MORRIS AV",
+        "routeIds": [
+            "MTA NYCT_BX22",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100630",
+        "direction": "E",
+        "id": "MTA_100630",
+        "lat": 40.86743,
+        "locationType": 0,
+        "lon": -73.89767,
+        "name": "WEST KINGSBRIDGE RD/JEROME AV",
+        "routeIds": [
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100631",
+        "direction": "SE",
+        "id": "MTA_100631",
+        "lat": 40.86585,
+        "locationType": 0,
+        "lon": -73.894274,
+        "name": "EAST KINGSBRIDGE RD/GRAND CONCOURSE",
+        "routeIds": [
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX22",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100636",
+        "direction": "SE",
+        "id": "MTA_100636",
+        "lat": 40.859601,
+        "locationType": 0,
+        "lon": -73.887654,
+        "name": "EAST FORDHAM RD/BATHGATE AV",
+        "routeIds": [
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX12",
+            "MTA NYCT_BX17",
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100723",
+        "direction": "SE",
+        "id": "MTA_100723",
+        "lat": 40.876999,
+        "locationType": 0,
+        "lon": -73.889855,
+        "name": "W 205 ST/PAUL AV",
+        "routeIds": [
+            "MTA NYCT_BX22",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100807",
+        "direction": "SE",
+        "id": "MTA_100807",
+        "lat": 40.856465,
+        "locationType": 0,
+        "lon": -73.880146,
+        "name": "EAST FORDHAM RD/SOUTHERN BLVD",
+        "routeIds": [
+            "MTA NYCT_BX12",
+            "MTA NYCT_BX12+",
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100843",
+        "direction": "NW",
+        "id": "MTA_100843",
+        "lat": 40.85731,
+        "locationType": 0,
+        "lon": -73.880492,
+        "name": "EAST FORDHAM RD/SOUTHERN BLVD",
+        "routeIds": [
+            "MTA NYCT_BX12",
+            "MTA NYCT_BX12+",
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101478",
+        "direction": "N",
+        "id": "MTA_101478",
+        "lat": 40.814728,
+        "locationType": 0,
+        "lon": -73.846917,
+        "name": "CASTLE HILL AV/NORTON AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101479",
+        "direction": "N",
+        "id": "MTA_101479",
+        "lat": 40.817262,
+        "locationType": 0,
+        "lon": -73.847486,
+        "name": "CASTLE HILL AV/LACOMBE AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101480",
+        "direction": "N",
+        "id": "MTA_101480",
+        "lat": 40.819406,
+        "locationType": 0,
+        "lon": -73.848072,
+        "name": "CASTLE HILL AV/RANDALL AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101481",
+        "direction": "N",
+        "id": "MTA_101481",
+        "lat": 40.821456,
+        "locationType": 0,
+        "lon": -73.848538,
+        "name": "CASTLE HILL AV/SEWARD AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101484",
+        "direction": "N",
+        "id": "MTA_101484",
+        "lat": 40.826079,
+        "locationType": 0,
+        "lon": -73.849609,
+        "name": "CASTLE HILL AV/QUIMBY AV",
+        "routeIds": [
+            "MTA NYCT_BX5",
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101485",
+        "direction": "N",
+        "id": "MTA_101485",
+        "lat": 40.827891,
+        "locationType": 0,
+        "lon": -73.850054,
+        "name": "CASTLE HILL AV/BRUCKNER BLVD",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101486",
+        "direction": "N",
+        "id": "MTA_101486",
+        "lat": 40.829679,
+        "locationType": 0,
+        "lon": -73.850479,
+        "name": "CASTLE HILL AV/WATSON AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101487",
+        "direction": "N",
+        "id": "MTA_101487",
+        "lat": 40.830822,
+        "locationType": 0,
+        "lon": -73.850723,
+        "name": "CASTLE HILL AV/CROSS BRONX EXPWY SERVICE RD NORTH",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101488",
+        "direction": "N",
+        "id": "MTA_101488",
+        "lat": 40.832242,
+        "locationType": 0,
+        "lon": -73.851,
+        "name": "CASTLE HILL AV/GLEASON AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101489",
+        "direction": "NW",
+        "id": "MTA_101489",
+        "lat": 40.834551,
+        "locationType": 0,
+        "lon": -73.851652,
+        "name": "CASTLE HILL AV/WESTCHESTER AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101490",
+        "direction": "W",
+        "id": "MTA_101490",
+        "lat": 40.83634,
+        "locationType": 0,
+        "lon": -73.853098,
+        "name": "STARLING AV/PURDY ST",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101491",
+        "direction": "W",
+        "id": "MTA_101491",
+        "lat": 40.83603,
+        "locationType": 0,
+        "lon": -73.855733,
+        "name": "STARLING AV/UNIONPORT RD",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101494",
+        "direction": "NW",
+        "id": "MTA_101494",
+        "lat": 40.841198,
+        "locationType": 0,
+        "lon": -73.863296,
+        "name": "UNIONPORT RD/EAST TREMONT AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101496",
+        "direction": "N",
+        "id": "MTA_101496",
+        "lat": 40.844084,
+        "locationType": 0,
+        "lon": -73.865589,
+        "name": "WHITE PLAINS RD/VAN NEST AV",
+        "routeIds": [
+            "MTA NYCT_BX22",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101497",
+        "direction": "N",
+        "id": "MTA_101497",
+        "lat": 40.845557,
+        "locationType": 0,
+        "lon": -73.866194,
+        "name": "WHITE PLAINS RD/MORRIS PK AV",
+        "routeIds": [
+            "MTA NYCT_BX22",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101498",
+        "direction": "N",
+        "id": "MTA_101498",
+        "lat": 40.847846,
+        "locationType": 0,
+        "lon": -73.866948,
+        "name": "WHITE PLAINS RD/RHINELANDER AV",
+        "routeIds": [
+            "MTA NYCT_BX22",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101512",
+        "direction": "NE",
+        "id": "MTA_101512",
+        "lat": 40.869501,
+        "locationType": 0,
+        "lon": -73.898932,
+        "name": "RESERVOIR AV/W 195 ST",
+        "routeIds": [
+            "MTA NYCT_BX22",
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101525",
+        "direction": "SW",
+        "id": "MTA_101525",
+        "lat": 40.875294,
+        "locationType": 0,
+        "lon": -73.894407,
+        "name": "GOULDEN AV/BEDFORD PARK BLVD",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101542",
+        "direction": "S",
+        "id": "MTA_101542",
+        "lat": 40.852495,
+        "locationType": 0,
+        "lon": -73.868869,
+        "name": "BRONX PARK EAST/BRADY AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101545",
+        "direction": "S",
+        "id": "MTA_101545",
+        "lat": 40.847182,
+        "locationType": 0,
+        "lon": -73.866894,
+        "name": "WHITE PLAINS RD/RHINELANDER AV",
+        "routeIds": [
+            "MTA NYCT_BX22",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101547",
+        "direction": "S",
+        "id": "MTA_101547",
+        "lat": 40.843493,
+        "locationType": 0,
+        "lon": -73.865576,
+        "name": "WHITE PLAINS RD/VAN NEST AV",
+        "routeIds": [
+            "MTA NYCT_BX22",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101548",
+        "direction": "SE",
+        "id": "MTA_101548",
+        "lat": 40.840999,
+        "locationType": 0,
+        "lon": -73.863405,
+        "name": "UNIONPORT RD/EAST TREMONT AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101551",
+        "direction": "SE",
+        "id": "MTA_101551",
+        "lat": 40.836,
+        "locationType": 0,
+        "lon": -73.85617,
+        "name": "UNIONPORT RD/STARLING AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101552",
+        "direction": "E",
+        "id": "MTA_101552",
+        "lat": 40.836224,
+        "locationType": 0,
+        "lon": -73.852783,
+        "name": "STARLING AV/PURDY ST",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101553",
+        "direction": "S",
+        "id": "MTA_101553",
+        "lat": 40.833834,
+        "locationType": 0,
+        "lon": -73.851581,
+        "name": "CASTLE HILL AV/WESTCHESTER AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101554",
+        "direction": "S",
+        "id": "MTA_101554",
+        "lat": 40.831602,
+        "locationType": 0,
+        "lon": -73.851029,
+        "name": "CASTLE HILL AV/GLEASON AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101555",
+        "direction": "S",
+        "id": "MTA_101555",
+        "lat": 40.829964,
+        "locationType": 0,
+        "lon": -73.850634,
+        "name": "CASTLE HILL AV/CROSS BRONX EXPWY SERVICE RD NORTH",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101556",
+        "direction": "S",
+        "id": "MTA_101556",
+        "lat": 40.828016,
+        "locationType": 0,
+        "lon": -73.850206,
+        "name": "CASTLE HILL AV/CHATTERTON AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101557",
+        "direction": "S",
+        "id": "MTA_101557",
+        "lat": 40.826582,
+        "locationType": 0,
+        "lon": -73.849847,
+        "name": "CASTLE HILL AV/BRUCKNER BLVD",
+        "routeIds": [
+            "MTA NYCT_BX5",
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101561",
+        "direction": "S",
+        "id": "MTA_101561",
+        "lat": 40.820786,
+        "locationType": 0,
+        "lon": -73.848494,
+        "name": "CASTLE HILL AV/SEWARD AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101562",
+        "direction": "S",
+        "id": "MTA_101562",
+        "lat": 40.818611,
+        "locationType": 0,
+        "lon": -73.848003,
+        "name": "CASTLE HILL AV/RANDALL AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101563",
+        "direction": "S",
+        "id": "MTA_101563",
+        "lat": 40.817004,
+        "locationType": 0,
+        "lon": -73.847699,
+        "name": "CASTLE HILL AV/LACOMBE AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101564",
+        "direction": "S",
+        "id": "MTA_101564",
+        "lat": 40.814484,
+        "locationType": 0,
+        "lon": -73.847095,
+        "name": "CASTLE HILL AV/NORTON AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102269",
+        "direction": "SW",
+        "id": "MTA_102269",
+        "lat": 40.862431,
+        "locationType": 0,
+        "lon": -73.895859,
+        "name": "VALENTINE AV/EAST FORDHAM RD",
+        "routeIds": [
+            "MTA NYCT_BX22",
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102968",
+        "direction": "NW",
+        "id": "MTA_102968",
+        "lat": 40.866058,
+        "locationType": 0,
+        "lon": -73.894031,
+        "name": "EAST KINGSBRIDGE RD/GRAND CONCOURSE",
+        "routeIds": [
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX22",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103007",
+        "direction": "SW",
+        "id": "MTA_103007",
+        "lat": 40.868113,
+        "locationType": 0,
+        "lon": -73.899947,
+        "name": "RESERVOIR AV/WEST KINGSBRIDGE RD",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103241",
+        "direction": "SW",
+        "id": "MTA_103241",
+        "lat": 40.863865,
+        "locationType": 0,
+        "lon": -73.894754,
+        "name": "VALENTINE AV/E 192 ST",
+        "routeIds": [
+            "MTA NYCT_BX22",
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103309",
+        "direction": "S",
+        "id": "MTA_103309",
+        "lat": 40.844848,
+        "locationType": 0,
+        "lon": -73.866108,
+        "name": "WHITE PLAINS RD/MORRIS PK AV",
+        "routeIds": [
+            "MTA NYCT_BX22",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103324",
+        "direction": "N",
+        "id": "MTA_103324",
+        "lat": 40.852736,
+        "locationType": 0,
+        "lon": -73.868699,
+        "name": "BRONX PARK EAST/BRADY AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103326",
+        "direction": "NE",
+        "id": "MTA_103326",
+        "lat": 40.856536,
+        "locationType": 0,
+        "lon": -73.869324,
+        "name": "BRONX PARK EAST/PELHAM PKWY",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103362",
+        "direction": "SW",
+        "id": "MTA_103362",
+        "lat": 40.856574,
+        "locationType": 0,
+        "lon": -73.869468,
+        "name": "BOSTON RD/PELHAM PKWY",
+        "routeIds": [
+            "MTA NYCT_BX22",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103450",
+        "direction": "NE",
+        "id": "MTA_103450",
+        "lat": 40.875776,
+        "locationType": 0,
+        "lon": -73.893859,
+        "name": "GOULDEN AV/BEDFORD PARK BLVD",
+        "routeIds": [
+            "MTA NYCT_BX22",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103498",
+        "direction": "SW",
+        "id": "MTA_103498",
+        "lat": 40.871569,
+        "locationType": 0,
+        "lon": -73.897334,
+        "name": "GOULDEN AV/W 197 ST",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103514",
+        "direction": "NW",
+        "id": "MTA_103514",
+        "lat": 40.838708,
+        "locationType": 0,
+        "lon": -73.859449,
+        "name": "AILEEN RYAN OVAL/METROPOLITAN AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103516",
+        "direction": "E",
+        "id": "MTA_103516",
+        "lat": 40.837847,
+        "locationType": 0,
+        "lon": -73.860239,
+        "name": "AILEEN RYAN OVAL/METROPOLITAN AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103517",
+        "direction": "SE",
+        "id": "MTA_103517",
+        "lat": 40.836992,
+        "locationType": 0,
+        "lon": -73.857767,
+        "name": "UNIONPORT RD/METROPOLITAN AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103540",
+        "direction": "SE",
+        "id": "MTA_103540",
+        "lat": 40.858624,
+        "locationType": 0,
+        "lon": -73.885659,
+        "name": "EAST FORDHAM RD/HOFFMAN ST",
+        "routeIds": [
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX12",
+            "MTA NYCT_BX17",
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103542",
+        "direction": "N",
+        "id": "MTA_103542",
+        "lat": 40.849922,
+        "locationType": 0,
+        "lon": -73.867692,
+        "name": "WHITE PLAINS RD/BIRCHALL AV",
+        "routeIds": [
+            "MTA NYCT_BX22",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103697",
+        "direction": "NW",
+        "id": "MTA_103697",
+        "lat": 40.85887,
+        "locationType": 0,
+        "lon": -73.88576,
+        "name": "EAST FORDHAM RD/HOFFMAN ST",
+        "routeIds": [
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX12",
+            "MTA NYCT_BX17",
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103787",
+        "direction": "SE",
+        "id": "MTA_103787",
+        "lat": 40.839389,
+        "locationType": 0,
+        "lon": -73.86183,
+        "name": "UNIONPORT RD/GUERLAIN ST",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103801",
+        "direction": "W",
+        "id": "MTA_103801",
+        "lat": 40.861898,
+        "locationType": 0,
+        "lon": -73.891895,
+        "name": "EAST FORDHAM RD/DECATUR AV",
+        "routeIds": [
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103935",
+        "direction": "NW",
+        "id": "MTA_103935",
+        "lat": 40.837037,
+        "locationType": 0,
+        "lon": -73.857368,
+        "name": "UNIONPORT RD/STARLING AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103936",
+        "direction": "NW",
+        "id": "MTA_103936",
+        "lat": 40.839265,
+        "locationType": 0,
+        "lon": -73.861233,
+        "name": "UNIONPORT RD/METROPOLITAN AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103937",
+        "direction": "NE",
+        "id": "MTA_103937",
+        "lat": 40.871182,
+        "locationType": 0,
+        "lon": -73.897458,
+        "name": "GOULDEN AV/RESERVOIR AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104077",
+        "direction": "S",
+        "id": "MTA_104077",
+        "lat": 40.82461,
+        "locationType": 0,
+        "lon": -73.849396,
+        "name": "CASTLE HILL AV/HERMANY AV",
+        "routeIds": [
+            "MTA NYCT_BX5",
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104078",
+        "direction": "N",
+        "id": "MTA_104078",
+        "lat": 40.823743,
+        "locationType": 0,
+        "lon": -73.849062,
+        "name": "CASTLE HILL AV/TURNBULL AV",
+        "routeIds": [
+            "MTA NYCT_BX5",
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104080",
+        "direction": "E",
+        "id": "MTA_104080",
+        "lat": 40.857651,
+        "locationType": 0,
+        "lon": -73.882903,
+        "name": "EAST FORDHAM RD/CAMBRELENG AV",
+        "routeIds": [
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX12",
+            "MTA NYCT_BX17",
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104090",
+        "direction": "NW",
+        "id": "MTA_104090",
+        "lat": 40.861077,
+        "locationType": 0,
+        "lon": -73.890088,
+        "name": "EAST FORDHAM RD/3 AV",
+        "routeIds": [
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104102",
+        "direction": "SE",
+        "id": "MTA_104102",
+        "lat": 40.860827,
+        "locationType": 0,
+        "lon": -73.889882,
+        "name": "EAST FORDHAM RD/3 AV",
+        "routeIds": [
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104240",
+        "direction": "E",
+        "id": "MTA_104240",
+        "lat": 40.861917,
+        "locationType": 0,
+        "lon": -73.893921,
+        "name": "EAST FORDHAM RD/ELM PL",
+        "routeIds": [
+            "MTA NYCT_BX12",
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104372",
+        "direction": "NE",
+        "id": "MTA_104372",
+        "lat": 40.812847,
+        "locationType": 0,
+        "lon": -73.846145,
+        "name": "ZEREGA AV/CASTLE HILL AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803061",
+        "direction": "SE",
+        "id": "MTA_803061",
+        "lat": 40.877071,
+        "locationType": 0,
+        "lon": -73.890065,
+        "name": "W 205 ST/PAUL AV",
+        "routeIds": [
+            "MTA NYCT_BX22",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "902197",
+        "direction": "S",
+        "id": "MTA_902197",
+        "lat": 40.850278,
+        "locationType": 0,
+        "lon": -73.867876,
+        "name": "WHITE PLAINS RD/BIRCHALL AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "902239",
+        "direction": "W",
+        "id": "MTA_902239",
+        "lat": 40.862247,
+        "locationType": 0,
+        "lon": -73.895709,
+        "name": "EAST FORDHAM RD/VALENTINE AV",
+        "routeIds": [
+            "MTA NYCT_BX22"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

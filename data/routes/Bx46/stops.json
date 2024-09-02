@@ -1,0 +1,380 @@
+[
+    {
+        "code": "104488",
+        "direction": "SW",
+        "id": "MTA_104488",
+        "lat": 40.819315,
+        "locationType": 0,
+        "lon": -73.901848,
+        "name": "PROSPECT AV/WESTCHESTER AV",
+        "routeIds": [
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104489",
+        "direction": "SE",
+        "id": "MTA_104489",
+        "lat": 40.817552,
+        "locationType": 0,
+        "lon": -73.898429,
+        "name": "LONGWOOD AV/KELLY ST",
+        "routeIds": [
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104490",
+        "direction": "SE",
+        "id": "MTA_104490",
+        "lat": 40.816185,
+        "locationType": 0,
+        "lon": -73.896123,
+        "name": "LONGWOOD AV/SOUTHERN BLVD",
+        "routeIds": [
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104491",
+        "direction": "SE",
+        "id": "MTA_104491",
+        "lat": 40.814442,
+        "locationType": 0,
+        "lon": -73.893263,
+        "name": "LONGWOOD AV/BARRY ST",
+        "routeIds": [
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104492",
+        "direction": "SE",
+        "id": "MTA_104492",
+        "lat": 40.813378,
+        "locationType": 0,
+        "lon": -73.891361,
+        "name": "LONGWOOD AV/TRUXTON ST",
+        "routeIds": [
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104493",
+        "direction": "S",
+        "id": "MTA_104493",
+        "lat": 40.811366,
+        "locationType": 0,
+        "lon": -73.890571,
+        "name": "TIFFANY ST/RANDALL AV",
+        "routeIds": [
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104494",
+        "direction": "S",
+        "id": "MTA_104494",
+        "lat": 40.809527,
+        "locationType": 0,
+        "lon": -73.89009,
+        "name": "TIFFANY ST/OAK POINT AV",
+        "routeIds": [
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104495",
+        "direction": "E",
+        "id": "MTA_104495",
+        "lat": 40.806177,
+        "locationType": 0,
+        "lon": -73.887932,
+        "name": "VIELE AV/CASANOVA ST",
+        "routeIds": [
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104497",
+        "direction": "E",
+        "id": "MTA_104497",
+        "lat": 40.806734,
+        "locationType": 0,
+        "lon": -73.884605,
+        "name": "VIELE AV/FAILE ST",
+        "routeIds": [
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104498",
+        "direction": "E",
+        "id": "MTA_104498",
+        "lat": 40.807142,
+        "locationType": 0,
+        "lon": -73.881918,
+        "name": "VIELE AV/WHITTIER ST",
+        "routeIds": [
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104499",
+        "direction": "E",
+        "id": "MTA_104499",
+        "lat": 40.805571,
+        "locationType": 0,
+        "lon": -73.879129,
+        "name": "RYAWA AV/HALLECK ST",
+        "routeIds": [
+            "MTA NYCT_BX6",
+            "MTA NYCT_BX6+",
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104500",
+        "direction": "E",
+        "id": "MTA_104500",
+        "lat": 40.803403,
+        "locationType": 0,
+        "lon": -73.873471,
+        "name": "FOOD CENTER DR/FARRAGUT ST",
+        "routeIds": [
+            "MTA NYCT_BX6",
+            "MTA NYCT_BX6+",
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104501",
+        "direction": "NW",
+        "id": "MTA_104501",
+        "lat": 40.808635,
+        "locationType": 0,
+        "lon": -73.871865,
+        "name": "FOOD CENTER DR/HUNTS POINT MARKET",
+        "routeIds": [
+            "MTA NYCT_BX6",
+            "MTA NYCT_BX6+",
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104502",
+        "direction": "W",
+        "id": "MTA_104502",
+        "lat": 40.810311,
+        "locationType": 0,
+        "lon": -73.874247,
+        "name": "FOOD CENTER DR/BALDOR",
+        "routeIds": [
+            "MTA NYCT_BX6",
+            "MTA NYCT_BX6+",
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104503",
+        "direction": "W",
+        "id": "MTA_104503",
+        "lat": 40.809978,
+        "locationType": 0,
+        "lon": -73.876657,
+        "name": "FOOD CENTER DR/TERMINAL",
+        "routeIds": [
+            "MTA NYCT_BX6",
+            "MTA NYCT_BX6+",
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104504",
+        "direction": "S",
+        "id": "MTA_104504",
+        "lat": 40.807666,
+        "locationType": 0,
+        "lon": -73.879994,
+        "name": "HALLECK ST/VIELE AV",
+        "routeIds": [
+            "MTA NYCT_BX6",
+            "MTA NYCT_BX6+",
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104505",
+        "direction": "W",
+        "id": "MTA_104505",
+        "lat": 40.807251,
+        "locationType": 0,
+        "lon": -73.881867,
+        "name": "VIELE AV/WHITTIER ST",
+        "routeIds": [
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104506",
+        "direction": "W",
+        "id": "MTA_104506",
+        "lat": 40.806841,
+        "locationType": 0,
+        "lon": -73.884705,
+        "name": "VIELE AV/FAILE ST",
+        "routeIds": [
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104508",
+        "direction": "W",
+        "id": "MTA_104508",
+        "lat": 40.806334,
+        "locationType": 0,
+        "lon": -73.888384,
+        "name": "VIELE AV/CASANOVA ST",
+        "routeIds": [
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104509",
+        "direction": "N",
+        "id": "MTA_104509",
+        "lat": 40.809551,
+        "locationType": 0,
+        "lon": -73.889931,
+        "name": "TIFFANY ST/OAK POINT AV",
+        "routeIds": [
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104510",
+        "direction": "N",
+        "id": "MTA_104510",
+        "lat": 40.811713,
+        "locationType": 0,
+        "lon": -73.89046,
+        "name": "TIFFANY ST/RANDALL AV",
+        "routeIds": [
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104511",
+        "direction": "NW",
+        "id": "MTA_104511",
+        "lat": 40.813434,
+        "locationType": 0,
+        "lon": -73.891252,
+        "name": "LONGWOOD AV/TIFFANY ST",
+        "routeIds": [
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104512",
+        "direction": "NW",
+        "id": "MTA_104512",
+        "lat": 40.814552,
+        "locationType": 0,
+        "lon": -73.893161,
+        "name": "LONGWOOD AV/BARRY ST",
+        "routeIds": [
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104513",
+        "direction": "NW",
+        "id": "MTA_104513",
+        "lat": 40.816459,
+        "locationType": 0,
+        "lon": -73.896301,
+        "name": "LONGWOOD AV/SOUTHERN BLVD",
+        "routeIds": [
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104514",
+        "direction": "NW",
+        "id": "MTA_104514",
+        "lat": 40.818132,
+        "locationType": 0,
+        "lon": -73.899136,
+        "name": "LONGWOOD AV/DAWSON ST",
+        "routeIds": [
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104528",
+        "direction": "E",
+        "id": "MTA_104528",
+        "lat": 40.817256,
+        "locationType": 0,
+        "lon": -73.902288,
+        "name": "E 156 ST/ PROSPECT AV",
+        "routeIds": [
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "802091",
+        "direction": "S",
+        "id": "MTA_802091",
+        "lat": 40.819383,
+        "locationType": 0,
+        "lon": -73.901827,
+        "name": "PROSPECT AV/WESTCHESTER AV",
+        "routeIds": [
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "902100",
+        "direction": "W",
+        "id": "MTA_902100",
+        "lat": 40.810093,
+        "locationType": 0,
+        "lon": -73.876076,
+        "name": "FOOD CENTER DR/TERMINAL",
+        "routeIds": [
+            "MTA NYCT_BX6",
+            "MTA NYCT_BX6+",
+            "MTA NYCT_BX46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

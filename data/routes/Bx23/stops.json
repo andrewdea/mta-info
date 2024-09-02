@@ -1,0 +1,789 @@
+[
+    {
+        "code": "101716",
+        "direction": "NW",
+        "id": "MTA_101716",
+        "lat": 40.870653,
+        "locationType": 0,
+        "lon": -73.832575,
+        "name": "BAYCHESTER AV/ALDRICH ST",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTA NYCT_BX38",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101717",
+        "direction": "N",
+        "id": "MTA_101717",
+        "lat": 40.876369,
+        "locationType": 0,
+        "lon": -73.833678,
+        "name": "BAYCHESTER AV/DONIZETTI PL",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTA NYCT_BX38",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101718",
+        "direction": "NE",
+        "id": "MTA_101718",
+        "lat": 40.878523,
+        "locationType": 0,
+        "lon": -73.832844,
+        "name": "BAYCHESTER AV/DARROW PL",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTA NYCT_BX38",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101719",
+        "direction": "S",
+        "id": "MTA_101719",
+        "lat": 40.87787,
+        "locationType": 0,
+        "lon": -73.829667,
+        "name": "DREISER LOOP/CO-OP CITY BLVD",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101721",
+        "direction": "NE",
+        "id": "MTA_101721",
+        "lat": 40.876987,
+        "locationType": 0,
+        "lon": -73.828071,
+        "name": "DREISER LOOP/DEBS PL",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101722",
+        "direction": "NW",
+        "id": "MTA_101722",
+        "lat": 40.87834,
+        "locationType": 0,
+        "lon": -73.828057,
+        "name": "DREISER LOOP/CO-OP CITY BLVD",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101723",
+        "direction": "E",
+        "id": "MTA_101723",
+        "lat": 40.879403,
+        "locationType": 0,
+        "lon": -73.824941,
+        "name": "CO-OP CITY BLVD/CARVER LOOP 2",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTA NYCT_BX38",
+            "MTABC_BXM7",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101724",
+        "direction": "S",
+        "id": "MTA_101724",
+        "lat": 40.873809,
+        "locationType": 0,
+        "lon": -73.824572,
+        "name": "CO-OP CITY BLVD/BELLAMY LOOP N",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX38",
+            "MTABC_BXM7",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101725",
+        "direction": "SW",
+        "id": "MTA_101725",
+        "lat": 40.871926,
+        "locationType": 0,
+        "lon": -73.824762,
+        "name": "CO-OP CITY BLVD/BELLAMY LOOP S",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX38",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101726",
+        "direction": "W",
+        "id": "MTA_101726",
+        "lat": 40.870598,
+        "locationType": 0,
+        "lon": -73.82623,
+        "name": "ASCH LOOP/CO-OP CITY BLVD",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101727",
+        "direction": "W",
+        "id": "MTA_101727",
+        "lat": 40.871472,
+        "locationType": 0,
+        "lon": -73.830409,
+        "name": "ASCH LOOP/ALCOTT PL",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTABC_BXM7"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101728",
+        "direction": "SE",
+        "id": "MTA_101728",
+        "lat": 40.869291,
+        "locationType": 0,
+        "lon": -73.830611,
+        "name": "ASCH LOOP/BARTOW AV",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101729",
+        "direction": "SW",
+        "id": "MTA_101729",
+        "lat": 40.865445,
+        "locationType": 0,
+        "lon": -73.823763,
+        "name": "HUTCHINSON RIVER PKWY/EINSTEIN LOOP NORTH",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101730",
+        "direction": "SW",
+        "id": "MTA_101730",
+        "lat": 40.864524,
+        "locationType": 0,
+        "lon": -73.824593,
+        "name": "HUTCHINSON RIVER PKWY/EINSTEIN LOOP SOUTH",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101731",
+        "direction": "SE",
+        "id": "MTA_101731",
+        "lat": 40.862332,
+        "locationType": 0,
+        "lon": -73.825571,
+        "name": "HUNTER AV/BOLLER AV",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101734",
+        "direction": "NW",
+        "id": "MTA_101734",
+        "lat": 40.861114,
+        "locationType": 0,
+        "lon": -73.822549,
+        "name": "EARHART LA/ERSKINE PL",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101735",
+        "direction": "NW",
+        "id": "MTA_101735",
+        "lat": 40.861998,
+        "locationType": 0,
+        "lon": -73.824444,
+        "name": "HUNTER AV/EARHART LA",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101737",
+        "direction": "NE",
+        "id": "MTA_101737",
+        "lat": 40.865014,
+        "locationType": 0,
+        "lon": -73.82388,
+        "name": "HUTCHINSON RIVER PKWY EAST/EINSTEIN LOOP SOUTH",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101738",
+        "direction": "NE",
+        "id": "MTA_101738",
+        "lat": 40.866014,
+        "locationType": 0,
+        "lon": -73.822984,
+        "name": "HUTCHINSON RIVER PKWY EAST/EINSTEIN LOOP NORTH",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101740",
+        "direction": "NW",
+        "id": "MTA_101740",
+        "lat": 40.869391,
+        "locationType": 0,
+        "lon": -73.830561,
+        "name": "ASCH LOOP/BARTOW AV",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101742",
+        "direction": "SE",
+        "id": "MTA_101742",
+        "lat": 40.870438,
+        "locationType": 0,
+        "lon": -73.826121,
+        "name": "ASCH LOOP/CO-OP CITY BLVD",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101743",
+        "direction": "N",
+        "id": "MTA_101743",
+        "lat": 40.874344,
+        "locationType": 0,
+        "lon": -73.824318,
+        "name": "CO-OP CITY BLVD/BELLAMY LOOP NORTH",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX38",
+            "MTABC_BXM7",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101744",
+        "direction": "W",
+        "id": "MTA_101744",
+        "lat": 40.87994,
+        "locationType": 0,
+        "lon": -73.823842,
+        "name": "CO-OP CITY BLVD/PEARTREE AV",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTA NYCT_BX38",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101745",
+        "direction": "W",
+        "id": "MTA_101745",
+        "lat": 40.879271,
+        "locationType": 0,
+        "lon": -73.825859,
+        "name": "CO-OP CITY BLVD/CARVER LOOP  #1",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTA NYCT_BX38",
+            "MTABC_BXM7",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101746",
+        "direction": "S",
+        "id": "MTA_101746",
+        "lat": 40.878033,
+        "locationType": 0,
+        "lon": -73.828228,
+        "name": "DREISER LOOP/CO-OP CITY BLVD",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101747",
+        "direction": "SW",
+        "id": "MTA_101747",
+        "lat": 40.876768,
+        "locationType": 0,
+        "lon": -73.828427,
+        "name": "DREISER LOOP/DEBS PL",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101749",
+        "direction": "N",
+        "id": "MTA_101749",
+        "lat": 40.878092,
+        "locationType": 0,
+        "lon": -73.829435,
+        "name": "DREISER LOOP/CO-OP CITY BLVD",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101750",
+        "direction": "SW",
+        "id": "MTA_101750",
+        "lat": 40.878629,
+        "locationType": 0,
+        "lon": -73.833054,
+        "name": "BAYCHESTER AV/DARROW PL",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTA NYCT_BX38",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101751",
+        "direction": "S",
+        "id": "MTA_101751",
+        "lat": 40.876299,
+        "locationType": 0,
+        "lon": -73.833911,
+        "name": "BAYCHESTER AV/DONIZETTI PL",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX30",
+            "MTA NYCT_BX38",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101752",
+        "direction": "SE",
+        "id": "MTA_101752",
+        "lat": 40.869901,
+        "locationType": 0,
+        "lon": -73.832508,
+        "name": "BAYCHESTER AV/ALDRICH ST",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTA NYCT_BX38",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103063",
+        "direction": "E",
+        "id": "MTA_103063",
+        "lat": 40.86929,
+        "locationType": 0,
+        "lon": -73.825691,
+        "name": "BARTOW AV/CO-OP CITY BLVD",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTA NYCT_BX38",
+            "MTABC_BXM7",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103081",
+        "direction": "NE",
+        "id": "MTA_103081",
+        "lat": 40.871394,
+        "locationType": 0,
+        "lon": -73.830564,
+        "name": "ALCOTT PL/ASCH LOOP",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTABC_BXM7"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103152",
+        "direction": "W",
+        "id": "MTA_103152",
+        "lat": 40.876031,
+        "locationType": 0,
+        "lon": -73.829278,
+        "name": "DREISER LOOP/DEFOE PL",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103256",
+        "direction": "SE",
+        "id": "MTA_103256",
+        "lat": 40.86732,
+        "locationType": 0,
+        "lon": -73.832682,
+        "name": "EDSON AV/BARTOW AV",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103279",
+        "direction": "W",
+        "id": "MTA_103279",
+        "lat": 40.86958,
+        "locationType": 0,
+        "lon": -73.825892,
+        "name": "BARTOW AV/CO-OP CITY BLVD",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTABC_BXM7",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103537",
+        "direction": "E",
+        "id": "MTA_103537",
+        "lat": 40.869089,
+        "locationType": 0,
+        "lon": -73.824455,
+        "name": "BARTOW AV/2136 BARTOW AV",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTA NYCT_BX38",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103538",
+        "direction": "W",
+        "id": "MTA_103538",
+        "lat": 40.869269,
+        "locationType": 0,
+        "lon": -73.824034,
+        "name": "BARTOW AV/REAR OF PATHMARK",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103674",
+        "direction": "E",
+        "id": "MTA_103674",
+        "lat": 40.875936,
+        "locationType": 0,
+        "lon": -73.829479,
+        "name": "DREISER LOOP/DEFOE PL",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30",
+            "MTA NYCT_BX38",
+            "MTABC_BXM7"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104067",
+        "direction": "NW",
+        "id": "MTA_104067",
+        "lat": 40.868096,
+        "locationType": 0,
+        "lon": -73.831301,
+        "name": "BAYCHESTER AV/IFO PC RICHARDS",
+        "routeIds": [
+            "MTA NYCT_BX12",
+            "MTABC_BX23",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104531",
+        "direction": "",
+        "id": "MTA_104531",
+        "lat": 40.871084,
+        "locationType": 0,
+        "lon": -73.828469,
+        "name": "ASCH LOOP/ADLER PL",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104532",
+        "direction": "",
+        "id": "MTA_104532",
+        "lat": 40.870938,
+        "locationType": 0,
+        "lon": -73.82815,
+        "name": "ASCH LOOP/ADLER PL",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104619",
+        "direction": "NE",
+        "id": "MTA_104619",
+        "lat": 40.863045,
+        "locationType": 0,
+        "lon": -73.825716,
+        "name": "HUTCHINSON RIVER PKWY/BOLLER AV",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "150038",
+        "direction": "S",
+        "id": "MTA_150038",
+        "lat": 40.852504,
+        "locationType": 0,
+        "lon": -73.827003,
+        "name": "BRUCKNER BLVD/WILKINSON AV",
+        "routeIds": [
+            "MTABC_BX23"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "150053",
+        "direction": "SE",
+        "id": "MTA_150053",
+        "lat": 40.861017,
+        "locationType": 0,
+        "lon": -73.822657,
+        "name": "EARHART LN/ERSKINE PL",
+        "routeIds": [
+            "MTABC_BX23"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "150139",
+        "direction": "S",
+        "id": "MTA_150139",
+        "lat": 40.852493,
+        "locationType": 0,
+        "lon": -73.826939,
+        "name": "BRUCKNER BLVD/WILKINSON AV",
+        "routeIds": [
+            "MTABC_BX23",
+            "MTA NYCT_BX29",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "984066",
+        "direction": "S",
+        "id": "MTA_984066",
+        "lat": 40.852782,
+        "locationType": 0,
+        "lon": -73.826887,
+        "name": "BRUCKNER BLVD/WILKINSON AV",
+        "routeIds": [
+            "MTABC_BX23"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "984067",
+        "direction": "S",
+        "id": "MTA_984067",
+        "lat": 40.85286,
+        "locationType": 0,
+        "lon": -73.826879,
+        "name": "BRUCKNER BLVD/WILKINSON AV",
+        "routeIds": [
+            "MTABC_BX23"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

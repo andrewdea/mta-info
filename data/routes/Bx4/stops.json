@@ -1,0 +1,737 @@
+[
+    {
+        "code": "100204",
+        "direction": "E",
+        "id": "MTA_100204",
+        "lat": 40.816026,
+        "locationType": 0,
+        "lon": -73.912148,
+        "name": "WESTCHESTER AV/SAINT ANN'S AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100206",
+        "direction": "NE",
+        "id": "MTA_100206",
+        "lat": 40.816164,
+        "locationType": 0,
+        "lon": -73.90832,
+        "name": "WESTCHESTER AV/JACKSON AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100207",
+        "direction": "NE",
+        "id": "MTA_100207",
+        "lat": 40.817829,
+        "locationType": 0,
+        "lon": -73.905423,
+        "name": "WESTCHESTER AV/E 156 ST",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100209",
+        "direction": "NE",
+        "id": "MTA_100209",
+        "lat": 40.819413,
+        "locationType": 0,
+        "lon": -73.902025,
+        "name": "WESTCHESTER AV/PROSPECT AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100211",
+        "direction": "NE",
+        "id": "MTA_100211",
+        "lat": 40.82088,
+        "locationType": 0,
+        "lon": -73.899106,
+        "name": "WESTCHESTER AV/REV J POLITE AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100212",
+        "direction": "NE",
+        "id": "MTA_100212",
+        "lat": 40.821942,
+        "locationType": 0,
+        "lon": -73.897089,
+        "name": "WESTCHESTER AV/INTERVALE AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100214",
+        "direction": "NE",
+        "id": "MTA_100214",
+        "lat": 40.824006,
+        "locationType": 0,
+        "lon": -73.893119,
+        "name": "WESTCHESTER AV/SIMPSON ST",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100219",
+        "direction": "NE",
+        "id": "MTA_100219",
+        "lat": 40.827495,
+        "locationType": 0,
+        "lon": -73.886273,
+        "name": "WESTCHESTER AV/WHITLOCK AV",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX4A",
+            "MTA NYCT_BX27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100221",
+        "direction": "E",
+        "id": "MTA_100221",
+        "lat": 40.828514,
+        "locationType": 0,
+        "lon": -73.879317,
+        "name": "WESTCHESTER AV/ELDER AV",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX4A",
+            "MTA NYCT_BX27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100223",
+        "direction": "E",
+        "id": "MTA_100223",
+        "lat": 40.828936,
+        "locationType": 0,
+        "lon": -73.876559,
+        "name": "WESTCHESTER AV/MANOR AV",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX4A",
+            "MTA NYCT_BX27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100224",
+        "direction": "E",
+        "id": "MTA_100224",
+        "lat": 40.829418,
+        "locationType": 0,
+        "lon": -73.874811,
+        "name": "WESTCHESTER AV/MORRISON AV",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX4A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100227",
+        "direction": "E",
+        "id": "MTA_100227",
+        "lat": 40.831479,
+        "locationType": 0,
+        "lon": -73.867565,
+        "name": "WESTCHESTER AV/SAINT LAWRENCE AV",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX4A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100230",
+        "direction": "E",
+        "id": "MTA_100230",
+        "lat": 40.83278,
+        "locationType": 0,
+        "lon": -73.862939,
+        "name": "WESTCHESTER AV/WHITE PLAINS RD",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX4A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100232",
+        "direction": "E",
+        "id": "MTA_100232",
+        "lat": 40.833501,
+        "locationType": 0,
+        "lon": -73.857922,
+        "name": "WESTCHESTER AV/PUGSLEY AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100233",
+        "direction": "E",
+        "id": "MTA_100233",
+        "lat": 40.833915,
+        "locationType": 0,
+        "lon": -73.854443,
+        "name": "WESTCHESTER AV/OLMSTEAD AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100234",
+        "direction": "E",
+        "id": "MTA_100234",
+        "lat": 40.834155,
+        "locationType": 0,
+        "lon": -73.851827,
+        "name": "WESTCHESTER AV/CASTLE HILL AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100235",
+        "direction": "NE",
+        "id": "MTA_100235",
+        "lat": 40.836705,
+        "locationType": 0,
+        "lon": -73.846717,
+        "name": "WESTCHESTER AV/ZEREGA AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100236",
+        "direction": "NE",
+        "id": "MTA_100236",
+        "lat": 40.83843,
+        "locationType": 0,
+        "lon": -73.844688,
+        "name": "WESTCHESTER AV/SAINT PETERS AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100239",
+        "direction": "SW",
+        "id": "MTA_100239",
+        "lat": 40.838694,
+        "locationType": 0,
+        "lon": -73.844549,
+        "name": "WESTCHESTER AV/SAINT PETERS AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100240",
+        "direction": "SW",
+        "id": "MTA_100240",
+        "lat": 40.836939,
+        "locationType": 0,
+        "lon": -73.846611,
+        "name": "WESTCHESTER AV/ZEREGA AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100242",
+        "direction": "W",
+        "id": "MTA_100242",
+        "lat": 40.834285,
+        "locationType": 0,
+        "lon": -73.851469,
+        "name": "WESTCHESTER AV/CASTLE HILL AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100243",
+        "direction": "W",
+        "id": "MTA_100243",
+        "lat": 40.834011,
+        "locationType": 0,
+        "lon": -73.854454,
+        "name": "WESTCHESTER AV/OLMSTEAD AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100244",
+        "direction": "W",
+        "id": "MTA_100244",
+        "lat": 40.833634,
+        "locationType": 0,
+        "lon": -73.857595,
+        "name": "WESTCHESTER AV/PUGSLEY AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100245",
+        "direction": "W",
+        "id": "MTA_100245",
+        "lat": 40.833603,
+        "locationType": 0,
+        "lon": -73.861155,
+        "name": "HUGH GRANT CIRCLE/CROSS BRONX EXPWY SERVICE RD",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX4A",
+            "MTA NYCT_BX11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100246",
+        "direction": "W",
+        "id": "MTA_100246",
+        "lat": 40.833124,
+        "locationType": 0,
+        "lon": -73.862536,
+        "name": "WESTCHESTER AV/WHITE PLAINS RD",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX4A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100249",
+        "direction": "W",
+        "id": "MTA_100249",
+        "lat": 40.83174,
+        "locationType": 0,
+        "lon": -73.867069,
+        "name": "WESTCHESTER AV/SAINT LAWRENCE AV",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX4A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100253",
+        "direction": "W",
+        "id": "MTA_100253",
+        "lat": 40.829621,
+        "locationType": 0,
+        "lon": -73.874493,
+        "name": "WESTCHESTER AV/MORRISON AV",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX4A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100254",
+        "direction": "W",
+        "id": "MTA_100254",
+        "lat": 40.829099,
+        "locationType": 0,
+        "lon": -73.876293,
+        "name": "WESTCHESTER AV/MANOR AV",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX4A",
+            "MTA NYCT_BX27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100256",
+        "direction": "W",
+        "id": "MTA_100256",
+        "lat": 40.828652,
+        "locationType": 0,
+        "lon": -73.879059,
+        "name": "WESTCHESTER AV/ELDER AV",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX4A",
+            "MTA NYCT_BX27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100259",
+        "direction": "SW",
+        "id": "MTA_100259",
+        "lat": 40.827447,
+        "locationType": 0,
+        "lon": -73.886598,
+        "name": "WESTCHESTER AV/HOME ST",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX4A",
+            "MTA NYCT_BX27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100260",
+        "direction": "SW",
+        "id": "MTA_100260",
+        "lat": 40.825369,
+        "locationType": 0,
+        "lon": -73.890606,
+        "name": "WESTCHESTER AV/HOE AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100261",
+        "direction": "SW",
+        "id": "MTA_100261",
+        "lat": 40.82431,
+        "locationType": 0,
+        "lon": -73.892769,
+        "name": "WESTCHESTER AV/SIMPSON ST",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100264",
+        "direction": "SW",
+        "id": "MTA_100264",
+        "lat": 40.821181,
+        "locationType": 0,
+        "lon": -73.898798,
+        "name": "WESTCHESTER AV/E 163 ST",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100265",
+        "direction": "SW",
+        "id": "MTA_100265",
+        "lat": 40.819923,
+        "locationType": 0,
+        "lon": -73.901226,
+        "name": "WESTCHESTER AV/PROSPECT AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100267",
+        "direction": "SW",
+        "id": "MTA_100267",
+        "lat": 40.818205,
+        "locationType": 0,
+        "lon": -73.904801,
+        "name": "WESTCHESTER AV/TINTON AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100268",
+        "direction": "SW",
+        "id": "MTA_100268",
+        "lat": 40.816511,
+        "locationType": 0,
+        "lon": -73.907907,
+        "name": "WESTCHESTER AV/JACKSON AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100270",
+        "direction": "W",
+        "id": "MTA_100270",
+        "lat": 40.816075,
+        "locationType": 0,
+        "lon": -73.91173,
+        "name": "WESTCHESTER AV/SAINT ANN'S AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101372",
+        "direction": "W",
+        "id": "MTA_101372",
+        "lat": 40.815166,
+        "locationType": 0,
+        "lon": -73.915301,
+        "name": "E 149 ST/BROOK AV",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103127",
+        "direction": "SW",
+        "id": "MTA_103127",
+        "lat": 40.826389,
+        "locationType": 0,
+        "lon": -73.888671,
+        "name": "WESTCHESTER AV/BRYANT AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103453",
+        "direction": "NE",
+        "id": "MTA_103453",
+        "lat": 40.834998,
+        "locationType": 0,
+        "lon": -73.848855,
+        "name": "WESTCHESTER AV/HAVEMEYER AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103543",
+        "direction": "SW",
+        "id": "MTA_103543",
+        "lat": 40.835231,
+        "locationType": 0,
+        "lon": -73.848662,
+        "name": "WESTCHESTER AV/DORIS ST",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103606",
+        "direction": "SW",
+        "id": "MTA_103606",
+        "lat": 40.822265,
+        "locationType": 0,
+        "lon": -73.896646,
+        "name": "WESTCHESTER AV/INTERVALE AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103650",
+        "direction": "NE",
+        "id": "MTA_103650",
+        "lat": 40.82478,
+        "locationType": 0,
+        "lon": -73.891573,
+        "name": "WESTCHESTER AV/SOUTHERN BLVD",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103678",
+        "direction": "N",
+        "id": "MTA_103678",
+        "lat": 40.840796,
+        "locationType": 0,
+        "lon": -73.84329,
+        "name": "LANE AV/BENSON AV",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX4A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103708",
+        "direction": "NE",
+        "id": "MTA_103708",
+        "lat": 40.815878,
+        "locationType": 0,
+        "lon": -73.916343,
+        "name": "BERGEN AV/E 149 ST",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_M125"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103723",
+        "direction": "W",
+        "id": "MTA_103723",
+        "lat": 40.814424,
+        "locationType": 0,
+        "lon": -73.913289,
+        "name": "E 149 ST/SAINT ANN'S AV",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104068",
+        "direction": "NE",
+        "id": "MTA_104068",
+        "lat": 40.832868,
+        "locationType": 0,
+        "lon": -73.860341,
+        "name": "HUGH GRANT CIRCLE/CROSS BRONX EXPWY SERVICE RD",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX4A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104312",
+        "direction": "NE",
+        "id": "MTA_104312",
+        "lat": 40.82626,
+        "locationType": 0,
+        "lon": -73.888662,
+        "name": "WESTCHESTER AV/BRYANT AV",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX4A",
+            "MTA NYCT_BX27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104313",
+        "direction": "E",
+        "id": "MTA_104313",
+        "lat": 40.8283,
+        "locationType": 0,
+        "lon": -73.881774,
+        "name": "WESTCHESTER AV/COLGATE AV",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX4A",
+            "MTA NYCT_BX27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104315",
+        "direction": "E",
+        "id": "MTA_104315",
+        "lat": 40.830706,
+        "locationType": 0,
+        "lon": -73.870182,
+        "name": "WESTCHESTER AV/NOBLE AV",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX4A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104316",
+        "direction": "W",
+        "id": "MTA_104316",
+        "lat": 40.8309,
+        "locationType": 0,
+        "lon": -73.869859,
+        "name": "WESTCHESTER AV/NOBLE AV",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX4A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104318",
+        "direction": "W",
+        "id": "MTA_104318",
+        "lat": 40.828428,
+        "locationType": 0,
+        "lon": -73.881734,
+        "name": "WESTCHESTER AV/COLGATE AV",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX4A",
+            "MTA NYCT_BX27"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "802065",
+        "direction": "N",
+        "id": "MTA_802065",
+        "lat": 40.840268,
+        "locationType": 0,
+        "lon": -73.843224,
+        "name": "TREMONT AV/LANE AV",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "802187",
+        "direction": "NE",
+        "id": "MTA_802187",
+        "lat": 40.815805,
+        "locationType": 0,
+        "lon": -73.916496,
+        "name": "BERGEN AV/E 149 ST",
+        "routeIds": [
+            "MTA NYCT_BX4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

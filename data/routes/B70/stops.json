@@ -1,0 +1,988 @@
+[
+    {
+        "code": "300407",
+        "direction": "NW",
+        "id": "MTA_300407",
+        "lat": 40.626579,
+        "locationType": 0,
+        "lon": -74.017763,
+        "name": "BAY RIDGE PKWY/7 AV",
+        "routeIds": [
+            "MTA NYCT_B4",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301616",
+        "direction": "NE",
+        "id": "MTA_301616",
+        "lat": 40.620617,
+        "locationType": 0,
+        "lon": -74.024044,
+        "name": "FORT HAMILTON PKWY/86 ST",
+        "routeIds": [
+            "MTA NYCT_B16",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301620",
+        "direction": "NE",
+        "id": "MTA_301620",
+        "lat": 40.624941,
+        "locationType": 0,
+        "lon": -74.017623,
+        "name": "FORT HAMILTON PKWY/77 ST",
+        "routeIds": [
+            "MTA NYCT_B16",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302678",
+        "direction": "SE",
+        "id": "MTA_302678",
+        "lat": 40.654972,
+        "locationType": 0,
+        "lon": -74.010181,
+        "name": "39 ST/2 AV",
+        "routeIds": [
+            "MTA NYCT_B35",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302679",
+        "direction": "SE",
+        "id": "MTA_302679",
+        "lat": 40.65396,
+        "locationType": 0,
+        "lon": -74.008495,
+        "name": "39 ST/3 AV",
+        "routeIds": [
+            "MTA NYCT_B35",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302680",
+        "direction": "SE",
+        "id": "MTA_302680",
+        "lat": 40.652335,
+        "locationType": 0,
+        "lon": -74.005795,
+        "name": "39 ST/4 AV",
+        "routeIds": [
+            "MTA NYCT_B35",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302681",
+        "direction": "E",
+        "id": "MTA_302681",
+        "lat": 40.651303,
+        "locationType": 0,
+        "lon": -74.004083,
+        "name": "39 ST/5 AV",
+        "routeIds": [
+            "MTA NYCT_B35",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302682",
+        "direction": "SE",
+        "id": "MTA_302682",
+        "lat": 40.649686,
+        "locationType": 0,
+        "lon": -74.001423,
+        "name": "39 ST/6 AV",
+        "routeIds": [
+            "MTA NYCT_B35",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302683",
+        "direction": "SE",
+        "id": "MTA_302683",
+        "lat": 40.648374,
+        "locationType": 0,
+        "lon": -73.999232,
+        "name": "39 ST/7 AV",
+        "routeIds": [
+            "MTA NYCT_B35",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302778",
+        "direction": "NW",
+        "id": "MTA_302778",
+        "lat": 40.647523,
+        "locationType": 0,
+        "lon": -73.997614,
+        "name": "39 ST/8 AV",
+        "routeIds": [
+            "MTA NYCT_B35",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302779",
+        "direction": "NW",
+        "id": "MTA_302779",
+        "lat": 40.64886,
+        "locationType": 0,
+        "lon": -73.999823,
+        "name": "39 ST/7 AV",
+        "routeIds": [
+            "MTA NYCT_B35",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302780",
+        "direction": "NW",
+        "id": "MTA_302780",
+        "lat": 40.650183,
+        "locationType": 0,
+        "lon": -74.002014,
+        "name": "39 ST/6 AV",
+        "routeIds": [
+            "MTA NYCT_B35",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302781",
+        "direction": "NW",
+        "id": "MTA_302781",
+        "lat": 40.651232,
+        "locationType": 0,
+        "lon": -74.003752,
+        "name": "39 ST/5 AV",
+        "routeIds": [
+            "MTA NYCT_B35",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302784",
+        "direction": "NW",
+        "id": "MTA_302784",
+        "lat": 40.655557,
+        "locationType": 0,
+        "lon": -74.010805,
+        "name": "39 ST/2 AV",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "302975",
+        "direction": "SW",
+        "id": "MTA_302975",
+        "lat": 40.655125,
+        "locationType": 0,
+        "lon": -74.007095,
+        "name": "3 AV/37 ST",
+        "routeIds": [
+            "MTA NYCT_B37",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305872",
+        "direction": "N",
+        "id": "MTA_305872",
+        "lat": 40.610266,
+        "locationType": 0,
+        "lon": -74.024451,
+        "name": "7 AV/POLY PL",
+        "routeIds": [
+            "MTA NYCT_B8",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305873",
+        "direction": "N",
+        "id": "MTA_305873",
+        "lat": 40.612347,
+        "locationType": 0,
+        "lon": -74.023602,
+        "name": "7 AV/POLY PREP ENT",
+        "routeIds": [
+            "MTA NYCT_B8",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305883",
+        "direction": "NE",
+        "id": "MTA_305883",
+        "lat": 40.628211,
+        "locationType": 0,
+        "lon": -74.017078,
+        "name": "8 AV/73 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305884",
+        "direction": "NE",
+        "id": "MTA_305884",
+        "lat": 40.629429,
+        "locationType": 0,
+        "lon": -74.015754,
+        "name": "8 AV/71 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305885",
+        "direction": "NE",
+        "id": "MTA_305885",
+        "lat": 40.630541,
+        "locationType": 0,
+        "lon": -74.014598,
+        "name": "8 AV/BAY RIDGE AV",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305886",
+        "direction": "NE",
+        "id": "MTA_305886",
+        "lat": 40.631716,
+        "locationType": 0,
+        "lon": -74.013373,
+        "name": "8 AV/67 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305887",
+        "direction": "NE",
+        "id": "MTA_305887",
+        "lat": 40.632874,
+        "locationType": 0,
+        "lon": -74.012174,
+        "name": "8 AV/65 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305888",
+        "direction": "NE",
+        "id": "MTA_305888",
+        "lat": 40.634543,
+        "locationType": 0,
+        "lon": -74.01043,
+        "name": "8 AV/62 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305889",
+        "direction": "NE",
+        "id": "MTA_305889",
+        "lat": 40.635699,
+        "locationType": 0,
+        "lon": -74.009234,
+        "name": "8 AV/60 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305891",
+        "direction": "NE",
+        "id": "MTA_305891",
+        "lat": 40.637406,
+        "locationType": 0,
+        "lon": -74.007458,
+        "name": "8 AV/57 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305892",
+        "direction": "NE",
+        "id": "MTA_305892",
+        "lat": 40.638509,
+        "locationType": 0,
+        "lon": -74.006309,
+        "name": "8 AV/55 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305895",
+        "direction": "NE",
+        "id": "MTA_305895",
+        "lat": 40.641315,
+        "locationType": 0,
+        "lon": -74.003391,
+        "name": "8 AV/50 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305897",
+        "direction": "NE",
+        "id": "MTA_305897",
+        "lat": 40.642984,
+        "locationType": 0,
+        "lon": -74.001654,
+        "name": "8 AV/47 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305900",
+        "direction": "NE",
+        "id": "MTA_305900",
+        "lat": 40.646351,
+        "locationType": 0,
+        "lon": -73.998151,
+        "name": "8 AV/41 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305906",
+        "direction": "NW",
+        "id": "MTA_305906",
+        "lat": 40.654583,
+        "locationType": 0,
+        "lon": -74.004775,
+        "name": "36 ST/4 AV",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305907",
+        "direction": "NW",
+        "id": "MTA_305907",
+        "lat": 40.655395,
+        "locationType": 0,
+        "lon": -74.00613,
+        "name": "36 ST/3 AV",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305909",
+        "direction": "SW",
+        "id": "MTA_305909",
+        "lat": 40.653985,
+        "locationType": 0,
+        "lon": -74.008306,
+        "name": "3 AV/39 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305922",
+        "direction": "SW",
+        "id": "MTA_305922",
+        "lat": 40.64646,
+        "locationType": 0,
+        "lon": -73.998197,
+        "name": "8 AV/40 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305925",
+        "direction": "SW",
+        "id": "MTA_305925",
+        "lat": 40.643115,
+        "locationType": 0,
+        "lon": -74.001672,
+        "name": "8 AV/46 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305927",
+        "direction": "SW",
+        "id": "MTA_305927",
+        "lat": 40.641426,
+        "locationType": 0,
+        "lon": -74.003426,
+        "name": "8 AV/49 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305929",
+        "direction": "SW",
+        "id": "MTA_305929",
+        "lat": 40.639762,
+        "locationType": 0,
+        "lon": -74.005166,
+        "name": "8 AV/52 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305932",
+        "direction": "SW",
+        "id": "MTA_305932",
+        "lat": 40.636442,
+        "locationType": 0,
+        "lon": -74.008676,
+        "name": "8 AV/58 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305933",
+        "direction": "SW",
+        "id": "MTA_305933",
+        "lat": 40.635279,
+        "locationType": 0,
+        "lon": -74.009897,
+        "name": "8 AV/60 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305934",
+        "direction": "SW",
+        "id": "MTA_305934",
+        "lat": 40.634447,
+        "locationType": 0,
+        "lon": -74.010758,
+        "name": "8 AV/62 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305935",
+        "direction": "SW",
+        "id": "MTA_305935",
+        "lat": 40.632405,
+        "locationType": 0,
+        "lon": -74.012876,
+        "name": "8 AV/65 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305936",
+        "direction": "SW",
+        "id": "MTA_305936",
+        "lat": 40.631282,
+        "locationType": 0,
+        "lon": -74.014054,
+        "name": "8 AV/67 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305937",
+        "direction": "SW",
+        "id": "MTA_305937",
+        "lat": 40.630164,
+        "locationType": 0,
+        "lon": -74.015207,
+        "name": "8 AV/BAY RIDGE AV",
+        "routeIds": [
+            "MTA NYCT_B64",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305939",
+        "direction": "S",
+        "id": "MTA_305939",
+        "lat": 40.630488,
+        "locationType": 0,
+        "lon": -74.017516,
+        "name": "7 AV SERVICE RD SOUTH/OVINGTON AV",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305940",
+        "direction": "S",
+        "id": "MTA_305940",
+        "lat": 40.629052,
+        "locationType": 0,
+        "lon": -74.017999,
+        "name": "7 AV SERVICE RD SOUTH/72 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305951",
+        "direction": "S",
+        "id": "MTA_305951",
+        "lat": 40.61419,
+        "locationType": 0,
+        "lon": -74.023068,
+        "name": "7 AV/92 ST",
+        "routeIds": [
+            "MTA NYCT_B8",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305952",
+        "direction": "S",
+        "id": "MTA_305952",
+        "lat": 40.611979,
+        "locationType": 0,
+        "lon": -74.023953,
+        "name": "7 AV/POLY PREP ENT",
+        "routeIds": [
+            "MTA NYCT_B8",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306959",
+        "direction": "SE",
+        "id": "MTA_306959",
+        "lat": 40.616714,
+        "locationType": 0,
+        "lon": -74.027208,
+        "name": "92 ST/FORT HAMILTON PKWY",
+        "routeIds": [
+            "MTA NYCT_B8",
+            "MTA NYCT_B70",
+            "MTA NYCT_S53",
+            "MTA NYCT_S79+",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307177",
+        "direction": "NW",
+        "id": "MTA_307177",
+        "lat": 40.656031,
+        "locationType": 0,
+        "lon": -74.011701,
+        "name": "39 ST/1 AV",
+        "routeIds": [
+            "MTA NYCT_B35",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307178",
+        "direction": "S",
+        "id": "MTA_307178",
+        "lat": 40.61,
+        "locationType": 0,
+        "lon": -74.024703,
+        "name": "7 AV/POLY PL",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307203",
+        "direction": "NW",
+        "id": "MTA_307203",
+        "lat": 40.616926,
+        "locationType": 0,
+        "lon": -74.027344,
+        "name": "92 ST/GATLING PL",
+        "routeIds": [
+            "MTA NYCT_B8",
+            "MTA NYCT_B70",
+            "MTA NYCT_S53",
+            "MTA NYCT_S79+",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307486",
+        "direction": "SW",
+        "id": "MTA_307486",
+        "lat": 40.626752,
+        "locationType": 0,
+        "lon": -74.018855,
+        "name": "7 AV SERVICE RD SOUTH/BAY RIDGE PKWY",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307487",
+        "direction": "SW",
+        "id": "MTA_307487",
+        "lat": 40.625286,
+        "locationType": 0,
+        "lon": -74.019489,
+        "name": "7 AV SERVICE RD SOUTH/77 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307488",
+        "direction": "SW",
+        "id": "MTA_307488",
+        "lat": 40.624024,
+        "locationType": 0,
+        "lon": -74.020393,
+        "name": "7 AV SERVICE RD SOUTH/79 ST",
+        "routeIds": [
+            "MTA NYCT_B16",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307489",
+        "direction": "SW",
+        "id": "MTA_307489",
+        "lat": 40.622816,
+        "locationType": 0,
+        "lon": -74.021408,
+        "name": "7 AV SERVICE RD SOUTH/81 ST",
+        "routeIds": [
+            "MTA NYCT_B16",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307490",
+        "direction": "SW",
+        "id": "MTA_307490",
+        "lat": 40.621767,
+        "locationType": 0,
+        "lon": -74.02264,
+        "name": "FORT HAMILTON PKWY/83 ST",
+        "routeIds": [
+            "MTA NYCT_B16",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307514",
+        "direction": "SW",
+        "id": "MTA_307514",
+        "lat": 40.620592,
+        "locationType": 0,
+        "lon": -74.02439,
+        "name": "FORT HAMILTON PKWY/86 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307647",
+        "direction": "NE",
+        "id": "MTA_307647",
+        "lat": 40.6218,
+        "locationType": 0,
+        "lon": -74.022276,
+        "name": "FORT HAMILTON PKWY/83 ST",
+        "routeIds": [
+            "MTA NYCT_B16",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307709",
+        "direction": "SE",
+        "id": "MTA_307709",
+        "lat": 40.653814,
+        "locationType": 0,
+        "lon": -74.00524,
+        "name": "37 ST/4 AV",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308084",
+        "direction": "NE",
+        "id": "MTA_308084",
+        "lat": 40.652917,
+        "locationType": 0,
+        "lon": -74.005712,
+        "name": "4 AV/39 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308099",
+        "direction": "NE",
+        "id": "MTA_308099",
+        "lat": 40.6402,
+        "locationType": 0,
+        "lon": -74.004554,
+        "name": "8 AV/52 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308100",
+        "direction": "NE",
+        "id": "MTA_308100",
+        "lat": 40.644672,
+        "locationType": 0,
+        "lon": -73.999906,
+        "name": "8 AV/44 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308101",
+        "direction": "SW",
+        "id": "MTA_308101",
+        "lat": 40.644794,
+        "locationType": 0,
+        "lon": -73.999911,
+        "name": "8 AV/43 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308102",
+        "direction": "SW",
+        "id": "MTA_308102",
+        "lat": 40.638096,
+        "locationType": 0,
+        "lon": -74.00689,
+        "name": "8 AV/55 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308176",
+        "direction": "NW",
+        "id": "MTA_308176",
+        "lat": 40.614897,
+        "locationType": 0,
+        "lon": -74.023174,
+        "name": "92 ST/7 AV",
+        "routeIds": [
+            "MTA NYCT_B8",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308177",
+        "direction": "NE",
+        "id": "MTA_308177",
+        "lat": 40.618478,
+        "locationType": 0,
+        "lon": -74.026057,
+        "name": "FORT HAMILTON PKWY/90 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308178",
+        "direction": "SW",
+        "id": "MTA_308178",
+        "lat": 40.618061,
+        "locationType": 0,
+        "lon": -74.026637,
+        "name": "FORT HAMILTON PKWY/90 ST",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308194",
+        "direction": "SE",
+        "id": "MTA_308194",
+        "lat": 40.656155,
+        "locationType": 0,
+        "lon": -74.012027,
+        "name": "39 ST/1 AV",
+        "routeIds": [
+            "MTA NYCT_B35",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308199",
+        "direction": "E",
+        "id": "MTA_308199",
+        "lat": 40.622349,
+        "locationType": 0,
+        "lon": -74.020151,
+        "name": "FORT HAMILTON PKWY/81 ST",
+        "routeIds": [
+            "MTA NYCT_B16",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308270",
+        "direction": "NW",
+        "id": "MTA_308270",
+        "lat": 40.608845,
+        "locationType": 0,
+        "lon": -74.023156,
+        "name": "CROPSEY AV/OPP V A HOSPITAL",
+        "routeIds": [
+            "MTA NYCT_B8",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308355",
+        "direction": "E",
+        "id": "MTA_308355",
+        "lat": 40.609103,
+        "locationType": 0,
+        "lon": -74.023816,
+        "name": "CROPSEY AV/BROOKLYN CAMPUS",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308356",
+        "direction": "SE",
+        "id": "MTA_308356",
+        "lat": 40.607531,
+        "locationType": 0,
+        "lon": -74.023155,
+        "name": "V A HOSPITAL/BAY 3",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801020",
+        "direction": "SE",
+        "id": "MTA_801020",
+        "lat": 40.609134,
+        "locationType": 0,
+        "lon": -74.023885,
+        "name": "CROPSEY AV/V A HOSPITAL",
+        "routeIds": [
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901493",
+        "direction": "NE",
+        "id": "MTA_901493",
+        "lat": 40.623414,
+        "locationType": 0,
+        "lon": -74.019065,
+        "name": "7 AV/79 ST",
+        "routeIds": [
+            "MTA NYCT_B16",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

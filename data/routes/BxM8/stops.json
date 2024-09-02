@@ -1,0 +1,639 @@
+[
+    {
+        "code": "100294",
+        "direction": "NE",
+        "id": "MTA_100294",
+        "lat": 40.833162,
+        "locationType": 0,
+        "lon": -73.827592,
+        "name": "BRUCKNER BLVD/EAST TREMONT AV",
+        "routeIds": [
+            "MTA NYCT_BX5",
+            "MTABC_BXM8",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100297",
+        "direction": "N",
+        "id": "MTA_100297",
+        "lat": 40.841106,
+        "locationType": 0,
+        "lon": -73.825067,
+        "name": "BRUCKNER BLVD/CONNELL PL",
+        "routeIds": [
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100325",
+        "direction": "S",
+        "id": "MTA_100325",
+        "lat": 40.843134,
+        "locationType": 0,
+        "lon": -73.826298,
+        "name": "BRUCKNER BLVD/JARVIS AV",
+        "routeIds": [
+            "MTA NYCT_BX5",
+            "MTA NYCT_BX24",
+            "MTABC_BXM8",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100328",
+        "direction": "S",
+        "id": "MTA_100328",
+        "lat": 40.837136,
+        "locationType": 0,
+        "lon": -73.825919,
+        "name": "BRUCKNER BLVD/BAISLEY AV",
+        "routeIds": [
+            "MTA NYCT_BX5",
+            "MTABC_BXM8",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100332",
+        "direction": "W",
+        "id": "MTA_100332",
+        "lat": 40.827716,
+        "locationType": 0,
+        "lon": -73.849875,
+        "name": "BRUCKNER BLVD/CASTLE HILL AV",
+        "routeIds": [
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100821",
+        "direction": "SE",
+        "id": "MTA_100821",
+        "lat": 40.853321,
+        "locationType": 0,
+        "lon": -73.790292,
+        "name": "CITY ISLAND AV / CROSS ST",
+        "routeIds": [
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100823",
+        "direction": "S",
+        "id": "MTA_100823",
+        "lat": 40.849464,
+        "locationType": 0,
+        "lon": -73.787397,
+        "name": "CITY ISLAND AV/DITMARS ST",
+        "routeIds": [
+            "MTA NYCT_BX29",
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100824",
+        "direction": "S",
+        "id": "MTA_100824",
+        "lat": 40.846915,
+        "locationType": 0,
+        "lon": -73.786479,
+        "name": "CITY ISLAND AV/FORDHAM ST",
+        "routeIds": [
+            "MTA NYCT_BX29",
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100826",
+        "direction": "S",
+        "id": "MTA_100826",
+        "lat": 40.843817,
+        "locationType": 0,
+        "lon": -73.785314,
+        "name": "CITY ISLAND AV/WINTERS ST",
+        "routeIds": [
+            "MTA NYCT_BX29",
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100828",
+        "direction": "S",
+        "id": "MTA_100828",
+        "lat": 40.841279,
+        "locationType": 0,
+        "lon": -73.784368,
+        "name": "CITY ISLAND AV/PILOT ST",
+        "routeIds": [
+            "MTA NYCT_BX29",
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100829",
+        "direction": "S",
+        "id": "MTA_100829",
+        "lat": 40.838969,
+        "locationType": 0,
+        "lon": -73.783486,
+        "name": "CITY ISLAND AV/ROCHELLE ST",
+        "routeIds": [
+            "MTA NYCT_BX29",
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100860",
+        "direction": "N",
+        "id": "MTA_100860",
+        "lat": 40.83906,
+        "locationType": 0,
+        "lon": -73.783366,
+        "name": "CITY ISLAND AV/ROCHELLE ST",
+        "routeIds": [
+            "MTA NYCT_BX29",
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100861",
+        "direction": "N",
+        "id": "MTA_100861",
+        "lat": 40.841152,
+        "locationType": 0,
+        "lon": -73.784108,
+        "name": "CITY ISLAND AV/PILOT ST",
+        "routeIds": [
+            "MTA NYCT_BX29",
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100863",
+        "direction": "N",
+        "id": "MTA_100863",
+        "lat": 40.84408,
+        "locationType": 0,
+        "lon": -73.785197,
+        "name": "CITY ISLAND AV/WINTERS ST",
+        "routeIds": [
+            "MTA NYCT_BX29",
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100865",
+        "direction": "N",
+        "id": "MTA_100865",
+        "lat": 40.84753,
+        "locationType": 0,
+        "lon": -73.786495,
+        "name": "CITY ISLAND AV/FORDHAM ST",
+        "routeIds": [
+            "MTA NYCT_BX29",
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100866",
+        "direction": "NW",
+        "id": "MTA_100866",
+        "lat": 40.84964,
+        "locationType": 0,
+        "lon": -73.787283,
+        "name": "CITY ISLAND AV/DITMARS ST",
+        "routeIds": [
+            "MTA NYCT_BX29",
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100868",
+        "direction": "NW",
+        "id": "MTA_100868",
+        "lat": 40.853447,
+        "locationType": 0,
+        "lon": -73.789815,
+        "name": "CITY ISLAND AV / CROSS ST",
+        "routeIds": [
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103181",
+        "direction": "SE",
+        "id": "MTA_103181",
+        "lat": 40.846774,
+        "locationType": 0,
+        "lon": -73.832273,
+        "name": "CROSBY AV/WESTCHESTER AV",
+        "routeIds": [
+            "MTA NYCT_BX8",
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103280",
+        "direction": "W",
+        "id": "MTA_103280",
+        "lat": 40.853259,
+        "locationType": 0,
+        "lon": -73.827048,
+        "name": "BRUCKNER BLVD/BURR AV",
+        "routeIds": [
+            "MTA NYCT_BX24",
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103390",
+        "direction": "E",
+        "id": "MTA_103390",
+        "lat": 40.826904,
+        "locationType": 0,
+        "lon": -73.849379,
+        "name": "BRUCKNER BLVD/CASTLE HILL AV",
+        "routeIds": [
+            "MTA NYCT_BX5",
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103413",
+        "direction": "NE",
+        "id": "MTA_103413",
+        "lat": 40.83007,
+        "locationType": 0,
+        "lon": -73.832706,
+        "name": "BRUCKNER BLVD/HUNTINGTON AV",
+        "routeIds": [
+            "MTA NYCT_BX5",
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103945",
+        "direction": "S",
+        "id": "MTA_103945",
+        "lat": 40.851782,
+        "locationType": 0,
+        "lon": -73.827201,
+        "name": "AMENDOLA PL/WILKINSON AV",
+        "routeIds": [
+            "MTA NYCT_BX12",
+            "MTA NYCT_BX12+",
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "150036",
+        "direction": "SW",
+        "id": "MTA_150036",
+        "lat": 40.833218,
+        "locationType": 0,
+        "lon": -73.828722,
+        "name": "BRUCKNER BLVD/TREMONT AV",
+        "routeIds": [
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "150037",
+        "direction": "E",
+        "id": "MTA_150037",
+        "lat": 40.825615,
+        "locationType": 0,
+        "lon": -73.859129,
+        "name": "BRUCKNER BLVD/WHITE PLAINS RD",
+        "routeIds": [
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "150040",
+        "direction": "NW",
+        "id": "MTA_150040",
+        "lat": 40.846915,
+        "locationType": 0,
+        "lon": -73.832051,
+        "name": "CROSBY AV/WESTCHESTER AV",
+        "routeIds": [
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "150069",
+        "direction": "NW",
+        "id": "MTA_150069",
+        "lat": 40.843186,
+        "locationType": 0,
+        "lon": -73.826458,
+        "name": "JARVIS AV/BRUCKNER BLVD",
+        "routeIds": [
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "150158",
+        "direction": "W",
+        "id": "MTA_150158",
+        "lat": 40.826234,
+        "locationType": 0,
+        "lon": -73.860725,
+        "name": "BRUCKNER BLVD/WHITE PLAINS RD",
+        "routeIds": [
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400124",
+        "direction": "SW",
+        "id": "MTA_400124",
+        "lat": 40.771976,
+        "locationType": 0,
+        "lon": -73.967447,
+        "name": "5 AV/E 72 ST",
+        "routeIds": [
+            "MTABC_BXM6",
+            "MTABC_BXM7",
+            "MTABC_BXM8",
+            "MTABC_BXM9",
+            "MTABC_BXM10",
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_M72"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450046",
+        "direction": "SW",
+        "id": "MTA_450046",
+        "lat": 40.759315,
+        "locationType": 0,
+        "lon": -73.976742,
+        "name": "5 AV/W 51 ST",
+        "routeIds": [
+            "MTABC_BXM6",
+            "MTABC_BXM7",
+            "MTABC_BXM8",
+            "MTABC_BXM9",
+            "MTABC_BXM10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450055",
+        "direction": "SW",
+        "id": "MTA_450055",
+        "lat": 40.748726,
+        "locationType": 0,
+        "lon": -73.984482,
+        "name": "5 AV/W 34 ST",
+        "routeIds": [
+            "MTABC_BXM6",
+            "MTABC_BXM7",
+            "MTABC_BXM8",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450060",
+        "direction": "SW",
+        "id": "MTA_450060",
+        "lat": 40.754263,
+        "locationType": 0,
+        "lon": -73.980408,
+        "name": "5 AV/W 43 ST",
+        "routeIds": [
+            "MTABC_BXM6",
+            "MTABC_BXM7",
+            "MTABC_BXM8",
+            "MTABC_BXM9",
+            "MTABC_BXM10",
+            "MTABC_BXM11",
+            "MTABC_BXM18",
+            "MTA NYCT_SIM23",
+            "MTA NYCT_SIM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450064",
+        "direction": "SW",
+        "id": "MTA_450064",
+        "lat": 40.763824,
+        "locationType": 0,
+        "lon": -73.973479,
+        "name": "5 AV/W 58 ST",
+        "routeIds": [
+            "MTABC_BXM6",
+            "MTABC_BXM7",
+            "MTABC_BXM8",
+            "MTABC_BXM9",
+            "MTABC_BXM10",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450082",
+        "direction": "NE",
+        "id": "MTA_450082",
+        "lat": 40.741173,
+        "locationType": 0,
+        "lon": -73.987686,
+        "name": "MADISON AV/E 23 ST",
+        "routeIds": [
+            "MTABC_BXM6",
+            "MTABC_BXM7",
+            "MTABC_BXM8",
+            "MTABC_BXM9",
+            "MTABC_BXM10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450092",
+        "direction": "NE",
+        "id": "MTA_450092",
+        "lat": 40.748898,
+        "locationType": 0,
+        "lon": -73.982022,
+        "name": "MADISON AV/E 36 ST",
+        "routeIds": [
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450097",
+        "direction": "NE",
+        "id": "MTA_450097",
+        "lat": 40.754032,
+        "locationType": 0,
+        "lon": -73.9783,
+        "name": "MADISON AV/E 44 ST",
+        "routeIds": [
+            "MTABC_BXM7",
+            "MTABC_BXM8",
+            "MTABC_BXM10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450104",
+        "direction": "NE",
+        "id": "MTA_450104",
+        "lat": 40.75885,
+        "locationType": 0,
+        "lon": -73.97471,
+        "name": "MADISON AV/E 52 ST",
+        "routeIds": [
+            "MTABC_BXM8",
+            "MTABC_BXM10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450109",
+        "direction": "NE",
+        "id": "MTA_450109",
+        "lat": 40.764005,
+        "locationType": 0,
+        "lon": -73.97096,
+        "name": "MADISON AV/E 60 ST",
+        "routeIds": [
+            "MTABC_BXM8",
+            "MTABC_BXM10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450409",
+        "direction": "NE",
+        "id": "MTA_450409",
+        "lat": 40.800675,
+        "locationType": 0,
+        "lon": -73.937943,
+        "name": "3 AV/E 120 ST",
+        "routeIds": [
+            "MTABC_BXM6",
+            "MTABC_BXM7",
+            "MTABC_BXM8",
+            "MTABC_BXM9",
+            "MTABC_BXM10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450413",
+        "direction": "NE",
+        "id": "MTA_450413",
+        "lat": 40.771024,
+        "locationType": 0,
+        "lon": -73.965917,
+        "name": "MADISON AV/71 ST",
+        "routeIds": [
+            "MTABC_BXM6",
+            "MTABC_BXM7",
+            "MTABC_BXM8",
+            "MTABC_BXM9",
+            "MTABC_BXM10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450436",
+        "direction": "NE",
+        "id": "MTA_450436",
+        "lat": 40.779424,
+        "locationType": 0,
+        "lon": -73.953443,
+        "name": "3 AV/E 87 ST",
+        "routeIds": [
+            "MTABC_BXM7",
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450446",
+        "direction": "SW",
+        "id": "MTA_450446",
+        "lat": 40.78078,
+        "locationType": 0,
+        "lon": -73.961086,
+        "name": "5 AV/W 85 ST",
+        "routeIds": [
+            "MTABC_BXM6",
+            "MTABC_BXM7",
+            "MTABC_BXM8",
+            "MTABC_BXM9",
+            "MTABC_BXM10",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450451",
+        "direction": "SW",
+        "id": "MTA_450451",
+        "lat": 40.800382,
+        "locationType": 0,
+        "lon": -73.935453,
+        "name": "2 AV/E 121 ST",
+        "routeIds": [
+            "MTABC_BXM6",
+            "MTABC_BXM7",
+            "MTABC_BXM8",
+            "MTABC_BXM9",
+            "MTABC_BXM10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "981013",
+        "direction": "NE",
+        "id": "MTA_981013",
+        "lat": 40.741804,
+        "locationType": 0,
+        "lon": -73.987231,
+        "name": "MADISON AV/E 24 ST",
+        "routeIds": [
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

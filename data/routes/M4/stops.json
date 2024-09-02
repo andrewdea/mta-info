@@ -1,0 +1,2239 @@
+[
+    {
+        "code": "400026",
+        "direction": "NE",
+        "id": "MTA_400026",
+        "lat": 40.766274,
+        "locationType": 0,
+        "lon": -73.969329,
+        "name": "MADISON AV/E 63 ST",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400028",
+        "direction": "NE",
+        "id": "MTA_400028",
+        "lat": 40.768812,
+        "locationType": 0,
+        "lon": -73.967483,
+        "name": "MADISON AV/E 67 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400030",
+        "direction": "NE",
+        "id": "MTA_400030",
+        "lat": 40.772141,
+        "locationType": 0,
+        "lon": -73.96508,
+        "name": "MADISON AV/E 72 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400031",
+        "direction": "NE",
+        "id": "MTA_400031",
+        "lat": 40.77345,
+        "locationType": 0,
+        "lon": -73.964142,
+        "name": "MADISON AV/E 74 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400032",
+        "direction": "NE",
+        "id": "MTA_400032",
+        "lat": 40.775322,
+        "locationType": 0,
+        "lon": -73.962739,
+        "name": "MADISON AV/E 77 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400033",
+        "direction": "NE",
+        "id": "MTA_400033",
+        "lat": 40.776647,
+        "locationType": 0,
+        "lon": -73.961823,
+        "name": "MADISON AV/E 79 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400034",
+        "direction": "NE",
+        "id": "MTA_400034",
+        "lat": 40.778793,
+        "locationType": 0,
+        "lon": -73.960206,
+        "name": "MADISON AV/E 83 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400036",
+        "direction": "NE",
+        "id": "MTA_400036",
+        "lat": 40.781155,
+        "locationType": 0,
+        "lon": -73.958483,
+        "name": "MADISON AV/E 86 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400037",
+        "direction": "NE",
+        "id": "MTA_400037",
+        "lat": 40.782676,
+        "locationType": 0,
+        "lon": -73.957373,
+        "name": "MADISON AV/E 89 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400038",
+        "direction": "NE",
+        "id": "MTA_400038",
+        "lat": 40.78436,
+        "locationType": 0,
+        "lon": -73.956137,
+        "name": "MADISON AV/E 91 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400039",
+        "direction": "NE",
+        "id": "MTA_400039",
+        "lat": 40.785636,
+        "locationType": 0,
+        "lon": -73.955205,
+        "name": "MADISON AV/E 93 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400041",
+        "direction": "NE",
+        "id": "MTA_400041",
+        "lat": 40.788413,
+        "locationType": 0,
+        "lon": -73.95318,
+        "name": "MADISON AV/E 98 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_M106"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400042",
+        "direction": "NE",
+        "id": "MTA_400042",
+        "lat": 40.790304,
+        "locationType": 0,
+        "lon": -73.951799,
+        "name": "MADISON AV/E 101 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_M106"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400043",
+        "direction": "NE",
+        "id": "MTA_400043",
+        "lat": 40.791371,
+        "locationType": 0,
+        "lon": -73.951022,
+        "name": "MADISON AV/E 102 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_M106"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400044",
+        "direction": "NE",
+        "id": "MTA_400044",
+        "lat": 40.792159,
+        "locationType": 0,
+        "lon": -73.950447,
+        "name": "MADISON AV/E 104 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_M106"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400045",
+        "direction": "NE",
+        "id": "MTA_400045",
+        "lat": 40.793434,
+        "locationType": 0,
+        "lon": -73.949511,
+        "name": "MADISON AV/E 106 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_M106"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400046",
+        "direction": "NE",
+        "id": "MTA_400046",
+        "lat": 40.794551,
+        "locationType": 0,
+        "lon": -73.948694,
+        "name": "MADISON AV/E 107 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400108",
+        "direction": "SW",
+        "id": "MTA_400108",
+        "lat": 40.795513,
+        "locationType": 0,
+        "lon": -73.950319,
+        "name": "5 AV/E 108 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400109",
+        "direction": "SW",
+        "id": "MTA_400109",
+        "lat": 40.794176,
+        "locationType": 0,
+        "lon": -73.951287,
+        "name": "5 AV/E 106 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_M106"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400110",
+        "direction": "SW",
+        "id": "MTA_400110",
+        "lat": 40.792922,
+        "locationType": 0,
+        "lon": -73.952153,
+        "name": "5 AV/E 104 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_M106"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400111",
+        "direction": "SW",
+        "id": "MTA_400111",
+        "lat": 40.79157,
+        "locationType": 0,
+        "lon": -73.953182,
+        "name": "5 AV/E 102 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_M106"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400115",
+        "direction": "SW",
+        "id": "MTA_400115",
+        "lat": 40.786559,
+        "locationType": 0,
+        "lon": -73.956865,
+        "name": "5 AV/E 94 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400116",
+        "direction": "SW",
+        "id": "MTA_400116",
+        "lat": 40.785205,
+        "locationType": 0,
+        "lon": -73.957824,
+        "name": "5 AV/E 92 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400117",
+        "direction": "SW",
+        "id": "MTA_400117",
+        "lat": 40.783993,
+        "locationType": 0,
+        "lon": -73.958712,
+        "name": "5 AV/E 90 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400118",
+        "direction": "SW",
+        "id": "MTA_400118",
+        "lat": 40.782181,
+        "locationType": 0,
+        "lon": -73.960036,
+        "name": "5 AV/E 87 ST",
+        "routeIds": [
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400119",
+        "direction": "SW",
+        "id": "MTA_400119",
+        "lat": 40.780435,
+        "locationType": 0,
+        "lon": -73.961321,
+        "name": "5 AV/E 84 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400120",
+        "direction": "SW",
+        "id": "MTA_400120",
+        "lat": 40.777791,
+        "locationType": 0,
+        "lon": -73.963228,
+        "name": "5 AV/E 80 ST",
+        "routeIds": [
+            "MTABC_BXM2",
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400121",
+        "direction": "SW",
+        "id": "MTA_400121",
+        "lat": 40.776724,
+        "locationType": 0,
+        "lon": -73.963977,
+        "name": "5 AV/E 79 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400122",
+        "direction": "SW",
+        "id": "MTA_400122",
+        "lat": 40.77561,
+        "locationType": 0,
+        "lon": -73.964837,
+        "name": "5 AV/E 77 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400123",
+        "direction": "SW",
+        "id": "MTA_400123",
+        "lat": 40.774356,
+        "locationType": 0,
+        "lon": -73.965776,
+        "name": "5 AV/E 75 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400124",
+        "direction": "SW",
+        "id": "MTA_400124",
+        "lat": 40.771976,
+        "locationType": 0,
+        "lon": -73.967447,
+        "name": "5 AV/E 72 ST",
+        "routeIds": [
+            "MTABC_BXM6",
+            "MTABC_BXM7",
+            "MTABC_BXM8",
+            "MTABC_BXM9",
+            "MTABC_BXM10",
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_M72"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400125",
+        "direction": "SW",
+        "id": "MTA_400125",
+        "lat": 40.770259,
+        "locationType": 0,
+        "lon": -73.968739,
+        "name": "5 AV/E 69 ST",
+        "routeIds": [
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTABC_BXM11",
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400126",
+        "direction": "SW",
+        "id": "MTA_400126",
+        "lat": 40.768234,
+        "locationType": 0,
+        "lon": -73.970238,
+        "name": "5 AV/E 66 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400127",
+        "direction": "SW",
+        "id": "MTA_400127",
+        "lat": 40.766715,
+        "locationType": 0,
+        "lon": -73.971292,
+        "name": "5 AV/E 63 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400128",
+        "direction": "SW",
+        "id": "MTA_400128",
+        "lat": 40.76568,
+        "locationType": 0,
+        "lon": -73.972026,
+        "name": "5 AV/E 61 ST",
+        "routeIds": [
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400224",
+        "direction": "W",
+        "id": "MTA_400224",
+        "lat": 40.798395,
+        "locationType": 0,
+        "lon": -73.952601,
+        "name": "CENTRAL PARK NORTH/MALCOLM X BLVD",
+        "routeIds": [
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400225",
+        "direction": "NW",
+        "id": "MTA_400225",
+        "lat": 40.799354,
+        "locationType": 0,
+        "lon": -73.954975,
+        "name": "CENTRAL PARK NORTH/ADAM C POWELL BLVD",
+        "routeIds": [
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400290",
+        "direction": "SE",
+        "id": "MTA_400290",
+        "lat": 40.799173,
+        "locationType": 0,
+        "lon": -73.95486,
+        "name": "CENTRAL PARK NORTH/ADAM C POWELL BLVD",
+        "routeIds": [
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400292",
+        "direction": "E",
+        "id": "MTA_400292",
+        "lat": 40.797099,
+        "locationType": 0,
+        "lon": -73.949858,
+        "name": "CENTRAL PARK NORTH/5 AV",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400353",
+        "direction": "NE",
+        "id": "MTA_400353",
+        "lat": 40.746763,
+        "locationType": 0,
+        "lon": -73.983626,
+        "name": "MADISON AV/E 32 ST",
+        "routeIds": [
+            "MTABC_BXM11",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400354",
+        "direction": "NE",
+        "id": "MTA_400354",
+        "lat": 40.748328,
+        "locationType": 0,
+        "lon": -73.982437,
+        "name": "MADISON AV/E 34 ST",
+        "routeIds": [
+            "MTABC_BM1",
+            "MTABC_BM2",
+            "MTABC_BM3",
+            "MTABC_BM4",
+            "MTABC_BM5",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM6",
+            "MTA NYCT_SIM11",
+            "MTA NYCT_SIM31",
+            "MTA NYCT_SIM33C"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400358",
+        "direction": "NE",
+        "id": "MTA_400358",
+        "lat": 40.755233,
+        "locationType": 0,
+        "lon": -73.977403,
+        "name": "MADISON AV/E 45 ST",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400360",
+        "direction": "NE",
+        "id": "MTA_400360",
+        "lat": 40.757429,
+        "locationType": 0,
+        "lon": -73.975822,
+        "name": "MADISON AV/E 49 ST",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400361",
+        "direction": "NE",
+        "id": "MTA_400361",
+        "lat": 40.759518,
+        "locationType": 0,
+        "lon": -73.97431,
+        "name": "MADISON AV/E 52 ST",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400362",
+        "direction": "NE",
+        "id": "MTA_400362",
+        "lat": 40.761386,
+        "locationType": 0,
+        "lon": -73.972943,
+        "name": "MADISON AV/E 55  ST",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32",
+            "MTA NYCT_SIM25",
+            "MTA NYCT_SIM26",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400363",
+        "direction": "NE",
+        "id": "MTA_400363",
+        "lat": 40.762702,
+        "locationType": 0,
+        "lon": -73.971997,
+        "name": "MADISON AV/E 57 ST",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400364",
+        "direction": "NE",
+        "id": "MTA_400364",
+        "lat": 40.76457,
+        "locationType": 0,
+        "lon": -73.970598,
+        "name": "MADISON AV/E 60  ST",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400390",
+        "direction": "W",
+        "id": "MTA_400390",
+        "lat": 40.80078,
+        "locationType": 0,
+        "lon": -73.958486,
+        "name": "CATHEDRAL PKWY/FREDERICK DOUGLASS BLVD",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400485",
+        "direction": "E",
+        "id": "MTA_400485",
+        "lat": 40.801047,
+        "locationType": 0,
+        "lon": -73.959575,
+        "name": "CATHEDRAL PKWY/MANHATTAN AV",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400486",
+        "direction": "E",
+        "id": "MTA_400486",
+        "lat": 40.800357,
+        "locationType": 0,
+        "lon": -73.957727,
+        "name": "CENTRAL PARK NORTH/CENTRAL PARK WEST",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400512",
+        "direction": "SW",
+        "id": "MTA_400512",
+        "lat": 40.764429,
+        "locationType": 0,
+        "lon": -73.972966,
+        "name": "5 AV/W 59 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400514",
+        "direction": "SW",
+        "id": "MTA_400514",
+        "lat": 40.759924,
+        "locationType": 0,
+        "lon": -73.976306,
+        "name": "5 AV/W 52 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400515",
+        "direction": "SW",
+        "id": "MTA_400515",
+        "lat": 40.758031,
+        "locationType": 0,
+        "lon": -73.977678,
+        "name": "5 AV/W 49 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400516",
+        "direction": "SW",
+        "id": "MTA_400516",
+        "lat": 40.756156,
+        "locationType": 0,
+        "lon": -73.979047,
+        "name": "5 AV/W 46 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400518",
+        "direction": "SW",
+        "id": "MTA_400518",
+        "lat": 40.753191,
+        "locationType": 0,
+        "lon": -73.981154,
+        "name": "5 AV/W 41 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M4",
+            "MTA NYCT_M55",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400519",
+        "direction": "SW",
+        "id": "MTA_400519",
+        "lat": 40.750927,
+        "locationType": 0,
+        "lon": -73.982808,
+        "name": "5 AV/W 38 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M55",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400561",
+        "direction": "NE",
+        "id": "MTA_400561",
+        "lat": 40.753337,
+        "locationType": 0,
+        "lon": -73.978759,
+        "name": "MADISON AV/E 42 ST",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400595",
+        "direction": "W",
+        "id": "MTA_400595",
+        "lat": 40.801417,
+        "locationType": 0,
+        "lon": -73.959954,
+        "name": "CATHEDRAL PKWY/MANHATTAN AV",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400596",
+        "direction": "NW",
+        "id": "MTA_400596",
+        "lat": 40.802016,
+        "locationType": 0,
+        "lon": -73.961395,
+        "name": "CATHEDRAL PKWY/MORNINGSIDE DR",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400597",
+        "direction": "NW",
+        "id": "MTA_400597",
+        "lat": 40.803219,
+        "locationType": 0,
+        "lon": -73.964208,
+        "name": "CATHEDRAL PKWY/AMSTERDAM AV",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400598",
+        "direction": "NW",
+        "id": "MTA_400598",
+        "lat": 40.804038,
+        "locationType": 0,
+        "lon": -73.966264,
+        "name": "CATHEDRAL PKWY/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400609",
+        "direction": "NE",
+        "id": "MTA_400609",
+        "lat": 40.82124,
+        "locationType": 0,
+        "lon": -73.954014,
+        "name": "BROADWAY/W 137 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400610",
+        "direction": "NE",
+        "id": "MTA_400610",
+        "lat": 40.822815,
+        "locationType": 0,
+        "lon": -73.952874,
+        "name": "BROADWAY/W 139 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400611",
+        "direction": "NE",
+        "id": "MTA_400611",
+        "lat": 40.82408,
+        "locationType": 0,
+        "lon": -73.951948,
+        "name": "BROADWAY/W 141 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400612",
+        "direction": "NE",
+        "id": "MTA_400612",
+        "lat": 40.825312,
+        "locationType": 0,
+        "lon": -73.951051,
+        "name": "BROADWAY/W 143 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400613",
+        "direction": "NE",
+        "id": "MTA_400613",
+        "lat": 40.826791,
+        "locationType": 0,
+        "lon": -73.94997,
+        "name": "BROADWAY/W 145 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400614",
+        "direction": "NE",
+        "id": "MTA_400614",
+        "lat": 40.827916,
+        "locationType": 0,
+        "lon": -73.949145,
+        "name": "BROADWAY/W 147 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400615",
+        "direction": "NE",
+        "id": "MTA_400615",
+        "lat": 40.829167,
+        "locationType": 0,
+        "lon": -73.948237,
+        "name": "BROADWAY/W 149 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400616",
+        "direction": "NE",
+        "id": "MTA_400616",
+        "lat": 40.830413,
+        "locationType": 0,
+        "lon": -73.947322,
+        "name": "BROADWAY/W 151 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400617",
+        "direction": "NE",
+        "id": "MTA_400617",
+        "lat": 40.831697,
+        "locationType": 0,
+        "lon": -73.946385,
+        "name": "BROADWAY/W 153 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400618",
+        "direction": "NE",
+        "id": "MTA_400618",
+        "lat": 40.832992,
+        "locationType": 0,
+        "lon": -73.945441,
+        "name": "BROADWAY/W 155 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400619",
+        "direction": "NE",
+        "id": "MTA_400619",
+        "lat": 40.834257,
+        "locationType": 0,
+        "lon": -73.944519,
+        "name": "BROADWAY/W 157 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400620",
+        "direction": "NE",
+        "id": "MTA_400620",
+        "lat": 40.835516,
+        "locationType": 0,
+        "lon": -73.9436,
+        "name": "BROADWAY/W 159 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400621",
+        "direction": "NE",
+        "id": "MTA_400621",
+        "lat": 40.83674,
+        "locationType": 0,
+        "lon": -73.942702,
+        "name": "BROADWAY/W 161 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400622",
+        "direction": "NE",
+        "id": "MTA_400622",
+        "lat": 40.838005,
+        "locationType": 0,
+        "lon": -73.941772,
+        "name": "BROADWAY/W 163 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400626",
+        "direction": "NE",
+        "id": "MTA_400626",
+        "lat": 40.844315,
+        "locationType": 0,
+        "lon": -73.940871,
+        "name": "FORT WASHINGTON AV/W 171 ST",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400627",
+        "direction": "N",
+        "id": "MTA_400627",
+        "lat": 40.8457,
+        "locationType": 0,
+        "lon": -73.940298,
+        "name": "FORT WASHINGTON AV/W 173 ST",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400628",
+        "direction": "N",
+        "id": "MTA_400628",
+        "lat": 40.846825,
+        "locationType": 0,
+        "lon": -73.939845,
+        "name": "FORT WASHINGTON AV/W 175 ST",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400629",
+        "direction": "N",
+        "id": "MTA_400629",
+        "lat": 40.847906,
+        "locationType": 0,
+        "lon": -73.939407,
+        "name": "FORT WASHINGTON AV/W 177 ST",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400630",
+        "direction": "NE",
+        "id": "MTA_400630",
+        "lat": 40.849229,
+        "locationType": 0,
+        "lon": -73.938932,
+        "name": "FORT WASHINGTON AV/W 179 ST",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400631",
+        "direction": "N",
+        "id": "MTA_400631",
+        "lat": 40.851202,
+        "locationType": 0,
+        "lon": -73.938078,
+        "name": "FORT WASHINGTON AV/W 181 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400632",
+        "direction": "N",
+        "id": "MTA_400632",
+        "lat": 40.852396,
+        "locationType": 0,
+        "lon": -73.937654,
+        "name": "FORT WASHINGTON AV/W 183 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400633",
+        "direction": "N",
+        "id": "MTA_400633",
+        "lat": 40.853639,
+        "locationType": 0,
+        "lon": -73.937266,
+        "name": "FORT WASHINGTON AV/W 185 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400634",
+        "direction": "N",
+        "id": "MTA_400634",
+        "lat": 40.85507,
+        "locationType": 0,
+        "lon": -73.936723,
+        "name": "FORT WASHINGTON AV/W 187 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400635",
+        "direction": "NE",
+        "id": "MTA_400635",
+        "lat": 40.857335,
+        "locationType": 0,
+        "lon": -73.935335,
+        "name": "FORT WASHINGTON AV/W 190 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400636",
+        "direction": "NE",
+        "id": "MTA_400636",
+        "lat": 40.859129,
+        "locationType": 0,
+        "lon": -73.934142,
+        "name": "FORT WASHINGTON AV/CABRINI BLVD",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400639",
+        "direction": "SW",
+        "id": "MTA_400639",
+        "lat": 40.85916,
+        "locationType": 0,
+        "lon": -73.934198,
+        "name": "FORT WASHINGTON AV/CABRINI BLVD",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400640",
+        "direction": "SW",
+        "id": "MTA_400640",
+        "lat": 40.856809,
+        "locationType": 0,
+        "lon": -73.935921,
+        "name": "FORT WASHINGTON AV/W 190 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400641",
+        "direction": "S",
+        "id": "MTA_400641",
+        "lat": 40.854822,
+        "locationType": 0,
+        "lon": -73.937062,
+        "name": "FORT WASHINGTON AV/W 187 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400642",
+        "direction": "S",
+        "id": "MTA_400642",
+        "lat": 40.853134,
+        "locationType": 0,
+        "lon": -73.937591,
+        "name": "FORT WASHINGTON AV/W 185 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400643",
+        "direction": "S",
+        "id": "MTA_400643",
+        "lat": 40.851888,
+        "locationType": 0,
+        "lon": -73.937987,
+        "name": "FORT WASHINGTON AV/W 183 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400644",
+        "direction": "S",
+        "id": "MTA_400644",
+        "lat": 40.850634,
+        "locationType": 0,
+        "lon": -73.938487,
+        "name": "FORT WASHINGTON AV/W 181 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400645",
+        "direction": "SW",
+        "id": "MTA_400645",
+        "lat": 40.849216,
+        "locationType": 0,
+        "lon": -73.939025,
+        "name": "FORT WASHINGTON AV/W 179 ST",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400646",
+        "direction": "S",
+        "id": "MTA_400646",
+        "lat": 40.847583,
+        "locationType": 0,
+        "lon": -73.939718,
+        "name": "FORT WASHINGTON AV/W 177 ST",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400647",
+        "direction": "S",
+        "id": "MTA_400647",
+        "lat": 40.845854,
+        "locationType": 0,
+        "lon": -73.94041,
+        "name": "FORT WASHINGTON AV/W 174 ST",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400648",
+        "direction": "S",
+        "id": "MTA_400648",
+        "lat": 40.844435,
+        "locationType": 0,
+        "lon": -73.940982,
+        "name": "FORT WASHINGTON AV/W 172 ST",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400649",
+        "direction": "SW",
+        "id": "MTA_400649",
+        "lat": 40.843204,
+        "locationType": 0,
+        "lon": -73.941912,
+        "name": "FORT WASHINGTON AV/W 170 ST",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400655",
+        "direction": "SW",
+        "id": "MTA_400655",
+        "lat": 40.834229,
+        "locationType": 0,
+        "lon": -73.944922,
+        "name": "BROADWAY/W 157 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400656",
+        "direction": "SW",
+        "id": "MTA_400656",
+        "lat": 40.832512,
+        "locationType": 0,
+        "lon": -73.946226,
+        "name": "BROADWAY/W 155 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400657",
+        "direction": "SW",
+        "id": "MTA_400657",
+        "lat": 40.830668,
+        "locationType": 0,
+        "lon": -73.947579,
+        "name": "BROADWAY/W 152 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400658",
+        "direction": "SW",
+        "id": "MTA_400658",
+        "lat": 40.829398,
+        "locationType": 0,
+        "lon": -73.948497,
+        "name": "BROADWAY/W 150 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400659",
+        "direction": "SW",
+        "id": "MTA_400659",
+        "lat": 40.827513,
+        "locationType": 0,
+        "lon": -73.949879,
+        "name": "BROADWAY/W 147 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400661",
+        "direction": "SW",
+        "id": "MTA_400661",
+        "lat": 40.824316,
+        "locationType": 0,
+        "lon": -73.952208,
+        "name": "BROADWAY/W 142 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400662",
+        "direction": "SW",
+        "id": "MTA_400662",
+        "lat": 40.823073,
+        "locationType": 0,
+        "lon": -73.953123,
+        "name": "BROADWAY/W 140 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400663",
+        "direction": "SW",
+        "id": "MTA_400663",
+        "lat": 40.821841,
+        "locationType": 0,
+        "lon": -73.954028,
+        "name": "BROADWAY/W 138 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400676",
+        "direction": "SE",
+        "id": "MTA_400676",
+        "lat": 40.803862,
+        "locationType": 0,
+        "lon": -73.966205,
+        "name": "CATHEDRAL PKWY/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400677",
+        "direction": "SE",
+        "id": "MTA_400677",
+        "lat": 40.802722,
+        "locationType": 0,
+        "lon": -73.963511,
+        "name": "CATHEDRAL PKWY/AMSTERDAM AV",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400678",
+        "direction": "SE",
+        "id": "MTA_400678",
+        "lat": 40.801508,
+        "locationType": 0,
+        "lon": -73.960792,
+        "name": "CATHEDRAL PKWY/COLUMBUS AV",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403122",
+        "direction": "NE",
+        "id": "MTA_403122",
+        "lat": 40.807895,
+        "locationType": 0,
+        "lon": -73.963813,
+        "name": "BROADWAY/W 116 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M60+",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403125",
+        "direction": "NE",
+        "id": "MTA_403125",
+        "lat": 40.812034,
+        "locationType": 0,
+        "lon": -73.960739,
+        "name": "BROADWAY/W 122 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403126",
+        "direction": "NE",
+        "id": "MTA_403126",
+        "lat": 40.813972,
+        "locationType": 0,
+        "lon": -73.959307,
+        "name": "BROADWAY/LA SALLE ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403142",
+        "direction": "SW",
+        "id": "MTA_403142",
+        "lat": 40.815025,
+        "locationType": 0,
+        "lon": -73.959043,
+        "name": "BROADWAY/TIEMANN PL",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403144",
+        "direction": "SW",
+        "id": "MTA_403144",
+        "lat": 40.813736,
+        "locationType": 0,
+        "lon": -73.959961,
+        "name": "BROADWAY/LA SALLE ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403145",
+        "direction": "SW",
+        "id": "MTA_403145",
+        "lat": 40.811738,
+        "locationType": 0,
+        "lon": -73.961462,
+        "name": "BROADWAY/W 122 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403147",
+        "direction": "SW",
+        "id": "MTA_403147",
+        "lat": 40.807957,
+        "locationType": 0,
+        "lon": -73.96422,
+        "name": "BROADWAY/W 116 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M60+",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403148",
+        "direction": "SW",
+        "id": "MTA_403148",
+        "lat": 40.806645,
+        "locationType": 0,
+        "lon": -73.965164,
+        "name": "BROADWAY/W 114 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403149",
+        "direction": "SW",
+        "id": "MTA_403149",
+        "lat": 40.805377,
+        "locationType": 0,
+        "lon": -73.966071,
+        "name": "BROADWAY/W 112 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403266",
+        "direction": "SW",
+        "id": "MTA_403266",
+        "lat": 40.761751,
+        "locationType": 0,
+        "lon": -73.974937,
+        "name": "5 AV/W 55 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M4",
+            "MTA NYCT_M5",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403267",
+        "direction": "NW",
+        "id": "MTA_403267",
+        "lat": 40.797362,
+        "locationType": 0,
+        "lon": -73.950273,
+        "name": "CENTRAL PARK NORTH/5 AV",
+        "routeIds": [
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403373",
+        "direction": "S",
+        "id": "MTA_403373",
+        "lat": 40.8419,
+        "locationType": 0,
+        "lon": -73.942467,
+        "name": "FORT WASHINGTON AV/W 168 ST",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403374",
+        "direction": "S",
+        "id": "MTA_403374",
+        "lat": 40.839905,
+        "locationType": 0,
+        "lon": -73.943263,
+        "name": "FORT WASHINGTON AV/W 165 ST",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403375",
+        "direction": "S",
+        "id": "MTA_403375",
+        "lat": 40.838725,
+        "locationType": 0,
+        "lon": -73.943731,
+        "name": "FORT WASHINGTON AV/W 164 ST",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403376",
+        "direction": "S",
+        "id": "MTA_403376",
+        "lat": 40.837542,
+        "locationType": 0,
+        "lon": -73.944201,
+        "name": "FORT WASHINGTON AV/W 162 ST",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403377",
+        "direction": "S",
+        "id": "MTA_403377",
+        "lat": 40.836093,
+        "locationType": 0,
+        "lon": -73.944759,
+        "name": "FORT WASHINGTON AV/W 160 ST",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403456",
+        "direction": "NE",
+        "id": "MTA_403456",
+        "lat": 40.750124,
+        "locationType": 0,
+        "lon": -73.981081,
+        "name": "MADISON AV/E 38 ST",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403457",
+        "direction": "NE",
+        "id": "MTA_403457",
+        "lat": 40.751774,
+        "locationType": 0,
+        "lon": -73.979963,
+        "name": "MADISON AV/E 40  ST",
+        "routeIds": [
+            "MTABC_BM1",
+            "MTABC_BM2",
+            "MTABC_BM3",
+            "MTABC_BM4",
+            "MTABC_BM5",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403461",
+        "direction": "NE",
+        "id": "MTA_403461",
+        "lat": 40.818494,
+        "locationType": 0,
+        "lon": -73.955937,
+        "name": "BROADWAY/W 133 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403483",
+        "direction": "SW",
+        "id": "MTA_403483",
+        "lat": 40.826693,
+        "locationType": 0,
+        "lon": -73.95048,
+        "name": "BROADWAY/W 145 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403835",
+        "direction": "NW",
+        "id": "MTA_403835",
+        "lat": 40.865316,
+        "locationType": 0,
+        "lon": -73.93091,
+        "name": "MARGARET CORBIN DR/CLOISTERS",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403903",
+        "direction": "SW",
+        "id": "MTA_403903",
+        "lat": 40.81617,
+        "locationType": 0,
+        "lon": -73.958183,
+        "name": "BROADWAY/W 125 ST",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404081",
+        "direction": "SW",
+        "id": "MTA_404081",
+        "lat": 40.789203,
+        "locationType": 0,
+        "lon": -73.954934,
+        "name": "5 AV/E 98 ST",
+        "routeIds": [
+            "MTABC_BXM2",
+            "MTABC_BXM11",
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_M106"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404148",
+        "direction": "SW",
+        "id": "MTA_404148",
+        "lat": 40.818488,
+        "locationType": 0,
+        "lon": -73.956469,
+        "name": "BROADWAY/W 133 ST",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404168",
+        "direction": "SW",
+        "id": "MTA_404168",
+        "lat": 40.787549,
+        "locationType": 0,
+        "lon": -73.956092,
+        "name": "5 AV/E 96 ST",
+        "routeIds": [
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTABC_BXM7",
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404191",
+        "direction": "NE",
+        "id": "MTA_404191",
+        "lat": 40.786932,
+        "locationType": 0,
+        "lon": -73.954292,
+        "name": "MADISON AV/E 95 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404232",
+        "direction": "NE",
+        "id": "MTA_404232",
+        "lat": 40.817322,
+        "locationType": 0,
+        "lon": -73.956852,
+        "name": "BROADWAY/W 131 ST",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404260",
+        "direction": "NE",
+        "id": "MTA_404260",
+        "lat": 40.806258,
+        "locationType": 0,
+        "lon": -73.964954,
+        "name": "BROADWAY/W 113 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404262",
+        "direction": "NE",
+        "id": "MTA_404262",
+        "lat": 40.810341,
+        "locationType": 0,
+        "lon": -73.961983,
+        "name": "BROADWAY/W 120 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M60+",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404278",
+        "direction": "SE",
+        "id": "MTA_404278",
+        "lat": 40.798009,
+        "locationType": 0,
+        "lon": -73.952047,
+        "name": "CENTRAL PARK NORTH/MALCOLM X BLVD",
+        "routeIds": [
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404856",
+        "direction": "NW",
+        "id": "MTA_404856",
+        "lat": 40.796412,
+        "locationType": 0,
+        "lon": -73.948038,
+        "name": "E 110 ST/MADISON AV",
+        "routeIds": [
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404905",
+        "direction": "NE",
+        "id": "MTA_404905",
+        "lat": 40.770133,
+        "locationType": 0,
+        "lon": -73.966573,
+        "name": "MADISON AV/E 69 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404920",
+        "direction": "N",
+        "id": "MTA_404920",
+        "lat": 40.840558,
+        "locationType": 0,
+        "lon": -73.942825,
+        "name": "FORT WASHINGTON AV/W 165 ST",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404921",
+        "direction": "N",
+        "id": "MTA_404921",
+        "lat": 40.842408,
+        "locationType": 0,
+        "lon": -73.94209,
+        "name": "FORT WASHINGTON AV/W 168 ST",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404994",
+        "direction": "NE",
+        "id": "MTA_404994",
+        "lat": 40.767836,
+        "locationType": 0,
+        "lon": -73.968184,
+        "name": "MADISON AV/E 66 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_M66",
+            "MTA NYCT_M72"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405072",
+        "direction": "NE",
+        "id": "MTA_405072",
+        "lat": 40.814899,
+        "locationType": 0,
+        "lon": -73.95853,
+        "name": "BROADWAY/TIEMANN PL",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405179",
+        "direction": "SW",
+        "id": "MTA_405179",
+        "lat": 40.75487,
+        "locationType": 0,
+        "lon": -73.979966,
+        "name": "5 AV/W 44 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405234",
+        "direction": "SW",
+        "id": "MTA_405234",
+        "lat": 40.810369,
+        "locationType": 0,
+        "lon": -73.962559,
+        "name": "BROADWAY/W 120 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M60+",
+            "MTA NYCT_M104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405486",
+        "direction": "SW",
+        "id": "MTA_405486",
+        "lat": 40.749577,
+        "locationType": 0,
+        "lon": -73.983774,
+        "name": "5 AV/W 36 ST",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803067",
+        "direction": "N",
+        "id": "MTA_803067",
+        "lat": 40.865166,
+        "locationType": 0,
+        "lon": -73.930841,
+        "name": "MARGARET CORBIN DR/CLOISTERS",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803157",
+        "direction": "SW",
+        "id": "MTA_803157",
+        "lat": 40.819972,
+        "locationType": 0,
+        "lon": -73.955401,
+        "name": "BROADWAY/W 135 ST",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903128",
+        "direction": "SE",
+        "id": "MTA_903128",
+        "lat": 40.746801,
+        "locationType": 0,
+        "lon": -73.984816,
+        "name": "E 32 ST/5 AV",
+        "routeIds": [
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903236",
+        "direction": "NE",
+        "id": "MTA_903236",
+        "lat": 40.820642,
+        "locationType": 0,
+        "lon": -73.954489,
+        "name": "BROADWAY/W 135 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

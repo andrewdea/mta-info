@@ -1,0 +1,1562 @@
+[
+    {
+        "code": "500994",
+        "direction": "NW",
+        "id": "MTA_500994",
+        "lat": 40.762692,
+        "locationType": 0,
+        "lon": -73.831721,
+        "name": "MAIN ST/NORTHERN BLVD",
+        "routeIds": [
+            "MTABC_Q19",
+            "MTA NYCT_Q20A",
+            "MTA NYCT_Q20B",
+            "MTABC_Q25",
+            "MTABC_Q34",
+            "MTABC_Q50",
+            "MTABC_Q65",
+            "MTABC_Q66"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501353",
+        "direction": "N",
+        "id": "MTA_501353",
+        "lat": 40.739497,
+        "locationType": 0,
+        "lon": -73.815013,
+        "name": "KISSENA BLVD/HORACE HARDING EXPWY",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501355",
+        "direction": "N",
+        "id": "MTA_501355",
+        "lat": 40.742499,
+        "locationType": 0,
+        "lon": -73.814355,
+        "name": "KISSENA BLVD/58 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501356",
+        "direction": "NW",
+        "id": "MTA_501356",
+        "lat": 40.746421,
+        "locationType": 0,
+        "lon": -73.814359,
+        "name": "KISSENA BLVD/ROSE AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501357",
+        "direction": "NW",
+        "id": "MTA_501357",
+        "lat": 40.747516,
+        "locationType": 0,
+        "lon": -73.815565,
+        "name": "KISSENA BLVD/POPLAR AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501358",
+        "direction": "NW",
+        "id": "MTA_501358",
+        "lat": 40.748541,
+        "locationType": 0,
+        "lon": -73.816749,
+        "name": "KISSENA BLVD/NEGUNDO AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501360",
+        "direction": "NW",
+        "id": "MTA_501360",
+        "lat": 40.750892,
+        "locationType": 0,
+        "lon": -73.819302,
+        "name": "KISSENA BLVD/HOLLY AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501361",
+        "direction": "NW",
+        "id": "MTA_501361",
+        "lat": 40.75251,
+        "locationType": 0,
+        "lon": -73.821069,
+        "name": "KISSENA BLVD/45 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTA NYCT_Q27",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501362",
+        "direction": "NW",
+        "id": "MTA_501362",
+        "lat": 40.754146,
+        "locationType": 0,
+        "lon": -73.823029,
+        "name": "KISSENA BLVD/CHERRY AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTA NYCT_Q27",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501363",
+        "direction": "NW",
+        "id": "MTA_501363",
+        "lat": 40.755104,
+        "locationType": 0,
+        "lon": -73.824171,
+        "name": "KISSENA BLVD/ASH AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTA NYCT_Q27",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501364",
+        "direction": "NW",
+        "id": "MTA_501364",
+        "lat": 40.756326,
+        "locationType": 0,
+        "lon": -73.825658,
+        "name": "KISSENA BLVD/MAPLE AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTA NYCT_Q27",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501365",
+        "direction": "NW",
+        "id": "MTA_501365",
+        "lat": 40.757451,
+        "locationType": 0,
+        "lon": -73.827565,
+        "name": "KISSENA BLVD/SANFORD AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTA NYCT_Q27",
+            "MTABC_Q34",
+            "MTABC_Q65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501370",
+        "direction": "SE",
+        "id": "MTA_501370",
+        "lat": 40.756909,
+        "locationType": 0,
+        "lon": -73.826851,
+        "name": "KISSENA BLVD/SANFORD AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTA NYCT_Q27",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501371",
+        "direction": "SE",
+        "id": "MTA_501371",
+        "lat": 40.755157,
+        "locationType": 0,
+        "lon": -73.824455,
+        "name": "KISSENA BLVD/FRANKLIN AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTA NYCT_Q27",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501372",
+        "direction": "SE",
+        "id": "MTA_501372",
+        "lat": 40.754385,
+        "locationType": 0,
+        "lon": -73.823537,
+        "name": "KISSENA BLVD/BEECH AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTA NYCT_Q27",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501373",
+        "direction": "SE",
+        "id": "MTA_501373",
+        "lat": 40.752856,
+        "locationType": 0,
+        "lon": -73.821725,
+        "name": "KISSENA BLVD/ELDER AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTA NYCT_Q27",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501374",
+        "direction": "SE",
+        "id": "MTA_501374",
+        "lat": 40.751943,
+        "locationType": 0,
+        "lon": -73.820663,
+        "name": "KISSENA BLVD/45 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTA NYCT_Q27",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501377",
+        "direction": "SE",
+        "id": "MTA_501377",
+        "lat": 40.748481,
+        "locationType": 0,
+        "lon": -73.816912,
+        "name": "KISSENA BLVD/MULBERRY AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501378",
+        "direction": "SE",
+        "id": "MTA_501378",
+        "lat": 40.74748,
+        "locationType": 0,
+        "lon": -73.815796,
+        "name": "KISSENA BLVD/OAK AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501379",
+        "direction": "SE",
+        "id": "MTA_501379",
+        "lat": 40.746158,
+        "locationType": 0,
+        "lon": -73.814313,
+        "name": "KISSENA BLVD/ROSE AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501380",
+        "direction": "S",
+        "id": "MTA_501380",
+        "lat": 40.742705,
+        "locationType": 0,
+        "lon": -73.814492,
+        "name": "KISSENA BLVD/BOOTH MEMORIAL AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501382",
+        "direction": "SW",
+        "id": "MTA_501382",
+        "lat": 40.739651,
+        "locationType": 0,
+        "lon": -73.815222,
+        "name": "KISSENA BLVD/60 AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502254",
+        "direction": "SE",
+        "id": "MTA_502254",
+        "lat": 40.762447,
+        "locationType": 0,
+        "lon": -73.831796,
+        "name": "MAIN ST/NORTHERN BLVD",
+        "routeIds": [
+            "MTA NYCT_Q20A",
+            "MTA NYCT_Q20B",
+            "MTABC_Q25",
+            "MTABC_Q34",
+            "MTABC_Q50",
+            "MTABC_Q65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502514",
+        "direction": "S",
+        "id": "MTA_502514",
+        "lat": 40.737749,
+        "locationType": 0,
+        "lon": -73.814975,
+        "name": "KISSENA BLVD/64 AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504081",
+        "direction": "SE",
+        "id": "MTA_504081",
+        "lat": 40.750904,
+        "locationType": 0,
+        "lon": -73.819543,
+        "name": "KISSENA BLVD/HOLLY AV",
+        "routeIds": [
+            "MTA NYCT_Q17",
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504483",
+        "direction": "S",
+        "id": "MTA_504483",
+        "lat": 40.735614,
+        "locationType": 0,
+        "lon": -73.814866,
+        "name": "KISSENA BLVD/QUEENS COLLEGE",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550972",
+        "direction": "NW",
+        "id": "MTA_550972",
+        "lat": 40.705744,
+        "locationType": 0,
+        "lon": -73.801503,
+        "name": "PARSONS BLVD/89 AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34",
+            "MTABC_Q65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550973",
+        "direction": "SE",
+        "id": "MTA_550973",
+        "lat": 40.70558,
+        "locationType": 0,
+        "lon": -73.801656,
+        "name": "PARSONS BLVD/89 AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550978",
+        "direction": "SE",
+        "id": "MTA_550978",
+        "lat": 40.707861,
+        "locationType": 0,
+        "lon": -73.802937,
+        "name": "PARSONS BLVD/HILLSIDE AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550980",
+        "direction": "NW",
+        "id": "MTA_550980",
+        "lat": 40.709009,
+        "locationType": 0,
+        "lon": -73.803954,
+        "name": "PARSONS BLVD/87 AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550981",
+        "direction": "NW",
+        "id": "MTA_550981",
+        "lat": 40.710204,
+        "locationType": 0,
+        "lon": -73.805414,
+        "name": "PARSONS BLVD/159 ST",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550982",
+        "direction": "N",
+        "id": "MTA_550982",
+        "lat": 40.712248,
+        "locationType": 0,
+        "lon": -73.806392,
+        "name": "PARSONS BLVD/85 AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550983",
+        "direction": "NW",
+        "id": "MTA_550983",
+        "lat": 40.713828,
+        "locationType": 0,
+        "lon": -73.80692,
+        "name": "PARSONS BLVD/84 RD",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550984",
+        "direction": "N",
+        "id": "MTA_550984",
+        "lat": 40.715664,
+        "locationType": 0,
+        "lon": -73.80767,
+        "name": "PARSONS BLVD/GRAND CENTRAL PKWY",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550985",
+        "direction": "S",
+        "id": "MTA_550985",
+        "lat": 40.716113,
+        "locationType": 0,
+        "lon": -73.807981,
+        "name": "PARSONS BLVD/GRAND CENTRAL PKWY",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550986",
+        "direction": "N",
+        "id": "MTA_550986",
+        "lat": 40.716994,
+        "locationType": 0,
+        "lon": -73.808035,
+        "name": "PARSONS BLVD/82 DR",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550987",
+        "direction": "N",
+        "id": "MTA_550987",
+        "lat": 40.718655,
+        "locationType": 0,
+        "lon": -73.808564,
+        "name": "PARSONS BLVD/GOETHALS AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550988",
+        "direction": "N",
+        "id": "MTA_550988",
+        "lat": 40.720209,
+        "locationType": 0,
+        "lon": -73.809019,
+        "name": "PARSONS BLVD/UNION TPKE",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550989",
+        "direction": "S",
+        "id": "MTA_550989",
+        "lat": 40.719666,
+        "locationType": 0,
+        "lon": -73.809079,
+        "name": "PARSONS BLVD/UNION TPKE",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550991",
+        "direction": "N",
+        "id": "MTA_550991",
+        "lat": 40.722539,
+        "locationType": 0,
+        "lon": -73.809816,
+        "name": "PARSONS BLVD/78 AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550992",
+        "direction": "N",
+        "id": "MTA_550992",
+        "lat": 40.723925,
+        "locationType": 0,
+        "lon": -73.810353,
+        "name": "PARSONS BLVD/77 AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550993",
+        "direction": "N",
+        "id": "MTA_550993",
+        "lat": 40.725323,
+        "locationType": 0,
+        "lon": -73.810579,
+        "name": "PARSONS BLVD/76 AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550994",
+        "direction": "NW",
+        "id": "MTA_550994",
+        "lat": 40.726666,
+        "locationType": 0,
+        "lon": -73.811264,
+        "name": "KISSENA BLVD/75 AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550996",
+        "direction": "SE",
+        "id": "MTA_550996",
+        "lat": 40.726998,
+        "locationType": 0,
+        "lon": -73.812322,
+        "name": "KISSENA BLVD/73 AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550997",
+        "direction": "NW",
+        "id": "MTA_550997",
+        "lat": 40.728,
+        "locationType": 0,
+        "lon": -73.814008,
+        "name": "KISSENA BLVD/AGUILAR AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550998",
+        "direction": "N",
+        "id": "MTA_550998",
+        "lat": 40.730585,
+        "locationType": 0,
+        "lon": -73.814855,
+        "name": "KISSENA BLVD/71 AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550999",
+        "direction": "N",
+        "id": "MTA_550999",
+        "lat": 40.732447,
+        "locationType": 0,
+        "lon": -73.814763,
+        "name": "KISSENA BLVD/JEWEL AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551000",
+        "direction": "S",
+        "id": "MTA_551000",
+        "lat": 40.73171,
+        "locationType": 0,
+        "lon": -73.815066,
+        "name": "KISSENA BLVD/JEWEL AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551001",
+        "direction": "N",
+        "id": "MTA_551001",
+        "lat": 40.733954,
+        "locationType": 0,
+        "lon": -73.814616,
+        "name": "KISSENA BLVD/MELBOURNE AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551002",
+        "direction": "S",
+        "id": "MTA_551002",
+        "lat": 40.733592,
+        "locationType": 0,
+        "lon": -73.814978,
+        "name": "KISSENA BLVD/MELBOURNE AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551003",
+        "direction": "N",
+        "id": "MTA_551003",
+        "lat": 40.736375,
+        "locationType": 0,
+        "lon": -73.81451,
+        "name": "KISSENA BLVD/QUEENS COLLEGE",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551005",
+        "direction": "N",
+        "id": "MTA_551005",
+        "lat": 40.73811,
+        "locationType": 0,
+        "lon": -73.814694,
+        "name": "KISSENA BLVD/64 AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551008",
+        "direction": "SE",
+        "id": "MTA_551008",
+        "lat": 40.774673,
+        "locationType": 0,
+        "lon": -73.838224,
+        "name": "ULMER ST/26 AV",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551012",
+        "direction": "NW",
+        "id": "MTA_551012",
+        "lat": 40.767974,
+        "locationType": 0,
+        "lon": -73.831873,
+        "name": "LINDEN PL/32 AV",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551013",
+        "direction": "S",
+        "id": "MTA_551013",
+        "lat": 40.767593,
+        "locationType": 0,
+        "lon": -73.831941,
+        "name": "LINDEN PL/32 AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551014",
+        "direction": "NW",
+        "id": "MTA_551014",
+        "lat": 40.76956,
+        "locationType": 0,
+        "lon": -73.832551,
+        "name": "LINDEN PL/31 RD",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551015",
+        "direction": "SE",
+        "id": "MTA_551015",
+        "lat": 40.769186,
+        "locationType": 0,
+        "lon": -73.832618,
+        "name": "LINDEN PL/31 RD",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551018",
+        "direction": "N",
+        "id": "MTA_551018",
+        "lat": 40.77644,
+        "locationType": 0,
+        "lon": -73.838855,
+        "name": "ULMER ST/25 AV",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551019",
+        "direction": "S",
+        "id": "MTA_551019",
+        "lat": 40.776409,
+        "locationType": 0,
+        "lon": -73.839134,
+        "name": "ULMER ST/25 AV",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551020",
+        "direction": "W",
+        "id": "MTA_551020",
+        "lat": 40.778713,
+        "locationType": 0,
+        "lon": -73.839999,
+        "name": "23 AV/129 ST",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551021",
+        "direction": "E",
+        "id": "MTA_551021",
+        "lat": 40.778575,
+        "locationType": 0,
+        "lon": -73.839556,
+        "name": "23 AV/129 ST",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551022",
+        "direction": "N",
+        "id": "MTA_551022",
+        "lat": 40.778815,
+        "locationType": 0,
+        "lon": -73.841476,
+        "name": "127 ST/23 AV",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551023",
+        "direction": "N",
+        "id": "MTA_551023",
+        "lat": 40.780356,
+        "locationType": 0,
+        "lon": -73.841398,
+        "name": "127 ST/22 AV",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551024",
+        "direction": "S",
+        "id": "MTA_551024",
+        "lat": 40.780001,
+        "locationType": 0,
+        "lon": -73.841613,
+        "name": "127 ST/22 AV",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551025",
+        "direction": "N",
+        "id": "MTA_551025",
+        "lat": 40.781635,
+        "locationType": 0,
+        "lon": -73.841322,
+        "name": "127 ST/20 AV",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551026",
+        "direction": "S",
+        "id": "MTA_551026",
+        "lat": 40.781548,
+        "locationType": 0,
+        "lon": -73.841519,
+        "name": "127 ST/20 AV",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551029",
+        "direction": "N",
+        "id": "MTA_551029",
+        "lat": 40.785467,
+        "locationType": 0,
+        "lon": -73.84105,
+        "name": "127 ST/14 AV",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551030",
+        "direction": "N",
+        "id": "MTA_551030",
+        "lat": 40.788088,
+        "locationType": 0,
+        "lon": -73.84092,
+        "name": "127 ST/11 AV",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551031",
+        "direction": "S",
+        "id": "MTA_551031",
+        "lat": 40.787751,
+        "locationType": 0,
+        "lon": -73.841127,
+        "name": "127 ST/11 AV",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551032",
+        "direction": "N",
+        "id": "MTA_551032",
+        "lat": 40.789486,
+        "locationType": 0,
+        "lon": -73.840843,
+        "name": "127 ST/9 AV",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551033",
+        "direction": "S",
+        "id": "MTA_551033",
+        "lat": 40.789143,
+        "locationType": 0,
+        "lon": -73.841033,
+        "name": "127 ST/9 AV",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551034",
+        "direction": "W",
+        "id": "MTA_551034",
+        "lat": 40.790797,
+        "locationType": 0,
+        "lon": -73.84107,
+        "name": "7 AV/127 ST",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551035",
+        "direction": "W",
+        "id": "MTA_551035",
+        "lat": 40.790842,
+        "locationType": 0,
+        "lon": -73.842613,
+        "name": "7 AV/125 ST",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551036",
+        "direction": "E",
+        "id": "MTA_551036",
+        "lat": 40.790699,
+        "locationType": 0,
+        "lon": -73.842466,
+        "name": "7 AV/125 ST",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551037",
+        "direction": "N",
+        "id": "MTA_551037",
+        "lat": 40.791002,
+        "locationType": 0,
+        "lon": -73.845388,
+        "name": "COLLEGE POINT BLVD/7 AV",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551038",
+        "direction": "N",
+        "id": "MTA_551038",
+        "lat": 40.792544,
+        "locationType": 0,
+        "lon": -73.845295,
+        "name": "COLLEGE POINT BLVD/LAX AV",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551042",
+        "direction": "SE",
+        "id": "MTA_551042",
+        "lat": 40.789466,
+        "locationType": 0,
+        "lon": -73.849046,
+        "name": "119 ST/9 AV",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551043",
+        "direction": "E",
+        "id": "MTA_551043",
+        "lat": 40.789419,
+        "locationType": 0,
+        "lon": -73.846862,
+        "name": "9 AV/COLLEGE PL",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551044",
+        "direction": "N",
+        "id": "MTA_551044",
+        "lat": 40.789617,
+        "locationType": 0,
+        "lon": -73.845466,
+        "name": "COLLEGE POINT BLVD/9 AV",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551045",
+        "direction": "E",
+        "id": "MTA_551045",
+        "lat": 40.790784,
+        "locationType": 0,
+        "lon": -73.845291,
+        "name": "7 AV/COLLEGE POINT BLVD",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551046",
+        "direction": "S",
+        "id": "MTA_551046",
+        "lat": 40.79056,
+        "locationType": 0,
+        "lon": -73.840964,
+        "name": "127 ST/7 AV",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551047",
+        "direction": "S",
+        "id": "MTA_551047",
+        "lat": 40.784943,
+        "locationType": 0,
+        "lon": -73.841314,
+        "name": "127 ST/15 AV",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551048",
+        "direction": "E",
+        "id": "MTA_551048",
+        "lat": 40.778572,
+        "locationType": 0,
+        "lon": -73.84133,
+        "name": "23 AV/127 ST",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551050",
+        "direction": "SE",
+        "id": "MTA_551050",
+        "lat": 40.759003,
+        "locationType": 0,
+        "lon": -73.830017,
+        "name": "MAIN ST/40 RD",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551051",
+        "direction": "NW",
+        "id": "MTA_551051",
+        "lat": 40.759377,
+        "locationType": 0,
+        "lon": -73.829892,
+        "name": "MAIN ST/ROOSEVELT AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34",
+            "MTABC_Q65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551053",
+        "direction": "S",
+        "id": "MTA_551053",
+        "lat": 40.730266,
+        "locationType": 0,
+        "lon": -73.815168,
+        "name": "KISSENA BLVD/70 RD",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551054",
+        "direction": "SE",
+        "id": "MTA_551054",
+        "lat": 40.72795,
+        "locationType": 0,
+        "lon": -73.814305,
+        "name": "KISSENA BLVD/72 RD",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551055",
+        "direction": "S",
+        "id": "MTA_551055",
+        "lat": 40.72561,
+        "locationType": 0,
+        "lon": -73.810801,
+        "name": "PARSONS BLVD/75 RD",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551056",
+        "direction": "S",
+        "id": "MTA_551056",
+        "lat": 40.724268,
+        "locationType": 0,
+        "lon": -73.810673,
+        "name": "PARSONS BLVD/76 RD",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551057",
+        "direction": "S",
+        "id": "MTA_551057",
+        "lat": 40.722869,
+        "locationType": 0,
+        "lon": -73.81016,
+        "name": "PARSONS BLVD/77 RD",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551058",
+        "direction": "S",
+        "id": "MTA_551058",
+        "lat": 40.721489,
+        "locationType": 0,
+        "lon": -73.809631,
+        "name": "PARSONS BLVD/78 RD",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551059",
+        "direction": "SE",
+        "id": "MTA_551059",
+        "lat": 40.714396,
+        "locationType": 0,
+        "lon": -73.80756,
+        "name": "PARSONS BLVD/HOOVER AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551060",
+        "direction": "S",
+        "id": "MTA_551060",
+        "lat": 40.712753,
+        "locationType": 0,
+        "lon": -73.80672,
+        "name": "PARSONS BLVD/84 DR",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551061",
+        "direction": "SE",
+        "id": "MTA_551061",
+        "lat": 40.709924,
+        "locationType": 0,
+        "lon": -73.805473,
+        "name": "PARSONS BLVD/85 DR",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552832",
+        "direction": "N",
+        "id": "MTA_552832",
+        "lat": 40.772111,
+        "locationType": 0,
+        "lon": -73.833642,
+        "name": "LINDEN PL/WHITESTONE EXPWY",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552838",
+        "direction": "W",
+        "id": "MTA_552838",
+        "lat": 40.772893,
+        "locationType": 0,
+        "lon": -73.837008,
+        "name": "28 AV/ULMER ST",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553058",
+        "direction": "S",
+        "id": "MTA_553058",
+        "lat": 40.717299,
+        "locationType": 0,
+        "lon": -73.808355,
+        "name": "PARSONS BLVD/VILLAGE RD",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553126",
+        "direction": "NW",
+        "id": "MTA_553126",
+        "lat": 40.703616,
+        "locationType": 0,
+        "lon": -73.800218,
+        "name": "PARSONS BLVD/JAMAICA AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34",
+            "MTABC_Q65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553127",
+        "direction": "SE",
+        "id": "MTA_553127",
+        "lat": 40.703425,
+        "locationType": 0,
+        "lon": -73.800343,
+        "name": "PARSONS BLVD/JAMAICA AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34",
+            "MTABC_Q65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553130",
+        "direction": "E",
+        "id": "MTA_553130",
+        "lat": 40.772765,
+        "locationType": 0,
+        "lon": -73.836634,
+        "name": "28 AV/ULMER ST",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553139",
+        "direction": "SE",
+        "id": "MTA_553139",
+        "lat": 40.69914,
+        "locationType": 0,
+        "lon": -73.807077,
+        "name": "SUTPHIN BLVD/94 AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34",
+            "MTABC_Q65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553163",
+        "direction": "N",
+        "id": "MTA_553163",
+        "lat": 40.764914,
+        "locationType": 0,
+        "lon": -73.830625,
+        "name": "LINDEN PL/35 AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553164",
+        "direction": "S",
+        "id": "MTA_553164",
+        "lat": 40.764796,
+        "locationType": 0,
+        "lon": -73.830799,
+        "name": "LINDEN PL/35 AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553177",
+        "direction": "S",
+        "id": "MTA_553177",
+        "lat": 40.771671,
+        "locationType": 0,
+        "lon": -73.833621,
+        "name": "LINDEN PL/WHITESTONE EXPWY",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553236",
+        "direction": "NW",
+        "id": "MTA_553236",
+        "lat": 40.707284,
+        "locationType": 0,
+        "lon": -73.802415,
+        "name": "PARSONS BLVD/88 AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34",
+            "MTABC_Q65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553292",
+        "direction": "SW",
+        "id": "MTA_553292",
+        "lat": 40.791976,
+        "locationType": 0,
+        "lon": -73.850684,
+        "name": "POPPENHUSEN AV/119 ST",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553295",
+        "direction": "W",
+        "id": "MTA_553295",
+        "lat": 40.702763,
+        "locationType": 0,
+        "lon": -73.802608,
+        "name": "JAMAICA AV/153 ST",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34",
+            "MTABC_Q65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982094",
+        "direction": "SW",
+        "id": "MTA_982094",
+        "lat": 40.791989,
+        "locationType": 0,
+        "lon": -73.850599,
+        "name": "POPPENHUSEN AV/119 ST",
+        "routeIds": [
+            "MTABC_Q25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982095",
+        "direction": "SE",
+        "id": "MTA_982095",
+        "lat": 40.699177,
+        "locationType": 0,
+        "lon": -73.807097,
+        "name": "SUTPHIN BLVD/94 AV",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34",
+            "MTABC_Q65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982183",
+        "direction": "E",
+        "id": "MTA_982183",
+        "lat": 40.701625,
+        "locationType": 0,
+        "lon": -73.80338,
+        "name": "ARCHER AV/151 ST",
+        "routeIds": [
+            "MTABC_Q25",
+            "MTABC_Q34",
+            "MTABC_Q65"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

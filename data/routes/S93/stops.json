@@ -1,0 +1,695 @@
+[
+    {
+        "code": "200534",
+        "direction": "E",
+        "id": "MTA_200534",
+        "lat": 40.612471,
+        "locationType": 0,
+        "lon": -74.129835,
+        "name": "VICTORY BLVD/PERRY AV",
+        "routeIds": [
+            "MTA NYCT_S61",
+            "MTA NYCT_S62",
+            "MTA NYCT_S66",
+            "MTA NYCT_S91",
+            "MTA NYCT_S92",
+            "MTA NYCT_S93",
+            "MTA NYCT_SIM3",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200537",
+        "direction": "E",
+        "id": "MTA_200537",
+        "lat": 40.613042,
+        "locationType": 0,
+        "lon": -74.122229,
+        "name": "VICTORY BLVD/MANOR RD",
+        "routeIds": [
+            "MTA NYCT_S61",
+            "MTA NYCT_S62",
+            "MTA NYCT_S66",
+            "MTA NYCT_S91",
+            "MTA NYCT_S92",
+            "MTA NYCT_S93",
+            "MTA NYCT_SIM3",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200580",
+        "direction": "SW",
+        "id": "MTA_200580",
+        "lat": 40.616078,
+        "locationType": 0,
+        "lon": -74.104545,
+        "name": "VICTORY BLVD/CLOVE RD",
+        "routeIds": [
+            "MTA NYCT_S61",
+            "MTA NYCT_S62",
+            "MTA NYCT_S66",
+            "MTA NYCT_S91",
+            "MTA NYCT_S92",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200586",
+        "direction": "W",
+        "id": "MTA_200586",
+        "lat": 40.613107,
+        "locationType": 0,
+        "lon": -74.123014,
+        "name": "VICTORY BLVD/MANOR RD",
+        "routeIds": [
+            "MTA NYCT_S61",
+            "MTA NYCT_S62",
+            "MTA NYCT_S66",
+            "MTA NYCT_S91",
+            "MTA NYCT_S92",
+            "MTA NYCT_S93",
+            "MTA NYCT_SIM3",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200708",
+        "direction": "W",
+        "id": "MTA_200708",
+        "lat": 40.609731,
+        "locationType": 0,
+        "lon": -74.090733,
+        "name": "NARROWS RD NORTH/RICHMOND RD",
+        "routeIds": [
+            "MTA NYCT_S53",
+            "MTA NYCT_S93",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200710",
+        "direction": "NW",
+        "id": "MTA_200710",
+        "lat": 40.612715,
+        "locationType": 0,
+        "lon": -74.099516,
+        "name": "CLOVE RD/HOWARD AV",
+        "routeIds": [
+            "MTA NYCT_S53",
+            "MTA NYCT_S66",
+            "MTA NYCT_S93",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201422",
+        "direction": "W",
+        "id": "MTA_201422",
+        "lat": 40.612624,
+        "locationType": 0,
+        "lon": -74.130404,
+        "name": "VICTORY BLVD/JEWETT AV",
+        "routeIds": [
+            "MTA NYCT_S61",
+            "MTA NYCT_S62",
+            "MTA NYCT_S66",
+            "MTA NYCT_S91",
+            "MTA NYCT_S92",
+            "MTA NYCT_S93",
+            "MTA NYCT_SIM3",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201959",
+        "direction": "E",
+        "id": "MTA_201959",
+        "lat": 40.609504,
+        "locationType": 0,
+        "lon": -74.149666,
+        "name": "VICTORY BLVD/NORTH GANNON AV",
+        "routeIds": [
+            "MTA NYCT_S62",
+            "MTA NYCT_S92",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201960",
+        "direction": "E",
+        "id": "MTA_201960",
+        "lat": 40.609783,
+        "locationType": 0,
+        "lon": -74.148234,
+        "name": "VICTORY BLVD/NEPTUNE PL",
+        "routeIds": [
+            "MTA NYCT_S62",
+            "MTA NYCT_S92",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201961",
+        "direction": "E",
+        "id": "MTA_201961",
+        "lat": 40.610189,
+        "locationType": 0,
+        "lon": -74.146477,
+        "name": "VICTORY BLVD/WILLOWBROOK RD",
+        "routeIds": [
+            "MTA NYCT_S62",
+            "MTA NYCT_S92",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201962",
+        "direction": "E",
+        "id": "MTA_201962",
+        "lat": 40.610565,
+        "locationType": 0,
+        "lon": -74.144594,
+        "name": "VICTORY BLVD/DECATUR AV",
+        "routeIds": [
+            "MTA NYCT_S62",
+            "MTA NYCT_S92",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201964",
+        "direction": "E",
+        "id": "MTA_201964",
+        "lat": 40.611512,
+        "locationType": 0,
+        "lon": -74.139824,
+        "name": "VICTORY BLVD/MARTIN AV",
+        "routeIds": [
+            "MTA NYCT_S62",
+            "MTA NYCT_S92",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "201965",
+        "direction": "E",
+        "id": "MTA_201965",
+        "lat": 40.611838,
+        "locationType": 0,
+        "lon": -74.138092,
+        "name": "VICTORY BLVD/SHERADEN AV",
+        "routeIds": [
+            "MTA NYCT_S62",
+            "MTA NYCT_S92",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202022",
+        "direction": "W",
+        "id": "MTA_202022",
+        "lat": 40.612437,
+        "locationType": 0,
+        "lon": -74.13313,
+        "name": "VICTORY BLVD/MANN AV",
+        "routeIds": [
+            "MTA NYCT_S62",
+            "MTA NYCT_S92",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202025",
+        "direction": "W",
+        "id": "MTA_202025",
+        "lat": 40.611995,
+        "locationType": 0,
+        "lon": -74.138031,
+        "name": "VICTORY BLVD/OCONNOR AV",
+        "routeIds": [
+            "MTA NYCT_S62",
+            "MTA NYCT_S92",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202026",
+        "direction": "W",
+        "id": "MTA_202026",
+        "lat": 40.611473,
+        "locationType": 0,
+        "lon": -74.140616,
+        "name": "VICTORY BLVD/LIVERMORE AV",
+        "routeIds": [
+            "MTA NYCT_S62",
+            "MTA NYCT_S92",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202027",
+        "direction": "W",
+        "id": "MTA_202027",
+        "lat": 40.61092,
+        "locationType": 0,
+        "lon": -74.143453,
+        "name": "VICTORY BLVD/CRYSTAL AV",
+        "routeIds": [
+            "MTA NYCT_S62",
+            "MTA NYCT_S92",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202028",
+        "direction": "W",
+        "id": "MTA_202028",
+        "lat": 40.610517,
+        "locationType": 0,
+        "lon": -74.145451,
+        "name": "VICTORY BLVD/BRYSON AV",
+        "routeIds": [
+            "MTA NYCT_S62",
+            "MTA NYCT_S92",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202029",
+        "direction": "W",
+        "id": "MTA_202029",
+        "lat": 40.610152,
+        "locationType": 0,
+        "lon": -74.147413,
+        "name": "VICTORY BLVD/WILLOWBROOK RD",
+        "routeIds": [
+            "MTA NYCT_S62",
+            "MTA NYCT_S92",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202625",
+        "direction": "W",
+        "id": "MTA_202625",
+        "lat": 40.61226,
+        "locationType": 0,
+        "lon": -74.136465,
+        "name": "VICTORY BLVD/INGRAM AV",
+        "routeIds": [
+            "MTA NYCT_S62",
+            "MTA NYCT_S92",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202663",
+        "direction": "E",
+        "id": "MTA_202663",
+        "lat": 40.612214,
+        "locationType": 0,
+        "lon": -74.135723,
+        "name": "VICTORY BLVD/INGRAM AV",
+        "routeIds": [
+            "MTA NYCT_S62",
+            "MTA NYCT_S92",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203052",
+        "direction": "SE",
+        "id": "MTA_203052",
+        "lat": 40.612259,
+        "locationType": 0,
+        "lon": -74.09927,
+        "name": "CLOVE RD/TIOGA ST",
+        "routeIds": [
+            "MTA NYCT_S53",
+            "MTA NYCT_S66",
+            "MTA NYCT_S93",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203343",
+        "direction": "E",
+        "id": "MTA_203343",
+        "lat": 40.605338,
+        "locationType": 0,
+        "lon": -74.076078,
+        "name": "NARROWS RD SOUTH/HYLAN BLVD",
+        "routeIds": [
+            "MTA NYCT_S93",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM15",
+            "MTA NYCT_SIM33C",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203344",
+        "direction": "E",
+        "id": "MTA_203344",
+        "lat": 40.603427,
+        "locationType": 0,
+        "lon": -74.068996,
+        "name": "NARROWS RD SOUTH/FINGERBOARD RD",
+        "routeIds": [
+            "MTA NYCT_S79+",
+            "MTA NYCT_S93",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM7",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM11",
+            "MTA NYCT_SIM15",
+            "MTA NYCT_SIM33C",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203345",
+        "direction": "NW",
+        "id": "MTA_203345",
+        "lat": 40.604596,
+        "locationType": 0,
+        "lon": -74.069364,
+        "name": "NARROWS RD NORTH/FINGERBOARD RD",
+        "routeIds": [
+            "MTA NYCT_S79+",
+            "MTA NYCT_S93",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM7",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM11",
+            "MTA NYCT_SIM15",
+            "MTA NYCT_SIM33C",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203368",
+        "direction": "N",
+        "id": "MTA_203368",
+        "lat": 40.608772,
+        "locationType": 0,
+        "lon": -74.153263,
+        "name": "COLLEGE OF STATEN ISLAND/VICTORY BLVD",
+        "routeIds": [
+            "MTA NYCT_S62",
+            "MTA NYCT_S92",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203369",
+        "direction": "N",
+        "id": "MTA_203369",
+        "lat": 40.608531,
+        "locationType": 0,
+        "lon": -74.153186,
+        "name": "COLLEGE OF STATEN ISLAND/VICTORY BLVD",
+        "routeIds": [
+            "MTA NYCT_S62",
+            "MTA NYCT_S92",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203409",
+        "direction": "W",
+        "id": "MTA_203409",
+        "lat": 40.609763,
+        "locationType": 0,
+        "lon": -74.149364,
+        "name": "VICTORY BLVD/WILLOW RD",
+        "routeIds": [
+            "MTA NYCT_S62",
+            "MTA NYCT_S92",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203474",
+        "direction": "E",
+        "id": "MTA_203474",
+        "lat": 40.610949,
+        "locationType": 0,
+        "lon": -74.142686,
+        "name": "VICTORY BLVD/CRYSTAL AV",
+        "routeIds": [
+            "MTA NYCT_S62",
+            "MTA NYCT_S92",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203554",
+        "direction": "SE",
+        "id": "MTA_203554",
+        "lat": 40.615625,
+        "locationType": 0,
+        "lon": -74.103042,
+        "name": "CLOVE RD/NIAGARA ST",
+        "routeIds": [
+            "MTA NYCT_S53",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203694",
+        "direction": "W",
+        "id": "MTA_203694",
+        "lat": 40.606709,
+        "locationType": 0,
+        "lon": -74.075617,
+        "name": "NARROWS RD NORTH/SAINT JOHNS AV",
+        "routeIds": [
+            "MTA NYCT_S79+",
+            "MTA NYCT_S93",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM7",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM11",
+            "MTA NYCT_SIM15",
+            "MTA NYCT_SIM33C",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203723",
+        "direction": "SE",
+        "id": "MTA_203723",
+        "lat": 40.608631,
+        "locationType": 0,
+        "lon": -74.090674,
+        "name": "NARROWS RD SOUTH/RICHMOND RD",
+        "routeIds": [
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203724",
+        "direction": "E",
+        "id": "MTA_203724",
+        "lat": 40.607755,
+        "locationType": 0,
+        "lon": -74.089028,
+        "name": "NARROWS RD SOUTH/TARGEE ST",
+        "routeIds": [
+            "MTA NYCT_S93",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM15",
+            "MTA NYCT_SIM33C",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "204000",
+        "direction": "E",
+        "id": "MTA_204000",
+        "lat": 40.59889,
+        "locationType": 0,
+        "lon": -74.151686,
+        "name": "COLLEGE OF STATEN ISLAND LOOP RD/SOUTH ADMIN",
+        "routeIds": [
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301707",
+        "direction": "NW",
+        "id": "MTA_301707",
+        "lat": 40.621637,
+        "locationType": 0,
+        "lon": -74.026347,
+        "name": "86 ST/5 AV",
+        "routeIds": [
+            "MTA NYCT_B16",
+            "MTA NYCT_S53",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306959",
+        "direction": "SE",
+        "id": "MTA_306959",
+        "lat": 40.616714,
+        "locationType": 0,
+        "lon": -74.027208,
+        "name": "92 ST/FORT HAMILTON PKWY",
+        "routeIds": [
+            "MTA NYCT_B8",
+            "MTA NYCT_B70",
+            "MTA NYCT_S53",
+            "MTA NYCT_S79+",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307203",
+        "direction": "NW",
+        "id": "MTA_307203",
+        "lat": 40.616926,
+        "locationType": 0,
+        "lon": -74.027344,
+        "name": "92 ST/GATLING PL",
+        "routeIds": [
+            "MTA NYCT_B8",
+            "MTA NYCT_B70",
+            "MTA NYCT_S53",
+            "MTA NYCT_S79+",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307501",
+        "direction": "NW",
+        "id": "MTA_307501",
+        "lat": 40.620732,
+        "locationType": 0,
+        "lon": -74.024776,
+        "name": "86 ST/FORT HAMILTON PKWY",
+        "routeIds": [
+            "MTA NYCT_B1",
+            "MTA NYCT_B16",
+            "MTA NYCT_S53",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308032",
+        "direction": "S",
+        "id": "MTA_308032",
+        "lat": 40.619537,
+        "locationType": 0,
+        "lon": -74.029807,
+        "name": "4 AV/90 ST",
+        "routeIds": [
+            "MTA NYCT_S53",
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308533",
+        "direction": "S",
+        "id": "MTA_308533",
+        "lat": 40.621917,
+        "locationType": 0,
+        "lon": -74.028796,
+        "name": "4 AV/87 ST",
+        "routeIds": [
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "805067",
+        "direction": "W",
+        "id": "MTA_805067",
+        "lat": 40.608731,
+        "locationType": 0,
+        "lon": -74.088212,
+        "name": "NARROWS RD NORTH/TARGEE ST",
+        "routeIds": [
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "805167",
+        "direction": "E",
+        "id": "MTA_805167",
+        "lat": 40.598891,
+        "locationType": 0,
+        "lon": -74.151783,
+        "name": "C ST/1 AV",
+        "routeIds": [
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "905142",
+        "direction": "S",
+        "id": "MTA_905142",
+        "lat": 40.62198,
+        "locationType": 0,
+        "lon": -74.028767,
+        "name": "4 AV/87 ST",
+        "routeIds": [
+            "MTA NYCT_S93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

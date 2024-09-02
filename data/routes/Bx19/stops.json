@@ -1,0 +1,1058 @@
+[
+    {
+        "code": "100273",
+        "direction": "S",
+        "id": "MTA_100273",
+        "lat": 40.82437,
+        "locationType": 0,
+        "lon": -73.891944,
+        "name": "SOUTHERN BLVD/WESTCHESTER AV",
+        "routeIds": [
+            "MTA NYCT_BX5",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100561",
+        "direction": "N",
+        "id": "MTA_100561",
+        "lat": 40.847688,
+        "locationType": 0,
+        "lon": -73.883127,
+        "name": "SOUTHERN BLVD/BRONX PARK SOUTH",
+        "routeIds": [
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100562",
+        "direction": "N",
+        "id": "MTA_100562",
+        "lat": 40.851175,
+        "locationType": 0,
+        "lon": -73.88217,
+        "name": "SOUTHERN BLVD/E 183 ST",
+        "routeIds": [
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100563",
+        "direction": "N",
+        "id": "MTA_100563",
+        "lat": 40.853214,
+        "locationType": 0,
+        "lon": -73.881577,
+        "name": "SOUTHERN BLVD/E 187 ST",
+        "routeIds": [
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100564",
+        "direction": "N",
+        "id": "MTA_100564",
+        "lat": 40.856408,
+        "locationType": 0,
+        "lon": -73.880682,
+        "name": "SOUTHERN BLVD/E 189 ST",
+        "routeIds": [
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100640",
+        "direction": "S",
+        "id": "MTA_100640",
+        "lat": 40.856252,
+        "locationType": 0,
+        "lon": -73.880972,
+        "name": "SOUTHERN BLVD/EAST FORDHAM RD",
+        "routeIds": [
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100641",
+        "direction": "S",
+        "id": "MTA_100641",
+        "lat": 40.853173,
+        "locationType": 0,
+        "lon": -73.881852,
+        "name": "SOUTHERN BLVD/E 187 ST",
+        "routeIds": [
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100642",
+        "direction": "S",
+        "id": "MTA_100642",
+        "lat": 40.850918,
+        "locationType": 0,
+        "lon": -73.882488,
+        "name": "SOUTHERN BLVD/E 183 ST",
+        "routeIds": [
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100643",
+        "direction": "S",
+        "id": "MTA_100643",
+        "lat": 40.847976,
+        "locationType": 0,
+        "lon": -73.883339,
+        "name": "SOUTHERN BLVD/E 182 ST",
+        "routeIds": [
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101306",
+        "direction": "E",
+        "id": "MTA_101306",
+        "lat": 40.819235,
+        "locationType": 0,
+        "lon": -73.930052,
+        "name": "E 149 ST/EXTERIOR ST",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101307",
+        "direction": "E",
+        "id": "MTA_101307",
+        "lat": 40.818377,
+        "locationType": 0,
+        "lon": -73.926861,
+        "name": "E 149 ST/GRAND CONCOURSE",
+        "routeIds": [
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101309",
+        "direction": "E",
+        "id": "MTA_101309",
+        "lat": 40.817178,
+        "locationType": 0,
+        "lon": -73.922383,
+        "name": "E 149 ST/MORRIS AV",
+        "routeIds": [
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101310",
+        "direction": "E",
+        "id": "MTA_101310",
+        "lat": 40.816543,
+        "locationType": 0,
+        "lon": -73.919779,
+        "name": "E 149 ST/COURTLANDT AV",
+        "routeIds": [
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101313",
+        "direction": "E",
+        "id": "MTA_101313",
+        "lat": 40.814223,
+        "locationType": 0,
+        "lon": -73.912863,
+        "name": "E 149 ST/SAINT ANN'S AV",
+        "routeIds": [
+            "MTA NYCT_BX17",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101314",
+        "direction": "E",
+        "id": "MTA_101314",
+        "lat": 40.81342,
+        "locationType": 0,
+        "lon": -73.910157,
+        "name": "E 149 ST/TRINITY AV",
+        "routeIds": [
+            "MTA NYCT_BX17",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101315",
+        "direction": "E",
+        "id": "MTA_101315",
+        "lat": 40.813105,
+        "locationType": 0,
+        "lon": -73.908684,
+        "name": "E 149 ST/JACKSON AV",
+        "routeIds": [
+            "MTA NYCT_BX17",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101316",
+        "direction": "E",
+        "id": "MTA_101316",
+        "lat": 40.812779,
+        "locationType": 0,
+        "lon": -73.907136,
+        "name": "E 149 ST/WALES AV",
+        "routeIds": [
+            "MTA NYCT_BX17",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101318",
+        "direction": "E",
+        "id": "MTA_101318",
+        "lat": 40.812179,
+        "locationType": 0,
+        "lon": -73.903625,
+        "name": "SOUTHERN BLVD/E 149 ST",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101320",
+        "direction": "NE",
+        "id": "MTA_101320",
+        "lat": 40.815124,
+        "locationType": 0,
+        "lon": -73.897299,
+        "name": "SOUTHERN BLVD/E 156 ST",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101321",
+        "direction": "NE",
+        "id": "MTA_101321",
+        "lat": 40.816536,
+        "locationType": 0,
+        "lon": -73.895833,
+        "name": "SOUTHERN BLVD/LONGWOOD AV",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101322",
+        "direction": "NE",
+        "id": "MTA_101322",
+        "lat": 40.818544,
+        "locationType": 0,
+        "lon": -73.893764,
+        "name": "SOUTHERN BLVD/TIFFANY ST",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101324",
+        "direction": "N",
+        "id": "MTA_101324",
+        "lat": 40.823173,
+        "locationType": 0,
+        "lon": -73.891755,
+        "name": "SOUTHERN BLVD/ALDUS ST",
+        "routeIds": [
+            "MTA NYCT_BX5",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101327",
+        "direction": "N",
+        "id": "MTA_101327",
+        "lat": 40.827187,
+        "locationType": 0,
+        "lon": -73.891876,
+        "name": "SOUTHERN BLVD/E 167 ST",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101328",
+        "direction": "N",
+        "id": "MTA_101328",
+        "lat": 40.830046,
+        "locationType": 0,
+        "lon": -73.891826,
+        "name": "SOUTHERN BLVD/FREEMAN ST",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101329",
+        "direction": "NE",
+        "id": "MTA_101329",
+        "lat": 40.832286,
+        "locationType": 0,
+        "lon": -73.890706,
+        "name": "SOUTHERN BLVD/JENNINGS ST",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101330",
+        "direction": "NE",
+        "id": "MTA_101330",
+        "lat": 40.833943,
+        "locationType": 0,
+        "lon": -73.889728,
+        "name": "SOUTHERN BLVD/E 172 ST",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101332",
+        "direction": "NE",
+        "id": "MTA_101332",
+        "lat": 40.8372,
+        "locationType": 0,
+        "lon": -73.88775,
+        "name": "SOUTHERN BLVD/BOSTON RD",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101335",
+        "direction": "N",
+        "id": "MTA_101335",
+        "lat": 40.843057,
+        "locationType": 0,
+        "lon": -73.885462,
+        "name": "SOUTHERN BLVD/EAST TREMONT AV",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101337",
+        "direction": "NE",
+        "id": "MTA_101337",
+        "lat": 40.845823,
+        "locationType": 0,
+        "lon": -73.884446,
+        "name": "SOUTHERN BLVD/E 180 ST",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101347",
+        "direction": "SW",
+        "id": "MTA_101347",
+        "lat": 40.846138,
+        "locationType": 0,
+        "lon": -73.884499,
+        "name": "SOUTHERN BLVD/E 180 ST",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101352",
+        "direction": "S",
+        "id": "MTA_101352",
+        "lat": 40.837467,
+        "locationType": 0,
+        "lon": -73.887719,
+        "name": "SOUTHERN BLVD/E 174 ST",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101354",
+        "direction": "SW",
+        "id": "MTA_101354",
+        "lat": 40.834168,
+        "locationType": 0,
+        "lon": -73.889764,
+        "name": "SOUTHERN BLVD/E 172 ST",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101355",
+        "direction": "SW",
+        "id": "MTA_101355",
+        "lat": 40.832528,
+        "locationType": 0,
+        "lon": -73.890724,
+        "name": "SOUTHERN BLVD/JENNINGS ST",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101356",
+        "direction": "S",
+        "id": "MTA_101356",
+        "lat": 40.830102,
+        "locationType": 0,
+        "lon": -73.891908,
+        "name": "SOUTHERN BLVD/FREEMAN ST",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101358",
+        "direction": "S",
+        "id": "MTA_101358",
+        "lat": 40.826905,
+        "locationType": 0,
+        "lon": -73.891991,
+        "name": "SOUTHERN BLVD/E 167 ST",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101359",
+        "direction": "N",
+        "id": "MTA_101359",
+        "lat": 40.824545,
+        "locationType": 0,
+        "lon": -73.891857,
+        "name": "SOUTHERN BLVD/WESTCHESTER AV",
+        "routeIds": [
+            "MTA NYCT_BX5",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101360",
+        "direction": "S",
+        "id": "MTA_101360",
+        "lat": 40.822869,
+        "locationType": 0,
+        "lon": -73.891817,
+        "name": "SOUTHERN BLVD/ALDUS ST",
+        "routeIds": [
+            "MTA NYCT_BX5",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101362",
+        "direction": "SW",
+        "id": "MTA_101362",
+        "lat": 40.818478,
+        "locationType": 0,
+        "lon": -73.894129,
+        "name": "SOUTHERN BLVD/TIFFANY ST",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101363",
+        "direction": "SW",
+        "id": "MTA_101363",
+        "lat": 40.816076,
+        "locationType": 0,
+        "lon": -73.896607,
+        "name": "SOUTHERN BLVD/LONGWOOD AV",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101364",
+        "direction": "SW",
+        "id": "MTA_101364",
+        "lat": 40.81471,
+        "locationType": 0,
+        "lon": -73.898025,
+        "name": "SOUTHERN BLVD/E 156 ST",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101366",
+        "direction": "W",
+        "id": "MTA_101366",
+        "lat": 40.812224,
+        "locationType": 0,
+        "lon": -73.903953,
+        "name": "SOUTHERN BLVD/E 149 ST",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101368",
+        "direction": "W",
+        "id": "MTA_101368",
+        "lat": 40.812659,
+        "locationType": 0,
+        "lon": -73.906146,
+        "name": "E 149 ST/TINTON AV",
+        "routeIds": [
+            "MTA NYCT_BX17",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101369",
+        "direction": "W",
+        "id": "MTA_101369",
+        "lat": 40.813155,
+        "locationType": 0,
+        "lon": -73.90855,
+        "name": "E 149 ST/CONCORD AV",
+        "routeIds": [
+            "MTA NYCT_BX17",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101370",
+        "direction": "W",
+        "id": "MTA_101370",
+        "lat": 40.813559,
+        "locationType": 0,
+        "lon": -73.910473,
+        "name": "E 149 ST/TRINITY AV",
+        "routeIds": [
+            "MTA NYCT_BX17",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101372",
+        "direction": "W",
+        "id": "MTA_101372",
+        "lat": 40.815166,
+        "locationType": 0,
+        "lon": -73.915301,
+        "name": "E 149 ST/BROOK AV",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101374",
+        "direction": "W",
+        "id": "MTA_101374",
+        "lat": 40.816745,
+        "locationType": 0,
+        "lon": -73.919846,
+        "name": "E 149 ST/COURTLANDT AV",
+        "routeIds": [
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101375",
+        "direction": "W",
+        "id": "MTA_101375",
+        "lat": 40.817533,
+        "locationType": 0,
+        "lon": -73.923013,
+        "name": "E 149 ST/MORRIS AV",
+        "routeIds": [
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101377",
+        "direction": "W",
+        "id": "MTA_101377",
+        "lat": 40.818589,
+        "locationType": 0,
+        "lon": -73.927078,
+        "name": "E 149 ST/GRAND CONCOURSE",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101378",
+        "direction": "W",
+        "id": "MTA_101378",
+        "lat": 40.819092,
+        "locationType": 0,
+        "lon": -73.929075,
+        "name": "E 149 ST/GERARD AV",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103507",
+        "direction": "NE",
+        "id": "MTA_103507",
+        "lat": 40.82082,
+        "locationType": 0,
+        "lon": -73.891607,
+        "name": "SOUTHERN BLVD/HUNTS POINT AV",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103611",
+        "direction": "N",
+        "id": "MTA_103611",
+        "lat": 40.84079,
+        "locationType": 0,
+        "lon": -73.885907,
+        "name": "SOUTHERN BLVD/E 176 ST",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103612",
+        "direction": "S",
+        "id": "MTA_103612",
+        "lat": 40.840198,
+        "locationType": 0,
+        "lon": -73.886237,
+        "name": "SOUTHERN BLVD/E 176 St",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103640",
+        "direction": "NW",
+        "id": "MTA_103640",
+        "lat": 40.861247,
+        "locationType": 0,
+        "lon": -73.880732,
+        "name": "SOUTHERN BLVD/BOTANICAL GARDENS",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103723",
+        "direction": "W",
+        "id": "MTA_103723",
+        "lat": 40.814424,
+        "locationType": 0,
+        "lon": -73.913289,
+        "name": "E 149 ST/SAINT ANN'S AV",
+        "routeIds": [
+            "MTA NYCT_BX4",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103748",
+        "direction": "SE",
+        "id": "MTA_103748",
+        "lat": 40.815686,
+        "locationType": 0,
+        "lon": -73.916991,
+        "name": "E 149 ST/BERGEN AV",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103917",
+        "direction": "S",
+        "id": "MTA_103917",
+        "lat": 40.842926,
+        "locationType": 0,
+        "lon": -73.885763,
+        "name": "SOUTHERN BLVD/EAST TREMONT AV",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104099",
+        "direction": "E",
+        "id": "MTA_104099",
+        "lat": 40.812932,
+        "locationType": 0,
+        "lon": -73.900976,
+        "name": "SOUTHERN BLVD/AV SAINT JOHN",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104221",
+        "direction": "SW",
+        "id": "MTA_104221",
+        "lat": 40.820842,
+        "locationType": 0,
+        "lon": -73.891773,
+        "name": "SOUTHERN BLVD/E 163 ST",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104233",
+        "direction": "W",
+        "id": "MTA_104233",
+        "lat": 40.81628,
+        "locationType": 0,
+        "lon": -73.918103,
+        "name": "E 149 ST/MELROSE AV",
+        "routeIds": [
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104242",
+        "direction": "W",
+        "id": "MTA_104242",
+        "lat": 40.812995,
+        "locationType": 0,
+        "lon": -73.901337,
+        "name": "SOUTHERN BLVD/AVENUE SAINT JOHN",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403681",
+        "direction": "SE",
+        "id": "MTA_403681",
+        "lat": 40.826198,
+        "locationType": 0,
+        "lon": -73.950148,
+        "name": "W 145 ST/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403682",
+        "direction": "SE",
+        "id": "MTA_403682",
+        "lat": 40.825272,
+        "locationType": 0,
+        "lon": -73.947941,
+        "name": "W 145 ST/AMSTERDAM AV",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403683",
+        "direction": "SE",
+        "id": "MTA_403683",
+        "lat": 40.824621,
+        "locationType": 0,
+        "lon": -73.946395,
+        "name": "W 145 ST/CONVENT AV",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403684",
+        "direction": "SE",
+        "id": "MTA_403684",
+        "lat": 40.82402,
+        "locationType": 0,
+        "lon": -73.944964,
+        "name": "W 145 ST/SAINT NICHOLAS AV",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403686",
+        "direction": "SE",
+        "id": "MTA_403686",
+        "lat": 40.822558,
+        "locationType": 0,
+        "lon": -73.941493,
+        "name": "W 145 ST/FREDERICK DOUGLASS BLVD",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403687",
+        "direction": "SE",
+        "id": "MTA_403687",
+        "lat": 40.821648,
+        "locationType": 0,
+        "lon": -73.939352,
+        "name": "W 145 ST/ADAM C POWELL BLVD",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403688",
+        "direction": "SE",
+        "id": "MTA_403688",
+        "lat": 40.820444,
+        "locationType": 0,
+        "lon": -73.93639,
+        "name": "W 145 ST/MALCOLM X BLVD",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403689",
+        "direction": "NW",
+        "id": "MTA_403689",
+        "lat": 40.820557,
+        "locationType": 0,
+        "lon": -73.936347,
+        "name": "W 145 ST/MALCOLM X BLVD",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403690",
+        "direction": "NW",
+        "id": "MTA_403690",
+        "lat": 40.821618,
+        "locationType": 0,
+        "lon": -73.938795,
+        "name": "W 145 ST/ADAM C POWELL BLVD",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403691",
+        "direction": "NW",
+        "id": "MTA_403691",
+        "lat": 40.822843,
+        "locationType": 0,
+        "lon": -73.941703,
+        "name": "W 145 ST/FREDERICK DOUGLASS BLVD",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403693",
+        "direction": "W",
+        "id": "MTA_403693",
+        "lat": 40.82403,
+        "locationType": 0,
+        "lon": -73.944516,
+        "name": "W 145 ST/SAINT NICHOLAS AV",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403694",
+        "direction": "NW",
+        "id": "MTA_403694",
+        "lat": 40.824665,
+        "locationType": 0,
+        "lon": -73.946033,
+        "name": "W 145 ST/CONVENT AV",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403695",
+        "direction": "NW",
+        "id": "MTA_403695",
+        "lat": 40.825231,
+        "locationType": 0,
+        "lon": -73.947373,
+        "name": "W 145 ST/AMSTERDAM AV",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403696",
+        "direction": "NW",
+        "id": "MTA_403696",
+        "lat": 40.826407,
+        "locationType": 0,
+        "lon": -73.950176,
+        "name": "W 145 ST/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403950",
+        "direction": "W",
+        "id": "MTA_403950",
+        "lat": 40.827014,
+        "locationType": 0,
+        "lon": -73.951571,
+        "name": "W 145 ST/RIVERSIDE DR",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404022",
+        "direction": "E",
+        "id": "MTA_404022",
+        "lat": 40.826817,
+        "locationType": 0,
+        "lon": -73.95165,
+        "name": "W 145 ST/RIVERSIDE DR",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803194",
+        "direction": "SW",
+        "id": "MTA_803194",
+        "lat": 40.826815,
+        "locationType": 0,
+        "lon": -73.955386,
+        "name": "RIVERBANK STATE PARK RDWY/RIVERBANK STATE PARK",
+        "routeIds": [
+            "MTA NYCT_BX19",
+            "MTA NYCT_M11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803195",
+        "direction": "SW",
+        "id": "MTA_803195",
+        "lat": 40.826647,
+        "locationType": 0,
+        "lon": -73.955503,
+        "name": "RIVERBANK STATE PARK RDWY/RIVERBANK STATE PARK",
+        "routeIds": [
+            "MTA NYCT_BX19",
+            "MTA NYCT_M11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "902030",
+        "direction": "NW",
+        "id": "MTA_902030",
+        "lat": 40.861203,
+        "locationType": 0,
+        "lon": -73.880674,
+        "name": "SOUTHERN BLVD/BOTANICAL GARDENS",
+        "routeIds": [
+            "MTA NYCT_BX19"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

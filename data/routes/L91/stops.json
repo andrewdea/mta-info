@@ -1,0 +1,188 @@
+[
+    {
+        "code": "301136",
+        "direction": "NE",
+        "id": "MTA_301136",
+        "lat": 40.658999,
+        "locationType": 0,
+        "lon": -73.899316,
+        "name": "NEW LOTS AV/VAN SINDEREN AV",
+        "routeIds": [
+            "MTA NYCT_B15",
+            "MTA NYCT_L91"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301580",
+        "direction": "S",
+        "id": "MTA_301580",
+        "lat": 40.667997,
+        "locationType": 0,
+        "lon": -73.902622,
+        "name": "JUNIUS ST/SUTTER AV",
+        "routeIds": [
+            "MTA NYCT_B14",
+            "MTA NYCT_L91"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303209",
+        "direction": "W",
+        "id": "MTA_303209",
+        "lat": 40.673581,
+        "locationType": 0,
+        "lon": -73.902298,
+        "name": "LIBERTY AV/SNEDIKER AV",
+        "routeIds": [
+            "MTA NYCT_L91"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901012",
+        "direction": "SW",
+        "id": "MTA_901012",
+        "lat": 40.645695,
+        "locationType": 0,
+        "lon": -73.902067,
+        "name": "ROCKAWAY PKWY/SUBWAY STATION",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_L91"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901022",
+        "direction": "W",
+        "id": "MTA_901022",
+        "lat": 40.645803,
+        "locationType": 0,
+        "lon": -73.901677,
+        "name": "ROCKAWAY STATION/ROCKAWAY STATION",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_L91"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901508",
+        "direction": "W",
+        "id": "MTA_901508",
+        "lat": 40.677843,
+        "locationType": 0,
+        "lon": -73.903054,
+        "name": "FULTON ST/VAN SINDEREN AV",
+        "routeIds": [
+            "MTA NYCT_L91"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901706",
+        "direction": "W",
+        "id": "MTA_901706",
+        "lat": 40.67793,
+        "locationType": 0,
+        "lon": -73.903699,
+        "name": "FULTON ST/VAN SINDEREN AV",
+        "routeIds": [
+            "MTA NYCT_L91"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901707",
+        "direction": "S",
+        "id": "MTA_901707",
+        "lat": 40.663715,
+        "locationType": 0,
+        "lon": -73.901479,
+        "name": "JUNIUS ST/LIVONIA AV",
+        "routeIds": [
+            "MTA NYCT_L91"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901708",
+        "direction": "SW",
+        "id": "MTA_901708",
+        "lat": 40.650608,
+        "locationType": 0,
+        "lon": -73.89787,
+        "name": "FARRAGUT RD/E 105 ST",
+        "routeIds": [
+            "MTA NYCT_L91"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901710",
+        "direction": "NE",
+        "id": "MTA_901710",
+        "lat": 40.650517,
+        "locationType": 0,
+        "lon": -73.897881,
+        "name": "FARRAGUT RD/E 105 ST",
+        "routeIds": [
+            "MTA NYCT_L91"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901711",
+        "direction": "N",
+        "id": "MTA_901711",
+        "lat": 40.659363,
+        "locationType": 0,
+        "lon": -73.898384,
+        "name": "SNEDIKER AV/NEW LOTS AV",
+        "routeIds": [
+            "MTA NYCT_L91"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901712",
+        "direction": "N",
+        "id": "MTA_901712",
+        "lat": 40.663847,
+        "locationType": 0,
+        "lon": -73.899517,
+        "name": "SNEDIKER AV/LIVONIA AV",
+        "routeIds": [
+            "MTA NYCT_L91"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901713",
+        "direction": "N",
+        "id": "MTA_901713",
+        "lat": 40.668595,
+        "locationType": 0,
+        "lon": -73.900752,
+        "name": "SNEDIKER AV/SUTTER AV",
+        "routeIds": [
+            "MTA NYCT_L91"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901714",
+        "direction": "N",
+        "id": "MTA_901714",
+        "lat": 40.675431,
+        "locationType": 0,
+        "lon": -73.902487,
+        "name": "SNEDIKER AV/ATLANTIC AV",
+        "routeIds": [
+            "MTA NYCT_L91"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

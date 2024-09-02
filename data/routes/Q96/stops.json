@@ -1,0 +1,86 @@
+[
+    {
+        "code": "504079",
+        "direction": "",
+        "id": "MTA_504079",
+        "lat": 40.746681,
+        "locationType": 0,
+        "lon": -73.943358,
+        "name": "JACKSON AV/THOMPSON AV",
+        "routeIds": [
+            "MTA NYCT_Q96"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550671",
+        "direction": "SW",
+        "id": "MTA_550671",
+        "lat": 40.754176,
+        "locationType": 0,
+        "lon": -73.942286,
+        "name": "21 ST/41 AV",
+        "routeIds": [
+            "MTABC_Q66",
+            "MTABC_Q69",
+            "MTA NYCT_Q96",
+            "MTABC_Q100",
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552028",
+        "direction": "E",
+        "id": "MTA_552028",
+        "lat": 40.74882,
+        "locationType": 0,
+        "lon": -73.937711,
+        "name": "JACKSON AV/QUEENS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q96",
+            "MTABC_Q101",
+            "MTABC_Q102"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804217",
+        "direction": "E",
+        "id": "MTA_804217",
+        "lat": 40.746721,
+        "locationType": 0,
+        "lon": -73.943269,
+        "name": "JACKSON AV/THOMPSON AV",
+        "routeIds": [
+            "MTA NYCT_Q96"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804218",
+        "direction": "E",
+        "id": "MTA_804218",
+        "lat": 40.748902,
+        "locationType": 0,
+        "lon": -73.937113,
+        "name": "JACKSON AV/QUEENS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q96"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804219",
+        "direction": "SW",
+        "id": "MTA_804219",
+        "lat": 40.75452,
+        "locationType": 0,
+        "lon": -73.941975,
+        "name": "21 ST/41 AV",
+        "routeIds": [
+            "MTA NYCT_Q96"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

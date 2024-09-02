@@ -1,0 +1,880 @@
+[
+    {
+        "code": "200393",
+        "direction": "NE",
+        "id": "MTA_200393",
+        "lat": 40.590836,
+        "locationType": 0,
+        "lon": -74.165295,
+        "name": "RICHMOND AV/NOME AV",
+        "routeIds": [
+            "MTA NYCT_S44",
+            "MTA NYCT_S59",
+            "MTA NYCT_S94",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200394",
+        "direction": "NE",
+        "id": "MTA_200394",
+        "lat": 40.59254,
+        "locationType": 0,
+        "lon": -74.162974,
+        "name": "RICHMOND AV/DRAPER PL SOUTH",
+        "routeIds": [
+            "MTA NYCT_S44",
+            "MTA NYCT_S59",
+            "MTA NYCT_S94",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200395",
+        "direction": "N",
+        "id": "MTA_200395",
+        "lat": 40.595642,
+        "locationType": 0,
+        "lon": -74.161776,
+        "name": "RICHMOND AV/ROCKLAND AV",
+        "routeIds": [
+            "MTA NYCT_S44",
+            "MTA NYCT_S59",
+            "MTA NYCT_S89",
+            "MTA NYCT_S94",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200399",
+        "direction": "N",
+        "id": "MTA_200399",
+        "lat": 40.604462,
+        "locationType": 0,
+        "lon": -74.162229,
+        "name": "RICHMOND AV/ETON PL",
+        "routeIds": [
+            "MTA NYCT_S44",
+            "MTA NYCT_S59",
+            "MTA NYCT_S94",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200400",
+        "direction": "N",
+        "id": "MTA_200400",
+        "lat": 40.607533,
+        "locationType": 0,
+        "lon": -74.162351,
+        "name": "RICHMOND AV/VICTORY BLVD",
+        "routeIds": [
+            "MTA NYCT_S44",
+            "MTA NYCT_S59",
+            "MTA NYCT_S89",
+            "MTA NYCT_S94",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM33",
+            "MTA NYCT_SIM33C"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200401",
+        "direction": "NE",
+        "id": "MTA_200401",
+        "lat": 40.610084,
+        "locationType": 0,
+        "lon": -74.160172,
+        "name": "RICHMOND AV/MORANI ST",
+        "routeIds": [
+            "MTA NYCT_S44",
+            "MTA NYCT_S59",
+            "MTA NYCT_S89",
+            "MTA NYCT_S94",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM33",
+            "MTA NYCT_SIM33C"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200441",
+        "direction": "SW",
+        "id": "MTA_200441",
+        "lat": 40.614809,
+        "locationType": 0,
+        "lon": -74.157578,
+        "name": "RICHMOND AV/LAMBERTS LN",
+        "routeIds": [
+            "MTA NYCT_S44",
+            "MTA NYCT_S59",
+            "MTA NYCT_S89",
+            "MTA NYCT_S94",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM4X"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200442",
+        "direction": "SW",
+        "id": "MTA_200442",
+        "lat": 40.61279,
+        "locationType": 0,
+        "lon": -74.159036,
+        "name": "RICHMOND AV/LANDER AV",
+        "routeIds": [
+            "MTA NYCT_S44",
+            "MTA NYCT_S59",
+            "MTA NYCT_S94",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM33",
+            "MTA NYCT_SIM33C"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200443",
+        "direction": "SW",
+        "id": "MTA_200443",
+        "lat": 40.609936,
+        "locationType": 0,
+        "lon": -74.160418,
+        "name": "RICHMOND AV/MERRILL AV",
+        "routeIds": [
+            "MTA NYCT_S44",
+            "MTA NYCT_S59",
+            "MTA NYCT_S89",
+            "MTA NYCT_S94",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM33",
+            "MTA NYCT_SIM33C"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200444",
+        "direction": "S",
+        "id": "MTA_200444",
+        "lat": 40.607025,
+        "locationType": 0,
+        "lon": -74.162535,
+        "name": "RICHMOND AV/VICTORY BLVD",
+        "routeIds": [
+            "MTA NYCT_S44",
+            "MTA NYCT_S59",
+            "MTA NYCT_S89",
+            "MTA NYCT_S94",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200446",
+        "direction": "S",
+        "id": "MTA_200446",
+        "lat": 40.604121,
+        "locationType": 0,
+        "lon": -74.162796,
+        "name": "RICHMOND AV/CARNEGIE AV",
+        "routeIds": [
+            "MTA NYCT_S44",
+            "MTA NYCT_S59",
+            "MTA NYCT_S94",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200447",
+        "direction": "S",
+        "id": "MTA_200447",
+        "lat": 40.601378,
+        "locationType": 0,
+        "lon": -74.163365,
+        "name": "RICHMOND AV/SIGNS RD",
+        "routeIds": [
+            "MTA NYCT_S44",
+            "MTA NYCT_S59",
+            "MTA NYCT_S94",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200450",
+        "direction": "SW",
+        "id": "MTA_200450",
+        "lat": 40.593125,
+        "locationType": 0,
+        "lon": -74.162841,
+        "name": "RICHMOND AV/TRAVIS AV",
+        "routeIds": [
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200452",
+        "direction": "SW",
+        "id": "MTA_200452",
+        "lat": 40.590584,
+        "locationType": 0,
+        "lon": -74.166212,
+        "name": "RICHMOND AV/NOME AV",
+        "routeIds": [
+            "MTA NYCT_S44",
+            "MTA NYCT_S59",
+            "MTA NYCT_S94",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200459",
+        "direction": "S",
+        "id": "MTA_200459",
+        "lat": 40.570434,
+        "locationType": 0,
+        "lon": -74.170027,
+        "name": "RICHMOND AV/FOREST HILL RD",
+        "routeIds": [
+            "MTA NYCT_S55",
+            "MTA NYCT_S56",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "200930",
+        "direction": "S",
+        "id": "MTA_200930",
+        "lat": 40.596999,
+        "locationType": 0,
+        "lon": -74.162512,
+        "name": "RICHMOND AV/RIVINGTON AV",
+        "routeIds": [
+            "MTA NYCT_S44",
+            "MTA NYCT_S59",
+            "MTA NYCT_S94",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202681",
+        "direction": "N",
+        "id": "MTA_202681",
+        "lat": 40.602012,
+        "locationType": 0,
+        "lon": -74.163031,
+        "name": "RICHMOND AV/SIGNS RD",
+        "routeIds": [
+            "MTA NYCT_S44",
+            "MTA NYCT_S59",
+            "MTA NYCT_S94",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202840",
+        "direction": "NE",
+        "id": "MTA_202840",
+        "lat": 40.584265,
+        "locationType": 0,
+        "lon": -74.16063,
+        "name": "MARSH AV/WESTPORT ST",
+        "routeIds": [
+            "MTA NYCT_S61",
+            "MTA NYCT_S91",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM4X",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM8X",
+            "MTA NYCT_SIM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202841",
+        "direction": "N",
+        "id": "MTA_202841",
+        "lat": 40.581512,
+        "locationType": 0,
+        "lon": -74.162571,
+        "name": "MARSH AV/ELMWOOD PK DR",
+        "routeIds": [
+            "MTA NYCT_S55",
+            "MTA NYCT_S56",
+            "MTA NYCT_S61",
+            "MTA NYCT_S91",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202842",
+        "direction": "N",
+        "id": "MTA_202842",
+        "lat": 40.578093,
+        "locationType": 0,
+        "lon": -74.163535,
+        "name": "MARSH AV/WINDHAM LOOP",
+        "routeIds": [
+            "MTA NYCT_S55",
+            "MTA NYCT_S56",
+            "MTA NYCT_S61",
+            "MTA NYCT_S89",
+            "MTA NYCT_S91",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202845",
+        "direction": "N",
+        "id": "MTA_202845",
+        "lat": 40.576422,
+        "locationType": 0,
+        "lon": -74.16954,
+        "name": "RICHMOND AV/YUKON AV",
+        "routeIds": [
+            "MTA NYCT_S44",
+            "MTA NYCT_S55",
+            "MTA NYCT_S56",
+            "MTA NYCT_S61",
+            "MTA NYCT_S79+",
+            "MTA NYCT_S91",
+            "MTA NYCT_S94",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202849",
+        "direction": "S",
+        "id": "MTA_202849",
+        "lat": 40.580847,
+        "locationType": 0,
+        "lon": -74.163077,
+        "name": "MARSH AV/ELMWOOD PARK DR",
+        "routeIds": [
+            "MTA NYCT_S55",
+            "MTA NYCT_S56",
+            "MTA NYCT_S61",
+            "MTA NYCT_S91",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202850",
+        "direction": "S",
+        "id": "MTA_202850",
+        "lat": 40.577857,
+        "locationType": 0,
+        "lon": -74.163769,
+        "name": "MARSH AV/WINDHAM LOOP",
+        "routeIds": [
+            "MTA NYCT_S55",
+            "MTA NYCT_S56",
+            "MTA NYCT_S61",
+            "MTA NYCT_S89",
+            "MTA NYCT_S91",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM4X",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202918",
+        "direction": "N",
+        "id": "MTA_202918",
+        "lat": 40.561692,
+        "locationType": 0,
+        "lon": -74.177196,
+        "name": "ANNADALE RD/TOKEN ST",
+        "routeIds": [
+            "MTA NYCT_S55",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202990",
+        "direction": "NW",
+        "id": "MTA_202990",
+        "lat": 40.586159,
+        "locationType": 0,
+        "lon": -74.162561,
+        "name": "RICHMOND HILL RD/VASSAR ST",
+        "routeIds": [
+            "MTA NYCT_S61",
+            "MTA NYCT_S91",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "202991",
+        "direction": "SE",
+        "id": "MTA_202991",
+        "lat": 40.585777,
+        "locationType": 0,
+        "lon": -74.162272,
+        "name": "RICHMOND HILL RD/VASSAR ST",
+        "routeIds": [
+            "MTA NYCT_S59",
+            "MTA NYCT_S61",
+            "MTA NYCT_S91",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203078",
+        "direction": "S",
+        "id": "MTA_203078",
+        "lat": 40.576378,
+        "locationType": 0,
+        "lon": -74.169982,
+        "name": "RICHMOND AV/YUKON AV",
+        "routeIds": [
+            "MTA NYCT_S55",
+            "MTA NYCT_S56",
+            "MTA NYCT_S79+",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203110",
+        "direction": "N",
+        "id": "MTA_203110",
+        "lat": 40.597681,
+        "locationType": 0,
+        "lon": -74.162199,
+        "name": "RICHMOND AV/RIVINGTON AV",
+        "routeIds": [
+            "MTA NYCT_S44",
+            "MTA NYCT_S59",
+            "MTA NYCT_S94",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203478",
+        "direction": "SW",
+        "id": "MTA_203478",
+        "lat": 40.583368,
+        "locationType": 0,
+        "lon": -74.161747,
+        "name": "MARSH AV/RING RD",
+        "routeIds": [
+            "MTA NYCT_S61",
+            "MTA NYCT_S89",
+            "MTA NYCT_S91",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203685",
+        "direction": "N",
+        "id": "MTA_203685",
+        "lat": 40.570709,
+        "locationType": 0,
+        "lon": -74.169574,
+        "name": "RICHMOND AV/FOREST HILL RD",
+        "routeIds": [
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203772",
+        "direction": "NE",
+        "id": "MTA_203772",
+        "lat": 40.612429,
+        "locationType": 0,
+        "lon": -74.159081,
+        "name": "RICHMOND AV/YONA AV",
+        "routeIds": [
+            "MTA NYCT_S44",
+            "MTA NYCT_S59",
+            "MTA NYCT_S94",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM33",
+            "MTA NYCT_SIM33C"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203814",
+        "direction": "SW",
+        "id": "MTA_203814",
+        "lat": 40.556646,
+        "locationType": 0,
+        "lon": -74.175851,
+        "name": "DRUMGOOLE RD WEST/ANNADALE RD",
+        "routeIds": [
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203815",
+        "direction": "W",
+        "id": "MTA_203815",
+        "lat": 40.614852,
+        "locationType": 0,
+        "lon": -74.158286,
+        "name": "LAMBERTS LN/ RICHMOND AV",
+        "routeIds": [
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM4X"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203903",
+        "direction": "S",
+        "id": "MTA_203903",
+        "lat": 40.560388,
+        "locationType": 0,
+        "lon": -74.171241,
+        "name": "ELTINGVILLE/TRANSIT CENTER",
+        "routeIds": [
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM22",
+            "MTA NYCT_SIM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "203941",
+        "direction": "S",
+        "id": "MTA_203941",
+        "lat": 40.595207,
+        "locationType": 0,
+        "lon": -74.162115,
+        "name": "RICHMOND AV/ROCKLAND AV",
+        "routeIds": [
+            "MTA NYCT_S44",
+            "MTA NYCT_S59",
+            "MTA NYCT_S89",
+            "MTA NYCT_S94",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400070",
+        "direction": "NE",
+        "id": "MTA_400070",
+        "lat": 40.708007,
+        "locationType": 0,
+        "lon": -74.012714,
+        "name": "TRINITY PL/RECTOR ST",
+        "routeIds": [
+            "MTABC_BM1",
+            "MTABC_BM2",
+            "MTABC_BM3",
+            "MTABC_BM4",
+            "MTA NYCT_M55",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM2",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM4X",
+            "MTA NYCT_SIM15",
+            "MTA NYCT_SIM32",
+            "MTA NYCT_SIM33C",
+            "MTA NYCT_SIM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404190",
+        "direction": "SW",
+        "id": "MTA_404190",
+        "lat": 40.705215,
+        "locationType": 0,
+        "lon": -74.01385,
+        "name": "BROADWAY/MORRIS ST",
+        "routeIds": [
+            "MTA NYCT_M55",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM4X"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404202",
+        "direction": "SW",
+        "id": "MTA_404202",
+        "lat": 40.707233,
+        "locationType": 0,
+        "lon": -74.012209,
+        "name": "BROADWAY/RECTOR ST",
+        "routeIds": [
+            "MTABC_BXM18",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM4X"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404208",
+        "direction": "SW",
+        "id": "MTA_404208",
+        "lat": 40.716082,
+        "locationType": 0,
+        "lon": -74.004731,
+        "name": "BROADWAY/WORTH ST",
+        "routeIds": [
+            "MTABC_BXM18",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404238",
+        "direction": "SW",
+        "id": "MTA_404238",
+        "lat": 40.712076,
+        "locationType": 0,
+        "lon": -74.008112,
+        "name": "BROADWAY/BARCLAY ST",
+        "routeIds": [
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM4X"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404240",
+        "direction": "SW",
+        "id": "MTA_404240",
+        "lat": 40.709999,
+        "locationType": 0,
+        "lon": -74.009912,
+        "name": "BROADWAY/CORTLANDT ST",
+        "routeIds": [
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM4X"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404887",
+        "direction": "N",
+        "id": "MTA_404887",
+        "lat": 40.70496,
+        "locationType": 0,
+        "lon": -74.01482,
+        "name": "GREENWICH ST/BATTERY PL",
+        "routeIds": [
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM33C"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404891",
+        "direction": "NE",
+        "id": "MTA_404891",
+        "lat": 40.715045,
+        "locationType": 0,
+        "lon": -74.007712,
+        "name": "CHURCH ST/CHAMBERS ST",
+        "routeIds": [
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM2",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM4X",
+            "MTA NYCT_SIM32",
+            "MTA NYCT_SIM34",
+            "MTA NYCT_X27",
+            "MTA NYCT_X28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405024",
+        "direction": "NE",
+        "id": "MTA_405024",
+        "lat": 40.716678,
+        "locationType": 0,
+        "lon": -74.006421,
+        "name": "CHURCH ST/WORTH ST",
+        "routeIds": [
+            "MTABC_BXM18",
+            "MTA NYCT_M55",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM2",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM4X",
+            "MTA NYCT_SIM32",
+            "MTA NYCT_SIM33C",
+            "MTA NYCT_SIM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450402",
+        "direction": "NE",
+        "id": "MTA_450402",
+        "lat": 40.711727,
+        "locationType": 0,
+        "lon": -74.010261,
+        "name": "CHURCH ST/FULTON ST",
+        "routeIds": [
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM2",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM4X",
+            "MTA NYCT_SIM15",
+            "MTA NYCT_SIM32",
+            "MTA NYCT_SIM33C",
+            "MTA NYCT_SIM34",
+            "MTA NYCT_X27",
+            "MTA NYCT_X28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "905046",
+        "direction": "S",
+        "id": "MTA_905046",
+        "lat": 40.560931,
+        "locationType": 0,
+        "lon": -74.171352,
+        "name": "ELTINGVILLE/TRANSIT CENTER",
+        "routeIds": [
+            "MTA NYCT_S55",
+            "MTA NYCT_S56",
+            "MTA NYCT_S59",
+            "MTA NYCT_S74",
+            "MTA NYCT_S89",
+            "MTA NYCT_SIM1",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM4",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM6",
+            "MTA NYCT_SIM7",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM15",
+            "MTA NYCT_SIM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

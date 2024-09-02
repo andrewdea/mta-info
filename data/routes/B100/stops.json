@@ -1,0 +1,807 @@
+[
+    {
+        "code": "300226",
+        "direction": "NE",
+        "id": "MTA_300226",
+        "lat": 40.61652,
+        "locationType": 0,
+        "lon": -73.912034,
+        "name": "AVENUE U/E 64 ST",
+        "routeIds": [
+            "MTA NYCT_B3",
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300227",
+        "direction": "NE",
+        "id": "MTA_300227",
+        "lat": 40.617184,
+        "locationType": 0,
+        "lon": -73.911013,
+        "name": "AVENUE U/E 66 ST",
+        "routeIds": [
+            "MTA NYCT_B3",
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300242",
+        "direction": "SW",
+        "id": "MTA_300242",
+        "lat": 40.617192,
+        "locationType": 0,
+        "lon": -73.911319,
+        "name": "AVENUE U/E 66 ST",
+        "routeIds": [
+            "MTA NYCT_B3",
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300788",
+        "direction": "S",
+        "id": "MTA_300788",
+        "lat": 40.608438,
+        "locationType": 0,
+        "lon": -73.957361,
+        "name": "E 16 ST / KINGS HWY",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "303920",
+        "direction": "N",
+        "id": "MTA_303920",
+        "lat": 40.609131,
+        "locationType": 0,
+        "lon": -73.953122,
+        "name": "OCEAN AV/QUENTIN RD",
+        "routeIds": [
+            "MTA NYCT_B49",
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307361",
+        "direction": "NW",
+        "id": "MTA_307361",
+        "lat": 40.615959,
+        "locationType": 0,
+        "lon": -73.914388,
+        "name": "MILL AV/AVENUE U",
+        "routeIds": [
+            "MTA NYCT_B47",
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308452",
+        "direction": "NW",
+        "id": "MTA_308452",
+        "lat": 40.607102,
+        "locationType": 0,
+        "lon": -73.93959,
+        "name": "STUART ST/FILLMORE AV",
+        "routeIds": [
+            "MTA NYCT_B31",
+            "MTA NYCT_B41",
+            "MTA NYCT_B44",
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350017",
+        "direction": "SE",
+        "id": "MTA_350017",
+        "lat": 40.60786,
+        "locationType": 0,
+        "lon": -73.912909,
+        "name": "56 DR / E 63 ST",
+        "routeIds": [
+            "MTABC_B100",
+            "MTABC_BM1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350018",
+        "direction": "SE",
+        "id": "MTA_350018",
+        "lat": 40.606229,
+        "locationType": 0,
+        "lon": -73.911084,
+        "name": "56 DR / E 66 ST",
+        "routeIds": [
+            "MTABC_B100",
+            "MTABC_BM1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350019",
+        "direction": "SE",
+        "id": "MTA_350019",
+        "lat": 40.60866,
+        "locationType": 0,
+        "lon": -73.913789,
+        "name": "56 DR / STRICKLAND AV",
+        "routeIds": [
+            "MTABC_B100",
+            "MTABC_BM1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350059",
+        "direction": "SW",
+        "id": "MTA_350059",
+        "lat": 40.615349,
+        "locationType": 0,
+        "lon": -73.918549,
+        "name": "AVENUE T / E 58 ST",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350060",
+        "direction": "NE",
+        "id": "MTA_350060",
+        "lat": 40.615723,
+        "locationType": 0,
+        "lon": -73.91768,
+        "name": "AVENUE T / E 59 ST",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350061",
+        "direction": "NE",
+        "id": "MTA_350061",
+        "lat": 40.616917,
+        "locationType": 0,
+        "lon": -73.915774,
+        "name": "AVENUE T / MILL AV",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350062",
+        "direction": "SW",
+        "id": "MTA_350062",
+        "lat": 40.617055,
+        "locationType": 0,
+        "lon": -73.915929,
+        "name": "AVENUE T / MILL AV",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350086",
+        "direction": "SW",
+        "id": "MTA_350086",
+        "lat": 40.606298,
+        "locationType": 0,
+        "lon": -73.910734,
+        "name": "E 66 ST / 56 DR",
+        "routeIds": [
+            "MTABC_B100",
+            "MTABC_BM1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350088",
+        "direction": "SW",
+        "id": "MTA_350088",
+        "lat": 40.609939,
+        "locationType": 0,
+        "lon": -73.907128,
+        "name": "E 66 ST / BASSETT AV",
+        "routeIds": [
+            "MTABC_B100",
+            "MTABC_BM1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350089",
+        "direction": "NE",
+        "id": "MTA_350089",
+        "lat": 40.609603,
+        "locationType": 0,
+        "lon": -73.907077,
+        "name": "E 66 ST / BASSETT AV",
+        "routeIds": [
+            "MTABC_B100",
+            "MTABC_BM1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350090",
+        "direction": "NE",
+        "id": "MTA_350090",
+        "lat": 40.607408,
+        "locationType": 0,
+        "lon": -73.908875,
+        "name": "E 66 ST / DAKOTA PL",
+        "routeIds": [
+            "MTABC_B100",
+            "MTABC_BM1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350091",
+        "direction": "S",
+        "id": "MTA_350091",
+        "lat": 40.612022,
+        "locationType": 0,
+        "lon": -73.906762,
+        "name": "E 66 ST / MAYFAIR DR NORTH",
+        "routeIds": [
+            "MTABC_B100",
+            "MTABC_BM1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350092",
+        "direction": "N",
+        "id": "MTA_350092",
+        "lat": 40.611666,
+        "locationType": 0,
+        "lon": -73.906543,
+        "name": "E 66 ST / MAYFAIR DR N",
+        "routeIds": [
+            "MTABC_B100",
+            "MTABC_BM1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350093",
+        "direction": "SW",
+        "id": "MTA_350093",
+        "lat": 40.608084,
+        "locationType": 0,
+        "lon": -73.908413,
+        "name": "E 66 ST / MAYFAIR DR SOUTH",
+        "routeIds": [
+            "MTABC_B100",
+            "MTABC_BM1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350094",
+        "direction": "SE",
+        "id": "MTA_350094",
+        "lat": 40.614057,
+        "locationType": 0,
+        "lon": -73.907589,
+        "name": "E 66 ST / OHIO WALK",
+        "routeIds": [
+            "MTABC_B100",
+            "MTABC_BM1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350095",
+        "direction": "NW",
+        "id": "MTA_350095",
+        "lat": 40.613711,
+        "locationType": 0,
+        "lon": -73.907136,
+        "name": "E 66 ST / OHIO WALK",
+        "routeIds": [
+            "MTABC_B100",
+            "MTABC_BM1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350096",
+        "direction": "SE",
+        "id": "MTA_350096",
+        "lat": 40.615806,
+        "locationType": 0,
+        "lon": -73.909348,
+        "name": "E 66 ST / STRICKLAND AV",
+        "routeIds": [
+            "MTABC_B100",
+            "MTABC_BM1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350097",
+        "direction": "NW",
+        "id": "MTA_350097",
+        "lat": 40.615714,
+        "locationType": 0,
+        "lon": -73.908986,
+        "name": "E 66 ST / STRICKLAND AV",
+        "routeIds": [
+            "MTABC_B100",
+            "MTABC_BM1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350109",
+        "direction": "SW",
+        "id": "MTA_350109",
+        "lat": 40.60759,
+        "locationType": 0,
+        "lon": -73.939249,
+        "name": "FILLMORE AV / BURNETT ST",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350110",
+        "direction": "NE",
+        "id": "MTA_350110",
+        "lat": 40.613795,
+        "locationType": 0,
+        "lon": -73.929331,
+        "name": "FILLMORE AV / COLEMAN ST",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350111",
+        "direction": "SW",
+        "id": "MTA_350111",
+        "lat": 40.613677,
+        "locationType": 0,
+        "lon": -73.929836,
+        "name": "FILLMORE AV / COLEMAN ST",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350112",
+        "direction": "NE",
+        "id": "MTA_350112",
+        "lat": 40.609613,
+        "locationType": 0,
+        "lon": -73.935788,
+        "name": "FILLMORE AV / E 32 ST",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350113",
+        "direction": "SW",
+        "id": "MTA_350113",
+        "lat": 40.609465,
+        "locationType": 0,
+        "lon": -73.936345,
+        "name": "FILLMORE AV / E 32 ST",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350114",
+        "direction": "NE",
+        "id": "MTA_350114",
+        "lat": 40.61052,
+        "locationType": 0,
+        "lon": -73.9344,
+        "name": "FILLMORE AV / E 34 ST",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350115",
+        "direction": "NE",
+        "id": "MTA_350115",
+        "lat": 40.611931,
+        "locationType": 0,
+        "lon": -73.932171,
+        "name": "FILLMORE AV / E 37 ST",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350116",
+        "direction": "SW",
+        "id": "MTA_350116",
+        "lat": 40.611833,
+        "locationType": 0,
+        "lon": -73.932676,
+        "name": "FILLMORE AV / E 37 ST",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350117",
+        "direction": "E",
+        "id": "MTA_350117",
+        "lat": 40.614484,
+        "locationType": 0,
+        "lon": -73.925612,
+        "name": "FILLMORE AV / E 51 ST",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350118",
+        "direction": "W",
+        "id": "MTA_350118",
+        "lat": 40.614632,
+        "locationType": 0,
+        "lon": -73.925236,
+        "name": "FILLMORE AV / E 51 ST",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350119",
+        "direction": "E",
+        "id": "MTA_350119",
+        "lat": 40.614602,
+        "locationType": 0,
+        "lon": -73.923694,
+        "name": "FILLMORE AV / E 53 ST",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350120",
+        "direction": "W",
+        "id": "MTA_350120",
+        "lat": 40.614779,
+        "locationType": 0,
+        "lon": -73.923331,
+        "name": "FILLMORE AV / E 53 ST",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350121",
+        "direction": "E",
+        "id": "MTA_350121",
+        "lat": 40.614689,
+        "locationType": 0,
+        "lon": -73.921841,
+        "name": "FILLMORE AV / E 55 ST",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350122",
+        "direction": "W",
+        "id": "MTA_350122",
+        "lat": 40.614896,
+        "locationType": 0,
+        "lon": -73.9214,
+        "name": "FILLMORE AV / E 55 ST",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350123",
+        "direction": "E",
+        "id": "MTA_350123",
+        "lat": 40.614816,
+        "locationType": 0,
+        "lon": -73.919832,
+        "name": "FILLMORE AV / E 57 ST",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350124",
+        "direction": "W",
+        "id": "MTA_350124",
+        "lat": 40.614984,
+        "locationType": 0,
+        "lon": -73.919845,
+        "name": "FILLMORE AV / E 57 ST",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350125",
+        "direction": "SW",
+        "id": "MTA_350125",
+        "lat": 40.610412,
+        "locationType": 0,
+        "lon": -73.934867,
+        "name": "FILLMORE AV / E 34 ST",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350126",
+        "direction": "NE",
+        "id": "MTA_350126",
+        "lat": 40.614496,
+        "locationType": 0,
+        "lon": -73.928138,
+        "name": "FILLMORE AV / FLATBUSH AV",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350127",
+        "direction": "SW",
+        "id": "MTA_350127",
+        "lat": 40.614664,
+        "locationType": 0,
+        "lon": -73.928332,
+        "name": "FILLMORE AV / FLATBUSH AV",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350129",
+        "direction": "SW",
+        "id": "MTA_350129",
+        "lat": 40.606811,
+        "locationType": 0,
+        "lon": -73.940416,
+        "name": "FILLMORE AV / GERRITSEN AV",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350130",
+        "direction": "NE",
+        "id": "MTA_350130",
+        "lat": 40.608646,
+        "locationType": 0,
+        "lon": -73.937292,
+        "name": "FILLMORE AV / MARINE PKWY",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350131",
+        "direction": "SW",
+        "id": "MTA_350131",
+        "lat": 40.608528,
+        "locationType": 0,
+        "lon": -73.93781,
+        "name": "FILLMORE AV / MARINE PKWY",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350132",
+        "direction": "NE",
+        "id": "MTA_350132",
+        "lat": 40.612868,
+        "locationType": 0,
+        "lon": -73.930732,
+        "name": "FILLMORE AV / RYDER ST",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350133",
+        "direction": "SW",
+        "id": "MTA_350133",
+        "lat": 40.61275,
+        "locationType": 0,
+        "lon": -73.931263,
+        "name": "FILLMORE AV / RYDER ST",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350158",
+        "direction": "W",
+        "id": "MTA_350158",
+        "lat": 40.609441,
+        "locationType": 0,
+        "lon": -73.948239,
+        "name": "QUENTIN RD / BEDFORD AV",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350159",
+        "direction": "E",
+        "id": "MTA_350159",
+        "lat": 40.609303,
+        "locationType": 0,
+        "lon": -73.948122,
+        "name": "QUENTIN RD / BEDFORD AV",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350164",
+        "direction": "E",
+        "id": "MTA_350164",
+        "lat": 40.609755,
+        "locationType": 0,
+        "lon": -73.94382,
+        "name": "QUENTIN RD / NOSTRAND AV",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350183",
+        "direction": "NW",
+        "id": "MTA_350183",
+        "lat": 40.604632,
+        "locationType": 0,
+        "lon": -73.913419,
+        "name": "NATIONAL DR / E 66 ST",
+        "routeIds": [
+            "MTABC_B100",
+            "MTABC_BM1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350184",
+        "direction": "NW",
+        "id": "MTA_350184",
+        "lat": 40.606942,
+        "locationType": 0,
+        "lon": -73.915935,
+        "name": "NATIONAL DR / MILL AV",
+        "routeIds": [
+            "MTABC_B100",
+            "MTABC_BM1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350217",
+        "direction": "W",
+        "id": "MTA_350217",
+        "lat": 40.609933,
+        "locationType": 0,
+        "lon": -73.943885,
+        "name": "QUENTIN RD / NOSTRAND AV",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350226",
+        "direction": "SE",
+        "id": "MTA_350226",
+        "lat": 40.608076,
+        "locationType": 0,
+        "lon": -73.942164,
+        "name": "GERRITSEN AV / HARING ST",
+        "routeIds": [
+            "MTABC_B100",
+            "MTABC_BM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "350274",
+        "direction": "NE",
+        "id": "MTA_350274",
+        "lat": 40.607663,
+        "locationType": 0,
+        "lon": -73.938871,
+        "name": "FILLMORE AV / BURNETT ST",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982178",
+        "direction": "NW",
+        "id": "MTA_982178",
+        "lat": 40.606858,
+        "locationType": 0,
+        "lon": -73.915899,
+        "name": "NATIONAL DR / MILL AV",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "983012",
+        "direction": "S",
+        "id": "MTA_983012",
+        "lat": 40.608935,
+        "locationType": 0,
+        "lon": -73.957405,
+        "name": "E 16 ST / KINGS HWY",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "983019",
+        "direction": "N",
+        "id": "MTA_983019",
+        "lat": 40.609803,
+        "locationType": 0,
+        "lon": -73.948383,
+        "name": "BEDFORD AV/QUENTIN RD",
+        "routeIds": [
+            "MTABC_B100"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

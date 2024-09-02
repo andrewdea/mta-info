@@ -1,0 +1,371 @@
+[
+    {
+        "code": "300590",
+        "direction": "SW",
+        "id": "MTA_300590",
+        "lat": 40.658229,
+        "locationType": 0,
+        "lon": -73.878016,
+        "name": "COZINE AV/ASHFORD ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B84",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301418",
+        "direction": "NW",
+        "id": "MTA_301418",
+        "lat": 40.659222,
+        "locationType": 0,
+        "lon": -73.866128,
+        "name": "FOUNTAIN AV/VANDALIA AV",
+        "routeIds": [
+            "MTA NYCT_B13",
+            "MTA NYCT_B84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301947",
+        "direction": "SE",
+        "id": "MTA_301947",
+        "lat": 40.662356,
+        "locationType": 0,
+        "lon": -73.880606,
+        "name": "ASHFORD ST/LINDEN BLVD",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B20",
+            "MTA NYCT_B84",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306847",
+        "direction": "SE",
+        "id": "MTA_306847",
+        "lat": 40.659801,
+        "locationType": 0,
+        "lon": -73.878726,
+        "name": "ASHFORD ST/WORTMAN AV",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B20",
+            "MTA NYCT_B84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306854",
+        "direction": "NW",
+        "id": "MTA_306854",
+        "lat": 40.658951,
+        "locationType": 0,
+        "lon": -73.877926,
+        "name": "ASHFORD ST/COZINE AV",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B84",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306855",
+        "direction": "NW",
+        "id": "MTA_306855",
+        "lat": 40.662583,
+        "locationType": 0,
+        "lon": -73.880618,
+        "name": "ASHFORD ST/LINDEN BLVD",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B20",
+            "MTA NYCT_B84",
+            "MTABC_BM5"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306857",
+        "direction": "W",
+        "id": "MTA_306857",
+        "lat": 40.66642,
+        "locationType": 0,
+        "lon": -73.883387,
+        "name": "LIVONIA AV/ASHFORD ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B84",
+            "MTA NYCT_B99"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306881",
+        "direction": "NW",
+        "id": "MTA_306881",
+        "lat": 40.659995,
+        "locationType": 0,
+        "lon": -73.878701,
+        "name": "ASHFORD ST/WORTMAN AV",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B20",
+            "MTA NYCT_B84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306921",
+        "direction": "W",
+        "id": "MTA_306921",
+        "lat": 40.666382,
+        "locationType": 0,
+        "lon": -73.883617,
+        "name": "LIVONIA AV/ASHFORD ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307098",
+        "direction": "SE",
+        "id": "MTA_307098",
+        "lat": 40.665791,
+        "locationType": 0,
+        "lon": -73.883146,
+        "name": "ASHFORD ST/NEW LOTS AV",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307181",
+        "direction": "SE",
+        "id": "MTA_307181",
+        "lat": 40.655802,
+        "locationType": 0,
+        "lon": -73.863652,
+        "name": "FOUNTAIN AV/BROOKLYN DEVELOPMENTAL CENTER",
+        "routeIds": [
+            "MTA NYCT_B13",
+            "MTA NYCT_B84",
+            "MTABC_Q08"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307398",
+        "direction": "SE",
+        "id": "MTA_307398",
+        "lat": 40.660855,
+        "locationType": 0,
+        "lon": -73.87951,
+        "name": "ASHFORD ST/STANLEY AV",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B20",
+            "MTA NYCT_B84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307600",
+        "direction": "NW",
+        "id": "MTA_307600",
+        "lat": 40.661418,
+        "locationType": 0,
+        "lon": -73.879809,
+        "name": "ASHFORD ST/STANLEY AV",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B20",
+            "MTA NYCT_B84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307649",
+        "direction": "SE",
+        "id": "MTA_307649",
+        "lat": 40.659987,
+        "locationType": 0,
+        "lon": -73.866959,
+        "name": "FOUNTAIN AV/FLATLANDS AV",
+        "routeIds": [
+            "MTA NYCT_B13",
+            "MTA NYCT_B84",
+            "MTABC_Q08"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308653",
+        "direction": "W",
+        "id": "MTA_308653",
+        "lat": 40.660507,
+        "locationType": 0,
+        "lon": -73.867723,
+        "name": "FLATLANDS AV/FOUNTAIN AV",
+        "routeIds": [
+            "MTA NYCT_B84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308658",
+        "direction": "NE",
+        "id": "MTA_308658",
+        "lat": 40.65628,
+        "locationType": 0,
+        "lon": -73.87771,
+        "name": "FLATLANDS AV/JEROME ST",
+        "routeIds": [
+            "MTA NYCT_B84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308659",
+        "direction": "NE",
+        "id": "MTA_308659",
+        "lat": 40.657618,
+        "locationType": 0,
+        "lon": -73.874569,
+        "name": "FLATLANDS AV/ELTON ST",
+        "routeIds": [
+            "MTA NYCT_B84",
+            "MTABC_Q08"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308660",
+        "direction": "NE",
+        "id": "MTA_308660",
+        "lat": 40.658305,
+        "locationType": 0,
+        "lon": -73.873012,
+        "name": "FLATLANDS AV/ESSEX ST",
+        "routeIds": [
+            "MTA NYCT_B84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308664",
+        "direction": "NE",
+        "id": "MTA_308664",
+        "lat": 40.657858,
+        "locationType": 0,
+        "lon": -73.868064,
+        "name": "VANDALIA AV/ERSKINE ST",
+        "routeIds": [
+            "MTA NYCT_B13",
+            "MTA NYCT_B84",
+            "MTABC_Q08"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803168",
+        "direction": "SW",
+        "id": "MTA_803168",
+        "lat": 40.659458,
+        "locationType": 0,
+        "lon": -73.871033,
+        "name": "FLATLANDS AV/ATKINS AV",
+        "routeIds": [
+            "MTA NYCT_B84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803169",
+        "direction": "SW",
+        "id": "MTA_803169",
+        "lat": 40.658386,
+        "locationType": 0,
+        "lon": -73.873539,
+        "name": "FLATLANDS AV/ESSEX ST",
+        "routeIds": [
+            "MTA NYCT_B84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803170",
+        "direction": "SW",
+        "id": "MTA_803170",
+        "lat": 40.657656,
+        "locationType": 0,
+        "lon": -73.875257,
+        "name": "FLATLANDS AV/ELTON ST",
+        "routeIds": [
+            "MTA NYCT_B84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803171",
+        "direction": "NW",
+        "id": "MTA_803171",
+        "lat": 40.656495,
+        "locationType": 0,
+        "lon": -73.878192,
+        "name": "JEROME ST/FLATLANDS AV",
+        "routeIds": [
+            "MTA NYCT_B84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803175",
+        "direction": "NE",
+        "id": "MTA_803175",
+        "lat": 40.659353,
+        "locationType": 0,
+        "lon": -73.870585,
+        "name": "FLATLANDS AV/ATKINS AV",
+        "routeIds": [
+            "MTA NYCT_B84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803176",
+        "direction": "SW",
+        "id": "MTA_803176",
+        "lat": 40.653293,
+        "locationType": 0,
+        "lon": -73.86626,
+        "name": "SEAVIEW AV/ERSKINE ST",
+        "routeIds": [
+            "MTA NYCT_B84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901273",
+        "direction": "SW",
+        "id": "MTA_901273",
+        "lat": 40.653386,
+        "locationType": 0,
+        "lon": -73.86608,
+        "name": "SEAVIEW AV/ERSKINE ST",
+        "routeIds": [
+            "MTA NYCT_B13",
+            "MTA NYCT_B84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

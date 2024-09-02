@@ -1,0 +1,1205 @@
+[
+    {
+        "code": "400353",
+        "direction": "NE",
+        "id": "MTA_400353",
+        "lat": 40.746763,
+        "locationType": 0,
+        "lon": -73.983626,
+        "name": "MADISON AV/E 32 ST",
+        "routeIds": [
+            "MTABC_BXM11",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400354",
+        "direction": "NE",
+        "id": "MTA_400354",
+        "lat": 40.748328,
+        "locationType": 0,
+        "lon": -73.982437,
+        "name": "MADISON AV/E 34 ST",
+        "routeIds": [
+            "MTABC_BM1",
+            "MTABC_BM2",
+            "MTABC_BM3",
+            "MTABC_BM4",
+            "MTABC_BM5",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM6",
+            "MTA NYCT_SIM11",
+            "MTA NYCT_SIM31",
+            "MTA NYCT_SIM33C"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400358",
+        "direction": "NE",
+        "id": "MTA_400358",
+        "lat": 40.755233,
+        "locationType": 0,
+        "lon": -73.977403,
+        "name": "MADISON AV/E 45 ST",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400360",
+        "direction": "NE",
+        "id": "MTA_400360",
+        "lat": 40.757429,
+        "locationType": 0,
+        "lon": -73.975822,
+        "name": "MADISON AV/E 49 ST",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400361",
+        "direction": "NE",
+        "id": "MTA_400361",
+        "lat": 40.759518,
+        "locationType": 0,
+        "lon": -73.97431,
+        "name": "MADISON AV/E 52 ST",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400362",
+        "direction": "NE",
+        "id": "MTA_400362",
+        "lat": 40.761386,
+        "locationType": 0,
+        "lon": -73.972943,
+        "name": "MADISON AV/E 55  ST",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32",
+            "MTA NYCT_SIM25",
+            "MTA NYCT_SIM26",
+            "MTA NYCT_SIM30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400363",
+        "direction": "NE",
+        "id": "MTA_400363",
+        "lat": 40.762702,
+        "locationType": 0,
+        "lon": -73.971997,
+        "name": "MADISON AV/E 57 ST",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400514",
+        "direction": "SW",
+        "id": "MTA_400514",
+        "lat": 40.759924,
+        "locationType": 0,
+        "lon": -73.976306,
+        "name": "5 AV/W 52 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400515",
+        "direction": "SW",
+        "id": "MTA_400515",
+        "lat": 40.758031,
+        "locationType": 0,
+        "lon": -73.977678,
+        "name": "5 AV/W 49 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400516",
+        "direction": "SW",
+        "id": "MTA_400516",
+        "lat": 40.756156,
+        "locationType": 0,
+        "lon": -73.979047,
+        "name": "5 AV/W 46 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400518",
+        "direction": "SW",
+        "id": "MTA_400518",
+        "lat": 40.753191,
+        "locationType": 0,
+        "lon": -73.981154,
+        "name": "5 AV/W 41 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M4",
+            "MTA NYCT_M55",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400519",
+        "direction": "SW",
+        "id": "MTA_400519",
+        "lat": 40.750927,
+        "locationType": 0,
+        "lon": -73.982808,
+        "name": "5 AV/W 38 ST",
+        "routeIds": [
+            "MTA NYCT_M4",
+            "MTA NYCT_M55",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400552",
+        "direction": "SE",
+        "id": "MTA_400552",
+        "lat": 40.749062,
+        "locationType": 0,
+        "lon": -73.990139,
+        "name": "W 32 ST/7 AV",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400555",
+        "direction": "SE",
+        "id": "MTA_400555",
+        "lat": 40.746998,
+        "locationType": 0,
+        "lon": -73.985295,
+        "name": "E 32 ST/5 AV",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400561",
+        "direction": "NE",
+        "id": "MTA_400561",
+        "lat": 40.753337,
+        "locationType": 0,
+        "lon": -73.978759,
+        "name": "MADISON AV/E 42 ST",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402377",
+        "direction": "SE",
+        "id": "MTA_402377",
+        "lat": 40.763373,
+        "locationType": 0,
+        "lon": -73.971157,
+        "name": "E 59 ST/MADISON AV",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_QM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402379",
+        "direction": "SE",
+        "id": "MTA_402379",
+        "lat": 40.762003,
+        "locationType": 0,
+        "lon": -73.967798,
+        "name": "E 59 ST/LEXINGTON AV",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402380",
+        "direction": "SE",
+        "id": "MTA_402380",
+        "lat": 40.761374,
+        "locationType": 0,
+        "lon": -73.966476,
+        "name": "E 59 ST/3 AV",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402441",
+        "direction": "NW",
+        "id": "MTA_402441",
+        "lat": 40.761513,
+        "locationType": 0,
+        "lon": -73.964418,
+        "name": "E 60 ST/2 AV",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402443",
+        "direction": "NW",
+        "id": "MTA_402443",
+        "lat": 40.762834,
+        "locationType": 0,
+        "lon": -73.96757,
+        "name": "E 60 ST/LEXINGTON AV",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402446",
+        "direction": "SW",
+        "id": "MTA_402446",
+        "lat": 40.763251,
+        "locationType": 0,
+        "lon": -73.973803,
+        "name": "5 AV/W 58 ST",
+        "routeIds": [
+            "MTA NYCT_M5",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403266",
+        "direction": "SW",
+        "id": "MTA_403266",
+        "lat": 40.761751,
+        "locationType": 0,
+        "lon": -73.974937,
+        "name": "5 AV/W 55 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M4",
+            "MTA NYCT_M5",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403456",
+        "direction": "NE",
+        "id": "MTA_403456",
+        "lat": 40.750124,
+        "locationType": 0,
+        "lon": -73.981081,
+        "name": "MADISON AV/E 38 ST",
+        "routeIds": [
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403457",
+        "direction": "NE",
+        "id": "MTA_403457",
+        "lat": 40.751774,
+        "locationType": 0,
+        "lon": -73.979963,
+        "name": "MADISON AV/E 40  ST",
+        "routeIds": [
+            "MTABC_BM1",
+            "MTABC_BM2",
+            "MTABC_BM3",
+            "MTABC_BM4",
+            "MTABC_BM5",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403539",
+        "direction": "SE",
+        "id": "MTA_403539",
+        "lat": 40.748379,
+        "locationType": 0,
+        "lon": -73.988595,
+        "name": "W 32 ST/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403593",
+        "direction": "W",
+        "id": "MTA_403593",
+        "lat": 40.764444,
+        "locationType": 0,
+        "lon": -73.971297,
+        "name": "E 60 ST/MADISON AV",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404302",
+        "direction": "SE",
+        "id": "MTA_404302",
+        "lat": 40.760619,
+        "locationType": 0,
+        "lon": -73.964518,
+        "name": "E 59 ST/2 AV",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405179",
+        "direction": "SW",
+        "id": "MTA_405179",
+        "lat": 40.75487,
+        "locationType": 0,
+        "lon": -73.979966,
+        "name": "5 AV/W 44 ST",
+        "routeIds": [
+            "MTA NYCT_M1",
+            "MTA NYCT_M4",
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450375",
+        "direction": "NW",
+        "id": "MTA_450375",
+        "lat": 40.750449,
+        "locationType": 0,
+        "lon": -73.983329,
+        "name": "W 37 ST/5 AV",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503293",
+        "direction": "SE",
+        "id": "MTA_503293",
+        "lat": 40.74577,
+        "locationType": 0,
+        "lon": -73.934292,
+        "name": "QUEENS BLVD/SKILLMAN AV",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503295",
+        "direction": "E",
+        "id": "MTA_503295",
+        "lat": 40.744183,
+        "locationType": 0,
+        "lon": -73.929628,
+        "name": "QUEENS BLVD/35 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503296",
+        "direction": "E",
+        "id": "MTA_503296",
+        "lat": 40.743866,
+        "locationType": 0,
+        "lon": -73.926893,
+        "name": "QUEENS BLVD/38 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503298",
+        "direction": "E",
+        "id": "MTA_503298",
+        "lat": 40.743433,
+        "locationType": 0,
+        "lon": -73.92314,
+        "name": "QUEENS BLVD/41 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q60",
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503299",
+        "direction": "E",
+        "id": "MTA_503299",
+        "lat": 40.743113,
+        "locationType": 0,
+        "lon": -73.920029,
+        "name": "QUEENS BLVD/45 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q60",
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503301",
+        "direction": "E",
+        "id": "MTA_503301",
+        "lat": 40.743189,
+        "locationType": 0,
+        "lon": -73.915482,
+        "name": "ROOSEVELT AV/49 ST",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503302",
+        "direction": "E",
+        "id": "MTA_503302",
+        "lat": 40.743778,
+        "locationType": 0,
+        "lon": -73.913646,
+        "name": "ROOSEVELT AV/51 ST",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503303",
+        "direction": "E",
+        "id": "MTA_503303",
+        "lat": 40.744463,
+        "locationType": 0,
+        "lon": -73.911323,
+        "name": "ROOSEVELT AV/53 ST",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503304",
+        "direction": "E",
+        "id": "MTA_503304",
+        "lat": 40.745112,
+        "locationType": 0,
+        "lon": -73.90843,
+        "name": "ROOSEVELT AV/56 ST",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503305",
+        "direction": "E",
+        "id": "MTA_503305",
+        "lat": 40.745298,
+        "locationType": 0,
+        "lon": -73.906367,
+        "name": "ROOSEVELT AV/58 ST",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503306",
+        "direction": "E",
+        "id": "MTA_503306",
+        "lat": 40.745576,
+        "locationType": 0,
+        "lon": -73.903286,
+        "name": "ROOSEVELT AV/61 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503307",
+        "direction": "E",
+        "id": "MTA_503307",
+        "lat": 40.745804,
+        "locationType": 0,
+        "lon": -73.900909,
+        "name": "ROOSEVELT AV/63 ST",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503308",
+        "direction": "E",
+        "id": "MTA_503308",
+        "lat": 40.746054,
+        "locationType": 0,
+        "lon": -73.898735,
+        "name": "ROOSEVELT AV/65 PL",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503309",
+        "direction": "E",
+        "id": "MTA_503309",
+        "lat": 40.746289,
+        "locationType": 0,
+        "lon": -73.89647,
+        "name": "ROOSEVELT AV/69 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503310",
+        "direction": "E",
+        "id": "MTA_503310",
+        "lat": 40.74662,
+        "locationType": 0,
+        "lon": -73.893273,
+        "name": "ROOSEVELT AV/72 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q47"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503312",
+        "direction": "E",
+        "id": "MTA_503312",
+        "lat": 40.747167,
+        "locationType": 0,
+        "lon": -73.887641,
+        "name": "ROOSEVELT AV/78 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503313",
+        "direction": "E",
+        "id": "MTA_503313",
+        "lat": 40.74737,
+        "locationType": 0,
+        "lon": -73.88554,
+        "name": "ROOSEVELT AV/80 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503316",
+        "direction": "W",
+        "id": "MTA_503316",
+        "lat": 40.747462,
+        "locationType": 0,
+        "lon": -73.886219,
+        "name": "ROOSEVELT AV/80 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503317",
+        "direction": "W",
+        "id": "MTA_503317",
+        "lat": 40.747299,
+        "locationType": 0,
+        "lon": -73.887901,
+        "name": "ROOSEVELT AV/78 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503318",
+        "direction": "W",
+        "id": "MTA_503318",
+        "lat": 40.747059,
+        "locationType": 0,
+        "lon": -73.889983,
+        "name": "ROOSEVELT AV/76 ST",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503319",
+        "direction": "W",
+        "id": "MTA_503319",
+        "lat": 40.746913,
+        "locationType": 0,
+        "lon": -73.891326,
+        "name": "ROOSEVELT AV/74 ST",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503320",
+        "direction": "W",
+        "id": "MTA_503320",
+        "lat": 40.746692,
+        "locationType": 0,
+        "lon": -73.893813,
+        "name": "ROOSEVELT AV/72 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q47"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503321",
+        "direction": "W",
+        "id": "MTA_503321",
+        "lat": 40.746333,
+        "locationType": 0,
+        "lon": -73.896771,
+        "name": "ROOSEVELT AV/69 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503322",
+        "direction": "W",
+        "id": "MTA_503322",
+        "lat": 40.746194,
+        "locationType": 0,
+        "lon": -73.898053,
+        "name": "ROOSEVELT AV/67 ST",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503323",
+        "direction": "W",
+        "id": "MTA_503323",
+        "lat": 40.745934,
+        "locationType": 0,
+        "lon": -73.900447,
+        "name": "ROOSEVELT AV/64 ST",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503324",
+        "direction": "W",
+        "id": "MTA_503324",
+        "lat": 40.745631,
+        "locationType": 0,
+        "lon": -73.903362,
+        "name": "ROOSEVELT AV/61 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503325",
+        "direction": "W",
+        "id": "MTA_503325",
+        "lat": 40.745452,
+        "locationType": 0,
+        "lon": -73.906443,
+        "name": "ROOSEVELT AV/58 ST",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503326",
+        "direction": "W",
+        "id": "MTA_503326",
+        "lat": 40.745143,
+        "locationType": 0,
+        "lon": -73.908919,
+        "name": "ROOSEVELT AV/SKILLMAN AV",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503327",
+        "direction": "W",
+        "id": "MTA_503327",
+        "lat": 40.744688,
+        "locationType": 0,
+        "lon": -73.910908,
+        "name": "ROOSEVELT AV/54 ST",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503328",
+        "direction": "W",
+        "id": "MTA_503328",
+        "lat": 40.74372,
+        "locationType": 0,
+        "lon": -73.9142,
+        "name": "ROOSEVELT AV/51 ST",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503331",
+        "direction": "W",
+        "id": "MTA_503331",
+        "lat": 40.743551,
+        "locationType": 0,
+        "lon": -73.919986,
+        "name": "QUEENS BLVD/45 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503333",
+        "direction": "W",
+        "id": "MTA_503333",
+        "lat": 40.743963,
+        "locationType": 0,
+        "lon": -73.923515,
+        "name": "QUEENS BLVD/41 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q60",
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503334",
+        "direction": "W",
+        "id": "MTA_503334",
+        "lat": 40.744211,
+        "locationType": 0,
+        "lon": -73.925972,
+        "name": "QUEENS BLVD/39 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503335",
+        "direction": "W",
+        "id": "MTA_503335",
+        "lat": 40.744413,
+        "locationType": 0,
+        "lon": -73.927386,
+        "name": "QUEENS BLVD/38 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503336",
+        "direction": "W",
+        "id": "MTA_503336",
+        "lat": 40.744626,
+        "locationType": 0,
+        "lon": -73.929584,
+        "name": "QUEENS BLVD/35 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q60",
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503337",
+        "direction": "W",
+        "id": "MTA_503337",
+        "lat": 40.744945,
+        "locationType": 0,
+        "lon": -73.932041,
+        "name": "QUEENS BLVD/33 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503338",
+        "direction": "NW",
+        "id": "MTA_503338",
+        "lat": 40.745954,
+        "locationType": 0,
+        "lon": -73.934162,
+        "name": "QUEENS BLVD/SKILLMAN AV",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503340",
+        "direction": "W",
+        "id": "MTA_503340",
+        "lat": 40.750065,
+        "locationType": 0,
+        "lon": -73.938148,
+        "name": "QUEENS PLAZA NORTH/29 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q60",
+            "MTABC_Q101",
+            "MTABC_Q102"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503574",
+        "direction": "S",
+        "id": "MTA_503574",
+        "lat": 40.755196,
+        "locationType": 0,
+        "lon": -73.885408,
+        "name": "82 ST/NORTHERN BLVD",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503575",
+        "direction": "S",
+        "id": "MTA_503575",
+        "lat": 40.753378,
+        "locationType": 0,
+        "lon": -73.8851,
+        "name": "82 ST/34 AV",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503576",
+        "direction": "S",
+        "id": "MTA_503576",
+        "lat": 40.751465,
+        "locationType": 0,
+        "lon": -73.884721,
+        "name": "82 ST/35 AV",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503577",
+        "direction": "S",
+        "id": "MTA_503577",
+        "lat": 40.749837,
+        "locationType": 0,
+        "lon": -73.884432,
+        "name": "82 ST/37 AV",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503578",
+        "direction": "N",
+        "id": "MTA_503578",
+        "lat": 40.747925,
+        "locationType": 0,
+        "lon": -73.884887,
+        "name": "81 ST/ROOSEVELT AV",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503579",
+        "direction": "N",
+        "id": "MTA_503579",
+        "lat": 40.749934,
+        "locationType": 0,
+        "lon": -73.88516,
+        "name": "81 ST/37 AV",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503580",
+        "direction": "N",
+        "id": "MTA_503580",
+        "lat": 40.751586,
+        "locationType": 0,
+        "lon": -73.885482,
+        "name": "81 ST/35 AV",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503581",
+        "direction": "N",
+        "id": "MTA_503581",
+        "lat": 40.753958,
+        "locationType": 0,
+        "lon": -73.885912,
+        "name": "81 ST/34 AV",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503582",
+        "direction": "N",
+        "id": "MTA_503582",
+        "lat": 40.755074,
+        "locationType": 0,
+        "lon": -73.886201,
+        "name": "81 ST/NORTHERN BLVD",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504090",
+        "direction": "W",
+        "id": "MTA_504090",
+        "lat": 40.747634,
+        "locationType": 0,
+        "lon": -73.88425,
+        "name": "ROOSEVELT AV/82 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504458",
+        "direction": "NW",
+        "id": "MTA_504458",
+        "lat": 40.748829,
+        "locationType": 0,
+        "lon": -73.937182,
+        "name": "QUEENS BLVD/QUEENS PLAZA EAST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505097",
+        "direction": "W",
+        "id": "MTA_505097",
+        "lat": 40.743172,
+        "locationType": 0,
+        "lon": -73.916675,
+        "name": "QUEENS BLVD/48 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505158",
+        "direction": "SE",
+        "id": "MTA_505158",
+        "lat": 40.749554,
+        "locationType": 0,
+        "lon": -73.9385,
+        "name": "QUEENS PLAZA SOUTH/28 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505192",
+        "direction": "E",
+        "id": "MTA_505192",
+        "lat": 40.746894,
+        "locationType": 0,
+        "lon": -73.890609,
+        "name": "ROOSEVELT AV/75 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q47",
+            "MTABC_Q70+",
+            "MTA NYCT_Q107"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903085",
+        "direction": "E",
+        "id": "MTA_903085",
+        "lat": 40.749433,
+        "locationType": 0,
+        "lon": -73.991082,
+        "name": "W 32 ST/7 AV",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903217",
+        "direction": "SW",
+        "id": "MTA_903217",
+        "lat": 40.75231,
+        "locationType": 0,
+        "lon": -73.989645,
+        "name": "7 AV/W 36 ST",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903235",
+        "direction": "NW",
+        "id": "MTA_903235",
+        "lat": 40.752145,
+        "locationType": 0,
+        "lon": -73.987403,
+        "name": "W 37 ST/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904147",
+        "direction": "E",
+        "id": "MTA_904147",
+        "lat": 40.742904,
+        "locationType": 0,
+        "lon": -73.918192,
+        "name": "QUEENS BLVD/46 ST",
+        "routeIds": [
+            "MTA NYCT_Q32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

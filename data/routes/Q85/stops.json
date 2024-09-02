@@ -1,0 +1,1369 @@
+[
+    {
+        "code": "500166",
+        "direction": "N",
+        "id": "MTA_500166",
+        "lat": 40.673156,
+        "locationType": 0,
+        "lon": -73.763855,
+        "name": "FARMERS BLVD/182 ST",
+        "routeIds": [
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500238",
+        "direction": "S",
+        "id": "MTA_500238",
+        "lat": 40.672912,
+        "locationType": 0,
+        "lon": -73.764133,
+        "name": "FARMERS BLVD/138 AV",
+        "routeIds": [
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500340",
+        "direction": "NW",
+        "id": "MTA_500340",
+        "lat": 40.703961,
+        "locationType": 0,
+        "lon": -73.790979,
+        "name": "168 ST/DOUGLAS AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500367",
+        "direction": "SE",
+        "id": "MTA_500367",
+        "lat": 40.699708,
+        "locationType": 0,
+        "lon": -73.788558,
+        "name": "MERRICK BLVD/107 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500368",
+        "direction": "SE",
+        "id": "MTA_500368",
+        "lat": 40.698415,
+        "locationType": 0,
+        "lon": -73.787138,
+        "name": "MERRICK BLVD/108 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500369",
+        "direction": "E",
+        "id": "MTA_500369",
+        "lat": 40.697842,
+        "locationType": 0,
+        "lon": -73.785946,
+        "name": "MERRICK BLVD/169 PL",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500370",
+        "direction": "SE",
+        "id": "MTA_500370",
+        "lat": 40.696743,
+        "locationType": 0,
+        "lon": -73.78393,
+        "name": "MERRICK BLVD/109 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500371",
+        "direction": "SE",
+        "id": "MTA_500371",
+        "lat": 40.695678,
+        "locationType": 0,
+        "lon": -73.782653,
+        "name": "MERRICK BLVD/110 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500372",
+        "direction": "SE",
+        "id": "MTA_500372",
+        "lat": 40.694133,
+        "locationType": 0,
+        "lon": -73.781357,
+        "name": "MERRICK BLVD/111 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500428",
+        "direction": "NW",
+        "id": "MTA_500428",
+        "lat": 40.696316,
+        "locationType": 0,
+        "lon": -73.782943,
+        "name": "MERRICK BLVD/110 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500429",
+        "direction": "NW",
+        "id": "MTA_500429",
+        "lat": 40.697053,
+        "locationType": 0,
+        "lon": -73.783958,
+        "name": "MERRICK BLVD/109 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500430",
+        "direction": "NW",
+        "id": "MTA_500430",
+        "lat": 40.698362,
+        "locationType": 0,
+        "lon": -73.786612,
+        "name": "MERRICK BLVD/108 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500431",
+        "direction": "NW",
+        "id": "MTA_500431",
+        "lat": 40.699655,
+        "locationType": 0,
+        "lon": -73.788148,
+        "name": "MERRICK BLVD/107 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500433",
+        "direction": "N",
+        "id": "MTA_500433",
+        "lat": 40.702433,
+        "locationType": 0,
+        "lon": -73.79054,
+        "name": "MERRICK BLVD/LIBERTY AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500451",
+        "direction": "SE",
+        "id": "MTA_500451",
+        "lat": 40.691466,
+        "locationType": 0,
+        "lon": -73.779251,
+        "name": "MERRICK BLVD/LINDEN BLVD",
+        "routeIds": [
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85",
+            "MTA NYCT_X63"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500452",
+        "direction": "SE",
+        "id": "MTA_500452",
+        "lat": 40.689537,
+        "locationType": 0,
+        "lon": -73.777777,
+        "name": "MERRICK BLVD/115 AV",
+        "routeIds": [
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500453",
+        "direction": "SE",
+        "id": "MTA_500453",
+        "lat": 40.688047,
+        "locationType": 0,
+        "lon": -73.776466,
+        "name": "MERRICK BLVD/116 AV",
+        "routeIds": [
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500454",
+        "direction": "SE",
+        "id": "MTA_500454",
+        "lat": 40.686726,
+        "locationType": 0,
+        "lon": -73.774671,
+        "name": "MERRICK BLVD/FOCH BLVD",
+        "routeIds": [
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500507",
+        "direction": "NW",
+        "id": "MTA_500507",
+        "lat": 40.684112,
+        "locationType": 0,
+        "lon": -73.770144,
+        "name": "MERRICK BLVD/BAISLEY BLVD",
+        "routeIds": [
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85",
+            "MTA NYCT_X63"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500508",
+        "direction": "NW",
+        "id": "MTA_500508",
+        "lat": 40.68555,
+        "locationType": 0,
+        "lon": -73.772587,
+        "name": "MERRICK BLVD/VICTORIA RD",
+        "routeIds": [
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500509",
+        "direction": "NW",
+        "id": "MTA_500509",
+        "lat": 40.687317,
+        "locationType": 0,
+        "lon": -73.775083,
+        "name": "MERRICK BLVD/FOCH BLVD",
+        "routeIds": [
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500510",
+        "direction": "NW",
+        "id": "MTA_500510",
+        "lat": 40.688638,
+        "locationType": 0,
+        "lon": -73.77672,
+        "name": "MERRICK BLVD/116 AV",
+        "routeIds": [
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500511",
+        "direction": "NW",
+        "id": "MTA_500511",
+        "lat": 40.69032,
+        "locationType": 0,
+        "lon": -73.778034,
+        "name": "MERRICK BLVD/115 AV",
+        "routeIds": [
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500512",
+        "direction": "NW",
+        "id": "MTA_500512",
+        "lat": 40.691579,
+        "locationType": 0,
+        "lon": -73.778985,
+        "name": "MERRICK BLVD/LINDEN BLVD",
+        "routeIds": [
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500541",
+        "direction": "SE",
+        "id": "MTA_500541",
+        "lat": 40.685787,
+        "locationType": 0,
+        "lon": -73.773336,
+        "name": "MERRICK BLVD/119 AV",
+        "routeIds": [
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500543",
+        "direction": "SE",
+        "id": "MTA_500543",
+        "lat": 40.683763,
+        "locationType": 0,
+        "lon": -73.77001,
+        "name": "MERRICK BLVD/BAISLEY BLVD",
+        "routeIds": [
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q85",
+            "MTA NYCT_X63"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500607",
+        "direction": "NW",
+        "id": "MTA_500607",
+        "lat": 40.70078,
+        "locationType": 0,
+        "lon": -73.789334,
+        "name": "MERRICK BLVD/105 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500633",
+        "direction": "SW",
+        "id": "MTA_500633",
+        "lat": 40.683003,
+        "locationType": 0,
+        "lon": -73.7704,
+        "name": "BAISLEY BLVD/MERRILL ST",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500634",
+        "direction": "SW",
+        "id": "MTA_500634",
+        "lat": 40.681799,
+        "locationType": 0,
+        "lon": -73.772049,
+        "name": "BAISLEY BLVD/172 ST",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500636",
+        "direction": "SE",
+        "id": "MTA_500636",
+        "lat": 40.680236,
+        "locationType": 0,
+        "lon": -73.774436,
+        "name": "BEDELL ST/BAISLEY BLVD",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500637",
+        "direction": "SE",
+        "id": "MTA_500637",
+        "lat": 40.679436,
+        "locationType": 0,
+        "lon": -73.77317,
+        "name": "BEDELL ST/127 AV",
+        "routeIds": [
+            "MTA NYCT_Q85",
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500638",
+        "direction": "SE",
+        "id": "MTA_500638",
+        "lat": 40.677963,
+        "locationType": 0,
+        "lon": -73.770803,
+        "name": "BEDELL ST/130 AV",
+        "routeIds": [
+            "MTA NYCT_Q85",
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500639",
+        "direction": "SE",
+        "id": "MTA_500639",
+        "lat": 40.676275,
+        "locationType": 0,
+        "lon": -73.768083,
+        "name": "BEDELL ST/133 AV",
+        "routeIds": [
+            "MTA NYCT_Q85",
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500640",
+        "direction": "SE",
+        "id": "MTA_500640",
+        "lat": 40.674876,
+        "locationType": 0,
+        "lon": -73.765831,
+        "name": "BEDELL ST/134 RD",
+        "routeIds": [
+            "MTA NYCT_Q85",
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500649",
+        "direction": "E",
+        "id": "MTA_500649",
+        "lat": 40.671578,
+        "locationType": 0,
+        "lon": -73.763914,
+        "name": "140 AV/180 ST",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500651",
+        "direction": "E",
+        "id": "MTA_500651",
+        "lat": 40.672159,
+        "locationType": 0,
+        "lon": -73.76078,
+        "name": "140 AV/183 ST",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500652",
+        "direction": "E",
+        "id": "MTA_500652",
+        "lat": 40.672485,
+        "locationType": 0,
+        "lon": -73.759124,
+        "name": "140 AV/THURSTON ST",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500657",
+        "direction": "E",
+        "id": "MTA_500657",
+        "lat": 40.665421,
+        "locationType": 0,
+        "lon": -73.754366,
+        "name": "SOUTH CONDUIT AV/223 ST",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500658",
+        "direction": "E",
+        "id": "MTA_500658",
+        "lat": 40.665426,
+        "locationType": 0,
+        "lon": -73.7519,
+        "name": "SOUTH CONDUIT AV/225 ST",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500660",
+        "direction": "E",
+        "id": "MTA_500660",
+        "lat": 40.665306,
+        "locationType": 0,
+        "lon": -73.744508,
+        "name": "SOUTH CONDUIT AV/231 ST",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500661",
+        "direction": "E",
+        "id": "MTA_500661",
+        "lat": 40.665183,
+        "locationType": 0,
+        "lon": -73.739844,
+        "name": "SOUTH CONDUIT AV/BROOKVILLE BLVD",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500663",
+        "direction": "SW",
+        "id": "MTA_500663",
+        "lat": 40.665081,
+        "locationType": 0,
+        "lon": -73.735897,
+        "name": "243 ST/SOUTH CONDUIT AV",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500664",
+        "direction": "SW",
+        "id": "MTA_500664",
+        "lat": 40.663856,
+        "locationType": 0,
+        "lon": -73.736727,
+        "name": "243 ST/MEMPHIS AV",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500665",
+        "direction": "SW",
+        "id": "MTA_500665",
+        "lat": 40.662568,
+        "locationType": 0,
+        "lon": -73.737731,
+        "name": "243 ST/142 AV",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500666",
+        "direction": "SW",
+        "id": "MTA_500666",
+        "lat": 40.661324,
+        "locationType": 0,
+        "lon": -73.738673,
+        "name": "243 ST/WELLER AV",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500667",
+        "direction": "SW",
+        "id": "MTA_500667",
+        "lat": 40.659483,
+        "locationType": 0,
+        "lon": -73.740082,
+        "name": "243 ST/145 AV",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500668",
+        "direction": "",
+        "id": "MTA_500668",
+        "lat": 40.657586,
+        "locationType": 0,
+        "lon": -73.741503,
+        "name": "243 ST/HUXLEY ST",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500670",
+        "direction": "NW",
+        "id": "MTA_500670",
+        "lat": 40.675228,
+        "locationType": 0,
+        "lon": -73.7661,
+        "name": "BEDELL ST/134 RD",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500671",
+        "direction": "NW",
+        "id": "MTA_500671",
+        "lat": 40.676492,
+        "locationType": 0,
+        "lon": -73.768129,
+        "name": "BEDELL ST/133 AV",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500672",
+        "direction": "NW",
+        "id": "MTA_500672",
+        "lat": 40.678218,
+        "locationType": 0,
+        "lon": -73.770914,
+        "name": "BEDELL ST/130 AV",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500673",
+        "direction": "NW",
+        "id": "MTA_500673",
+        "lat": 40.679691,
+        "locationType": 0,
+        "lon": -73.773281,
+        "name": "BEDELL ST/127 AV",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500674",
+        "direction": "NW",
+        "id": "MTA_500674",
+        "lat": 40.680421,
+        "locationType": 0,
+        "lon": -73.774454,
+        "name": "BEDELL ST/BAISLEY BLVD",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500675",
+        "direction": "NE",
+        "id": "MTA_500675",
+        "lat": 40.681777,
+        "locationType": 0,
+        "lon": -73.771843,
+        "name": "BAISLEY BLVD/172 ST",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500676",
+        "direction": "NE",
+        "id": "MTA_500676",
+        "lat": 40.683152,
+        "locationType": 0,
+        "lon": -73.769981,
+        "name": "BAISLEY BLVD/MERRILL ST",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500677",
+        "direction": "NE",
+        "id": "MTA_500677",
+        "lat": 40.657737,
+        "locationType": 0,
+        "lon": -73.741214,
+        "name": "243 ST/147 AV",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500678",
+        "direction": "NE",
+        "id": "MTA_500678",
+        "lat": 40.660567,
+        "locationType": 0,
+        "lon": -73.739065,
+        "name": "243 ST/144 AV",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500679",
+        "direction": "NE",
+        "id": "MTA_500679",
+        "lat": 40.661458,
+        "locationType": 0,
+        "lon": -73.73841,
+        "name": "243 ST/WELLER AV",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500680",
+        "direction": "NE",
+        "id": "MTA_500680",
+        "lat": 40.662732,
+        "locationType": 0,
+        "lon": -73.737439,
+        "name": "243 ST/142 AV",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500681",
+        "direction": "NE",
+        "id": "MTA_500681",
+        "lat": 40.663863,
+        "locationType": 0,
+        "lon": -73.736615,
+        "name": "243 ST/MEMPHIS AV",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500683",
+        "direction": "W",
+        "id": "MTA_500683",
+        "lat": 40.665677,
+        "locationType": 0,
+        "lon": -73.738829,
+        "name": "SUNRISE HWY/BROOKVILLE BLVD",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500684",
+        "direction": "W",
+        "id": "MTA_500684",
+        "lat": 40.666501,
+        "locationType": 0,
+        "lon": -73.745136,
+        "name": "NORTH CONDUIT AV/230 PL",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500685",
+        "direction": "W",
+        "id": "MTA_500685",
+        "lat": 40.666453,
+        "locationType": 0,
+        "lon": -73.752124,
+        "name": "NORTH CONDUIT AV/225 ST",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500686",
+        "direction": "W",
+        "id": "MTA_500686",
+        "lat": 40.666468,
+        "locationType": 0,
+        "lon": -73.755065,
+        "name": "NORTH CONDUIT AV/222 ST",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500687",
+        "direction": "NE",
+        "id": "MTA_500687",
+        "lat": 40.667131,
+        "locationType": 0,
+        "lon": -73.757121,
+        "name": "SPRINGFIELD BLVD/144 AV",
+        "routeIds": [
+            "MTA NYCT_Q77",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500688",
+        "direction": "N",
+        "id": "MTA_500688",
+        "lat": 40.66832,
+        "locationType": 0,
+        "lon": -73.756662,
+        "name": "SPRINGFIELD BLVD/143 AV",
+        "routeIds": [
+            "MTA NYCT_Q77",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500689",
+        "direction": "N",
+        "id": "MTA_500689",
+        "lat": 40.670818,
+        "locationType": 0,
+        "lon": -73.756361,
+        "name": "SPRINGFIELD BLVD/141 RD",
+        "routeIds": [
+            "MTA NYCT_Q77",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500690",
+        "direction": "N",
+        "id": "MTA_500690",
+        "lat": 40.671935,
+        "locationType": 0,
+        "lon": -73.756343,
+        "name": "SPRINGFIELD BLVD/141 AV",
+        "routeIds": [
+            "MTA NYCT_Q77",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500691",
+        "direction": "W",
+        "id": "MTA_500691",
+        "lat": 40.672589,
+        "locationType": 0,
+        "lon": -73.759033,
+        "name": "140 AV/SOUTHGATE ST",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500694",
+        "direction": "W",
+        "id": "MTA_500694",
+        "lat": 40.671648,
+        "locationType": 0,
+        "lon": -73.764129,
+        "name": "140 AV/FARMERS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503073",
+        "direction": "S",
+        "id": "MTA_503073",
+        "lat": 40.671214,
+        "locationType": 0,
+        "lon": -73.756553,
+        "name": "SPRINGFIELD BLVD/141 AV",
+        "routeIds": [
+            "MTA NYCT_Q77",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503100",
+        "direction": "E",
+        "id": "MTA_503100",
+        "lat": 40.66525,
+        "locationType": 0,
+        "lon": -73.728642,
+        "name": "SUNRISE HWY/SUNRISE CINEMAS",
+        "routeIds": [
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503105",
+        "direction": "W",
+        "id": "MTA_503105",
+        "lat": 40.661692,
+        "locationType": 0,
+        "lon": -73.722412,
+        "name": "WEST CIRCLE DR/PARKING STRUCTURE",
+        "routeIds": [
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503132",
+        "direction": "E",
+        "id": "MTA_503132",
+        "lat": 40.665498,
+        "locationType": 0,
+        "lon": -73.757046,
+        "name": "SOUTH CONDUIT AV/221 ST",
+        "routeIds": [
+            "MTA NYCT_Q77",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503605",
+        "direction": "SE",
+        "id": "MTA_503605",
+        "lat": 40.673796,
+        "locationType": 0,
+        "lon": -73.763997,
+        "name": "BEDELL ST/FARMERS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503606",
+        "direction": "NW",
+        "id": "MTA_503606",
+        "lat": 40.674115,
+        "locationType": 0,
+        "lon": -73.76423,
+        "name": "BEDELL ST/FARMERS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503622",
+        "direction": "SW",
+        "id": "MTA_503622",
+        "lat": 40.704208,
+        "locationType": 0,
+        "lon": -73.793442,
+        "name": "ARCHER AV/165 ST",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503840",
+        "direction": "E",
+        "id": "MTA_503840",
+        "lat": 40.665265,
+        "locationType": 0,
+        "lon": -73.734681,
+        "name": "SOUTH CONDUIT AV/FRANCIS LEWIS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503912",
+        "direction": "E",
+        "id": "MTA_503912",
+        "lat": 40.665184,
+        "locationType": 0,
+        "lon": -73.736679,
+        "name": "SOUTH CONDUIT AV/140 AV",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503936",
+        "direction": "NE",
+        "id": "MTA_503936",
+        "lat": 40.704132,
+        "locationType": 0,
+        "lon": -73.79342,
+        "name": "ARCHER AV/165 ST",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503954",
+        "direction": "W",
+        "id": "MTA_503954",
+        "lat": 40.66568,
+        "locationType": 0,
+        "lon": -73.73623,
+        "name": "SUNRISE HWY/FRANCIS LEWIS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503959",
+        "direction": "W",
+        "id": "MTA_503959",
+        "lat": 40.665647,
+        "locationType": 0,
+        "lon": -73.730322,
+        "name": "SUNRISE HWY/HOOK CREEK BLVD",
+        "routeIds": [
+            "MTA NYCT_Q85",
+            "MTA NYCT_X63"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503967",
+        "direction": "SE",
+        "id": "MTA_503967",
+        "lat": 40.701551,
+        "locationType": 0,
+        "lon": -73.790447,
+        "name": "MERRICK BLVD/104 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503971",
+        "direction": "S",
+        "id": "MTA_503971",
+        "lat": 40.668435,
+        "locationType": 0,
+        "lon": -73.756847,
+        "name": "SPRINGFIELD BLVD/143 AV",
+        "routeIds": [
+            "MTA NYCT_Q77",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504008",
+        "direction": "W",
+        "id": "MTA_504008",
+        "lat": 40.70237,
+        "locationType": 0,
+        "lon": -73.791688,
+        "name": "LIBERTY AV/MERRICK BLVD",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q42",
+            "MTA NYCT_Q83",
+            "MTA NYCT_Q85",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504091",
+        "direction": "W",
+        "id": "MTA_504091",
+        "lat": 40.665664,
+        "locationType": 0,
+        "lon": -73.7334,
+        "name": "SUNRISE HWY/Opp 24502 SOUTH CONDUIT AV",
+        "routeIds": [
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504462",
+        "direction": "NW",
+        "id": "MTA_504462",
+        "lat": 40.694377,
+        "locationType": 0,
+        "lon": -73.781209,
+        "name": "MERRICK BLVD/111 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504469",
+        "direction": "E",
+        "id": "MTA_504469",
+        "lat": 40.702217,
+        "locationType": 0,
+        "lon": -73.800606,
+        "name": "ARCHER AV/PARSONS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q83",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504470",
+        "direction": "E",
+        "id": "MTA_504470",
+        "lat": 40.702168,
+        "locationType": 0,
+        "lon": -73.800813,
+        "name": "ARCHER AV/PARSONS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504543",
+        "direction": "W",
+        "id": "MTA_504543",
+        "lat": 40.67218,
+        "locationType": 0,
+        "lon": -73.761233,
+        "name": "140 AV/BEDELL ST",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504955",
+        "direction": "NW",
+        "id": "MTA_504955",
+        "lat": 40.664813,
+        "locationType": 0,
+        "lon": -73.734855,
+        "name": "FRANCIS LEWIS BLVD/245 St",
+        "routeIds": [
+            "MTA NYCT_Q85",
+            "MTA NYCT_X63"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505219",
+        "direction": "E",
+        "id": "MTA_505219",
+        "lat": 40.665406,
+        "locationType": 0,
+        "lon": -73.747257,
+        "name": "SOUTH CONDUIT AV/LANSING AV",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505264",
+        "direction": "W",
+        "id": "MTA_505264",
+        "lat": 40.702735,
+        "locationType": 0,
+        "lon": -73.798748,
+        "name": "ARCHER AV/160 ST",
+        "routeIds": [
+            "MTA NYCT_Q85",
+            "MTABC_Q111",
+            "MTABC_Q112",
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804034",
+        "direction": "NE",
+        "id": "MTA_804034",
+        "lat": 40.657657,
+        "locationType": 0,
+        "lon": -73.741279,
+        "name": "243 ST/147 AV",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804053",
+        "direction": "W",
+        "id": "MTA_804053",
+        "lat": 40.661433,
+        "locationType": 0,
+        "lon": -73.721393,
+        "name": "WEST CIRCLE DR /PARKING STRUCTURE (ARRIVE)",
+        "routeIds": [
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904039",
+        "direction": "E",
+        "id": "MTA_904039",
+        "lat": 40.673399,
+        "locationType": 0,
+        "lon": -73.764355,
+        "name": "137 AV/ FARMERS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904092",
+        "direction": "NE",
+        "id": "MTA_904092",
+        "lat": 40.66503,
+        "locationType": 0,
+        "lon": -73.758295,
+        "name": "SPRINGFIELD BLVD/145 AV",
+        "routeIds": [
+            "MTA NYCT_Q77",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904105",
+        "direction": "E",
+        "id": "MTA_904105",
+        "lat": 40.673388,
+        "locationType": 0,
+        "lon": -73.764474,
+        "name": "137 AV/FARMERS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

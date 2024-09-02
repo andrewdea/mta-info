@@ -1,0 +1,639 @@
+[
+    {
+        "code": "100652",
+        "direction": "N",
+        "id": "MTA_100652",
+        "lat": 40.877311,
+        "locationType": 0,
+        "lon": -73.879677,
+        "name": "BAINBRIDGE AV/RESERVOIR OVAL E",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX34",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100729",
+        "direction": "S",
+        "id": "MTA_100729",
+        "lat": 40.880732,
+        "locationType": 0,
+        "lon": -73.878634,
+        "name": "BAINBRIDGE AV/EAST GUN HILL RD",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX34",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100730",
+        "direction": "S",
+        "id": "MTA_100730",
+        "lat": 40.879332,
+        "locationType": 0,
+        "lon": -73.879113,
+        "name": "BAINBRIDGE AV/E 210 ST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX34",
+            "MTA NYCT_BX38",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100731",
+        "direction": "S",
+        "id": "MTA_100731",
+        "lat": 40.87709,
+        "locationType": 0,
+        "lon": -73.879774,
+        "name": "BAINBRIDGE AV/VAN CORTLANDT AV EAST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX34",
+            "MTA NYCT_BX38",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101137",
+        "direction": "N",
+        "id": "MTA_101137",
+        "lat": 40.883777,
+        "locationType": 0,
+        "lon": -73.877631,
+        "name": "BAINBRIDGE AV/E 212 ST",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101138",
+        "direction": "N",
+        "id": "MTA_101138",
+        "lat": 40.886792,
+        "locationType": 0,
+        "lon": -73.877784,
+        "name": "BAINBRIDGE AV/JEROME AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101140",
+        "direction": "E",
+        "id": "MTA_101140",
+        "lat": 40.89568,
+        "locationType": 0,
+        "lon": -73.874901,
+        "name": "E 233 ST/NAPIER AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101142",
+        "direction": "E",
+        "id": "MTA_101142",
+        "lat": 40.89659,
+        "locationType": 0,
+        "lon": -73.870592,
+        "name": "E 233 ST/KEPLER AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101190",
+        "direction": "W",
+        "id": "MTA_101190",
+        "lat": 40.896662,
+        "locationType": 0,
+        "lon": -73.870394,
+        "name": "E 233 ST/KEPLER AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101192",
+        "direction": "W",
+        "id": "MTA_101192",
+        "lat": 40.895739,
+        "locationType": 0,
+        "lon": -73.875215,
+        "name": "E 233 ST/NAPIER AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101193",
+        "direction": "S",
+        "id": "MTA_101193",
+        "lat": 40.886637,
+        "locationType": 0,
+        "lon": -73.877852,
+        "name": "BAINBRIDGE AV/JEROME AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101194",
+        "direction": "S",
+        "id": "MTA_101194",
+        "lat": 40.883145,
+        "locationType": 0,
+        "lon": -73.877844,
+        "name": "BAINBRIDGE AV/E 212 ST",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101774",
+        "direction": "NW",
+        "id": "MTA_101774",
+        "lat": 40.870705,
+        "locationType": 0,
+        "lon": -73.886044,
+        "name": "BEDFORD PARK BLVD/BRIGGS AV",
+        "routeIds": [
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102223",
+        "direction": "NE",
+        "id": "MTA_102223",
+        "lat": 40.862264,
+        "locationType": 0,
+        "lon": -73.8933,
+        "name": "BAINBRIDGE AV/EAST FORDHAM RD",
+        "routeIds": [
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102224",
+        "direction": "NE",
+        "id": "MTA_102224",
+        "lat": 40.864895,
+        "locationType": 0,
+        "lon": -73.891929,
+        "name": "BAINBRIDGE AV/E 194 ST",
+        "routeIds": [
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102225",
+        "direction": "NE",
+        "id": "MTA_102225",
+        "lat": 40.866839,
+        "locationType": 0,
+        "lon": -73.890056,
+        "name": "BAINBRIDGE AV/E 196 ST",
+        "routeIds": [
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102226",
+        "direction": "NE",
+        "id": "MTA_102226",
+        "lat": 40.86867,
+        "locationType": 0,
+        "lon": -73.887935,
+        "name": "BAINBRIDGE AV/E 198 ST",
+        "routeIds": [
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102227",
+        "direction": "NE",
+        "id": "MTA_102227",
+        "lat": 40.870411,
+        "locationType": 0,
+        "lon": -73.885159,
+        "name": "BAINBRIDGE AV/BEDFORD PARK BLVD",
+        "routeIds": [
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102229",
+        "direction": "NE",
+        "id": "MTA_102229",
+        "lat": 40.872927,
+        "locationType": 0,
+        "lon": -73.880542,
+        "name": "BAINBRIDGE AV/EAST MOSHOLU PKWY NORTH",
+        "routeIds": [
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX34",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102230",
+        "direction": "NE",
+        "id": "MTA_102230",
+        "lat": 40.873571,
+        "locationType": 0,
+        "lon": -73.87929,
+        "name": "BAINBRIDGE AV/E 204 ST",
+        "routeIds": [
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102242",
+        "direction": "N",
+        "id": "MTA_102242",
+        "lat": 40.897198,
+        "locationType": 0,
+        "lon": -73.86708,
+        "name": "KATONAH AV/E 234 ST",
+        "routeIds": [
+            "MTA NYCT_BX31",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102243",
+        "direction": "N",
+        "id": "MTA_102243",
+        "lat": 40.899246,
+        "locationType": 0,
+        "lon": -73.867417,
+        "name": "KATONAH AV/E 237 ST",
+        "routeIds": [
+            "MTA NYCT_BX31",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102244",
+        "direction": "N",
+        "id": "MTA_102244",
+        "lat": 40.900605,
+        "locationType": 0,
+        "lon": -73.867714,
+        "name": "KATONAH AV/E 239 ST",
+        "routeIds": [
+            "MTA NYCT_BX31",
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102246",
+        "direction": "SE",
+        "id": "MTA_102246",
+        "lat": 40.902431,
+        "locationType": 0,
+        "lon": -73.868289,
+        "name": "VAN CORTLANDT PARK EAST/E 242 ST",
+        "routeIds": [
+            "MTA NYCT_BX31",
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102247",
+        "direction": "S",
+        "id": "MTA_102247",
+        "lat": 40.900042,
+        "locationType": 0,
+        "lon": -73.867694,
+        "name": "KATONAH AV/E 239 ST",
+        "routeIds": [
+            "MTA NYCT_BX31",
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102248",
+        "direction": "S",
+        "id": "MTA_102248",
+        "lat": 40.898654,
+        "locationType": 0,
+        "lon": -73.867438,
+        "name": "KATONAH AV/E 237 ST",
+        "routeIds": [
+            "MTA NYCT_BX31",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102249",
+        "direction": "S",
+        "id": "MTA_102249",
+        "lat": 40.897064,
+        "locationType": 0,
+        "lon": -73.867143,
+        "name": "KATONAH AV/E 234 ST",
+        "routeIds": [
+            "MTA NYCT_BX31",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102260",
+        "direction": "SW",
+        "id": "MTA_102260",
+        "lat": 40.872951,
+        "locationType": 0,
+        "lon": -73.880635,
+        "name": "BAINBRIDGE AV/EAST MOSHOLU PKWY NORTH",
+        "routeIds": [
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX34",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102262",
+        "direction": "SW",
+        "id": "MTA_102262",
+        "lat": 40.871195,
+        "locationType": 0,
+        "lon": -73.884106,
+        "name": "BAINBRIDGE AV/E 201 ST",
+        "routeIds": [
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102264",
+        "direction": "SW",
+        "id": "MTA_102264",
+        "lat": 40.870641,
+        "locationType": 0,
+        "lon": -73.888015,
+        "name": "VALENTINE AV/E 199 ST",
+        "routeIds": [
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102265",
+        "direction": "SW",
+        "id": "MTA_102265",
+        "lat": 40.86929,
+        "locationType": 0,
+        "lon": -73.890186,
+        "name": "VALENTINE AV/E 198 ST",
+        "routeIds": [
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102266",
+        "direction": "SW",
+        "id": "MTA_102266",
+        "lat": 40.86717,
+        "locationType": 0,
+        "lon": -73.89212,
+        "name": "VALENTINE AV/E 196 ST",
+        "routeIds": [
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102267",
+        "direction": "SW",
+        "id": "MTA_102267",
+        "lat": 40.865533,
+        "locationType": 0,
+        "lon": -73.893229,
+        "name": "VALENTINE AV/E 194 ST",
+        "routeIds": [
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102269",
+        "direction": "SW",
+        "id": "MTA_102269",
+        "lat": 40.862431,
+        "locationType": 0,
+        "lon": -73.895859,
+        "name": "VALENTINE AV/EAST FORDHAM RD",
+        "routeIds": [
+            "MTA NYCT_BX22",
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102979",
+        "direction": "E",
+        "id": "MTA_102979",
+        "lat": 40.895247,
+        "locationType": 0,
+        "lon": -73.87957,
+        "name": "E 233 ST/JEROME AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103105",
+        "direction": "SW",
+        "id": "MTA_103105",
+        "lat": 40.902789,
+        "locationType": 0,
+        "lon": -73.86831,
+        "name": "KATONAH AV/E 242 ST",
+        "routeIds": [
+            "MTA NYCT_BX31",
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103241",
+        "direction": "SW",
+        "id": "MTA_103241",
+        "lat": 40.863865,
+        "locationType": 0,
+        "lon": -73.894754,
+        "name": "VALENTINE AV/E 192 ST",
+        "routeIds": [
+            "MTA NYCT_BX22",
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103426",
+        "direction": "N",
+        "id": "MTA_103426",
+        "lat": 40.874875,
+        "locationType": 0,
+        "lon": -73.8794,
+        "name": "BAINBRIDGE AV/E 206 ST",
+        "routeIds": [
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX34",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103617",
+        "direction": "S",
+        "id": "MTA_103617",
+        "lat": 40.874805,
+        "locationType": 0,
+        "lon": -73.879464,
+        "name": "BAINBRIDGE AV/E 206 ST",
+        "routeIds": [
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX34",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103800",
+        "direction": "S",
+        "id": "MTA_103800",
+        "lat": 40.894716,
+        "locationType": 0,
+        "lon": -73.88025,
+        "name": "JEROME AV/E 233 ST",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103892",
+        "direction": "SW",
+        "id": "MTA_103892",
+        "lat": 40.872101,
+        "locationType": 0,
+        "lon": -73.882595,
+        "name": "BAINBRIDGE AV/EAST MOSHOLU PKWY SOUTH",
+        "routeIds": [
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103933",
+        "direction": "NE",
+        "id": "MTA_103933",
+        "lat": 40.872039,
+        "locationType": 0,
+        "lon": -73.882601,
+        "name": "BAINBRIDGE AV/EAST MOSHOLU PKWY SOUTH",
+        "routeIds": [
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104002",
+        "direction": "N",
+        "id": "MTA_104002",
+        "lat": 40.879413,
+        "locationType": 0,
+        "lon": -73.879003,
+        "name": "BAINBRIDGE AV/E 210 ST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX34",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "802062",
+        "direction": "SW",
+        "id": "MTA_802062",
+        "lat": 40.862502,
+        "locationType": 0,
+        "lon": -73.895797,
+        "name": "VALENTINE AV/FORDHAM RD",
+        "routeIds": [
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

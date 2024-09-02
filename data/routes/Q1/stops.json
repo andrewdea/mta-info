@@ -1,0 +1,1285 @@
+[
+    {
+        "code": "500002",
+        "direction": "NW",
+        "id": "MTA_500002",
+        "lat": 40.709146,
+        "locationType": 0,
+        "lon": -73.797156,
+        "name": "165 ST/HILLSIDE AV",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500004",
+        "direction": "E",
+        "id": "MTA_500004",
+        "lat": 40.71144,
+        "locationType": 0,
+        "lon": -73.790887,
+        "name": "HILLSIDE AV/171 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500007",
+        "direction": "E",
+        "id": "MTA_500007",
+        "lat": 40.712872,
+        "locationType": 0,
+        "lon": -73.782724,
+        "name": "HILLSIDE AV/180 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500008",
+        "direction": "E",
+        "id": "MTA_500008",
+        "lat": 40.713574,
+        "locationType": 0,
+        "lon": -73.77985,
+        "name": "HILLSIDE AV/182 PL",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500009",
+        "direction": "E",
+        "id": "MTA_500009",
+        "lat": 40.714085,
+        "locationType": 0,
+        "lon": -73.777516,
+        "name": "HILLSIDE AV/184 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500010",
+        "direction": "E",
+        "id": "MTA_500010",
+        "lat": 40.714481,
+        "locationType": 0,
+        "lon": -73.775904,
+        "name": "HILLSIDE AV/187 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500011",
+        "direction": "E",
+        "id": "MTA_500011",
+        "lat": 40.715309,
+        "locationType": 0,
+        "lon": -73.772827,
+        "name": "HILLSIDE AV/189 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500012",
+        "direction": "E",
+        "id": "MTA_500012",
+        "lat": 40.716032,
+        "locationType": 0,
+        "lon": -73.770711,
+        "name": "HILLSIDE AV/191 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500013",
+        "direction": "E",
+        "id": "MTA_500013",
+        "lat": 40.716736,
+        "locationType": 0,
+        "lon": -73.768676,
+        "name": "HILLSIDE AV/193 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500014",
+        "direction": "NE",
+        "id": "MTA_500014",
+        "lat": 40.717362,
+        "locationType": 0,
+        "lon": -73.767011,
+        "name": "HILLSIDE AV/195 PL",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500017",
+        "direction": "NE",
+        "id": "MTA_500017",
+        "lat": 40.719903,
+        "locationType": 0,
+        "lon": -73.762044,
+        "name": "HILLSIDE AV/202 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500018",
+        "direction": "NE",
+        "id": "MTA_500018",
+        "lat": 40.720923,
+        "locationType": 0,
+        "lon": -73.759535,
+        "name": "HILLSIDE AV/FRANCIS LEWIS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q77",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500019",
+        "direction": "NE",
+        "id": "MTA_500019",
+        "lat": 40.721724,
+        "locationType": 0,
+        "lon": -73.7583,
+        "name": "HILLSIDE AV/207 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500022",
+        "direction": "NE",
+        "id": "MTA_500022",
+        "lat": 40.724847,
+        "locationType": 0,
+        "lon": -73.7537,
+        "name": "HILLSIDE AV/212 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500023",
+        "direction": "NE",
+        "id": "MTA_500023",
+        "lat": 40.726134,
+        "locationType": 0,
+        "lon": -73.751315,
+        "name": "HILLSIDE AV/214 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500024",
+        "direction": "NE",
+        "id": "MTA_500024",
+        "lat": 40.727252,
+        "locationType": 0,
+        "lon": -73.748964,
+        "name": "HILLSIDE AV/215 PL",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q43",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500025",
+        "direction": "NE",
+        "id": "MTA_500025",
+        "lat": 40.728342,
+        "locationType": 0,
+        "lon": -73.7469,
+        "name": "HILLSIDE AV/218 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500026",
+        "direction": "NE",
+        "id": "MTA_500026",
+        "lat": 40.729615,
+        "locationType": 0,
+        "lon": -73.744606,
+        "name": "HILLSIDE AV/SPRINGFIELD BLVD",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q43",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500027",
+        "direction": "SE",
+        "id": "MTA_500027",
+        "lat": 40.729077,
+        "locationType": 0,
+        "lon": -73.744034,
+        "name": "SPRINGFIELD BLVD/89 AV",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500028",
+        "direction": "SE",
+        "id": "MTA_500028",
+        "lat": 40.726543,
+        "locationType": 0,
+        "lon": -73.741343,
+        "name": "SPRINGFIELD BLVD/90 AV",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500029",
+        "direction": "SE",
+        "id": "MTA_500029",
+        "lat": 40.725407,
+        "locationType": 0,
+        "lon": -73.740139,
+        "name": "SPRINGFIELD BLVD/91 AV",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500030",
+        "direction": "SE",
+        "id": "MTA_500030",
+        "lat": 40.724292,
+        "locationType": 0,
+        "lon": -73.738949,
+        "name": "SPRINGFIELD BLVD/92 AV",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500031",
+        "direction": "SE",
+        "id": "MTA_500031",
+        "lat": 40.722125,
+        "locationType": 0,
+        "lon": -73.736869,
+        "name": "SPRINGFIELD BLVD/93 AV",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500032",
+        "direction": "SE",
+        "id": "MTA_500032",
+        "lat": 40.720907,
+        "locationType": 0,
+        "lon": -73.736289,
+        "name": "SPRINGFIELD BLVD/94 AV",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500033",
+        "direction": "S",
+        "id": "MTA_500033",
+        "lat": 40.719524,
+        "locationType": 0,
+        "lon": -73.735669,
+        "name": "SPRINGFIELD BLVD/94 DR",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500034",
+        "direction": "S",
+        "id": "MTA_500034",
+        "lat": 40.718645,
+        "locationType": 0,
+        "lon": -73.735376,
+        "name": "SPRINGFIELD BLVD/JAMAICA AV",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500035",
+        "direction": "E",
+        "id": "MTA_500035",
+        "lat": 40.717835,
+        "locationType": 0,
+        "lon": -73.735627,
+        "name": "AMBOY LN/SPRINGFIELD BLVD",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500036",
+        "direction": "E",
+        "id": "MTA_500036",
+        "lat": 40.729878,
+        "locationType": 0,
+        "lon": -73.74272,
+        "name": "BRADDOCK AV/89 AV",
+        "routeIds": [
+            "MTA NYCT_Q1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500037",
+        "direction": "E",
+        "id": "MTA_500037",
+        "lat": 40.729285,
+        "locationType": 0,
+        "lon": -73.740063,
+        "name": "BRADDOCK AV/221 PL",
+        "routeIds": [
+            "MTA NYCT_Q1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500038",
+        "direction": "E",
+        "id": "MTA_500038",
+        "lat": 40.728633,
+        "locationType": 0,
+        "lon": -73.737276,
+        "name": "BRADDOCK AV/90 AV",
+        "routeIds": [
+            "MTA NYCT_Q1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500039",
+        "direction": "E",
+        "id": "MTA_500039",
+        "lat": 40.728259,
+        "locationType": 0,
+        "lon": -73.735607,
+        "name": "BRADDOCK AV/WINCHESTER BLVD",
+        "routeIds": [
+            "MTA NYCT_Q1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500040",
+        "direction": "E",
+        "id": "MTA_500040",
+        "lat": 40.728151,
+        "locationType": 0,
+        "lon": -73.735124,
+        "name": "BRADDOCK AV/222 ST",
+        "routeIds": [
+            "MTA NYCT_Q1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500041",
+        "direction": "E",
+        "id": "MTA_500041",
+        "lat": 40.727793,
+        "locationType": 0,
+        "lon": -73.733516,
+        "name": "BRADDOCK AV/224 ST",
+        "routeIds": [
+            "MTA NYCT_Q1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500042",
+        "direction": "E",
+        "id": "MTA_500042",
+        "lat": 40.727424,
+        "locationType": 0,
+        "lon": -73.731851,
+        "name": "BRADDOCK AV/92 AV",
+        "routeIds": [
+            "MTA NYCT_Q1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500043",
+        "direction": "E",
+        "id": "MTA_500043",
+        "lat": 40.726963,
+        "locationType": 0,
+        "lon": -73.730475,
+        "name": "BRADDOCK AV/92 RD",
+        "routeIds": [
+            "MTA NYCT_Q1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500044",
+        "direction": "E",
+        "id": "MTA_500044",
+        "lat": 40.726437,
+        "locationType": 0,
+        "lon": -73.72863,
+        "name": "BRADDOCK AV/240 ST",
+        "routeIds": [
+            "MTA NYCT_Q1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500045",
+        "direction": "E",
+        "id": "MTA_500045",
+        "lat": 40.725961,
+        "locationType": 0,
+        "lon": -73.726037,
+        "name": "BRADDOCK AV/242 ST",
+        "routeIds": [
+            "MTA NYCT_Q1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500048",
+        "direction": "N",
+        "id": "MTA_500048",
+        "lat": 40.718987,
+        "locationType": 0,
+        "lon": -73.735286,
+        "name": "SPRINGFIELD BLVD/JAMAICA AV",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500049",
+        "direction": "NW",
+        "id": "MTA_500049",
+        "lat": 40.720182,
+        "locationType": 0,
+        "lon": -73.735737,
+        "name": "SPRINGFIELD BLVD/94 DR",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500050",
+        "direction": "NW",
+        "id": "MTA_500050",
+        "lat": 40.721429,
+        "locationType": 0,
+        "lon": -73.736316,
+        "name": "SPRINGFIELD BLVD/94 AV",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500051",
+        "direction": "NW",
+        "id": "MTA_500051",
+        "lat": 40.72277,
+        "locationType": 0,
+        "lon": -73.737061,
+        "name": "SPRINGFIELD BLVD/93 AV",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500052",
+        "direction": "NW",
+        "id": "MTA_500052",
+        "lat": 40.724894,
+        "locationType": 0,
+        "lon": -73.739319,
+        "name": "SPRINGFIELD BLVD/92 AV",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500053",
+        "direction": "NW",
+        "id": "MTA_500053",
+        "lat": 40.725978,
+        "locationType": 0,
+        "lon": -73.740516,
+        "name": "SPRINGFIELD BLVD/91 AV",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500054",
+        "direction": "NW",
+        "id": "MTA_500054",
+        "lat": 40.727098,
+        "locationType": 0,
+        "lon": -73.74167,
+        "name": "SPRINGFIELD BLVD/90 AV",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500055",
+        "direction": "NW",
+        "id": "MTA_500055",
+        "lat": 40.729318,
+        "locationType": 0,
+        "lon": -73.744039,
+        "name": "SPRINGFIELD BLVD/89 AV",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q88"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500056",
+        "direction": "NW",
+        "id": "MTA_500056",
+        "lat": 40.725449,
+        "locationType": 0,
+        "lon": -73.724211,
+        "name": "BRADDOCK AV/CROSS ISLAND PKWY",
+        "routeIds": [
+            "MTA NYCT_Q1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500057",
+        "direction": "W",
+        "id": "MTA_500057",
+        "lat": 40.726388,
+        "locationType": 0,
+        "lon": -73.726754,
+        "name": "BRADDOCK AV/242 ST",
+        "routeIds": [
+            "MTA NYCT_Q1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500058",
+        "direction": "W",
+        "id": "MTA_500058",
+        "lat": 40.726651,
+        "locationType": 0,
+        "lon": -73.7286,
+        "name": "BRADDOCK AV /240 ST",
+        "routeIds": [
+            "MTA NYCT_Q1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500059",
+        "direction": "W",
+        "id": "MTA_500059",
+        "lat": 40.727016,
+        "locationType": 0,
+        "lon": -73.729883,
+        "name": "BRADDOCK AV/238 ST",
+        "routeIds": [
+            "MTA NYCT_Q1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500061",
+        "direction": "W",
+        "id": "MTA_500061",
+        "lat": 40.72791,
+        "locationType": 0,
+        "lon": -73.733072,
+        "name": "BRADDOCK AV/LYMAN ST",
+        "routeIds": [
+            "MTA NYCT_Q1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500062",
+        "direction": "W",
+        "id": "MTA_500062",
+        "lat": 40.728531,
+        "locationType": 0,
+        "lon": -73.735794,
+        "name": "BRADDOCK AV/RANSOM ST",
+        "routeIds": [
+            "MTA NYCT_Q1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500063",
+        "direction": "W",
+        "id": "MTA_500063",
+        "lat": 40.728936,
+        "locationType": 0,
+        "lon": -73.737611,
+        "name": "BRADDOCK AV/WINCHESTER BLVD",
+        "routeIds": [
+            "MTA NYCT_Q1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500064",
+        "direction": "W",
+        "id": "MTA_500064",
+        "lat": 40.72923,
+        "locationType": 0,
+        "lon": -73.738905,
+        "name": "BRADDOCK AV/BILLINGS ST",
+        "routeIds": [
+            "MTA NYCT_Q1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500065",
+        "direction": "W",
+        "id": "MTA_500065",
+        "lat": 40.729998,
+        "locationType": 0,
+        "lon": -73.7422,
+        "name": "BRADDOCK AV/221 PL",
+        "routeIds": [
+            "MTA NYCT_Q1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500066",
+        "direction": "SW",
+        "id": "MTA_500066",
+        "lat": 40.729614,
+        "locationType": 0,
+        "lon": -73.745329,
+        "name": "HILLSIDE AV/SPRINGFIELD BLVD",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q43",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500069",
+        "direction": "SW",
+        "id": "MTA_500069",
+        "lat": 40.727072,
+        "locationType": 0,
+        "lon": -73.749587,
+        "name": "HILLSIDE AV/215 PL",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q43",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500070",
+        "direction": "SW",
+        "id": "MTA_500070",
+        "lat": 40.725874,
+        "locationType": 0,
+        "lon": -73.752133,
+        "name": "HILLSIDE AV/214 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500071",
+        "direction": "SW",
+        "id": "MTA_500071",
+        "lat": 40.724529,
+        "locationType": 0,
+        "lon": -73.7545,
+        "name": "HILLSIDE AV/212 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500072",
+        "direction": "SW",
+        "id": "MTA_500072",
+        "lat": 40.723438,
+        "locationType": 0,
+        "lon": -73.756131,
+        "name": "HILLSIDE AV/211 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500073",
+        "direction": "SW",
+        "id": "MTA_500073",
+        "lat": 40.722401,
+        "locationType": 0,
+        "lon": -73.757613,
+        "name": "HILLSIDE AV/209 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500074",
+        "direction": "SW",
+        "id": "MTA_500074",
+        "lat": 40.720959,
+        "locationType": 0,
+        "lon": -73.759687,
+        "name": "HILLSIDE AV/FRANCIS LEWIS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q77",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500078",
+        "direction": "W",
+        "id": "MTA_500078",
+        "lat": 40.716563,
+        "locationType": 0,
+        "lon": -73.769609,
+        "name": "HILLSIDE AV/193 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500079",
+        "direction": "W",
+        "id": "MTA_500079",
+        "lat": 40.71588,
+        "locationType": 0,
+        "lon": -73.771498,
+        "name": "HILLSIDE AV/191 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500080",
+        "direction": "W",
+        "id": "MTA_500080",
+        "lat": 40.715217,
+        "locationType": 0,
+        "lon": -73.773444,
+        "name": "HILLSIDE AV/188 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500081",
+        "direction": "W",
+        "id": "MTA_500081",
+        "lat": 40.714768,
+        "locationType": 0,
+        "lon": -73.775267,
+        "name": "HILLSIDE AV/187 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500082",
+        "direction": "W",
+        "id": "MTA_500082",
+        "lat": 40.714049,
+        "locationType": 0,
+        "lon": -73.778431,
+        "name": "HILLSIDE AV/DALNY RD",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500197",
+        "direction": "W",
+        "id": "MTA_500197",
+        "lat": 40.712223,
+        "locationType": 0,
+        "lon": -73.785799,
+        "name": "HILLSIDE AV/EDGERTON BLVD",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501414",
+        "direction": "W",
+        "id": "MTA_501414",
+        "lat": 40.71262,
+        "locationType": 0,
+        "lon": -73.783923,
+        "name": "HILLSIDE AV/MIDLAND PKWY",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501419",
+        "direction": "SW",
+        "id": "MTA_501419",
+        "lat": 40.71071,
+        "locationType": 0,
+        "lon": -73.793147,
+        "name": "HILLSIDE AV/169 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502115",
+        "direction": "SW",
+        "id": "MTA_502115",
+        "lat": 40.719904,
+        "locationType": 0,
+        "lon": -73.762312,
+        "name": "HILLSIDE AV/202 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503195",
+        "direction": "W",
+        "id": "MTA_503195",
+        "lat": 40.711809,
+        "locationType": 0,
+        "lon": -73.790139,
+        "name": "HILLSIDE AV/172 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503212",
+        "direction": "E",
+        "id": "MTA_503212",
+        "lat": 40.717818,
+        "locationType": 0,
+        "lon": -73.735753,
+        "name": "AMBOY LN/SPRINGFIELD BLVD",
+        "routeIds": [
+            "MTA NYCT_Q1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503272",
+        "direction": "S",
+        "id": "MTA_503272",
+        "lat": 40.728439,
+        "locationType": 0,
+        "lon": -73.747174,
+        "name": "HILLSIDE AV/218 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503753",
+        "direction": "SE",
+        "id": "MTA_503753",
+        "lat": 40.725654,
+        "locationType": 0,
+        "lon": -73.725173,
+        "name": "BRADDOCK AV/CROSS ISLAND PKWY",
+        "routeIds": [
+            "MTA NYCT_Q1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503965",
+        "direction": "NE",
+        "id": "MTA_503965",
+        "lat": 40.723225,
+        "locationType": 0,
+        "lon": -73.756211,
+        "name": "HILLSIDE AV/210 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503978",
+        "direction": "NE",
+        "id": "MTA_503978",
+        "lat": 40.719173,
+        "locationType": 0,
+        "lon": -73.763711,
+        "name": "HILLSIDE AV/199 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503984",
+        "direction": "NE",
+        "id": "MTA_503984",
+        "lat": 40.710261,
+        "locationType": 0,
+        "lon": -73.793941,
+        "name": "HILLSIDE AV/168 PL",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504472",
+        "direction": "W",
+        "id": "MTA_504472",
+        "lat": 40.707919,
+        "locationType": 0,
+        "lon": -73.79573,
+        "name": "165 ST/TERMINAL",
+        "routeIds": [
+            "MTA NYCT_Q1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505201",
+        "direction": "SW",
+        "id": "MTA_505201",
+        "lat": 40.718858,
+        "locationType": 0,
+        "lon": -73.764627,
+        "name": "HILLSIDE AV/198 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505233",
+        "direction": "W",
+        "id": "MTA_505233",
+        "lat": 40.713535,
+        "locationType": 0,
+        "lon": -73.780431,
+        "name": "HILLSIDE AV/AVON ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505284",
+        "direction": "E",
+        "id": "MTA_505284",
+        "lat": 40.711852,
+        "locationType": 0,
+        "lon": -73.786805,
+        "name": "HILLSIDE AV/175 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804052",
+        "direction": "SE",
+        "id": "MTA_804052",
+        "lat": 40.707663,
+        "locationType": 0,
+        "lon": -73.795217,
+        "name": "165 ST/TERMINAL",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804087",
+        "direction": "SE",
+        "id": "MTA_804087",
+        "lat": 40.725647,
+        "locationType": 0,
+        "lon": -73.725154,
+        "name": "BRADDOCK AV/CROSS ISLAND PKWY",
+        "routeIds": [
+            "MTA NYCT_Q1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

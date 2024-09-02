@@ -1,0 +1,983 @@
+[
+    {
+        "code": "100148",
+        "direction": "NE",
+        "id": "MTA_100148",
+        "lat": 40.845711,
+        "locationType": 0,
+        "lon": -73.921894,
+        "name": "UNIVERSITY AV/GEORGE WASHINGTON BRIDGE",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100149",
+        "direction": "NE",
+        "id": "MTA_100149",
+        "lat": 40.846858,
+        "locationType": 0,
+        "lon": -73.92044,
+        "name": "UNIVERSITY AV/W 174 ST",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100151",
+        "direction": "NE",
+        "id": "MTA_100151",
+        "lat": 40.849217,
+        "locationType": 0,
+        "lon": -73.917023,
+        "name": "UNIVERSITY AV/W 176 ST",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX18B",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100152",
+        "direction": "NE",
+        "id": "MTA_100152",
+        "lat": 40.850268,
+        "locationType": 0,
+        "lon": -73.915494,
+        "name": "UNIVERSITY AV/WEST TREMONT AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100195",
+        "direction": "SW",
+        "id": "MTA_100195",
+        "lat": 40.850235,
+        "locationType": 0,
+        "lon": -73.916007,
+        "name": "UNIVERSITY AV/WEST TREMONT AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX18B",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100199",
+        "direction": "SW",
+        "id": "MTA_100199",
+        "lat": 40.845313,
+        "locationType": 0,
+        "lon": -73.922556,
+        "name": "UNIVERSITY AV/GEORGE WASHINGTON BRIDGE",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101448",
+        "direction": "W",
+        "id": "MTA_101448",
+        "lat": 40.839878,
+        "locationType": 0,
+        "lon": -73.873986,
+        "name": "EAST TREMONT AV/MORRIS PARK AV",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102357",
+        "direction": "NE",
+        "id": "MTA_102357",
+        "lat": 40.850656,
+        "locationType": 0,
+        "lon": -73.912158,
+        "name": "WEST TREMONT AV/W 177 ST",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102358",
+        "direction": "E",
+        "id": "MTA_102358",
+        "lat": 40.851898,
+        "locationType": 0,
+        "lon": -73.910388,
+        "name": "WEST TREMONT AV/DAVIDSON AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102359",
+        "direction": "SE",
+        "id": "MTA_102359",
+        "lat": 40.851512,
+        "locationType": 0,
+        "lon": -73.908889,
+        "name": "EAST TREMONT AV/JEROME AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102361",
+        "direction": "SE",
+        "id": "MTA_102361",
+        "lat": 40.849534,
+        "locationType": 0,
+        "lon": -73.906343,
+        "name": "EAST TREMONT AV/GRAND CONCOURSE",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102363",
+        "direction": "E",
+        "id": "MTA_102363",
+        "lat": 40.848538,
+        "locationType": 0,
+        "lon": -73.902925,
+        "name": "EAST TREMONT AV/ANTHONY AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102394",
+        "direction": "S",
+        "id": "MTA_102394",
+        "lat": 40.833064,
+        "locationType": 0,
+        "lon": -73.862876,
+        "name": "WHITE PLAINS RD/WESTCHESTER AV",
+        "routeIds": [
+            "MTA NYCT_BX36",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102395",
+        "direction": "SE",
+        "id": "MTA_102395",
+        "lat": 40.830186,
+        "locationType": 0,
+        "lon": -73.861599,
+        "name": "WHITE PLAINS RD/GLEASON AV",
+        "routeIds": [
+            "MTA NYCT_BX36",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102396",
+        "direction": "SE",
+        "id": "MTA_102396",
+        "lat": 40.828107,
+        "locationType": 0,
+        "lon": -73.86066,
+        "name": "WHITE PLAINS RD/WATSON AV",
+        "routeIds": [
+            "MTA NYCT_BX36",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102401",
+        "direction": "E",
+        "id": "MTA_102401",
+        "lat": 40.820276,
+        "locationType": 0,
+        "lon": -73.854184,
+        "name": "SEWARD AV/PUGSLEY AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102411",
+        "direction": "W",
+        "id": "MTA_102411",
+        "lat": 40.818675,
+        "locationType": 0,
+        "lon": -73.851558,
+        "name": "RANDALL AV/OLMSTEAD AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102413",
+        "direction": "N",
+        "id": "MTA_102413",
+        "lat": 40.820192,
+        "locationType": 0,
+        "lon": -73.854506,
+        "name": "PUGSLEY AV/SEWARD AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102416",
+        "direction": "NW",
+        "id": "MTA_102416",
+        "lat": 40.824575,
+        "locationType": 0,
+        "lon": -73.858807,
+        "name": "WHITE PLAINS RD/STORY AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102417",
+        "direction": "NW",
+        "id": "MTA_102417",
+        "lat": 40.826578,
+        "locationType": 0,
+        "lon": -73.859753,
+        "name": "WHITE PLAINS RD/BRUCKNER BLVD",
+        "routeIds": [
+            "MTA NYCT_BX36",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102418",
+        "direction": "NW",
+        "id": "MTA_102418",
+        "lat": 40.828688,
+        "locationType": 0,
+        "lon": -73.860722,
+        "name": "WHITE PLAINS RD/WATSON AV",
+        "routeIds": [
+            "MTA NYCT_BX36",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102419",
+        "direction": "N",
+        "id": "MTA_102419",
+        "lat": 40.830809,
+        "locationType": 0,
+        "lon": -73.861634,
+        "name": "WHITE PLAINS RD/GLEASON AV",
+        "routeIds": [
+            "MTA NYCT_BX36",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102446",
+        "direction": "W",
+        "id": "MTA_102446",
+        "lat": 40.848851,
+        "locationType": 0,
+        "lon": -73.903641,
+        "name": "EAST TREMONT AV/ANTHONY AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102447",
+        "direction": "NW",
+        "id": "MTA_102447",
+        "lat": 40.8493,
+        "locationType": 0,
+        "lon": -73.905632,
+        "name": "EAST TREMONT AV/GRAND CONCOURSE EAST",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102450",
+        "direction": "W",
+        "id": "MTA_102450",
+        "lat": 40.852046,
+        "locationType": 0,
+        "lon": -73.909954,
+        "name": "WEST TREMONT AV/DAVIDSON AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102451",
+        "direction": "SW",
+        "id": "MTA_102451",
+        "lat": 40.850516,
+        "locationType": 0,
+        "lon": -73.912461,
+        "name": "WEST TREMONT AV/W 177 ST",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102492",
+        "direction": "E",
+        "id": "MTA_102492",
+        "lat": 40.846484,
+        "locationType": 0,
+        "lon": -73.895765,
+        "name": "EAST TREMONT AV/3 AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102493",
+        "direction": "SE",
+        "id": "MTA_102493",
+        "lat": 40.846014,
+        "locationType": 0,
+        "lon": -73.892549,
+        "name": "EAST TREMONT AV/ARTHUR AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102494",
+        "direction": "SE",
+        "id": "MTA_102494",
+        "lat": 40.845195,
+        "locationType": 0,
+        "lon": -73.89081,
+        "name": "EAST TREMONT AV/CROTONA AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102495",
+        "direction": "SE",
+        "id": "MTA_102495",
+        "lat": 40.84416,
+        "locationType": 0,
+        "lon": -73.888708,
+        "name": "EAST TREMONT AV/PROSPECT AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102498",
+        "direction": "SE",
+        "id": "MTA_102498",
+        "lat": 40.841076,
+        "locationType": 0,
+        "lon": -73.882483,
+        "name": "EAST TREMONT AV/VYSE AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102499",
+        "direction": "SE",
+        "id": "MTA_102499",
+        "lat": 40.840214,
+        "locationType": 0,
+        "lon": -73.880653,
+        "name": "EAST TREMONT AV/BOSTON RD",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102529",
+        "direction": "NW",
+        "id": "MTA_102529",
+        "lat": 40.840849,
+        "locationType": 0,
+        "lon": -73.881822,
+        "name": "EAST TREMONT AV/BRYANT AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102532",
+        "direction": "NW",
+        "id": "MTA_102532",
+        "lat": 40.844571,
+        "locationType": 0,
+        "lon": -73.889337,
+        "name": "EAST TREMONT AV/PROSPECT AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102533",
+        "direction": "NW",
+        "id": "MTA_102533",
+        "lat": 40.845625,
+        "locationType": 0,
+        "lon": -73.891455,
+        "name": "EAST TREMONT AV/CROTONA AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102534",
+        "direction": "W",
+        "id": "MTA_102534",
+        "lat": 40.846483,
+        "locationType": 0,
+        "lon": -73.89374,
+        "name": "EAST TREMONT AV/ARTHUR AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102566",
+        "direction": "E",
+        "id": "MTA_102566",
+        "lat": 40.839715,
+        "locationType": 0,
+        "lon": -73.873484,
+        "name": "EAST TREMONT AV/MORRIS PK AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102568",
+        "direction": "E",
+        "id": "MTA_102568",
+        "lat": 40.839737,
+        "locationType": 0,
+        "lon": -73.868835,
+        "name": "EAST TREMONT AV/COMMONWEALTH AV",
+        "routeIds": [
+            "MTA NYCT_BX36",
+            "MTA NYCT_BX40",
+            "MTA NYCT_BX42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102978",
+        "direction": "S",
+        "id": "MTA_102978",
+        "lat": 40.820506,
+        "locationType": 0,
+        "lon": -73.851633,
+        "name": "OLMSTEAD AV/SEWARD AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102985",
+        "direction": "N",
+        "id": "MTA_102985",
+        "lat": 40.822144,
+        "locationType": 0,
+        "lon": -73.858232,
+        "name": "WHITE PLAINS RD/LAFAYETTE AV",
+        "routeIds": [
+            "MTA NYCT_BX5",
+            "MTA NYCT_BX36",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103310",
+        "direction": "SE",
+        "id": "MTA_103310",
+        "lat": 40.840718,
+        "locationType": 0,
+        "lon": -73.864404,
+        "name": "WHITE PLAINS RD/EAST TREMONT AV",
+        "routeIds": [
+            "MTA NYCT_BX36",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103311",
+        "direction": "S",
+        "id": "MTA_103311",
+        "lat": 40.837538,
+        "locationType": 0,
+        "lon": -73.863619,
+        "name": "WHITE PLAINS RD/ARCHER ST",
+        "routeIds": [
+            "MTA NYCT_BX36",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103321",
+        "direction": "N",
+        "id": "MTA_103321",
+        "lat": 40.833367,
+        "locationType": 0,
+        "lon": -73.862704,
+        "name": "WHITE PLAINS RD/WESTCHESTER AV",
+        "routeIds": [
+            "MTA NYCT_BX36",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103322",
+        "direction": "N",
+        "id": "MTA_103322",
+        "lat": 40.835841,
+        "locationType": 0,
+        "lon": -73.863091,
+        "name": "WHITE PLAINS RD/WOOD AV",
+        "routeIds": [
+            "MTA NYCT_BX36",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103323",
+        "direction": "NW",
+        "id": "MTA_103323",
+        "lat": 40.840327,
+        "locationType": 0,
+        "lon": -73.864015,
+        "name": "WHITE PLAINS RD/GUERLAIN ST",
+        "routeIds": [
+            "MTA NYCT_BX36",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103355",
+        "direction": "E",
+        "id": "MTA_103355",
+        "lat": 40.822005,
+        "locationType": 0,
+        "lon": -73.857966,
+        "name": "LAFAYETTE AV/WHITE PLAINS RD",
+        "routeIds": [
+            "MTA NYCT_BX5",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103446",
+        "direction": "W",
+        "id": "MTA_103446",
+        "lat": 40.846759,
+        "locationType": 0,
+        "lon": -73.89659,
+        "name": "EAST TREMONT AV/3 AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103653",
+        "direction": "S",
+        "id": "MTA_103653",
+        "lat": 40.82388,
+        "locationType": 0,
+        "lon": -73.858819,
+        "name": "WHITE PLAINS RD/STORY AV",
+        "routeIds": [
+            "MTA NYCT_BX5",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103701",
+        "direction": "SE",
+        "id": "MTA_103701",
+        "lat": 40.826428,
+        "locationType": 0,
+        "lon": -73.859856,
+        "name": "WHITE PLAINS RD/BRUCKNER BLVD",
+        "routeIds": [
+            "MTA NYCT_BX36",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103731",
+        "direction": "W",
+        "id": "MTA_103731",
+        "lat": 40.840051,
+        "locationType": 0,
+        "lon": -73.868324,
+        "name": "EAST TREMONT AV/ST LAWRENCE AV",
+        "routeIds": [
+            "MTA NYCT_BX36",
+            "MTA NYCT_BX40",
+            "MTA NYCT_BX42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103902",
+        "direction": "N",
+        "id": "MTA_103902",
+        "lat": 40.838162,
+        "locationType": 0,
+        "lon": -73.863537,
+        "name": "WHITE PLAINS RD/ARCHER ST",
+        "routeIds": [
+            "MTA NYCT_BX36",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103903",
+        "direction": "S",
+        "id": "MTA_103903",
+        "lat": 40.835216,
+        "locationType": 0,
+        "lon": -73.863222,
+        "name": "WHITE PLAINS RD/WOOD AV",
+        "routeIds": [
+            "MTA NYCT_BX36",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104058",
+        "direction": "W",
+        "id": "MTA_104058",
+        "lat": 40.822391,
+        "locationType": 0,
+        "lon": -73.856033,
+        "name": "LAFAYETTE AV/PUGSLEY AV",
+        "routeIds": [
+            "MTA NYCT_BX5",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104104",
+        "direction": "E",
+        "id": "MTA_104104",
+        "lat": 40.840632,
+        "locationType": 0,
+        "lon": -73.865995,
+        "name": "EAST TREMONT AV/THIERIOT AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104117",
+        "direction": "W",
+        "id": "MTA_104117",
+        "lat": 40.840014,
+        "locationType": 0,
+        "lon": -73.877652,
+        "name": "EAST TREMONT AV/DEVOE AV",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104326",
+        "direction": "SW",
+        "id": "MTA_104326",
+        "lat": 40.848728,
+        "locationType": 0,
+        "lon": -73.918115,
+        "name": "UNIVERSITY AV/W 176 ST",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403652",
+        "direction": "NW",
+        "id": "MTA_403652",
+        "lat": 40.848237,
+        "locationType": 0,
+        "lon": -73.931,
+        "name": "W 181 ST/AMSTERDAM AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13",
+            "MTA NYCT_BX35",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403653",
+        "direction": "NW",
+        "id": "MTA_403653",
+        "lat": 40.849311,
+        "locationType": 0,
+        "lon": -73.933514,
+        "name": "W 181 ST/SAINT NICHOLAS AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13",
+            "MTA NYCT_BX35",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403656",
+        "direction": "SE",
+        "id": "MTA_403656",
+        "lat": 40.849246,
+        "locationType": 0,
+        "lon": -73.933664,
+        "name": "W 181 ST/SAINT NICHOLAS AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13",
+            "MTA NYCT_BX35",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403658",
+        "direction": "SE",
+        "id": "MTA_403658",
+        "lat": 40.848163,
+        "locationType": 0,
+        "lon": -73.931184,
+        "name": "W 181 ST/AMSTERDAM AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13",
+            "MTA NYCT_BX35",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403667",
+        "direction": "E",
+        "id": "MTA_403667",
+        "lat": 40.84843,
+        "locationType": 0,
+        "lon": -73.938117,
+        "name": "W 178 ST/FORT WASHINGTON AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403670",
+        "direction": "W",
+        "id": "MTA_403670",
+        "lat": 40.849167,
+        "locationType": 0,
+        "lon": -73.937993,
+        "name": "W 179 ST/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX36",
+            "MTA NYCT_M98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403783",
+        "direction": "NE",
+        "id": "MTA_403783",
+        "lat": 40.849579,
+        "locationType": 0,
+        "lon": -73.935065,
+        "name": "WADSWORTH AV/W 181 ST",
+        "routeIds": [
+            "MTA NYCT_BX35",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404324",
+        "direction": "SW",
+        "id": "MTA_404324",
+        "lat": 40.849738,
+        "locationType": 0,
+        "lon": -73.935135,
+        "name": "WADSWORTH AV/W 181 ST",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13",
+            "MTA NYCT_BX35",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "802186",
+        "direction": "SW",
+        "id": "MTA_802186",
+        "lat": 40.847651,
+        "locationType": 0,
+        "lon": -73.919561,
+        "name": "UNIVERSITY AV/ W 175 ST",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903252",
+        "direction": "E",
+        "id": "MTA_903252",
+        "lat": 40.847572,
+        "locationType": 0,
+        "lon": -73.900564,
+        "name": "EAST TREMONT AV/WEBSTER AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903253",
+        "direction": "SE",
+        "id": "MTA_903253",
+        "lat": 40.842728,
+        "locationType": 0,
+        "lon": -73.8859,
+        "name": "EAST TREMONT AV/SOUTHERN BLVD",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903254",
+        "direction": "E",
+        "id": "MTA_903254",
+        "lat": 40.839859,
+        "locationType": 0,
+        "lon": -73.878467,
+        "name": "EAST TREMONT AV/E 177 ST",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903255",
+        "direction": "W",
+        "id": "MTA_903255",
+        "lat": 40.840225,
+        "locationType": 0,
+        "lon": -73.879921,
+        "name": "EAST TREMONT AV/BOSTON RD",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903256",
+        "direction": "NW",
+        "id": "MTA_903256",
+        "lat": 40.842548,
+        "locationType": 0,
+        "lon": -73.885207,
+        "name": "EAST TREMONT AV/CROTONA PKWY",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903257",
+        "direction": "W",
+        "id": "MTA_903257",
+        "lat": 40.847694,
+        "locationType": 0,
+        "lon": -73.900711,
+        "name": "EAST TREMONT AV/WEBSTER AV",
+        "routeIds": [
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

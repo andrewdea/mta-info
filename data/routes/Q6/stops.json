@@ -1,0 +1,942 @@
+[
+    {
+        "code": "502145",
+        "direction": "W",
+        "id": "MTA_502145",
+        "lat": 40.702228,
+        "locationType": 0,
+        "lon": -73.804326,
+        "name": "JAMAICA AV/150 ST",
+        "routeIds": [
+            "MTABC_Q06",
+            "MTABC_Q08",
+            "MTABC_Q09",
+            "MTA NYCT_Q24",
+            "MTA NYCT_Q30",
+            "MTA NYCT_Q31",
+            "MTABC_Q41",
+            "MTA NYCT_Q54",
+            "MTA NYCT_Q56"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503674",
+        "direction": "NW",
+        "id": "MTA_503674",
+        "lat": 40.706734,
+        "locationType": 0,
+        "lon": -73.792644,
+        "name": "168 ST/JAMAICA AV",
+        "routeIds": [
+            "MTABC_Q06",
+            "MTABC_Q08",
+            "MTABC_Q09",
+            "MTA NYCT_Q17",
+            "MTABC_Q41"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550001",
+        "direction": "NW",
+        "id": "MTA_550001",
+        "lat": 40.652639,
+        "locationType": 0,
+        "lon": -73.76537,
+        "name": "EASTERN RD/BLDG 77 HALMAR",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550002",
+        "direction": "NW",
+        "id": "MTA_550002",
+        "lat": 40.656654,
+        "locationType": 0,
+        "lon": -73.77053,
+        "name": "N BOUNDARY RD/BLDG 250 POST OFFICE",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550003",
+        "direction": "NW",
+        "id": "MTA_550003",
+        "lat": 40.657451,
+        "locationType": 0,
+        "lon": -73.771764,
+        "name": "N BOUNDARY RD/OLD ROCKAWAY BLVD",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550004",
+        "direction": "NW",
+        "id": "MTA_550004",
+        "lat": 40.660357,
+        "locationType": 0,
+        "lon": -73.774194,
+        "name": "ROCKAWAY BLVD/147 AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550005",
+        "direction": "NW",
+        "id": "MTA_550005",
+        "lat": 40.662652,
+        "locationType": 0,
+        "lon": -73.776172,
+        "name": "ROCKAWAY BLVD/145 RD",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550007",
+        "direction": "NW",
+        "id": "MTA_550007",
+        "lat": 40.665882,
+        "locationType": 0,
+        "lon": -73.778917,
+        "name": "ROCKAWAY BLVD/144 AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550008",
+        "direction": "NW",
+        "id": "MTA_550008",
+        "lat": 40.667706,
+        "locationType": 0,
+        "lon": -73.780563,
+        "name": "ROCKAWAY BLVD/N CONDUIT AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550009",
+        "direction": "NW",
+        "id": "MTA_550009",
+        "lat": 40.668811,
+        "locationType": 0,
+        "lon": -73.781633,
+        "name": "ROCKAWAY BLVD/137 AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550011",
+        "direction": "NW",
+        "id": "MTA_550011",
+        "lat": 40.672436,
+        "locationType": 0,
+        "lon": -73.785522,
+        "name": "ROCKAWAY BLVD/BAISLEY BLVD",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550012",
+        "direction": "NW",
+        "id": "MTA_550012",
+        "lat": 40.673854,
+        "locationType": 0,
+        "lon": -73.788567,
+        "name": "SUTPHIN BLVD/ROCKAWAY BLVD",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550013",
+        "direction": "NW",
+        "id": "MTA_550013",
+        "lat": 40.676202,
+        "locationType": 0,
+        "lon": -73.790313,
+        "name": "SUTPHIN BLVD/123 AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550014",
+        "direction": "N",
+        "id": "MTA_550014",
+        "lat": 40.678171,
+        "locationType": 0,
+        "lon": -73.791178,
+        "name": "SUTPHIN BLVD/120 AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550015",
+        "direction": "N",
+        "id": "MTA_550015",
+        "lat": 40.679228,
+        "locationType": 0,
+        "lon": -73.79156,
+        "name": "SUTPHIN BLVD/119 AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550016",
+        "direction": "N",
+        "id": "MTA_550016",
+        "lat": 40.680656,
+        "locationType": 0,
+        "lon": -73.792031,
+        "name": "SUTPHIN BLVD/FOCH BLVD",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550017",
+        "direction": "N",
+        "id": "MTA_550017",
+        "lat": 40.682863,
+        "locationType": 0,
+        "lon": -73.792551,
+        "name": "SUTPHIN BLVD/116 AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550018",
+        "direction": "N",
+        "id": "MTA_550018",
+        "lat": 40.684375,
+        "locationType": 0,
+        "lon": -73.792516,
+        "name": "SUTPHIN BLVD/115 RD",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550019",
+        "direction": "NW",
+        "id": "MTA_550019",
+        "lat": 40.686206,
+        "locationType": 0,
+        "lon": -73.793726,
+        "name": "SUTPHIN BLVD/LINDEN BLVD",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550020",
+        "direction": "NW",
+        "id": "MTA_550020",
+        "lat": 40.687627,
+        "locationType": 0,
+        "lon": -73.794786,
+        "name": "SUTPHIN BLVD/112 AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550021",
+        "direction": "NW",
+        "id": "MTA_550021",
+        "lat": 40.688809,
+        "locationType": 0,
+        "lon": -73.795603,
+        "name": "SUTPHIN BLVD/111 AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550024",
+        "direction": "NW",
+        "id": "MTA_550024",
+        "lat": 40.691822,
+        "locationType": 0,
+        "lon": -73.798037,
+        "name": "SUTPHIN BLVD/109 AV",
+        "routeIds": [
+            "MTABC_Q06",
+            "MTABC_Q60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550025",
+        "direction": "NW",
+        "id": "MTA_550025",
+        "lat": 40.693313,
+        "locationType": 0,
+        "lon": -73.799563,
+        "name": "SUTPHIN BLVD/YATES RD",
+        "routeIds": [
+            "MTABC_Q06",
+            "MTABC_Q60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550027",
+        "direction": "NW",
+        "id": "MTA_550027",
+        "lat": 40.694714,
+        "locationType": 0,
+        "lon": -73.802214,
+        "name": "SUTPHIN BLVD/TUSKEGEE AIRMEN WAY",
+        "routeIds": [
+            "MTABC_Q06",
+            "MTABC_Q40",
+            "MTABC_Q60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550028",
+        "direction": "NW",
+        "id": "MTA_550028",
+        "lat": 40.696129,
+        "locationType": 0,
+        "lon": -73.804236,
+        "name": "SUTPHIN BLVD/LIBERTY AV",
+        "routeIds": [
+            "MTABC_Q06",
+            "MTABC_Q40",
+            "MTABC_Q60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550030",
+        "direction": "NW",
+        "id": "MTA_550030",
+        "lat": 40.698331,
+        "locationType": 0,
+        "lon": -73.806328,
+        "name": "SUTPHIN BLVD/95 AV",
+        "routeIds": [
+            "MTABC_Q06",
+            "MTABC_Q08",
+            "MTABC_Q09",
+            "MTABC_Q40",
+            "MTABC_Q60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550031",
+        "direction": "NW",
+        "id": "MTA_550031",
+        "lat": 40.700523,
+        "locationType": 0,
+        "lon": -73.807598,
+        "name": "SUTPHIN BLVD/ARCHER AV",
+        "routeIds": [
+            "MTABC_Q06",
+            "MTABC_Q60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550034",
+        "direction": "SE",
+        "id": "MTA_550034",
+        "lat": 40.707092,
+        "locationType": 0,
+        "lon": -73.795537,
+        "name": "165 ST TERMINAL/Q6 STAND",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550035",
+        "direction": "W",
+        "id": "MTA_550035",
+        "lat": 40.705333,
+        "locationType": 0,
+        "lon": -73.79551,
+        "name": "JAMAICA AV / 164 ST",
+        "routeIds": [
+            "MTABC_Q06",
+            "MTABC_Q08",
+            "MTABC_Q09",
+            "MTABC_Q41"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550036",
+        "direction": "SW",
+        "id": "MTA_550036",
+        "lat": 40.703739,
+        "locationType": 0,
+        "lon": -73.799588,
+        "name": "JAMAICA AV /160 ST",
+        "routeIds": [
+            "MTABC_Q06",
+            "MTABC_Q08",
+            "MTABC_Q09",
+            "MTABC_Q41"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550040",
+        "direction": "SE",
+        "id": "MTA_550040",
+        "lat": 40.697351,
+        "locationType": 0,
+        "lon": -73.805865,
+        "name": "SUTPHIN BLVD/97 AV",
+        "routeIds": [
+            "MTABC_Q06",
+            "MTABC_Q08",
+            "MTABC_Q09",
+            "MTABC_Q40",
+            "MTABC_Q60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550041",
+        "direction": "SE",
+        "id": "MTA_550041",
+        "lat": 40.696037,
+        "locationType": 0,
+        "lon": -73.804348,
+        "name": "SUTPHIN BLVD/LIBERTY AV",
+        "routeIds": [
+            "MTABC_Q06",
+            "MTABC_Q40",
+            "MTABC_Q60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550042",
+        "direction": "SE",
+        "id": "MTA_550042",
+        "lat": 40.694459,
+        "locationType": 0,
+        "lon": -73.802052,
+        "name": "SUTPHIN BLVD/TUSKEGEE AIRMEN WAY",
+        "routeIds": [
+            "MTABC_Q06",
+            "MTABC_Q40",
+            "MTABC_Q60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550043",
+        "direction": "SE",
+        "id": "MTA_550043",
+        "lat": 40.693507,
+        "locationType": 0,
+        "lon": -73.800099,
+        "name": "SUTPHIN BLVD/LAKEWOOD AV",
+        "routeIds": [
+            "MTABC_Q06",
+            "MTABC_Q60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550044",
+        "direction": "SE",
+        "id": "MTA_550044",
+        "lat": 40.692378,
+        "locationType": 0,
+        "lon": -73.798775,
+        "name": "SUTPHIN BLVD/ARLINGTON TERR",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550045",
+        "direction": "SE",
+        "id": "MTA_550045",
+        "lat": 40.69115,
+        "locationType": 0,
+        "lon": -73.797775,
+        "name": "SUTPHIN BLVD/FERNDALE AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550046",
+        "direction": "SE",
+        "id": "MTA_550046",
+        "lat": 40.689914,
+        "locationType": 0,
+        "lon": -73.796786,
+        "name": "SUTPHIN BLVD/110 AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550047",
+        "direction": "SE",
+        "id": "MTA_550047",
+        "lat": 40.688538,
+        "locationType": 0,
+        "lon": -73.795594,
+        "name": "SUTPHIN BLVD/111 AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550048",
+        "direction": "SE",
+        "id": "MTA_550048",
+        "lat": 40.687349,
+        "locationType": 0,
+        "lon": -73.794757,
+        "name": "SUTPHIN BLVD/112 AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550049",
+        "direction": "SE",
+        "id": "MTA_550049",
+        "lat": 40.686151,
+        "locationType": 0,
+        "lon": -73.793879,
+        "name": "SUTPHIN BLVD/LINDEN BLVD",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550050",
+        "direction": "S",
+        "id": "MTA_550050",
+        "lat": 40.684506,
+        "locationType": 0,
+        "lon": -73.792739,
+        "name": "SUTPHIN BLVD/115 AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550051",
+        "direction": "S",
+        "id": "MTA_550051",
+        "lat": 40.682462,
+        "locationType": 0,
+        "lon": -73.792735,
+        "name": "SUTPHIN BLVD/116 AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550052",
+        "direction": "S",
+        "id": "MTA_550052",
+        "lat": 40.680339,
+        "locationType": 0,
+        "lon": -73.792124,
+        "name": "SUTPHIN BLVD/FOCH BLVD",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550053",
+        "direction": "S",
+        "id": "MTA_550053",
+        "lat": 40.679212,
+        "locationType": 0,
+        "lon": -73.791742,
+        "name": "SUTPHIN BLVD/119 AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550054",
+        "direction": "S",
+        "id": "MTA_550054",
+        "lat": 40.677622,
+        "locationType": 0,
+        "lon": -73.791159,
+        "name": "SUTPHIN BLVD/120 AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550055",
+        "direction": "SE",
+        "id": "MTA_550055",
+        "lat": 40.676147,
+        "locationType": 0,
+        "lon": -73.790495,
+        "name": "SUTPHIN BLVD/123 AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550057",
+        "direction": "E",
+        "id": "MTA_550057",
+        "lat": 40.672895,
+        "locationType": 0,
+        "lon": -73.78783,
+        "name": "ROCKAWAY BLVD/150 ST",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550058",
+        "direction": "SE",
+        "id": "MTA_550058",
+        "lat": 40.672359,
+        "locationType": 0,
+        "lon": -73.785927,
+        "name": "ROCKAWAY BLVD/BAISLEY BLVD",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550059",
+        "direction": "SE",
+        "id": "MTA_550059",
+        "lat": 40.67004,
+        "locationType": 0,
+        "lon": -73.783311,
+        "name": "ROCKAWAY BLVD/134 AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550060",
+        "direction": "SE",
+        "id": "MTA_550060",
+        "lat": 40.667651,
+        "locationType": 0,
+        "lon": -73.780887,
+        "name": "ROCKAWAY BLVD/N CONDUIT AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550061",
+        "direction": "SE",
+        "id": "MTA_550061",
+        "lat": 40.668741,
+        "locationType": 0,
+        "lon": -73.781968,
+        "name": "ROCKAWAY BLVD/136 AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550062",
+        "direction": "SE",
+        "id": "MTA_550062",
+        "lat": 40.665511,
+        "locationType": 0,
+        "lon": -73.778969,
+        "name": "ROCKAWAY BLVD/158 ST",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550063",
+        "direction": "SE",
+        "id": "MTA_550063",
+        "lat": 40.664219,
+        "locationType": 0,
+        "lon": -73.777866,
+        "name": "ROCKAWAY BLVD/144 DR",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550064",
+        "direction": "SE",
+        "id": "MTA_550064",
+        "lat": 40.662505,
+        "locationType": 0,
+        "lon": -73.776436,
+        "name": "ROCKAWAY BLVD/145 RD",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550065",
+        "direction": "S",
+        "id": "MTA_550065",
+        "lat": 40.660663,
+        "locationType": 0,
+        "lon": -73.775588,
+        "name": "ROCKAWAY BLVD/147 AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550066",
+        "direction": "SE",
+        "id": "MTA_550066",
+        "lat": 40.658737,
+        "locationType": 0,
+        "lon": -73.774433,
+        "name": "N BOUNDARY RD/FARMERS BLVD",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550067",
+        "direction": "SE",
+        "id": "MTA_550067",
+        "lat": 40.657251,
+        "locationType": 0,
+        "lon": -73.771957,
+        "name": "N BOUNDARY RD/OLD ROCKAWAY BLVD",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550068",
+        "direction": "SE",
+        "id": "MTA_550068",
+        "lat": 40.656477,
+        "locationType": 0,
+        "lon": -73.770794,
+        "name": "N BOUNDARY RD/BLDG 250 POST OFFICE",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550184",
+        "direction": "S",
+        "id": "MTA_550184",
+        "lat": 40.700766,
+        "locationType": 0,
+        "lon": -73.807887,
+        "name": "SUTPHIN BLVD/91 AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552909",
+        "direction": "NW",
+        "id": "MTA_552909",
+        "lat": 40.670264,
+        "locationType": 0,
+        "lon": -73.783107,
+        "name": "ROCKAWAY BLVD/134 AV",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552983",
+        "direction": "NW",
+        "id": "MTA_552983",
+        "lat": 40.664854,
+        "locationType": 0,
+        "lon": -73.778029,
+        "name": "ROCKAWAY BLVD/144 RD",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553131",
+        "direction": "E",
+        "id": "MTA_553131",
+        "lat": 40.701715,
+        "locationType": 0,
+        "lon": -73.806422,
+        "name": "JAMAICA AV /148 ST",
+        "routeIds": [
+            "MTABC_Q06",
+            "MTABC_Q08",
+            "MTABC_Q09",
+            "MTABC_Q41"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553132",
+        "direction": "E",
+        "id": "MTA_553132",
+        "lat": 40.702743,
+        "locationType": 0,
+        "lon": -73.802083,
+        "name": "JAMAICA AV /153 ST",
+        "routeIds": [
+            "MTABC_Q06",
+            "MTABC_Q08",
+            "MTABC_Q09",
+            "MTABC_Q41"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553133",
+        "direction": "E",
+        "id": "MTA_553133",
+        "lat": 40.704315,
+        "locationType": 0,
+        "lon": -73.797504,
+        "name": "JAMAICA AV /162 ST",
+        "routeIds": [
+            "MTABC_Q06",
+            "MTABC_Q08",
+            "MTABC_Q09",
+            "MTABC_Q41"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553134",
+        "direction": "E",
+        "id": "MTA_553134",
+        "lat": 40.705289,
+        "locationType": 0,
+        "lon": -73.795219,
+        "name": "JAMAICA AV /165 ST",
+        "routeIds": [
+            "MTABC_Q06",
+            "MTABC_Q08",
+            "MTABC_Q09",
+            "MTABC_Q41"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553159",
+        "direction": "W",
+        "id": "MTA_553159",
+        "lat": 40.704541,
+        "locationType": 0,
+        "lon": -73.79764,
+        "name": "JAMAICA AV /162 ST",
+        "routeIds": [
+            "MTABC_Q06",
+            "MTABC_Q08",
+            "MTABC_Q09",
+            "MTABC_Q41"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982152",
+        "direction": "SE",
+        "id": "MTA_982152",
+        "lat": 40.707223,
+        "locationType": 0,
+        "lon": -73.795441,
+        "name": "165 ST TERMINAL/MTA BUS STAND",
+        "routeIds": [
+            "MTABC_Q06",
+            "MTABC_Q08",
+            "MTABC_Q09",
+            "MTABC_Q41"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982186",
+        "direction": "SE",
+        "id": "MTA_982186",
+        "lat": 40.652566,
+        "locationType": 0,
+        "lon": -73.765501,
+        "name": "EASTERN RD/BUILDING 77 HALMAR",
+        "routeIds": [
+            "MTABC_Q06"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

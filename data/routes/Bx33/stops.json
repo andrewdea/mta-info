@@ -1,0 +1,409 @@
+[
+    {
+        "code": "101074",
+        "direction": "NW",
+        "id": "MTA_101074",
+        "lat": 40.810945,
+        "locationType": 0,
+        "lon": -73.926956,
+        "name": "E 138 ST/3 AV",
+        "routeIds": [
+            "MTA NYCT_BX33",
+            "MTA NYCT_M125"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101201",
+        "direction": "NW",
+        "id": "MTA_101201",
+        "lat": 40.801674,
+        "locationType": 0,
+        "lon": -73.913082,
+        "name": "E 134 ST/WILLOW AV",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102185",
+        "direction": "SE",
+        "id": "MTA_102185",
+        "lat": 40.813217,
+        "locationType": 0,
+        "lon": -73.930599,
+        "name": "E 138 ST/GRAND CONCOURSE",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102187",
+        "direction": "SE",
+        "id": "MTA_102187",
+        "lat": 40.810745,
+        "locationType": 0,
+        "lon": -73.92681,
+        "name": "E 138 ST/LINCOLN AV",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102189",
+        "direction": "SE",
+        "id": "MTA_102189",
+        "lat": 40.808859,
+        "locationType": 0,
+        "lon": -73.922533,
+        "name": "E 138 ST/WILLIS AV",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102190",
+        "direction": "SE",
+        "id": "MTA_102190",
+        "lat": 40.807333,
+        "locationType": 0,
+        "lon": -73.918901,
+        "name": "E 138 ST/BROOK AV",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102192",
+        "direction": "SE",
+        "id": "MTA_102192",
+        "lat": 40.80555,
+        "locationType": 0,
+        "lon": -73.914666,
+        "name": "E 138 ST/CYPRESS AV",
+        "routeIds": [
+            "MTA NYCT_BX17",
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102195",
+        "direction": "SE",
+        "id": "MTA_102195",
+        "lat": 40.802794,
+        "locationType": 0,
+        "lon": -73.908667,
+        "name": "E 138 ST/WALNUT AV",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102204",
+        "direction": "W",
+        "id": "MTA_102204",
+        "lat": 40.804396,
+        "locationType": 0,
+        "lon": -73.911464,
+        "name": "E 138 ST/BRUCKNER BLVD",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102206",
+        "direction": "NW",
+        "id": "MTA_102206",
+        "lat": 40.805785,
+        "locationType": 0,
+        "lon": -73.914832,
+        "name": "E 138 ST/CYPRESS AV",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102207",
+        "direction": "NW",
+        "id": "MTA_102207",
+        "lat": 40.806829,
+        "locationType": 0,
+        "lon": -73.917302,
+        "name": "E 138 ST/SAINT ANN'S AV",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102208",
+        "direction": "NW",
+        "id": "MTA_102208",
+        "lat": 40.807781,
+        "locationType": 0,
+        "lon": -73.919551,
+        "name": "E 138 ST/BROOK AV",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102209",
+        "direction": "NW",
+        "id": "MTA_102209",
+        "lat": 40.809339,
+        "locationType": 0,
+        "lon": -73.923237,
+        "name": "E 138 ST/WILLIS AV",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102988",
+        "direction": "SE",
+        "id": "MTA_102988",
+        "lat": 40.804017,
+        "locationType": 0,
+        "lon": -73.91106,
+        "name": "E 138 ST/WILLOW AV",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103778",
+        "direction": "NW",
+        "id": "MTA_103778",
+        "lat": 40.813346,
+        "locationType": 0,
+        "lon": -73.930263,
+        "name": "E 138 ST/GRAND CONCOURSE",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104248",
+        "direction": "SW",
+        "id": "MTA_104248",
+        "lat": 40.800813,
+        "locationType": 0,
+        "lon": -73.910573,
+        "name": "WALNUT AV/E 135 ST",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104249",
+        "direction": "NE",
+        "id": "MTA_104249",
+        "lat": 40.799752,
+        "locationType": 0,
+        "lon": -73.911466,
+        "name": "WALNUT AV/E 133 ST",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104250",
+        "direction": "NE",
+        "id": "MTA_104250",
+        "lat": 40.80129,
+        "locationType": 0,
+        "lon": -73.909904,
+        "name": "WALNUT AV/E 135 ST",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104251",
+        "direction": "NW",
+        "id": "MTA_104251",
+        "lat": 40.803107,
+        "locationType": 0,
+        "lon": -73.908753,
+        "name": "E 138 ST/WALNUT AV",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104285",
+        "direction": "SE",
+        "id": "MTA_104285",
+        "lat": 40.806642,
+        "locationType": 0,
+        "lon": -73.917271,
+        "name": "E 138 ST/SAINT ANN'S AV",
+        "routeIds": [
+            "MTA NYCT_BX17",
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403711",
+        "direction": "NW",
+        "id": "MTA_403711",
+        "lat": 40.812302,
+        "locationType": 0,
+        "lon": -73.936529,
+        "name": "E 135 ST/MADISON AV",
+        "routeIds": [
+            "MTA NYCT_BX33",
+            "MTA NYCT_M1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403712",
+        "direction": "NW",
+        "id": "MTA_403712",
+        "lat": 40.812924,
+        "locationType": 0,
+        "lon": -73.937965,
+        "name": "W 135 ST/5 AV",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403713",
+        "direction": "NW",
+        "id": "MTA_403713",
+        "lat": 40.814347,
+        "locationType": 0,
+        "lon": -73.941325,
+        "name": "W 135 ST/MALCOLM X BLVD",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403716",
+        "direction": "NW",
+        "id": "MTA_403716",
+        "lat": 40.817043,
+        "locationType": 0,
+        "lon": -73.947771,
+        "name": "W 135 ST/SAINT NICHOLAS AV",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403717",
+        "direction": "SE",
+        "id": "MTA_403717",
+        "lat": 40.816986,
+        "locationType": 0,
+        "lon": -73.947789,
+        "name": "W 135 ST/SAINT NICHOLAS AV",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403720",
+        "direction": "SE",
+        "id": "MTA_403720",
+        "lat": 40.813836,
+        "locationType": 0,
+        "lon": -73.940328,
+        "name": "W 135 ST/MALCOLM X BLVD",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403721",
+        "direction": "SE",
+        "id": "MTA_403721",
+        "lat": 40.812561,
+        "locationType": 0,
+        "lon": -73.937318,
+        "name": "W 135 ST/5 AV",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403722",
+        "direction": "SE",
+        "id": "MTA_403722",
+        "lat": 40.812103,
+        "locationType": 0,
+        "lon": -73.93625,
+        "name": "E 135 ST/MADISON AV",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404113",
+        "direction": "SE",
+        "id": "MTA_404113",
+        "lat": 40.814999,
+        "locationType": 0,
+        "lon": -73.943104,
+        "name": "W 135 ST/ADAM C POWELL BLVD",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404114",
+        "direction": "NW",
+        "id": "MTA_404114",
+        "lat": 40.815597,
+        "locationType": 0,
+        "lon": -73.944297,
+        "name": "W 135 ST/ADAM C POWELL BLVD",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "802102",
+        "direction": "NE",
+        "id": "MTA_802102",
+        "lat": 40.79965,
+        "locationType": 0,
+        "lon": -73.9116,
+        "name": "WALNUT AV/E 133 ST",
+        "routeIds": [
+            "MTA NYCT_BX33"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

@@ -1,0 +1,957 @@
+[
+    {
+        "code": "100025",
+        "direction": "NE",
+        "id": "MTA_100025",
+        "lat": 40.826453,
+        "locationType": 0,
+        "lon": -73.922795,
+        "name": "GRAND CONCOURSE/E 161 ST",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100027",
+        "direction": "NE",
+        "id": "MTA_100027",
+        "lat": 40.831317,
+        "locationType": 0,
+        "lon": -73.919938,
+        "name": "GRAND CONCOURSE/E 165 ST",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100033",
+        "direction": "N",
+        "id": "MTA_100033",
+        "lat": 40.843511,
+        "locationType": 0,
+        "lon": -73.911556,
+        "name": "GRAND CONCOURSE/MOUNT EDEN AV",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100039",
+        "direction": "NE",
+        "id": "MTA_100039",
+        "lat": 40.852087,
+        "locationType": 0,
+        "lon": -73.903564,
+        "name": "GRAND CONCOURSE/EAST BURNSIDE AV",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100045",
+        "direction": "NE",
+        "id": "MTA_100045",
+        "lat": 40.863097,
+        "locationType": 0,
+        "lon": -73.896368,
+        "name": "GRAND CONCOURSE/E FORDHAM RD",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100047",
+        "direction": "NE",
+        "id": "MTA_100047",
+        "lat": 40.866343,
+        "locationType": 0,
+        "lon": -73.893861,
+        "name": "GRAND CONCOURSE/EAST KINGSBRIDGE RD",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100048",
+        "direction": "NE",
+        "id": "MTA_100048",
+        "lat": 40.868079,
+        "locationType": 0,
+        "lon": -73.892542,
+        "name": "GRAND CONCOURSE/E 196 ST",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100098",
+        "direction": "SW",
+        "id": "MTA_100098",
+        "lat": 40.872033,
+        "locationType": 0,
+        "lon": -73.888206,
+        "name": "GRAND CONCOURSE/BEDFORD PK BLVD",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100100",
+        "direction": "SW",
+        "id": "MTA_100100",
+        "lat": 40.868052,
+        "locationType": 0,
+        "lon": -73.89312,
+        "name": "GRAND CONCOURSE/E 196 ST",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100101",
+        "direction": "SW",
+        "id": "MTA_100101",
+        "lat": 40.865775,
+        "locationType": 0,
+        "lon": -73.894863,
+        "name": "GRAND CONCOURSE/EAST KINGSBRIDGE RD",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100103",
+        "direction": "SW",
+        "id": "MTA_100103",
+        "lat": 40.86223,
+        "locationType": 0,
+        "lon": -73.897531,
+        "name": "GRAND CONCOURSE/E FORDHAM RD",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100109",
+        "direction": "SW",
+        "id": "MTA_100109",
+        "lat": 40.852653,
+        "locationType": 0,
+        "lon": -73.903733,
+        "name": "GRAND CONCOURSE/EAST BURNSIDE AV",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100114",
+        "direction": "S",
+        "id": "MTA_100114",
+        "lat": 40.842905,
+        "locationType": 0,
+        "lon": -73.912309,
+        "name": "GRAND CONCOURSE/EAST MOUNT EDEN AV",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100131",
+        "direction": "SW",
+        "id": "MTA_100131",
+        "lat": 40.831175,
+        "locationType": 0,
+        "lon": -73.920603,
+        "name": "GRAND CONCOURSE/E 165 ST",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100134",
+        "direction": "SW",
+        "id": "MTA_100134",
+        "lat": 40.825136,
+        "locationType": 0,
+        "lon": -73.923808,
+        "name": "GRAND CONCOURSE/E 158 ST",
+        "routeIds": [
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100730",
+        "direction": "S",
+        "id": "MTA_100730",
+        "lat": 40.879332,
+        "locationType": 0,
+        "lon": -73.879113,
+        "name": "BAINBRIDGE AV/E 210 ST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX34",
+            "MTA NYCT_BX38",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100731",
+        "direction": "S",
+        "id": "MTA_100731",
+        "lat": 40.87709,
+        "locationType": 0,
+        "lon": -73.879774,
+        "name": "BAINBRIDGE AV/VAN CORTLANDT AV EAST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX34",
+            "MTA NYCT_BX38",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101137",
+        "direction": "N",
+        "id": "MTA_101137",
+        "lat": 40.883777,
+        "locationType": 0,
+        "lon": -73.877631,
+        "name": "BAINBRIDGE AV/E 212 ST",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101138",
+        "direction": "N",
+        "id": "MTA_101138",
+        "lat": 40.886792,
+        "locationType": 0,
+        "lon": -73.877784,
+        "name": "BAINBRIDGE AV/JEROME AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101140",
+        "direction": "E",
+        "id": "MTA_101140",
+        "lat": 40.89568,
+        "locationType": 0,
+        "lon": -73.874901,
+        "name": "E 233 ST/NAPIER AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101142",
+        "direction": "E",
+        "id": "MTA_101142",
+        "lat": 40.89659,
+        "locationType": 0,
+        "lon": -73.870592,
+        "name": "E 233 ST/KEPLER AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101190",
+        "direction": "W",
+        "id": "MTA_101190",
+        "lat": 40.896662,
+        "locationType": 0,
+        "lon": -73.870394,
+        "name": "E 233 ST/KEPLER AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101192",
+        "direction": "W",
+        "id": "MTA_101192",
+        "lat": 40.895739,
+        "locationType": 0,
+        "lon": -73.875215,
+        "name": "E 233 ST/NAPIER AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101193",
+        "direction": "S",
+        "id": "MTA_101193",
+        "lat": 40.886637,
+        "locationType": 0,
+        "lon": -73.877852,
+        "name": "BAINBRIDGE AV/JEROME AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101194",
+        "direction": "S",
+        "id": "MTA_101194",
+        "lat": 40.883145,
+        "locationType": 0,
+        "lon": -73.877844,
+        "name": "BAINBRIDGE AV/E 212 ST",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102242",
+        "direction": "N",
+        "id": "MTA_102242",
+        "lat": 40.897198,
+        "locationType": 0,
+        "lon": -73.86708,
+        "name": "KATONAH AV/E 234 ST",
+        "routeIds": [
+            "MTA NYCT_BX31",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102243",
+        "direction": "N",
+        "id": "MTA_102243",
+        "lat": 40.899246,
+        "locationType": 0,
+        "lon": -73.867417,
+        "name": "KATONAH AV/E 237 ST",
+        "routeIds": [
+            "MTA NYCT_BX31",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102248",
+        "direction": "S",
+        "id": "MTA_102248",
+        "lat": 40.898654,
+        "locationType": 0,
+        "lon": -73.867438,
+        "name": "KATONAH AV/E 237 ST",
+        "routeIds": [
+            "MTA NYCT_BX31",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102249",
+        "direction": "S",
+        "id": "MTA_102249",
+        "lat": 40.897064,
+        "locationType": 0,
+        "lon": -73.867143,
+        "name": "KATONAH AV/E 234 ST",
+        "routeIds": [
+            "MTA NYCT_BX31",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102971",
+        "direction": "NE",
+        "id": "MTA_102971",
+        "lat": 40.87229,
+        "locationType": 0,
+        "lon": -73.887379,
+        "name": "GRAND CONCOURSE/BEDFORD PARK BLVD",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103615",
+        "direction": "NE",
+        "id": "MTA_103615",
+        "lat": 40.876514,
+        "locationType": 0,
+        "lon": -73.880536,
+        "name": "VAN CORTLANDT AV EAST/ROCHAMBEAU AV",
+        "routeIds": [
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103721",
+        "direction": "NE",
+        "id": "MTA_103721",
+        "lat": 40.874308,
+        "locationType": 0,
+        "lon": -73.886448,
+        "name": "GRAND CONCOURSE/E 203 ST",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103722",
+        "direction": "SW",
+        "id": "MTA_103722",
+        "lat": 40.874303,
+        "locationType": 0,
+        "lon": -73.886904,
+        "name": "GRAND CONCOURSE/E 204 ST",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103973",
+        "direction": "SW",
+        "id": "MTA_103973",
+        "lat": 40.848991,
+        "locationType": 0,
+        "lon": -73.906702,
+        "name": "GRAND CONCOURSE/E 177 ST",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103974",
+        "direction": "SW",
+        "id": "MTA_103974",
+        "lat": 40.838449,
+        "locationType": 0,
+        "lon": -73.914273,
+        "name": "GRAND CONCOURSE/E 170 ST",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104112",
+        "direction": "NE",
+        "id": "MTA_104112",
+        "lat": 40.849059,
+        "locationType": 0,
+        "lon": -73.905997,
+        "name": "GRAND CONCOURSE/EAST TREMONT AV",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "150001",
+        "direction": "N",
+        "id": "MTA_150001",
+        "lat": 40.879495,
+        "locationType": 0,
+        "lon": -73.878965,
+        "name": "BAINBRIDGE AV/E 210 ST",
+        "routeIds": [
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "150063",
+        "direction": "NE",
+        "id": "MTA_150063",
+        "lat": 40.838411,
+        "locationType": 0,
+        "lon": -73.913692,
+        "name": "GRAND CONCOURSE/E 170 ST",
+        "routeIds": [
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "150151",
+        "direction": "S",
+        "id": "MTA_150151",
+        "lat": 40.902133,
+        "locationType": 0,
+        "lon": -73.86809,
+        "name": "KATONAH AV/E 242 ST",
+        "routeIds": [
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400053",
+        "direction": "NE",
+        "id": "MTA_400053",
+        "lat": 40.804777,
+        "locationType": 0,
+        "lon": -73.941328,
+        "name": "MADISON AV/E 123 ST",
+        "routeIds": [
+            "MTABC_BXM2",
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTA NYCT_M1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400098",
+        "direction": "SW",
+        "id": "MTA_400098",
+        "lat": 40.806137,
+        "locationType": 0,
+        "lon": -73.942555,
+        "name": "5 AV/W 125 ST",
+        "routeIds": [
+            "MTABC_BXM2",
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTA NYCT_M1"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400118",
+        "direction": "SW",
+        "id": "MTA_400118",
+        "lat": 40.782181,
+        "locationType": 0,
+        "lon": -73.960036,
+        "name": "5 AV/E 87 ST",
+        "routeIds": [
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400125",
+        "direction": "SW",
+        "id": "MTA_400125",
+        "lat": 40.770259,
+        "locationType": 0,
+        "lon": -73.968739,
+        "name": "5 AV/E 69 ST",
+        "routeIds": [
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTABC_BXM11",
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400128",
+        "direction": "SW",
+        "id": "MTA_400128",
+        "lat": 40.76568,
+        "locationType": 0,
+        "lon": -73.972026,
+        "name": "5 AV/E 61 ST",
+        "routeIds": [
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400324",
+        "direction": "SW",
+        "id": "MTA_400324",
+        "lat": 40.747494,
+        "locationType": 0,
+        "lon": -73.985338,
+        "name": "5 AV/W 33 ST",
+        "routeIds": [
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M5",
+            "MTA NYCT_M55",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404168",
+        "direction": "SW",
+        "id": "MTA_404168",
+        "lat": 40.787549,
+        "locationType": 0,
+        "lon": -73.956092,
+        "name": "5 AV/E 96 ST",
+        "routeIds": [
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTABC_BXM7",
+            "MTA NYCT_M1",
+            "MTA NYCT_M2",
+            "MTA NYCT_M3",
+            "MTA NYCT_M4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404303",
+        "direction": "SW",
+        "id": "MTA_404303",
+        "lat": 40.776252,
+        "locationType": 0,
+        "lon": -73.964412,
+        "name": "5 AV/W 78 ST",
+        "routeIds": [
+            "MTABC_BXM3",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450035",
+        "direction": "NE",
+        "id": "MTA_450035",
+        "lat": 40.770392,
+        "locationType": 0,
+        "lon": -73.96637,
+        "name": "MADISON AV/E 70 ST",
+        "routeIds": [
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450058",
+        "direction": "SW",
+        "id": "MTA_450058",
+        "lat": 40.752142,
+        "locationType": 0,
+        "lon": -73.981916,
+        "name": "5 AV/W 40 ST",
+        "routeIds": [
+            "MTABC_BXM3",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450059",
+        "direction": "SW",
+        "id": "MTA_450059",
+        "lat": 40.757419,
+        "locationType": 0,
+        "lon": -73.978122,
+        "name": "5 AV / W 48 ST",
+        "routeIds": [
+            "MTABC_BM1",
+            "MTABC_BM2",
+            "MTABC_BM3",
+            "MTABC_BM4",
+            "MTABC_BM5",
+            "MTABC_BXM3",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450063",
+        "direction": "SW",
+        "id": "MTA_450063",
+        "lat": 40.761387,
+        "locationType": 0,
+        "lon": -73.975233,
+        "name": "5 AV/E 55 ST",
+        "routeIds": [
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTA NYCT_SIM1C",
+            "MTA NYCT_SIM3",
+            "MTA NYCT_SIM3C",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM8",
+            "MTA NYCT_SIM8X",
+            "MTA NYCT_SIM30",
+            "MTA NYCT_SIM33C"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450087",
+        "direction": "NE",
+        "id": "MTA_450087",
+        "lat": 40.745963,
+        "locationType": 0,
+        "lon": -73.984146,
+        "name": "MADISON AV/E 31 ST",
+        "routeIds": [
+            "MTABC_BXM3",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450095",
+        "direction": "NE",
+        "id": "MTA_450095",
+        "lat": 40.75102,
+        "locationType": 0,
+        "lon": -73.980519,
+        "name": "MADISON AV/E 39 ST",
+        "routeIds": [
+            "MTABC_BXM3",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450099",
+        "direction": "NE",
+        "id": "MTA_450099",
+        "lat": 40.755797,
+        "locationType": 0,
+        "lon": -73.97695,
+        "name": "MADISON AV/E 46 ST",
+        "routeIds": [
+            "MTABC_BXM3",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450105",
+        "direction": "NE",
+        "id": "MTA_450105",
+        "lat": 40.759829,
+        "locationType": 0,
+        "lon": -73.974017,
+        "name": "MADISON AV/E 53 ST",
+        "routeIds": [
+            "MTABC_BXM3",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450110",
+        "direction": "NE",
+        "id": "MTA_450110",
+        "lat": 40.765752,
+        "locationType": 0,
+        "lon": -73.969754,
+        "name": "MADISON AV/E 62 ST",
+        "routeIds": [
+            "MTABC_BXM3",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450112",
+        "direction": "NE",
+        "id": "MTA_450112",
+        "lat": 40.779389,
+        "locationType": 0,
+        "lon": -73.959786,
+        "name": "MADISON AV/E 84 ST",
+        "routeIds": [
+            "MTABC_BXM2",
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450351",
+        "direction": "NE",
+        "id": "MTA_450351",
+        "lat": 40.789292,
+        "locationType": 0,
+        "lon": -73.952573,
+        "name": "MADISON AV/E 99 ST",
+        "routeIds": [
+            "MTABC_BXM2",
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450457",
+        "direction": "NE",
+        "id": "MTA_450457",
+        "lat": 40.7444,
+        "locationType": 0,
+        "lon": -73.985316,
+        "name": "MADISON AV/E 29 ST",
+        "routeIds": [
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTABC_BXM11",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450543",
+        "direction": "NE",
+        "id": "MTA_450543",
+        "lat": 40.777087,
+        "locationType": 0,
+        "lon": -73.961481,
+        "name": "MADISON AV/E 80 ST",
+        "routeIds": [
+            "MTABC_BXM2",
+            "MTABC_BXM3",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "981012",
+        "direction": "SW",
+        "id": "MTA_981012",
+        "lat": 40.743842,
+        "locationType": 0,
+        "lon": -73.988048,
+        "name": "5 AV / W 27 ST",
+        "routeIds": [
+            "MTABC_BM1",
+            "MTABC_BM2",
+            "MTABC_BXM3",
+            "MTABC_BXM4",
+            "MTABC_BXM11",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "984021",
+        "direction": "S",
+        "id": "MTA_984021",
+        "lat": 40.902192,
+        "locationType": 0,
+        "lon": -73.868113,
+        "name": "KATONAH AV/E 242 ST",
+        "routeIds": [
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

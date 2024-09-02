@@ -1,0 +1,569 @@
+[
+    {
+        "code": "300137",
+        "direction": "S",
+        "id": "MTA_300137",
+        "lat": 40.607383,
+        "locationType": 0,
+        "lon": -73.957178,
+        "name": "E 16 ST/QUENTIN RD",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300138",
+        "direction": "S",
+        "id": "MTA_300138",
+        "lat": 40.605994,
+        "locationType": 0,
+        "lon": -73.956899,
+        "name": "E 16 ST/AVENUE R",
+        "routeIds": [
+            "MTA NYCT_B2",
+            "MTA NYCT_B31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300139",
+        "direction": "E",
+        "id": "MTA_300139",
+        "lat": 40.606033,
+        "locationType": 0,
+        "lon": -73.954997,
+        "name": "AVENUE R/E 18 ST",
+        "routeIds": [
+            "MTA NYCT_B2",
+            "MTA NYCT_B31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300140",
+        "direction": "E",
+        "id": "MTA_300140",
+        "lat": 40.606262,
+        "locationType": 0,
+        "lon": -73.95289,
+        "name": "AVENUE R/OCEAN AV",
+        "routeIds": [
+            "MTA NYCT_B2",
+            "MTA NYCT_B31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300143",
+        "direction": "E",
+        "id": "MTA_300143",
+        "lat": 40.606787,
+        "locationType": 0,
+        "lon": -73.9481,
+        "name": "AVENUE R/BEDFORD AV",
+        "routeIds": [
+            "MTA NYCT_B2",
+            "MTA NYCT_B31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300146",
+        "direction": "E",
+        "id": "MTA_300146",
+        "lat": 40.607307,
+        "locationType": 0,
+        "lon": -73.943357,
+        "name": "AVENUE R/NOSTRAND AV",
+        "routeIds": [
+            "MTA NYCT_B2",
+            "MTA NYCT_B31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300147",
+        "direction": "E",
+        "id": "MTA_300147",
+        "lat": 40.60749,
+        "locationType": 0,
+        "lon": -73.941693,
+        "name": "AVENUE R/GERRITSEN AV",
+        "routeIds": [
+            "MTA NYCT_B2",
+            "MTA NYCT_B31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300148",
+        "direction": "NE",
+        "id": "MTA_300148",
+        "lat": 40.608643,
+        "locationType": 0,
+        "lon": -73.941614,
+        "name": "AVENUE R/STUART ST",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300150",
+        "direction": "NE",
+        "id": "MTA_300150",
+        "lat": 40.610568,
+        "locationType": 0,
+        "lon": -73.938621,
+        "name": "AVENUE R/E 31 ST",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300151",
+        "direction": "NE",
+        "id": "MTA_300151",
+        "lat": 40.611492,
+        "locationType": 0,
+        "lon": -73.937187,
+        "name": "AVENUE R/E 33 ST",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300152",
+        "direction": "NE",
+        "id": "MTA_300152",
+        "lat": 40.612411,
+        "locationType": 0,
+        "lon": -73.935767,
+        "name": "AVENUE R/E 35 ST",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300153",
+        "direction": "NE",
+        "id": "MTA_300153",
+        "lat": 40.612882,
+        "locationType": 0,
+        "lon": -73.935039,
+        "name": "AVENUE R/E 36 ST",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300154",
+        "direction": "SE",
+        "id": "MTA_300154",
+        "lat": 40.611424,
+        "locationType": 0,
+        "lon": -73.93333,
+        "name": "E 36 ST/FILLMORE AV",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300155",
+        "direction": "SE",
+        "id": "MTA_300155",
+        "lat": 40.609798,
+        "locationType": 0,
+        "lon": -73.931523,
+        "name": "E 36 ST/AVENUE S",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300157",
+        "direction": "NE",
+        "id": "MTA_300157",
+        "lat": 40.61104,
+        "locationType": 0,
+        "lon": -73.929213,
+        "name": "AVENUE S/RYDER ST",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300158",
+        "direction": "NE",
+        "id": "MTA_300158",
+        "lat": 40.611975,
+        "locationType": 0,
+        "lon": -73.927775,
+        "name": "AVENUE S/COLEMAN ST",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300159",
+        "direction": "NE",
+        "id": "MTA_300159",
+        "lat": 40.612861,
+        "locationType": 0,
+        "lon": -73.926402,
+        "name": "AVENUE S/FLATBUSH AV",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300163",
+        "direction": "NW",
+        "id": "MTA_300163",
+        "lat": 40.611476,
+        "locationType": 0,
+        "lon": -73.92407,
+        "name": "FLATBUSH AV/AVENUE T",
+        "routeIds": [
+            "MTA NYCT_B2",
+            "MTA NYCT_B9",
+            "MTA NYCT_B41",
+            "MTA NYCT_B46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300164",
+        "direction": "SW",
+        "id": "MTA_300164",
+        "lat": 40.612834,
+        "locationType": 0,
+        "lon": -73.926683,
+        "name": "AVENUE S/FLATBUSH AV",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300165",
+        "direction": "SW",
+        "id": "MTA_300165",
+        "lat": 40.611723,
+        "locationType": 0,
+        "lon": -73.928427,
+        "name": "AVENUE S/KIMBALL ST",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300166",
+        "direction": "SW",
+        "id": "MTA_300166",
+        "lat": 40.610791,
+        "locationType": 0,
+        "lon": -73.929858,
+        "name": "AVENUE S/E 38 ST",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300168",
+        "direction": "NW",
+        "id": "MTA_300168",
+        "lat": 40.611333,
+        "locationType": 0,
+        "lon": -73.933006,
+        "name": "E 36 ST/FILLMORE AV",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300169",
+        "direction": "NW",
+        "id": "MTA_300169",
+        "lat": 40.612956,
+        "locationType": 0,
+        "lon": -73.934819,
+        "name": "E 36 ST/AVENUE R",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300170",
+        "direction": "SW",
+        "id": "MTA_300170",
+        "lat": 40.612172,
+        "locationType": 0,
+        "lon": -73.936405,
+        "name": "AVENUE R/E 34 ST",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300171",
+        "direction": "SW",
+        "id": "MTA_300171",
+        "lat": 40.611251,
+        "locationType": 0,
+        "lon": -73.937836,
+        "name": "AVENUE R/E 32 ST",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300172",
+        "direction": "SW",
+        "id": "MTA_300172",
+        "lat": 40.610316,
+        "locationType": 0,
+        "lon": -73.939273,
+        "name": "AVENUE R/MARINE PKWY",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300173",
+        "direction": "SW",
+        "id": "MTA_300173",
+        "lat": 40.609328,
+        "locationType": 0,
+        "lon": -73.940801,
+        "name": "AVENUE R/BURNETT ST",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300174",
+        "direction": "SW",
+        "id": "MTA_300174",
+        "lat": 40.608404,
+        "locationType": 0,
+        "lon": -73.942236,
+        "name": "AVENUE R/GERRITSEN AV",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300175",
+        "direction": "W",
+        "id": "MTA_300175",
+        "lat": 40.607452,
+        "locationType": 0,
+        "lon": -73.943023,
+        "name": "AVENUE R/NOSTRAND AV",
+        "routeIds": [
+            "MTA NYCT_B2",
+            "MTA NYCT_B31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300178",
+        "direction": "W",
+        "id": "MTA_300178",
+        "lat": 40.606955,
+        "locationType": 0,
+        "lon": -73.947815,
+        "name": "AVENUE R/BEDFORD AV",
+        "routeIds": [
+            "MTA NYCT_B2",
+            "MTA NYCT_B31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300181",
+        "direction": "W",
+        "id": "MTA_300181",
+        "lat": 40.60643,
+        "locationType": 0,
+        "lon": -73.952548,
+        "name": "AVENUE R/OCEAN AV",
+        "routeIds": [
+            "MTA NYCT_B2",
+            "MTA NYCT_B31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300182",
+        "direction": "W",
+        "id": "MTA_300182",
+        "lat": 40.608692,
+        "locationType": 0,
+        "lon": -73.954826,
+        "name": "QUENTIN RD/E 19 ST",
+        "routeIds": [
+            "MTA NYCT_B2",
+            "MTA NYCT_B31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306907",
+        "direction": "NE",
+        "id": "MTA_306907",
+        "lat": 40.609578,
+        "locationType": 0,
+        "lon": -73.940156,
+        "name": "AVENUE R/MADISON PL",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307383",
+        "direction": "E",
+        "id": "MTA_307383",
+        "lat": 40.606577,
+        "locationType": 0,
+        "lon": -73.949946,
+        "name": "AVENUE R/E 23 ST",
+        "routeIds": [
+            "MTA NYCT_B2",
+            "MTA NYCT_B31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307384",
+        "direction": "E",
+        "id": "MTA_307384",
+        "lat": 40.606998,
+        "locationType": 0,
+        "lon": -73.94618,
+        "name": "AVENUE R/E 27 ST",
+        "routeIds": [
+            "MTA NYCT_B2",
+            "MTA NYCT_B31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307385",
+        "direction": "W",
+        "id": "MTA_307385",
+        "lat": 40.607275,
+        "locationType": 0,
+        "lon": -73.945017,
+        "name": "AVENUE R/E 28 ST",
+        "routeIds": [
+            "MTA NYCT_B2",
+            "MTA NYCT_B31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307386",
+        "direction": "W",
+        "id": "MTA_307386",
+        "lat": 40.606643,
+        "locationType": 0,
+        "lon": -73.95065,
+        "name": "AVENUE R/E 22 ST",
+        "routeIds": [
+            "MTA NYCT_B2",
+            "MTA NYCT_B31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307441",
+        "direction": "NW",
+        "id": "MTA_307441",
+        "lat": 40.609528,
+        "locationType": 0,
+        "lon": -73.921821,
+        "name": "FLATBUSH AV/AVENUE U",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307636",
+        "direction": "SE",
+        "id": "MTA_307636",
+        "lat": 40.611273,
+        "locationType": 0,
+        "lon": -73.924426,
+        "name": "FLATBUSH AV/AVENUE T",
+        "routeIds": [
+            "MTA NYCT_B2",
+            "MTA NYCT_B9",
+            "MTA NYCT_B41",
+            "MTA NYCT_B46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308459",
+        "direction": "NW",
+        "id": "MTA_308459",
+        "lat": 40.609924,
+        "locationType": 0,
+        "lon": -73.931471,
+        "name": "E 36 ST/AVENUE S",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901001",
+        "direction": "NW",
+        "id": "MTA_901001",
+        "lat": 40.609407,
+        "locationType": 0,
+        "lon": -73.921791,
+        "name": "FLATBUSH AV/AV U",
+        "routeIds": [
+            "MTA NYCT_B2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901267",
+        "direction": "W",
+        "id": "MTA_901267",
+        "lat": 40.608453,
+        "locationType": 0,
+        "lon": -73.956546,
+        "name": "QUENTIN RD/E 16 ST",
+        "routeIds": [
+            "MTA NYCT_B2",
+            "MTA NYCT_B31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

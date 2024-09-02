@@ -1,0 +1,1272 @@
+[
+    {
+        "code": "300608",
+        "direction": "SW",
+        "id": "MTA_300608",
+        "lat": 40.642084,
+        "locationType": 0,
+        "lon": -73.903226,
+        "name": "FLATLANDS AV/E 94 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B17",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300609",
+        "direction": "SW",
+        "id": "MTA_300609",
+        "lat": 40.641064,
+        "locationType": 0,
+        "lon": -73.904852,
+        "name": "FLATLANDS AV/E 92 ST",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B17",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300853",
+        "direction": "SE",
+        "id": "MTA_300853",
+        "lat": 40.646308,
+        "locationType": 0,
+        "lon": -73.91291,
+        "name": "REMSEN AV/AVENUE D",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301726",
+        "direction": "SW",
+        "id": "MTA_301726",
+        "lat": 40.639067,
+        "locationType": 0,
+        "lon": -73.881716,
+        "name": "SEAVIEW AV/E 108 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301727",
+        "direction": "SW",
+        "id": "MTA_301727",
+        "lat": 40.637852,
+        "locationType": 0,
+        "lon": -73.8837,
+        "name": "SEAVIEW AV/E 105 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301728",
+        "direction": "SW",
+        "id": "MTA_301728",
+        "lat": 40.636411,
+        "locationType": 0,
+        "lon": -73.88594,
+        "name": "SEAVIEW AV/E 102 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301730",
+        "direction": "SW",
+        "id": "MTA_301730",
+        "lat": 40.634027,
+        "locationType": 0,
+        "lon": -73.889626,
+        "name": "SEAVIEW AV/ROCKAWAY PKWY",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301731",
+        "direction": "SW",
+        "id": "MTA_301731",
+        "lat": 40.632648,
+        "locationType": 0,
+        "lon": -73.8917,
+        "name": "SEAVIEW AV/E 95 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301732",
+        "direction": "SW",
+        "id": "MTA_301732",
+        "lat": 40.631711,
+        "locationType": 0,
+        "lon": -73.893157,
+        "name": "SEAVIEW AV/E 93 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301733",
+        "direction": "SW",
+        "id": "MTA_301733",
+        "lat": 40.630548,
+        "locationType": 0,
+        "lon": -73.894945,
+        "name": "SEAVIEW AV/REMSEN AV",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301734",
+        "direction": "NW",
+        "id": "MTA_301734",
+        "lat": 40.632384,
+        "locationType": 0,
+        "lon": -73.897068,
+        "name": "REMSEN AV/AVENUE N",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301735",
+        "direction": "NW",
+        "id": "MTA_301735",
+        "lat": 40.633964,
+        "locationType": 0,
+        "lon": -73.898828,
+        "name": "REMSEN AV/AVENUE M",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301736",
+        "direction": "NW",
+        "id": "MTA_301736",
+        "lat": 40.635607,
+        "locationType": 0,
+        "lon": -73.900663,
+        "name": "REMSEN AV/AVENUE L",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301737",
+        "direction": "NW",
+        "id": "MTA_301737",
+        "lat": 40.637162,
+        "locationType": 0,
+        "lon": -73.902393,
+        "name": "REMSEN AV/AVENUE K",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301738",
+        "direction": "NW",
+        "id": "MTA_301738",
+        "lat": 40.638879,
+        "locationType": 0,
+        "lon": -73.904304,
+        "name": "REMSEN AV/AVENUE J",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301739",
+        "direction": "NW",
+        "id": "MTA_301739",
+        "lat": 40.640566,
+        "locationType": 0,
+        "lon": -73.906183,
+        "name": "REMSEN AV/FLATLANDS AV",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301740",
+        "direction": "NW",
+        "id": "MTA_301740",
+        "lat": 40.642066,
+        "locationType": 0,
+        "lon": -73.90786,
+        "name": "REMSEN AV/GLENWOOD RD",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301742",
+        "direction": "NW",
+        "id": "MTA_301742",
+        "lat": 40.645197,
+        "locationType": 0,
+        "lon": -73.911336,
+        "name": "REMSEN AV/FOSTER AV",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301743",
+        "direction": "NW",
+        "id": "MTA_301743",
+        "lat": 40.646258,
+        "locationType": 0,
+        "lon": -73.912513,
+        "name": "REMSEN AV/AVENUE D",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301744",
+        "direction": "NW",
+        "id": "MTA_301744",
+        "lat": 40.648043,
+        "locationType": 0,
+        "lon": -73.914547,
+        "name": "REMSEN AV/DITMAS AV",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301745",
+        "direction": "SE",
+        "id": "MTA_301745",
+        "lat": 40.649261,
+        "locationType": 0,
+        "lon": -73.916153,
+        "name": "REMSEN AV/AVENUE B",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301746",
+        "direction": "NW",
+        "id": "MTA_301746",
+        "lat": 40.651406,
+        "locationType": 0,
+        "lon": -73.918291,
+        "name": "REMSEN AV/AVENUE A",
+        "routeIds": [
+            "MTA NYCT_B8",
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301747",
+        "direction": "NW",
+        "id": "MTA_301747",
+        "lat": 40.653114,
+        "locationType": 0,
+        "lon": -73.920191,
+        "name": "REMSEN AV/CHURCH AV",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301748",
+        "direction": "NW",
+        "id": "MTA_301748",
+        "lat": 40.654137,
+        "locationType": 0,
+        "lon": -73.92144,
+        "name": "REMSEN AV/LINDEN BLVD",
+        "routeIds": [
+            "MTA NYCT_B17",
+            "MTA NYCT_B47"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301749",
+        "direction": "NW",
+        "id": "MTA_301749",
+        "lat": 40.655068,
+        "locationType": 0,
+        "lon": -73.922414,
+        "name": "REMSEN AV/KINGS HWY",
+        "routeIds": [
+            "MTA NYCT_B17",
+            "MTA NYCT_B47"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301750",
+        "direction": "NW",
+        "id": "MTA_301750",
+        "lat": 40.656313,
+        "locationType": 0,
+        "lon": -73.923802,
+        "name": "REMSEN AV/LENOX RD",
+        "routeIds": [
+            "MTA NYCT_B17",
+            "MTA NYCT_B47"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301751",
+        "direction": "NW",
+        "id": "MTA_301751",
+        "lat": 40.657941,
+        "locationType": 0,
+        "lon": -73.925541,
+        "name": "REMSEN AV/CLARKSON AV",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301752",
+        "direction": "NW",
+        "id": "MTA_301752",
+        "lat": 40.65963,
+        "locationType": 0,
+        "lon": -73.927428,
+        "name": "REMSEN AV/WINTHROP ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301753",
+        "direction": "NW",
+        "id": "MTA_301753",
+        "lat": 40.66125,
+        "locationType": 0,
+        "lon": -73.929239,
+        "name": "REMSEN AV/RUTLAND RD",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301755",
+        "direction": "W",
+        "id": "MTA_301755",
+        "lat": 40.66261,
+        "locationType": 0,
+        "lon": -73.934919,
+        "name": "EAST NEW YORK AV/SCHENECTADY AV",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301756",
+        "direction": "N",
+        "id": "MTA_301756",
+        "lat": 40.662806,
+        "locationType": 0,
+        "lon": -73.937304,
+        "name": "TROY AV/EAST NEW YORK AV",
+        "routeIds": [
+            "MTA NYCT_B12",
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301757",
+        "direction": "N",
+        "id": "MTA_301757",
+        "lat": 40.664096,
+        "locationType": 0,
+        "lon": -73.937058,
+        "name": "TROY AV/EMPIRE BLVD",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301758",
+        "direction": "N",
+        "id": "MTA_301758",
+        "lat": 40.664936,
+        "locationType": 0,
+        "lon": -73.936985,
+        "name": "TROY AV/MONTGOMERY ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301759",
+        "direction": "N",
+        "id": "MTA_301759",
+        "lat": 40.666673,
+        "locationType": 0,
+        "lon": -73.936811,
+        "name": "TROY AV/CARROLL ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301760",
+        "direction": "N",
+        "id": "MTA_301760",
+        "lat": 40.668753,
+        "locationType": 0,
+        "lon": -73.936618,
+        "name": "TROY AV/EASTERN PKWY",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301762",
+        "direction": "NE",
+        "id": "MTA_301762",
+        "lat": 40.64483,
+        "locationType": 0,
+        "lon": -73.902673,
+        "name": "GLENWOOD RD/E 96 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301766",
+        "direction": "NW",
+        "id": "MTA_301766",
+        "lat": 40.627883,
+        "locationType": 0,
+        "lon": -73.900544,
+        "name": "E 80 ST/PAERDEGAT 15 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301767",
+        "direction": "NW",
+        "id": "MTA_301767",
+        "lat": 40.628798,
+        "locationType": 0,
+        "lon": -73.902575,
+        "name": "E 80 ST/AVENUE N",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301768",
+        "direction": "NE",
+        "id": "MTA_301768",
+        "lat": 40.632158,
+        "locationType": 0,
+        "lon": -73.905236,
+        "name": "AVENUE L/E 83 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301769",
+        "direction": "NE",
+        "id": "MTA_301769",
+        "lat": 40.633101,
+        "locationType": 0,
+        "lon": -73.903786,
+        "name": "AVENUE L/E 85 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301770",
+        "direction": "NE",
+        "id": "MTA_301770",
+        "lat": 40.634041,
+        "locationType": 0,
+        "lon": -73.902329,
+        "name": "AVENUE L/E 87 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301776",
+        "direction": "SE",
+        "id": "MTA_301776",
+        "lat": 40.66194,
+        "locationType": 0,
+        "lon": -73.930306,
+        "name": "REMSEN AV/E 51 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301777",
+        "direction": "SE",
+        "id": "MTA_301777",
+        "lat": 40.660567,
+        "locationType": 0,
+        "lon": -73.928782,
+        "name": "REMSEN AV/RUTLAND RD",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301778",
+        "direction": "SE",
+        "id": "MTA_301778",
+        "lat": 40.658899,
+        "locationType": 0,
+        "lon": -73.926928,
+        "name": "REMSEN AV/E 54 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301779",
+        "direction": "SE",
+        "id": "MTA_301779",
+        "lat": 40.657845,
+        "locationType": 0,
+        "lon": -73.925751,
+        "name": "REMSEN AV/E 56 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301781",
+        "direction": "SE",
+        "id": "MTA_301781",
+        "lat": 40.654716,
+        "locationType": 0,
+        "lon": -73.922258,
+        "name": "REMSEN AV/KINGS HWY",
+        "routeIds": [
+            "MTA NYCT_B17",
+            "MTA NYCT_B47"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301783",
+        "direction": "SE",
+        "id": "MTA_301783",
+        "lat": 40.652524,
+        "locationType": 0,
+        "lon": -73.919799,
+        "name": "REMSEN AV/CHURCH AV",
+        "routeIds": [
+            "MTA NYCT_B8",
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301786",
+        "direction": "SE",
+        "id": "MTA_301786",
+        "lat": 40.648121,
+        "locationType": 0,
+        "lon": -73.914889,
+        "name": "REMSEN AV/DITMAS AV",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301788",
+        "direction": "SE",
+        "id": "MTA_301788",
+        "lat": 40.644569,
+        "locationType": 0,
+        "lon": -73.91097,
+        "name": "REMSEN AV/FOSTER AV",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301789",
+        "direction": "SE",
+        "id": "MTA_301789",
+        "lat": 40.642896,
+        "locationType": 0,
+        "lon": -73.909094,
+        "name": "REMSEN AV/FARRAGUT RD",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301790",
+        "direction": "SE",
+        "id": "MTA_301790",
+        "lat": 40.641418,
+        "locationType": 0,
+        "lon": -73.907461,
+        "name": "REMSEN AV/GLENWOOD RD",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301791",
+        "direction": "SE",
+        "id": "MTA_301791",
+        "lat": 40.639885,
+        "locationType": 0,
+        "lon": -73.905751,
+        "name": "REMSEN AV/FLATLANDS AV",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301792",
+        "direction": "SE",
+        "id": "MTA_301792",
+        "lat": 40.638294,
+        "locationType": 0,
+        "lon": -73.903984,
+        "name": "REMSEN AV/AVENUE J",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301793",
+        "direction": "SE",
+        "id": "MTA_301793",
+        "lat": 40.636494,
+        "locationType": 0,
+        "lon": -73.901976,
+        "name": "REMSEN AV/AVENUE K",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301794",
+        "direction": "SE",
+        "id": "MTA_301794",
+        "lat": 40.635011,
+        "locationType": 0,
+        "lon": -73.900328,
+        "name": "REMSEN AV/AVENUE L",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301795",
+        "direction": "SE",
+        "id": "MTA_301795",
+        "lat": 40.633357,
+        "locationType": 0,
+        "lon": -73.898483,
+        "name": "REMSEN AV/AVENUE M",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301796",
+        "direction": "SE",
+        "id": "MTA_301796",
+        "lat": 40.631703,
+        "locationType": 0,
+        "lon": -73.896644,
+        "name": "REMSEN AV/AVENUE N",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301797",
+        "direction": "SE",
+        "id": "MTA_301797",
+        "lat": 40.630431,
+        "locationType": 0,
+        "lon": -73.895227,
+        "name": "REMSEN AV/SEAVIEW AV",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301798",
+        "direction": "NE",
+        "id": "MTA_301798",
+        "lat": 40.630757,
+        "locationType": 0,
+        "lon": -73.894216,
+        "name": "SEAVIEW AV/E 91 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301799",
+        "direction": "NE",
+        "id": "MTA_301799",
+        "lat": 40.631927,
+        "locationType": 0,
+        "lon": -73.892375,
+        "name": "SEAVIEW AV/E 93 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301800",
+        "direction": "NE",
+        "id": "MTA_301800",
+        "lat": 40.632823,
+        "locationType": 0,
+        "lon": -73.890982,
+        "name": "SEAVIEW AV/E 95 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301801",
+        "direction": "NE",
+        "id": "MTA_301801",
+        "lat": 40.634007,
+        "locationType": 0,
+        "lon": -73.889096,
+        "name": "SEAVIEW AV/ROCKAWAY PKWY",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301802",
+        "direction": "NE",
+        "id": "MTA_301802",
+        "lat": 40.634939,
+        "locationType": 0,
+        "lon": -73.887653,
+        "name": "SEAVIEW AV/E 99 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301803",
+        "direction": "NE",
+        "id": "MTA_301803",
+        "lat": 40.635964,
+        "locationType": 0,
+        "lon": -73.886066,
+        "name": "SEAVIEW AV/E 102 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301804",
+        "direction": "NE",
+        "id": "MTA_301804",
+        "lat": 40.637282,
+        "locationType": 0,
+        "lon": -73.884018,
+        "name": "SEAVIEW AV/E 104 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301811",
+        "direction": "SW",
+        "id": "MTA_301811",
+        "lat": 40.633323,
+        "locationType": 0,
+        "lon": -73.90371,
+        "name": "AVENUE L/E 86 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301812",
+        "direction": "SW",
+        "id": "MTA_301812",
+        "lat": 40.632361,
+        "locationType": 0,
+        "lon": -73.905196,
+        "name": "AVENUE L/E 84 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301813",
+        "direction": "SW",
+        "id": "MTA_301813",
+        "lat": 40.631653,
+        "locationType": 0,
+        "lon": -73.906292,
+        "name": "AVENUE L/E 82 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301814",
+        "direction": "SE",
+        "id": "MTA_301814",
+        "lat": 40.630573,
+        "locationType": 0,
+        "lon": -73.907047,
+        "name": "E 80 ST/PAERDEGAT 7 ST",
+        "routeIds": [
+            "MTA NYCT_B17",
+            "MTABC_B103",
+            "MTABC_BM2"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301815",
+        "direction": "SE",
+        "id": "MTA_301815",
+        "lat": 40.629486,
+        "locationType": 0,
+        "lon": -73.904635,
+        "name": "E 80 ST/PAERDEGAT 10 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301816",
+        "direction": "SE",
+        "id": "MTA_301816",
+        "lat": 40.628331,
+        "locationType": 0,
+        "lon": -73.902068,
+        "name": "E 80 ST/PAERDEGAT 13 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306304",
+        "direction": "S",
+        "id": "MTA_306304",
+        "lat": 40.663714,
+        "locationType": 0,
+        "lon": -73.93172,
+        "name": "UTICA AV/EMPIRE BLVD",
+        "routeIds": [
+            "MTA NYCT_B17",
+            "MTA NYCT_B46",
+            "MTA NYCT_B46+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306589",
+        "direction": "SW",
+        "id": "MTA_306589",
+        "lat": 40.643623,
+        "locationType": 0,
+        "lon": -73.900785,
+        "name": "FLATLANDS AV/ROCKAWAY PKWY",
+        "routeIds": [
+            "MTA NYCT_B6",
+            "MTA NYCT_B17",
+            "MTA NYCT_B82"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306620",
+        "direction": "NW",
+        "id": "MTA_306620",
+        "lat": 40.62992,
+        "locationType": 0,
+        "lon": -73.905074,
+        "name": "E 80 ST/AVENUE M",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306870",
+        "direction": "NW",
+        "id": "MTA_306870",
+        "lat": 40.649807,
+        "locationType": 0,
+        "lon": -73.916502,
+        "name": "REMSEN AV/AVENUE B",
+        "routeIds": [
+            "MTA NYCT_B8",
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306908",
+        "direction": "NW",
+        "id": "MTA_306908",
+        "lat": 40.643491,
+        "locationType": 0,
+        "lon": -73.909458,
+        "name": "REMSEN AV/FARRAGUT RD",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307004",
+        "direction": "E",
+        "id": "MTA_307004",
+        "lat": 40.668537,
+        "locationType": 0,
+        "lon": -73.931235,
+        "name": "EASTERN PKWY/UTICA AV",
+        "routeIds": [
+            "MTA NYCT_B14",
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307011",
+        "direction": "E",
+        "id": "MTA_307011",
+        "lat": 40.6687,
+        "locationType": 0,
+        "lon": -73.934069,
+        "name": "EASTERN PKWY/SCHENECTADY AV",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307018",
+        "direction": "NE",
+        "id": "MTA_307018",
+        "lat": 40.643499,
+        "locationType": 0,
+        "lon": -73.904734,
+        "name": "GLENWOOD RD/E 94 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307027",
+        "direction": "S",
+        "id": "MTA_307027",
+        "lat": 40.665808,
+        "locationType": 0,
+        "lon": -73.931523,
+        "name": "UTICA AV/CARROLL ST",
+        "routeIds": [
+            "MTA NYCT_B17",
+            "MTA NYCT_B46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307182",
+        "direction": "NW",
+        "id": "MTA_307182",
+        "lat": 40.627792,
+        "locationType": 0,
+        "lon": -73.900455,
+        "name": "E 80 ST/PAERDEGAT 15 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307322",
+        "direction": "NE",
+        "id": "MTA_307322",
+        "lat": 40.641947,
+        "locationType": 0,
+        "lon": -73.907157,
+        "name": "GLENWOOD RD/REMSEN AV",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307789",
+        "direction": "SW",
+        "id": "MTA_307789",
+        "lat": 40.634236,
+        "locationType": 0,
+        "lon": -73.9023,
+        "name": "AVENUE L/E 88 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307994",
+        "direction": "SE",
+        "id": "MTA_307994",
+        "lat": 40.650865,
+        "locationType": 0,
+        "lon": -73.917945,
+        "name": "REMSEN AV/AVENUE A",
+        "routeIds": [
+            "MTA NYCT_B8",
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308344",
+        "direction": "SW",
+        "id": "MTA_308344",
+        "lat": 40.635107,
+        "locationType": 0,
+        "lon": -73.900944,
+        "name": "AVENUE L/REMSEN AV",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308546",
+        "direction": "SE",
+        "id": "MTA_308546",
+        "lat": 40.655905,
+        "locationType": 0,
+        "lon": -73.923545,
+        "name": "REMSEN AV/LENOX RD",
+        "routeIds": [
+            "MTA NYCT_B17",
+            "MTA NYCT_B47"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308574",
+        "direction": "SW",
+        "id": "MTA_308574",
+        "lat": 40.635321,
+        "locationType": 0,
+        "lon": -73.887639,
+        "name": "SEAVIEW AV/E 100 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801076",
+        "direction": "NE",
+        "id": "MTA_801076",
+        "lat": 40.643466,
+        "locationType": 0,
+        "lon": -73.904788,
+        "name": "GLENWOOD RD/E 94 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801077",
+        "direction": "NE",
+        "id": "MTA_801077",
+        "lat": 40.644854,
+        "locationType": 0,
+        "lon": -73.90264,
+        "name": "GLENWOOD RD/E 96 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801078",
+        "direction": "SW",
+        "id": "MTA_801078",
+        "lat": 40.643589,
+        "locationType": 0,
+        "lon": -73.900979,
+        "name": "FLATLANDS AV/ROCKAWAY PKWY",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801079",
+        "direction": "SW",
+        "id": "MTA_801079",
+        "lat": 40.642054,
+        "locationType": 0,
+        "lon": -73.903276,
+        "name": "FLATLANDS AV/E 94 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801080",
+        "direction": "SW",
+        "id": "MTA_801080",
+        "lat": 40.641009,
+        "locationType": 0,
+        "lon": -73.904946,
+        "name": "FLATLANDS AV/E 92 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901019",
+        "direction": "E",
+        "id": "MTA_901019",
+        "lat": 40.668556,
+        "locationType": 0,
+        "lon": -73.931625,
+        "name": "EASTERN PKWY/UTICA AV",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901020",
+        "direction": "NE",
+        "id": "MTA_901020",
+        "lat": 40.642081,
+        "locationType": 0,
+        "lon": -73.906966,
+        "name": "GLENWOOD RD/REMSEN AV",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901495",
+        "direction": "NE",
+        "id": "MTA_901495",
+        "lat": 40.638922,
+        "locationType": 0,
+        "lon": -73.881553,
+        "name": "SEAVIEW AV/E 108 ST",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901610",
+        "direction": "W",
+        "id": "MTA_901610",
+        "lat": 40.66275,
+        "locationType": 0,
+        "lon": -73.931772,
+        "name": "EAST NEW YORK AV SOUTH/UTICA AV",
+        "routeIds": [
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

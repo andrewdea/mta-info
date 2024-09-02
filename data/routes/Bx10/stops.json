@@ -1,0 +1,1221 @@
+[
+    {
+        "code": "100017",
+        "direction": "NE",
+        "id": "MTA_100017",
+        "lat": 40.876836,
+        "locationType": 0,
+        "lon": -73.88971,
+        "name": "PAUL AV/W 205 ST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100018",
+        "direction": "E",
+        "id": "MTA_100018",
+        "lat": 40.880392,
+        "locationType": 0,
+        "lon": -73.886081,
+        "name": "PAUL AV/WEST MOSHOLU PKWY SOUTH",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100056",
+        "direction": "W",
+        "id": "MTA_100056",
+        "lat": 40.882915,
+        "locationType": 0,
+        "lon": -73.887474,
+        "name": "SEDGWICK AV/DICKINSON AV",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100057",
+        "direction": "W",
+        "id": "MTA_100057",
+        "lat": 40.882463,
+        "locationType": 0,
+        "lon": -73.891351,
+        "name": "SEDGWICK AV/HILLMAN AV",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100064",
+        "direction": "W",
+        "id": "MTA_100064",
+        "lat": 40.878232,
+        "locationType": 0,
+        "lon": -73.90277,
+        "name": "W 231 ST/BAILEY AV",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100065",
+        "direction": "NW",
+        "id": "MTA_100065",
+        "lat": 40.879254,
+        "locationType": 0,
+        "lon": -73.9054,
+        "name": "W 231 ST/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100066",
+        "direction": "NW",
+        "id": "MTA_100066",
+        "lat": 40.880047,
+        "locationType": 0,
+        "lon": -73.906872,
+        "name": "W 231 ST/KINGSBRIDGE AV",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100071",
+        "direction": "N",
+        "id": "MTA_100071",
+        "lat": 40.889537,
+        "locationType": 0,
+        "lon": -73.908059,
+        "name": "HENRY HUDSON PKWY EAST/W 239 ST",
+        "routeIds": [
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20",
+            "MTABC_BXM1",
+            "MTABC_BXM2",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100080",
+        "direction": "SW",
+        "id": "MTA_100080",
+        "lat": 40.874629,
+        "locationType": 0,
+        "lon": -73.891539,
+        "name": "PAUL AV/BEDFORD PARK BLVD",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX22",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100082",
+        "direction": "SE",
+        "id": "MTA_100082",
+        "lat": 40.881211,
+        "locationType": 0,
+        "lon": -73.90921,
+        "name": "W 231 ST/RIVERDALE AV",
+        "routeIds": [
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100084",
+        "direction": "E",
+        "id": "MTA_100084",
+        "lat": 40.878698,
+        "locationType": 0,
+        "lon": -73.904415,
+        "name": "W 231 ST/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100085",
+        "direction": "E",
+        "id": "MTA_100085",
+        "lat": 40.878029,
+        "locationType": 0,
+        "lon": -73.902633,
+        "name": "W 231 ST/BAILEY AV",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100459",
+        "direction": "N",
+        "id": "MTA_100459",
+        "lat": 40.893961,
+        "locationType": 0,
+        "lon": -73.907908,
+        "name": "HENRY HUDSON PKWY EAST/W 246 ST",
+        "routeIds": [
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10",
+            "MTABC_BXM1",
+            "MTABC_BXM2",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100460",
+        "direction": "N",
+        "id": "MTA_100460",
+        "lat": 40.897735,
+        "locationType": 0,
+        "lon": -73.907574,
+        "name": "HENRY HUDSON PKWY EAST /W 250 ST",
+        "routeIds": [
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100461",
+        "direction": "NE",
+        "id": "MTA_100461",
+        "lat": 40.899288,
+        "locationType": 0,
+        "lon": -73.906659,
+        "name": "HENRY HUDSON PKWY EAST/W 252 ST",
+        "routeIds": [
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10",
+            "MTABC_BXM1",
+            "MTABC_BXM2",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100462",
+        "direction": "NE",
+        "id": "MTA_100462",
+        "lat": 40.901963,
+        "locationType": 0,
+        "lon": -73.905859,
+        "name": "RIVERDALE AV/W 254 ST",
+        "routeIds": [
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10",
+            "MTABC_BXM1",
+            "MTABC_BXM2",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100463",
+        "direction": "N",
+        "id": "MTA_100463",
+        "lat": 40.904309,
+        "locationType": 0,
+        "lon": -73.904842,
+        "name": "RIVERDALE AV/W 256 ST",
+        "routeIds": [
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10",
+            "MTABC_BXM1",
+            "MTABC_BXM2",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100464",
+        "direction": "N",
+        "id": "MTA_100464",
+        "lat": 40.90714,
+        "locationType": 0,
+        "lon": -73.903907,
+        "name": "RIVERDALE AV/W 259 ST",
+        "routeIds": [
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10",
+            "MTABC_BXM1",
+            "MTABC_BXM2",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100465",
+        "direction": "N",
+        "id": "MTA_100465",
+        "lat": 40.908712,
+        "locationType": 0,
+        "lon": -73.903544,
+        "name": "RIVERDALE AV/W 260 ST",
+        "routeIds": [
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100466",
+        "direction": "N",
+        "id": "MTA_100466",
+        "lat": 40.910398,
+        "locationType": 0,
+        "lon": -73.903027,
+        "name": "RIVERDALE AV/W 261 ST",
+        "routeIds": [
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10",
+            "MTABC_BXM1",
+            "MTABC_BXM2",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100469",
+        "direction": "S",
+        "id": "MTA_100469",
+        "lat": 40.910225,
+        "locationType": 0,
+        "lon": -73.903269,
+        "name": "RIVERDALE AV/W 261 ST",
+        "routeIds": [
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10",
+            "MTABC_BXM1",
+            "MTABC_BXM2",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100470",
+        "direction": "S",
+        "id": "MTA_100470",
+        "lat": 40.908491,
+        "locationType": 0,
+        "lon": -73.903786,
+        "name": "RIVERDALE AV/W 260 ST",
+        "routeIds": [
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100471",
+        "direction": "S",
+        "id": "MTA_100471",
+        "lat": 40.906534,
+        "locationType": 0,
+        "lon": -73.904313,
+        "name": "RIVERDALE AV/W 259 ST",
+        "routeIds": [
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10",
+            "MTABC_BXM1",
+            "MTABC_BXM2",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100472",
+        "direction": "S",
+        "id": "MTA_100472",
+        "lat": 40.903917,
+        "locationType": 0,
+        "lon": -73.905204,
+        "name": "RIVERDALE AV/W 256 ST",
+        "routeIds": [
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10",
+            "MTABC_BXM1",
+            "MTABC_BXM2",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100473",
+        "direction": "SW",
+        "id": "MTA_100473",
+        "lat": 40.901894,
+        "locationType": 0,
+        "lon": -73.906064,
+        "name": "RIVERDALE AV/W 254 ST",
+        "routeIds": [
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10",
+            "MTABC_BXM1",
+            "MTABC_BXM2",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100474",
+        "direction": "SW",
+        "id": "MTA_100474",
+        "lat": 40.899008,
+        "locationType": 0,
+        "lon": -73.90778,
+        "name": "HENRY HUDSON PKWY WEST/W 252 ST",
+        "routeIds": [
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10",
+            "MTABC_BXM1",
+            "MTABC_BXM2",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100475",
+        "direction": "S",
+        "id": "MTA_100475",
+        "lat": 40.897,
+        "locationType": 0,
+        "lon": -73.908291,
+        "name": "HENRY HUDSON PKWY WEST/W 249 ST",
+        "routeIds": [
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100606",
+        "direction": "N",
+        "id": "MTA_100606",
+        "lat": 40.912377,
+        "locationType": 0,
+        "lon": -73.902533,
+        "name": "RIVERDALE AV/W 263 ST",
+        "routeIds": [
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100607",
+        "direction": "S",
+        "id": "MTA_100607",
+        "lat": 40.912363,
+        "locationType": 0,
+        "lon": -73.902699,
+        "name": "RIVERDALE AV/W 263 ST",
+        "routeIds": [
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100652",
+        "direction": "N",
+        "id": "MTA_100652",
+        "lat": 40.877311,
+        "locationType": 0,
+        "lon": -73.879677,
+        "name": "BAINBRIDGE AV/RESERVOIR OVAL E",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX34",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100654",
+        "direction": "NW",
+        "id": "MTA_100654",
+        "lat": 40.881347,
+        "locationType": 0,
+        "lon": -73.878833,
+        "name": "EAST GUN HILL RD/BAINBRIDGE AV",
+        "routeIds": [
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100655",
+        "direction": "NW",
+        "id": "MTA_100655",
+        "lat": 40.882485,
+        "locationType": 0,
+        "lon": -73.8807,
+        "name": "EAST GUN HILL RD/DE KALB AV",
+        "routeIds": [
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100657",
+        "direction": "SW",
+        "id": "MTA_100657",
+        "lat": 40.876457,
+        "locationType": 0,
+        "lon": -73.888096,
+        "name": "JEROME AV/E 205 ST",
+        "routeIds": [
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100675",
+        "direction": "NE",
+        "id": "MTA_100675",
+        "lat": 40.877566,
+        "locationType": 0,
+        "lon": -73.917738,
+        "name": "KAPPOCK ST/JOHNSON AV",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100676",
+        "direction": "N",
+        "id": "MTA_100676",
+        "lat": 40.879473,
+        "locationType": 0,
+        "lon": -73.916643,
+        "name": "KAPPOCK ST/KNOLLS CRES",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20",
+            "MTABC_BXM1",
+            "MTABC_BXM2",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100677",
+        "direction": "NE",
+        "id": "MTA_100677",
+        "lat": 40.88118,
+        "locationType": 0,
+        "lon": -73.917093,
+        "name": "HENRY HUDSON PKWY EAST/W 227 ST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20",
+            "MTABC_BXM1",
+            "MTABC_BXM2",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100678",
+        "direction": "NE",
+        "id": "MTA_100678",
+        "lat": 40.884434,
+        "locationType": 0,
+        "lon": -73.914569,
+        "name": "HENRY HUDSON PKWY EAST/W 232 ST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20",
+            "MTABC_BXM1",
+            "MTABC_BXM2",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100679",
+        "direction": "NE",
+        "id": "MTA_100679",
+        "lat": 40.886017,
+        "locationType": 0,
+        "lon": -73.912559,
+        "name": "HENRY HUDSON PKWY EAST/W 235 ST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20",
+            "MTABC_BXM1",
+            "MTABC_BXM2",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100680",
+        "direction": "E",
+        "id": "MTA_100680",
+        "lat": 40.888566,
+        "locationType": 0,
+        "lon": -73.909655,
+        "name": "HENRY HUDSON PKWY EAST/W 238 ST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100700",
+        "direction": "SW",
+        "id": "MTA_100700",
+        "lat": 40.889606,
+        "locationType": 0,
+        "lon": -73.90901,
+        "name": "HENRY HUDSON PKWY WEST/W 239 ST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20",
+            "MTABC_BXM1",
+            "MTABC_BXM2",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100701",
+        "direction": "SW",
+        "id": "MTA_100701",
+        "lat": 40.887849,
+        "locationType": 0,
+        "lon": -73.91192,
+        "name": "HENRY HUDSON PKWY WEST/W 237 ST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100702",
+        "direction": "SW",
+        "id": "MTA_100702",
+        "lat": 40.886798,
+        "locationType": 0,
+        "lon": -73.912533,
+        "name": "HENRY HUDSON PKWY WEST/W 236 ST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100703",
+        "direction": "SW",
+        "id": "MTA_100703",
+        "lat": 40.884346,
+        "locationType": 0,
+        "lon": -73.915205,
+        "name": "HENRY HUDSON PKWY WEST/W 232 ST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100704",
+        "direction": "SW",
+        "id": "MTA_100704",
+        "lat": 40.88157,
+        "locationType": 0,
+        "lon": -73.917346,
+        "name": "HENRY HUDSON PKWY WEST/W 227 ST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100705",
+        "direction": "NW",
+        "id": "MTA_100705",
+        "lat": 40.880804,
+        "locationType": 0,
+        "lon": -73.91895,
+        "name": "HENRY HUDSON PKWY WEST/INDEPENDENCE AV",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100706",
+        "direction": "S",
+        "id": "MTA_100706",
+        "lat": 40.87909,
+        "locationType": 0,
+        "lon": -73.916789,
+        "name": "KAPPOCK ST/KNOLLS CRES",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20",
+            "MTABC_BXM1",
+            "MTABC_BXM2",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100707",
+        "direction": "S",
+        "id": "MTA_100707",
+        "lat": 40.877396,
+        "locationType": 0,
+        "lon": -73.918013,
+        "name": "KAPPOCK ST/JOHNSON AV",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20",
+            "MTABC_BXM1",
+            "MTABC_BXM2",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100726",
+        "direction": "NE",
+        "id": "MTA_100726",
+        "lat": 40.875794,
+        "locationType": 0,
+        "lon": -73.888278,
+        "name": "JEROME AV/E 205 ST",
+        "routeIds": [
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100727",
+        "direction": "NE",
+        "id": "MTA_100727",
+        "lat": 40.880473,
+        "locationType": 0,
+        "lon": -73.88375,
+        "name": "JEROME AV/EAST MOSHOLU PKWY NORTH",
+        "routeIds": [
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100729",
+        "direction": "S",
+        "id": "MTA_100729",
+        "lat": 40.880732,
+        "locationType": 0,
+        "lon": -73.878634,
+        "name": "BAINBRIDGE AV/EAST GUN HILL RD",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX34",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100730",
+        "direction": "S",
+        "id": "MTA_100730",
+        "lat": 40.879332,
+        "locationType": 0,
+        "lon": -73.879113,
+        "name": "BAINBRIDGE AV/E 210 ST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX34",
+            "MTA NYCT_BX38",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100731",
+        "direction": "S",
+        "id": "MTA_100731",
+        "lat": 40.87709,
+        "locationType": 0,
+        "lon": -73.879774,
+        "name": "BAINBRIDGE AV/VAN CORTLANDT AV EAST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX34",
+            "MTA NYCT_BX38",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102030",
+        "direction": "S",
+        "id": "MTA_102030",
+        "lat": 40.87506,
+        "locationType": 0,
+        "lon": -73.879546,
+        "name": "BAINBRIDGE AV/E 206 ST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102995",
+        "direction": "SE",
+        "id": "MTA_102995",
+        "lat": 40.880164,
+        "locationType": 0,
+        "lon": -73.907304,
+        "name": "W 231 ST/CORLEAR AV",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102996",
+        "direction": "NW",
+        "id": "MTA_102996",
+        "lat": 40.881046,
+        "locationType": 0,
+        "lon": -73.908774,
+        "name": "W 231 ST/TIBBETT AV",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103208",
+        "direction": "S",
+        "id": "MTA_103208",
+        "lat": 40.893316,
+        "locationType": 0,
+        "lon": -73.908526,
+        "name": "HENRY HUDSON PKWY WEST/W 246 ST",
+        "routeIds": [
+            "MTA NYCT_BX7",
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103400",
+        "direction": "SW",
+        "id": "MTA_103400",
+        "lat": 40.876681,
+        "locationType": 0,
+        "lon": -73.889931,
+        "name": "PAUL AV/W 205 ST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103449",
+        "direction": "NE",
+        "id": "MTA_103449",
+        "lat": 40.874638,
+        "locationType": 0,
+        "lon": -73.891419,
+        "name": "PAUL AV/BEDFORD PARK BLVD",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103595",
+        "direction": "E",
+        "id": "MTA_103595",
+        "lat": 40.882628,
+        "locationType": 0,
+        "lon": -73.888885,
+        "name": "SEDGWICK AV/DICKINSON AV",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103618",
+        "direction": "N",
+        "id": "MTA_103618",
+        "lat": 40.876084,
+        "locationType": 0,
+        "lon": -73.881447,
+        "name": "EAST MOSHOLU PKWY NORTH/VAN CORTLANDT AV EAST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103620",
+        "direction": "W",
+        "id": "MTA_103620",
+        "lat": 40.874929,
+        "locationType": 0,
+        "lon": -73.880302,
+        "name": "E 206 ST/ROCHAMBEAU AV",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103671",
+        "direction": "W",
+        "id": "MTA_103671",
+        "lat": 40.880365,
+        "locationType": 0,
+        "lon": -73.886348,
+        "name": "PAUL AV/WEST MOSHOLU PKWY SOUTH",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103915",
+        "direction": "SW",
+        "id": "MTA_103915",
+        "lat": 40.879431,
+        "locationType": 0,
+        "lon": -73.912366,
+        "name": "IRWIN AV/JOHNSON AV",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103916",
+        "direction": "NE",
+        "id": "MTA_103916",
+        "lat": 40.879344,
+        "locationType": 0,
+        "lon": -73.912326,
+        "name": "IRWIN AV/JOHNSON AV",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20",
+            "MTABC_BXM1",
+            "MTABC_BXM2",
+            "MTABC_BXM18"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103934",
+        "direction": "SW",
+        "id": "MTA_103934",
+        "lat": 40.880279,
+        "locationType": 0,
+        "lon": -73.884125,
+        "name": "JEROME AV/EAST MOSHOLU PKWY NORTH",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_D90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103954",
+        "direction": "E",
+        "id": "MTA_103954",
+        "lat": 40.882384,
+        "locationType": 0,
+        "lon": -73.892363,
+        "name": "SEDGWICK AV/STEVENSON PL 2",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103955",
+        "direction": "SW",
+        "id": "MTA_103955",
+        "lat": 40.883795,
+        "locationType": 0,
+        "lon": -73.898238,
+        "name": "BAILEY AV/W 238 ST",
+        "routeIds": [
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103956",
+        "direction": "W",
+        "id": "MTA_103956",
+        "lat": 40.885351,
+        "locationType": 0,
+        "lon": -73.895442,
+        "name": "BAILEY AV/VAN CORTLANDT PK SOUTH",
+        "routeIds": [
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103960",
+        "direction": "NE",
+        "id": "MTA_103960",
+        "lat": 40.879972,
+        "locationType": 0,
+        "lon": -73.90089,
+        "name": "BAILEY AV/W 233 ST",
+        "routeIds": [
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103961",
+        "direction": "NE",
+        "id": "MTA_103961",
+        "lat": 40.884074,
+        "locationType": 0,
+        "lon": -73.89776,
+        "name": "BAILEY AV/W 238 ST",
+        "routeIds": [
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103962",
+        "direction": "S",
+        "id": "MTA_103962",
+        "lat": 40.883801,
+        "locationType": 0,
+        "lon": -73.893294,
+        "name": "VAN CORTLANDT AV W/ORLOFF AV",
+        "routeIds": [
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103964",
+        "direction": "SW",
+        "id": "MTA_103964",
+        "lat": 40.87954,
+        "locationType": 0,
+        "lon": -73.901304,
+        "name": "BAILEY AV/W 233 ST",
+        "routeIds": [
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103965",
+        "direction": "NW",
+        "id": "MTA_103965",
+        "lat": 40.883559,
+        "locationType": 0,
+        "lon": -73.892994,
+        "name": "VAN CORTLANDT AV W/ORLOFF AV",
+        "routeIds": [
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103966",
+        "direction": "E",
+        "id": "MTA_103966",
+        "lat": 40.88534,
+        "locationType": 0,
+        "lon": -73.8948,
+        "name": "BAILEY AV/VAN CORTLANDT PK SOUTH",
+        "routeIds": [
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104002",
+        "direction": "N",
+        "id": "MTA_104002",
+        "lat": 40.879413,
+        "locationType": 0,
+        "lon": -73.879003,
+        "name": "BAINBRIDGE AV/E 210 ST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX34",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104085",
+        "direction": "SE",
+        "id": "MTA_104085",
+        "lat": 40.87347,
+        "locationType": 0,
+        "lon": -73.889546,
+        "name": "BEDFORD PARK BLVD/JEROME AV",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104087",
+        "direction": "NW",
+        "id": "MTA_104087",
+        "lat": 40.873741,
+        "locationType": 0,
+        "lon": -73.889941,
+        "name": "BEDFORD PARK BLVD/JEROME AV",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX25",
+            "MTA NYCT_BX26",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104227",
+        "direction": "SE",
+        "id": "MTA_104227",
+        "lat": 40.882393,
+        "locationType": 0,
+        "lon": -73.880852,
+        "name": "EAST GUN HILL RD/DEKALB AV",
+        "routeIds": [
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104578",
+        "direction": "NW",
+        "id": "MTA_104578",
+        "lat": 40.879416,
+        "locationType": 0,
+        "lon": -73.909536,
+        "name": "W 230 ST/TIBETT AV",
+        "routeIds": [
+            "MTA NYCT_BX10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "902226",
+        "direction": "S",
+        "id": "MTA_902226",
+        "lat": 40.88736,
+        "locationType": 0,
+        "lon": -73.913311,
+        "name": "INDEPENDENCE AV/W 237 ST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

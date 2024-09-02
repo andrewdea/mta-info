@@ -1,0 +1,161 @@
+[
+    {
+        "code": "305170",
+        "direction": "S",
+        "id": "MTA_305170",
+        "lat": 40.729832,
+        "locationType": 0,
+        "lon": -73.954159,
+        "name": "MANHATTAN AV/GREENPOINT AV",
+        "routeIds": [
+            "MTA NYCT_B43",
+            "MTA NYCT_B62",
+            "MTA NYCT_B94",
+            "MTA NYCT_B98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305174",
+        "direction": "SE",
+        "id": "MTA_305174",
+        "lat": 40.723452,
+        "locationType": 0,
+        "lon": -73.950693,
+        "name": "MANHATTAN AV/NASSAU AV",
+        "routeIds": [
+            "MTA NYCT_B43",
+            "MTA NYCT_B62",
+            "MTA NYCT_B94",
+            "MTA NYCT_B98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308188",
+        "direction": "S",
+        "id": "MTA_308188",
+        "lat": 40.732402,
+        "locationType": 0,
+        "lon": -73.954724,
+        "name": "MANHATTAN AV/INDIA ST",
+        "routeIds": [
+            "MTA NYCT_B43",
+            "MTA NYCT_B62",
+            "MTA NYCT_B94"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504409",
+        "direction": "NE",
+        "id": "MTA_504409",
+        "lat": 40.744723,
+        "locationType": 0,
+        "lon": -73.948151,
+        "name": "JACKSON AV/21 ST",
+        "routeIds": [
+            "MTA NYCT_B62",
+            "MTA NYCT_B94",
+            "MTA NYCT_B98",
+            "MTA NYCT_Q93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504416",
+        "direction": "SW",
+        "id": "MTA_504416",
+        "lat": 40.744393,
+        "locationType": 0,
+        "lon": -73.949152,
+        "name": "JACKSON AV/47 AV",
+        "routeIds": [
+            "MTA NYCT_B62",
+            "MTA NYCT_B94",
+            "MTA NYCT_B98",
+            "MTA NYCT_Q93"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505290",
+        "direction": "W",
+        "id": "MTA_505290",
+        "lat": 40.745927,
+        "locationType": 0,
+        "lon": -73.945494,
+        "name": "JACKSON AV/23 ST",
+        "routeIds": [
+            "MTA NYCT_B62",
+            "MTA NYCT_B94"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901701",
+        "direction": "N",
+        "id": "MTA_901701",
+        "lat": 40.745906,
+        "locationType": 0,
+        "lon": -73.945602,
+        "name": "23 ST/JACKSON AV",
+        "routeIds": [
+            "MTA NYCT_B94",
+            "MTA NYCT_B98"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904218",
+        "direction": "NW",
+        "id": "MTA_904218",
+        "lat": 40.724258,
+        "locationType": 0,
+        "lon": -73.950969,
+        "name": "MANHATTAN AV/BEDFORD AV",
+        "routeIds": [
+            "MTA NYCT_B94"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904219",
+        "direction": "E",
+        "id": "MTA_904219",
+        "lat": 40.74747,
+        "locationType": 0,
+        "lon": -73.944334,
+        "name": "44 DR/23 ST",
+        "routeIds": [
+            "MTA NYCT_B94"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904979",
+        "direction": "N",
+        "id": "MTA_904979",
+        "lat": 40.730018,
+        "locationType": 0,
+        "lon": -73.954116,
+        "name": "MANHATTAN AV/GREENPOINT AV",
+        "routeIds": [
+            "MTA NYCT_B94"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904980",
+        "direction": "W",
+        "id": "MTA_904980",
+        "lat": 40.746666,
+        "locationType": 0,
+        "lon": -73.943613,
+        "name": "JACKSON AV/45 AV",
+        "routeIds": [
+            "MTA NYCT_B94"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

@@ -1,0 +1,979 @@
+[
+    {
+        "code": "100652",
+        "direction": "N",
+        "id": "MTA_100652",
+        "lat": 40.877311,
+        "locationType": 0,
+        "lon": -73.879677,
+        "name": "BAINBRIDGE AV/RESERVOIR OVAL E",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX34",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100729",
+        "direction": "S",
+        "id": "MTA_100729",
+        "lat": 40.880732,
+        "locationType": 0,
+        "lon": -73.878634,
+        "name": "BAINBRIDGE AV/EAST GUN HILL RD",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX34",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100730",
+        "direction": "S",
+        "id": "MTA_100730",
+        "lat": 40.879332,
+        "locationType": 0,
+        "lon": -73.879113,
+        "name": "BAINBRIDGE AV/E 210 ST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX34",
+            "MTA NYCT_BX38",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100731",
+        "direction": "S",
+        "id": "MTA_100731",
+        "lat": 40.87709,
+        "locationType": 0,
+        "lon": -73.879774,
+        "name": "BAINBRIDGE AV/VAN CORTLANDT AV EAST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX34",
+            "MTA NYCT_BX38",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101137",
+        "direction": "N",
+        "id": "MTA_101137",
+        "lat": 40.883777,
+        "locationType": 0,
+        "lon": -73.877631,
+        "name": "BAINBRIDGE AV/E 212 ST",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101138",
+        "direction": "N",
+        "id": "MTA_101138",
+        "lat": 40.886792,
+        "locationType": 0,
+        "lon": -73.877784,
+        "name": "BAINBRIDGE AV/JEROME AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101140",
+        "direction": "E",
+        "id": "MTA_101140",
+        "lat": 40.89568,
+        "locationType": 0,
+        "lon": -73.874901,
+        "name": "E 233 ST/NAPIER AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101142",
+        "direction": "E",
+        "id": "MTA_101142",
+        "lat": 40.89659,
+        "locationType": 0,
+        "lon": -73.870592,
+        "name": "E 233 ST/KEPLER AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101146",
+        "direction": "N",
+        "id": "MTA_101146",
+        "lat": 40.900897,
+        "locationType": 0,
+        "lon": -73.861513,
+        "name": "WEBSTER AV/NEREID AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101147",
+        "direction": "E",
+        "id": "MTA_101147",
+        "lat": 40.899354,
+        "locationType": 0,
+        "lon": -73.856861,
+        "name": "NEREID AV/CARPENTER AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101148",
+        "direction": "E",
+        "id": "MTA_101148",
+        "lat": 40.89844,
+        "locationType": 0,
+        "lon": -73.854552,
+        "name": "NEREID AV/WHITE PLAINS RD",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101149",
+        "direction": "E",
+        "id": "MTA_101149",
+        "lat": 40.897757,
+        "locationType": 0,
+        "lon": -73.852785,
+        "name": "NEREID AV/BYRON AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101150",
+        "direction": "E",
+        "id": "MTA_101150",
+        "lat": 40.898475,
+        "locationType": 0,
+        "lon": -73.849271,
+        "name": "NEREID AV/BRUNER AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101152",
+        "direction": "S",
+        "id": "MTA_101152",
+        "lat": 40.896328,
+        "locationType": 0,
+        "lon": -73.845091,
+        "name": "BAYCHESTER AV/PITMAN AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101153",
+        "direction": "S",
+        "id": "MTA_101153",
+        "lat": 40.892974,
+        "locationType": 0,
+        "lon": -73.843749,
+        "name": "BAYCHESTER AV/EDENWALD AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101154",
+        "direction": "E",
+        "id": "MTA_101154",
+        "lat": 40.888451,
+        "locationType": 0,
+        "lon": -73.841455,
+        "name": "E 233 ST/BAYCHESTER AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101155",
+        "direction": "E",
+        "id": "MTA_101155",
+        "lat": 40.888592,
+        "locationType": 0,
+        "lon": -73.838741,
+        "name": "E 233 ST/MURDOCK AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101156",
+        "direction": "E",
+        "id": "MTA_101156",
+        "lat": 40.888976,
+        "locationType": 0,
+        "lon": -73.836006,
+        "name": "E 233 ST/SETON AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101157",
+        "direction": "E",
+        "id": "MTA_101157",
+        "lat": 40.889132,
+        "locationType": 0,
+        "lon": -73.831801,
+        "name": "E 233 ST/SECOR AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101158",
+        "direction": "S",
+        "id": "MTA_101158",
+        "lat": 40.88789,
+        "locationType": 0,
+        "lon": -73.831353,
+        "name": "DYRE AV/LIGHT ST",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101159",
+        "direction": "S",
+        "id": "MTA_101159",
+        "lat": 40.884825,
+        "locationType": 0,
+        "lon": -73.83149,
+        "name": "DYRE AV/BOSTON RD",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101160",
+        "direction": "NE",
+        "id": "MTA_101160",
+        "lat": 40.885811,
+        "locationType": 0,
+        "lon": -73.828096,
+        "name": "BOSTON RD/CONNER ST",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101161",
+        "direction": "SE",
+        "id": "MTA_101161",
+        "lat": 40.889269,
+        "locationType": 0,
+        "lon": -73.820322,
+        "name": "MCOWEN AV/BOSTON RD",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101162",
+        "direction": "NE",
+        "id": "MTA_101162",
+        "lat": 40.888055,
+        "locationType": 0,
+        "lon": -73.81792,
+        "name": "HOLLERS AV/ROPES AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101163",
+        "direction": "NW",
+        "id": "MTA_101163",
+        "lat": 40.889844,
+        "locationType": 0,
+        "lon": -73.819521,
+        "name": "ROPES AV/BOSTON RD",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101164",
+        "direction": "E",
+        "id": "MTA_101164",
+        "lat": 40.899847,
+        "locationType": 0,
+        "lon": -73.843035,
+        "name": "NEREID AV/MURDOCK AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101165",
+        "direction": "E",
+        "id": "MTA_101165",
+        "lat": 40.900482,
+        "locationType": 0,
+        "lon": -73.840125,
+        "name": "NEREID AV/MUNDY LA",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101166",
+        "direction": "SW",
+        "id": "MTA_101166",
+        "lat": 40.897981,
+        "locationType": 0,
+        "lon": -73.839679,
+        "name": "MUNDY LN/PITMAN AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101167",
+        "direction": "NW",
+        "id": "MTA_101167",
+        "lat": 40.88997,
+        "locationType": 0,
+        "lon": -73.819647,
+        "name": "ROPES AV/BOSTON RD",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101169",
+        "direction": "N",
+        "id": "MTA_101169",
+        "lat": 40.885069,
+        "locationType": 0,
+        "lon": -73.831237,
+        "name": "DYRE AV/BOSTON RD",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101170",
+        "direction": "N",
+        "id": "MTA_101170",
+        "lat": 40.888242,
+        "locationType": 0,
+        "lon": -73.831214,
+        "name": "DYRE AV/LIGHT ST",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101171",
+        "direction": "W",
+        "id": "MTA_101171",
+        "lat": 40.889262,
+        "locationType": 0,
+        "lon": -73.831731,
+        "name": "E 233 ST/DYRE AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101173",
+        "direction": "W",
+        "id": "MTA_101173",
+        "lat": 40.888887,
+        "locationType": 0,
+        "lon": -73.836864,
+        "name": "E 233 ST/SETON AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101174",
+        "direction": "W",
+        "id": "MTA_101174",
+        "lat": 40.888787,
+        "locationType": 0,
+        "lon": -73.839695,
+        "name": "E 233 ST/MURDOCK AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101175",
+        "direction": "N",
+        "id": "MTA_101175",
+        "lat": 40.888826,
+        "locationType": 0,
+        "lon": -73.841976,
+        "name": "BAYCHESTER AV/E 233 ST",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101176",
+        "direction": "N",
+        "id": "MTA_101176",
+        "lat": 40.893232,
+        "locationType": 0,
+        "lon": -73.843722,
+        "name": "BAYCHESTER AV/EDENWALD AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101177",
+        "direction": "N",
+        "id": "MTA_101177",
+        "lat": 40.896567,
+        "locationType": 0,
+        "lon": -73.844945,
+        "name": "BAYCHESTER AV/PITMAN AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101178",
+        "direction": "E",
+        "id": "MTA_101178",
+        "lat": 40.897937,
+        "locationType": 0,
+        "lon": -73.839093,
+        "name": "SANFORD BLVD/S 11 AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101179",
+        "direction": "W",
+        "id": "MTA_101179",
+        "lat": 40.90041,
+        "locationType": 0,
+        "lon": -73.840943,
+        "name": "NEREID AV/SETON AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101180",
+        "direction": "W",
+        "id": "MTA_101180",
+        "lat": 40.899812,
+        "locationType": 0,
+        "lon": -73.843671,
+        "name": "NEREID AV/MURDOCK AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX39"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101181",
+        "direction": "W",
+        "id": "MTA_101181",
+        "lat": 40.899209,
+        "locationType": 0,
+        "lon": -73.84657,
+        "name": "NEREID AV/BAYCHESTER AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101182",
+        "direction": "W",
+        "id": "MTA_101182",
+        "lat": 40.898445,
+        "locationType": 0,
+        "lon": -73.85003,
+        "name": "NEREID AV/BRUNER AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101183",
+        "direction": "W",
+        "id": "MTA_101183",
+        "lat": 40.897927,
+        "locationType": 0,
+        "lon": -73.852394,
+        "name": "NEREID AV/BYRON AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101184",
+        "direction": "W",
+        "id": "MTA_101184",
+        "lat": 40.898456,
+        "locationType": 0,
+        "lon": -73.854085,
+        "name": "NEREID AV/WHITE PLAINS RD",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101185",
+        "direction": "W",
+        "id": "MTA_101185",
+        "lat": 40.899725,
+        "locationType": 0,
+        "lon": -73.857316,
+        "name": "NEREID AV/CARPENTER AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101186",
+        "direction": "S",
+        "id": "MTA_101186",
+        "lat": 40.900752,
+        "locationType": 0,
+        "lon": -73.861803,
+        "name": "WEBSTER AV/E 240 ST",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101187",
+        "direction": "S",
+        "id": "MTA_101187",
+        "lat": 40.897767,
+        "locationType": 0,
+        "lon": -73.862641,
+        "name": "WEBSTER AV/E 235 ST",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101188",
+        "direction": "SW",
+        "id": "MTA_101188",
+        "lat": 40.895553,
+        "locationType": 0,
+        "lon": -73.863604,
+        "name": "WEBSTER AV/E 233 ST",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101189",
+        "direction": "W",
+        "id": "MTA_101189",
+        "lat": 40.896122,
+        "locationType": 0,
+        "lon": -73.866783,
+        "name": "E 233 ST/KATONAH AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101190",
+        "direction": "W",
+        "id": "MTA_101190",
+        "lat": 40.896662,
+        "locationType": 0,
+        "lon": -73.870394,
+        "name": "E 233 ST/KEPLER AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101192",
+        "direction": "W",
+        "id": "MTA_101192",
+        "lat": 40.895739,
+        "locationType": 0,
+        "lon": -73.875215,
+        "name": "E 233 ST/NAPIER AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101193",
+        "direction": "S",
+        "id": "MTA_101193",
+        "lat": 40.886637,
+        "locationType": 0,
+        "lon": -73.877852,
+        "name": "BAINBRIDGE AV/JEROME AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101194",
+        "direction": "S",
+        "id": "MTA_101194",
+        "lat": 40.883145,
+        "locationType": 0,
+        "lon": -73.877844,
+        "name": "BAINBRIDGE AV/E 212 ST",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34",
+            "MTABC_BXM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102030",
+        "direction": "S",
+        "id": "MTA_102030",
+        "lat": 40.87506,
+        "locationType": 0,
+        "lon": -73.879546,
+        "name": "BAINBRIDGE AV/E 206 ST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102979",
+        "direction": "E",
+        "id": "MTA_102979",
+        "lat": 40.895247,
+        "locationType": 0,
+        "lon": -73.87957,
+        "name": "E 233 ST/JEROME AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103050",
+        "direction": "E",
+        "id": "MTA_103050",
+        "lat": 40.899061,
+        "locationType": 0,
+        "lon": -73.846603,
+        "name": "NEREID AV/EDSON AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX39",
+            "MTABC_BXM11"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103101",
+        "direction": "SW",
+        "id": "MTA_103101",
+        "lat": 40.885675,
+        "locationType": 0,
+        "lon": -73.828741,
+        "name": "BOSTON RD/PROVOST AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX30"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103466",
+        "direction": "N",
+        "id": "MTA_103466",
+        "lat": 40.89812,
+        "locationType": 0,
+        "lon": -73.862301,
+        "name": "WEBSTER AV/E 235 ST",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103618",
+        "direction": "N",
+        "id": "MTA_103618",
+        "lat": 40.876084,
+        "locationType": 0,
+        "lon": -73.881447,
+        "name": "EAST MOSHOLU PKWY NORTH/VAN CORTLANDT AV EAST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103620",
+        "direction": "W",
+        "id": "MTA_103620",
+        "lat": 40.874929,
+        "locationType": 0,
+        "lon": -73.880302,
+        "name": "E 206 ST/ROCHAMBEAU AV",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103662",
+        "direction": "E",
+        "id": "MTA_103662",
+        "lat": 40.895954,
+        "locationType": 0,
+        "lon": -73.866552,
+        "name": "E 233 ST/KATONAH AV",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103761",
+        "direction": "NW",
+        "id": "MTA_103761",
+        "lat": 40.885054,
+        "locationType": 0,
+        "lon": -73.84039,
+        "name": "BAYCHESTER AV/CRAWFORD AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103800",
+        "direction": "S",
+        "id": "MTA_103800",
+        "lat": 40.894716,
+        "locationType": 0,
+        "lon": -73.88025,
+        "name": "JEROME AV/E 233 ST",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103904",
+        "direction": "NE",
+        "id": "MTA_103904",
+        "lat": 40.895673,
+        "locationType": 0,
+        "lon": -73.863253,
+        "name": "WEBSTER AV/E 233 ST",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103908",
+        "direction": "SW",
+        "id": "MTA_103908",
+        "lat": 40.889697,
+        "locationType": 0,
+        "lon": -73.820597,
+        "name": "BOSTON RD/ROPES AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104002",
+        "direction": "N",
+        "id": "MTA_104002",
+        "lat": 40.879413,
+        "locationType": 0,
+        "lon": -73.879003,
+        "name": "BAINBRIDGE AV/E 210 ST",
+        "routeIds": [
+            "MTA NYCT_BX10",
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX34",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104256",
+        "direction": "NW",
+        "id": "MTA_104256",
+        "lat": 40.900501,
+        "locationType": 0,
+        "lon": -73.839901,
+        "name": "MUNDY LA/NEREID AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104257",
+        "direction": "S",
+        "id": "MTA_104257",
+        "lat": 40.890232,
+        "locationType": 0,
+        "lon": -73.842718,
+        "name": "BAYCHESTER AV/STRANG AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104260",
+        "direction": "W",
+        "id": "MTA_104260",
+        "lat": 40.897308,
+        "locationType": 0,
+        "lon": -73.842654,
+        "name": "PITMAN AV/MURDOCK AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104261",
+        "direction": "E",
+        "id": "MTA_104261",
+        "lat": 40.8974,
+        "locationType": 0,
+        "lon": -73.841425,
+        "name": "PITMAN AV/HILL AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104351",
+        "direction": "N",
+        "id": "MTA_104351",
+        "lat": 40.890282,
+        "locationType": 0,
+        "lon": -73.842587,
+        "name": "BAYCHESTER AV/STRANG AV",
+        "routeIds": [
+            "MTA NYCT_BX16"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

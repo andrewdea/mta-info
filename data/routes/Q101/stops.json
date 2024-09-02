@@ -1,0 +1,649 @@
+[
+    {
+        "code": "401764",
+        "direction": "SW",
+        "id": "MTA_401764",
+        "lat": 40.761523,
+        "locationType": 0,
+        "lon": -73.963754,
+        "name": "2 AV/E 61 ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450445",
+        "direction": "NE",
+        "id": "MTA_450445",
+        "lat": 40.761326,
+        "locationType": 0,
+        "lon": -73.962466,
+        "name": "QUEENSBORO BRIDGE EXIT/E 61 ST",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503340",
+        "direction": "W",
+        "id": "MTA_503340",
+        "lat": 40.750065,
+        "locationType": 0,
+        "lon": -73.938148,
+        "name": "QUEENS PLAZA NORTH/29 ST",
+        "routeIds": [
+            "MTA NYCT_Q32",
+            "MTABC_Q60",
+            "MTABC_Q101",
+            "MTABC_Q102"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552028",
+        "direction": "E",
+        "id": "MTA_552028",
+        "lat": 40.74882,
+        "locationType": 0,
+        "lon": -73.937711,
+        "name": "JACKSON AV/QUEENS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q96",
+            "MTABC_Q101",
+            "MTABC_Q102"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552029",
+        "direction": "NE",
+        "id": "MTA_552029",
+        "lat": 40.749864,
+        "locationType": 0,
+        "lon": -73.93587,
+        "name": "NORTHERN BLVD/41 AV",
+        "routeIds": [
+            "MTABC_Q101",
+            "MTABC_Q102"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552031",
+        "direction": "E",
+        "id": "MTA_552031",
+        "lat": 40.751887,
+        "locationType": 0,
+        "lon": -73.931634,
+        "name": "NORTHERN BLVD/39 AV",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552032",
+        "direction": "E",
+        "id": "MTA_552032",
+        "lat": 40.751894,
+        "locationType": 0,
+        "lon": -73.929907,
+        "name": "NORTHERN BLVD/34 ST",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552033",
+        "direction": "W",
+        "id": "MTA_552033",
+        "lat": 40.752149,
+        "locationType": 0,
+        "lon": -73.930253,
+        "name": "NORTHERN BLVD/34 ST",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552034",
+        "direction": "E",
+        "id": "MTA_552034",
+        "lat": 40.751943,
+        "locationType": 0,
+        "lon": -73.926621,
+        "name": "NORTHERN BLVD/37 ST",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552035",
+        "direction": "W",
+        "id": "MTA_552035",
+        "lat": 40.752223,
+        "locationType": 0,
+        "lon": -73.926665,
+        "name": "NORTHERN BLVD/37 ST",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552036",
+        "direction": "NE",
+        "id": "MTA_552036",
+        "lat": 40.752738,
+        "locationType": 0,
+        "lon": -73.924035,
+        "name": "STEINWAY ST/NORTHERN BLVD",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552037",
+        "direction": "SW",
+        "id": "MTA_552037",
+        "lat": 40.75267,
+        "locationType": 0,
+        "lon": -73.924336,
+        "name": "STEINWAY ST/NORTHERN BLVD",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552040",
+        "direction": "NE",
+        "id": "MTA_552040",
+        "lat": 40.755033,
+        "locationType": 0,
+        "lon": -73.922105,
+        "name": "STEINWAY ST/35 AV",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552041",
+        "direction": "SW",
+        "id": "MTA_552041",
+        "lat": 40.75505,
+        "locationType": 0,
+        "lon": -73.92235,
+        "name": "STEINWAY ST/35 AV",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552042",
+        "direction": "NE",
+        "id": "MTA_552042",
+        "lat": 40.756785,
+        "locationType": 0,
+        "lon": -73.920665,
+        "name": "STEINWAY ST/34 AV",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552043",
+        "direction": "SW",
+        "id": "MTA_552043",
+        "lat": 40.756591,
+        "locationType": 0,
+        "lon": -73.921056,
+        "name": "STEINWAY ST/34 AV",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552044",
+        "direction": "NE",
+        "id": "MTA_552044",
+        "lat": 40.759268,
+        "locationType": 0,
+        "lon": -73.918722,
+        "name": "STEINWAY ST/BROADWAY",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552045",
+        "direction": "SW",
+        "id": "MTA_552045",
+        "lat": 40.758747,
+        "locationType": 0,
+        "lon": -73.919308,
+        "name": "STEINWAY ST/BROADWAY",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552046",
+        "direction": "NE",
+        "id": "MTA_552046",
+        "lat": 40.761485,
+        "locationType": 0,
+        "lon": -73.916871,
+        "name": "STEINWAY ST/31 AV",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552047",
+        "direction": "SW",
+        "id": "MTA_552047",
+        "lat": 40.76124,
+        "locationType": 0,
+        "lon": -73.917317,
+        "name": "STEINWAY ST/31 AV",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552048",
+        "direction": "NE",
+        "id": "MTA_552048",
+        "lat": 40.764008,
+        "locationType": 0,
+        "lon": -73.914773,
+        "name": "STEINWAY ST/30 AV",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552049",
+        "direction": "SW",
+        "id": "MTA_552049",
+        "lat": 40.763822,
+        "locationType": 0,
+        "lon": -73.915208,
+        "name": "STEINWAY ST/30 AV",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552050",
+        "direction": "NE",
+        "id": "MTA_552050",
+        "lat": 40.7656,
+        "locationType": 0,
+        "lon": -73.913489,
+        "name": "STEINWAY ST/28 AV",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552051",
+        "direction": "SW",
+        "id": "MTA_552051",
+        "lat": 40.765422,
+        "locationType": 0,
+        "lon": -73.913891,
+        "name": "STEINWAY ST/28 AV",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552052",
+        "direction": "NE",
+        "id": "MTA_552052",
+        "lat": 40.768098,
+        "locationType": 0,
+        "lon": -73.911492,
+        "name": "STEINWAY ST/25 AV",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552053",
+        "direction": "SW",
+        "id": "MTA_552053",
+        "lat": 40.767895,
+        "locationType": 0,
+        "lon": -73.911871,
+        "name": "STEINWAY ST/25 AV",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552054",
+        "direction": "NE",
+        "id": "MTA_552054",
+        "lat": 40.769964,
+        "locationType": 0,
+        "lon": -73.90945,
+        "name": "STEINWAY ST/23 RD",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552055",
+        "direction": "SW",
+        "id": "MTA_552055",
+        "lat": 40.76956,
+        "locationType": 0,
+        "lon": -73.910225,
+        "name": "STEINWAY ST/ASTORIA BLVD",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552056",
+        "direction": "NE",
+        "id": "MTA_552056",
+        "lat": 40.771179,
+        "locationType": 0,
+        "lon": -73.908022,
+        "name": "STEINWAY ST/23 AV",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552057",
+        "direction": "SW",
+        "id": "MTA_552057",
+        "lat": 40.771061,
+        "locationType": 0,
+        "lon": -73.908445,
+        "name": "STEINWAY ST/23 AV",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552058",
+        "direction": "NE",
+        "id": "MTA_552058",
+        "lat": 40.772965,
+        "locationType": 0,
+        "lon": -73.905823,
+        "name": "STEINWAY ST/DITMARS BLVD",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552059",
+        "direction": "SW",
+        "id": "MTA_552059",
+        "lat": 40.77283,
+        "locationType": 0,
+        "lon": -73.906292,
+        "name": "STEINWAY ST/DITMARS BLVD",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552060",
+        "direction": "NE",
+        "id": "MTA_552060",
+        "lat": 40.774759,
+        "locationType": 0,
+        "lon": -73.903558,
+        "name": "STEINWAY ST/21 AV",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552061",
+        "direction": "SW",
+        "id": "MTA_552061",
+        "lat": 40.774624,
+        "locationType": 0,
+        "lon": -73.904116,
+        "name": "STEINWAY ST/21 AV",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552062",
+        "direction": "NE",
+        "id": "MTA_552062",
+        "lat": 40.776342,
+        "locationType": 0,
+        "lon": -73.901661,
+        "name": "STEINWAY ST/20 AV",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552063",
+        "direction": "SE",
+        "id": "MTA_552063",
+        "lat": 40.775333,
+        "locationType": 0,
+        "lon": -73.900125,
+        "name": "20 AV/42 ST",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552064",
+        "direction": "SE",
+        "id": "MTA_552064",
+        "lat": 40.774306,
+        "locationType": 0,
+        "lon": -73.898734,
+        "name": "20 AV/45 ST",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552065",
+        "direction": "NW",
+        "id": "MTA_552065",
+        "lat": 40.774603,
+        "locationType": 0,
+        "lon": -73.898856,
+        "name": "20 AV/45 ST",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552066",
+        "direction": "SE",
+        "id": "MTA_552066",
+        "lat": 40.773272,
+        "locationType": 0,
+        "lon": -73.89732,
+        "name": "20 AV/47 ST",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552067",
+        "direction": "NW",
+        "id": "MTA_552067",
+        "lat": 40.773585,
+        "locationType": 0,
+        "lon": -73.897453,
+        "name": "20 AV/47 ST",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552068",
+        "direction": "NE",
+        "id": "MTA_552068",
+        "lat": 40.77258,
+        "locationType": 0,
+        "lon": -73.895658,
+        "name": "49 ST/20 AV",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552069",
+        "direction": "SW",
+        "id": "MTA_552069",
+        "lat": 40.773573,
+        "locationType": 0,
+        "lon": -73.89329,
+        "name": "HAZEN ST/19 AV",
+        "routeIds": [
+            "MTABC_Q100",
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552070",
+        "direction": "NW",
+        "id": "MTA_552070",
+        "lat": 40.772406,
+        "locationType": 0,
+        "lon": -73.895761,
+        "name": "20 AV/49 ST",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552071",
+        "direction": "NW",
+        "id": "MTA_552071",
+        "lat": 40.776436,
+        "locationType": 0,
+        "lon": -73.901472,
+        "name": "20 AV/STEINWAY ST",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552072",
+        "direction": "SW",
+        "id": "MTA_552072",
+        "lat": 40.775285,
+        "locationType": 0,
+        "lon": -73.903246,
+        "name": "STEINWAY ST/20 RD",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552073",
+        "direction": "W",
+        "id": "MTA_552073",
+        "lat": 40.752141,
+        "locationType": 0,
+        "lon": -73.932147,
+        "name": "NORTHERN BLVD/39 AV",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553034",
+        "direction": "SE",
+        "id": "MTA_553034",
+        "lat": 40.750051,
+        "locationType": 0,
+        "lon": -73.939524,
+        "name": "QUEENS PLAZA SOUTH/27 ST",
+        "routeIds": [
+            "MTABC_Q101",
+            "MTABC_Q102"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553187",
+        "direction": "NW",
+        "id": "MTA_553187",
+        "lat": 40.74994,
+        "locationType": 0,
+        "lon": -73.936491,
+        "name": "41 AV/QUEENS PLAZA NORTH",
+        "routeIds": [
+            "MTABC_Q101",
+            "MTABC_Q102"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "981007",
+        "direction": "NE",
+        "id": "MTA_981007",
+        "lat": 40.761281,
+        "locationType": 0,
+        "lon": -73.962511,
+        "name": "QUEENSBORO BRIDGE EXIT/E 61 ST",
+        "routeIds": [
+            "MTABC_Q101"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

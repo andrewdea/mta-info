@@ -1,0 +1,602 @@
+[
+    {
+        "code": "552154",
+        "direction": "W",
+        "id": "MTA_552154",
+        "lat": 40.766845,
+        "locationType": 0,
+        "lon": -73.938965,
+        "name": "VERNON BLVD/33 RD",
+        "routeIds": [
+            "MTABC_Q103",
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552156",
+        "direction": "W",
+        "id": "MTA_552156",
+        "lat": 40.767725,
+        "locationType": 0,
+        "lon": -73.936504,
+        "name": "VERNON BLVD/BROADWAY",
+        "routeIds": [
+            "MTABC_Q103",
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552163",
+        "direction": "NE",
+        "id": "MTA_552163",
+        "lat": 40.764853,
+        "locationType": 0,
+        "lon": -73.937569,
+        "name": "11 ST/34 AV",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552165",
+        "direction": "SE",
+        "id": "MTA_552165",
+        "lat": 40.767419,
+        "locationType": 0,
+        "lon": -73.935788,
+        "name": "BROADWAY/11 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552166",
+        "direction": "SE",
+        "id": "MTA_552166",
+        "lat": 40.766193,
+        "locationType": 0,
+        "lon": -73.933631,
+        "name": "BROADWAY/14 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552167",
+        "direction": "NW",
+        "id": "MTA_552167",
+        "lat": 40.76649,
+        "locationType": 0,
+        "lon": -73.933739,
+        "name": "BROADWAY/14 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552169",
+        "direction": "SE",
+        "id": "MTA_552169",
+        "lat": 40.765089,
+        "locationType": 0,
+        "lon": -73.931595,
+        "name": "BROADWAY/21 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552170",
+        "direction": "NW",
+        "id": "MTA_552170",
+        "lat": 40.765404,
+        "locationType": 0,
+        "lon": -73.931825,
+        "name": "BROADWAY/21 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552171",
+        "direction": "SE",
+        "id": "MTA_552171",
+        "lat": 40.764346,
+        "locationType": 0,
+        "lon": -73.930229,
+        "name": "BROADWAY/23 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552172",
+        "direction": "NW",
+        "id": "MTA_552172",
+        "lat": 40.764642,
+        "locationType": 0,
+        "lon": -73.930484,
+        "name": "BROADWAY/23 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552173",
+        "direction": "SE",
+        "id": "MTA_552173",
+        "lat": 40.763455,
+        "locationType": 0,
+        "lon": -73.928693,
+        "name": "BROADWAY/CRESCENT ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552174",
+        "direction": "NW",
+        "id": "MTA_552174",
+        "lat": 40.763584,
+        "locationType": 0,
+        "lon": -73.928522,
+        "name": "BROADWAY/CRESCENT ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552175",
+        "direction": "SE",
+        "id": "MTA_552175",
+        "lat": 40.76274,
+        "locationType": 0,
+        "lon": -73.927267,
+        "name": "BROADWAY/29 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552176",
+        "direction": "NW",
+        "id": "MTA_552176",
+        "lat": 40.762888,
+        "locationType": 0,
+        "lon": -73.927058,
+        "name": "BROADWAY/29 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552177",
+        "direction": "SE",
+        "id": "MTA_552177",
+        "lat": 40.761829,
+        "locationType": 0,
+        "lon": -73.925206,
+        "name": "BROADWAY/31 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552178",
+        "direction": "NW",
+        "id": "MTA_552178",
+        "lat": 40.762191,
+        "locationType": 0,
+        "lon": -73.925547,
+        "name": "BROADWAY/31 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552179",
+        "direction": "SE",
+        "id": "MTA_552179",
+        "lat": 40.761105,
+        "locationType": 0,
+        "lon": -73.923646,
+        "name": "BROADWAY/33 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552180",
+        "direction": "NW",
+        "id": "MTA_552180",
+        "lat": 40.76142,
+        "locationType": 0,
+        "lon": -73.923938,
+        "name": "BROADWAY/33 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552181",
+        "direction": "SE",
+        "id": "MTA_552181",
+        "lat": 40.760362,
+        "locationType": 0,
+        "lon": -73.922049,
+        "name": "BROADWAY/35 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552182",
+        "direction": "NW",
+        "id": "MTA_552182",
+        "lat": 40.760668,
+        "locationType": 0,
+        "lon": -73.922292,
+        "name": "BROADWAY/35 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552183",
+        "direction": "SE",
+        "id": "MTA_552183",
+        "lat": 40.75961,
+        "locationType": 0,
+        "lon": -73.920476,
+        "name": "BROADWAY/37 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552184",
+        "direction": "NW",
+        "id": "MTA_552184",
+        "lat": 40.759887,
+        "locationType": 0,
+        "lon": -73.920683,
+        "name": "BROADWAY/37 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552185",
+        "direction": "SE",
+        "id": "MTA_552185",
+        "lat": 40.75881,
+        "locationType": 0,
+        "lon": -73.918728,
+        "name": "BROADWAY/STEINWAY ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552186",
+        "direction": "NW",
+        "id": "MTA_552186",
+        "lat": 40.759213,
+        "locationType": 0,
+        "lon": -73.919292,
+        "name": "BROADWAY/STEINWAY ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552187",
+        "direction": "SE",
+        "id": "MTA_552187",
+        "lat": 40.758123,
+        "locationType": 0,
+        "lon": -73.917282,
+        "name": "BROADWAY/42 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552188",
+        "direction": "NW",
+        "id": "MTA_552188",
+        "lat": 40.758401,
+        "locationType": 0,
+        "lon": -73.917502,
+        "name": "BROADWAY/42 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552189",
+        "direction": "SE",
+        "id": "MTA_552189",
+        "lat": 40.757352,
+        "locationType": 0,
+        "lon": -73.915674,
+        "name": "BROADWAY/44 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552190",
+        "direction": "NW",
+        "id": "MTA_552190",
+        "lat": 40.757658,
+        "locationType": 0,
+        "lon": -73.91588,
+        "name": "BROADWAY/44 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552191",
+        "direction": "SE",
+        "id": "MTA_552191",
+        "lat": 40.756582,
+        "locationType": 0,
+        "lon": -73.914101,
+        "name": "BROADWAY/46 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552192",
+        "direction": "NW",
+        "id": "MTA_552192",
+        "lat": 40.756897,
+        "locationType": 0,
+        "lon": -73.914283,
+        "name": "BROADWAY/46 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552195",
+        "direction": "N",
+        "id": "MTA_552195",
+        "lat": 40.753521,
+        "locationType": 0,
+        "lon": -73.914617,
+        "name": "48 ST/NORTHERN BLVD",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552197",
+        "direction": "N",
+        "id": "MTA_552197",
+        "lat": 40.751982,
+        "locationType": 0,
+        "lon": -73.91496,
+        "name": "48 ST/BARNETT AV",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552198",
+        "direction": "S",
+        "id": "MTA_552198",
+        "lat": 40.749339,
+        "locationType": 0,
+        "lon": -73.915708,
+        "name": "48 ST/39 AV",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552199",
+        "direction": "N",
+        "id": "MTA_552199",
+        "lat": 40.74933,
+        "locationType": 0,
+        "lon": -73.915464,
+        "name": "48 ST/39 AV",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552200",
+        "direction": "S",
+        "id": "MTA_552200",
+        "lat": 40.746205,
+        "locationType": 0,
+        "lon": -73.916334,
+        "name": "48 ST/SKILLMAN AV",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552201",
+        "direction": "N",
+        "id": "MTA_552201",
+        "lat": 40.746548,
+        "locationType": 0,
+        "lon": -73.916052,
+        "name": "48 ST/SKILLMAN AV",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552203",
+        "direction": "N",
+        "id": "MTA_552203",
+        "lat": 40.74487,
+        "locationType": 0,
+        "lon": -73.916359,
+        "name": "48 ST/43 AV",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552204",
+        "direction": "S",
+        "id": "MTA_552204",
+        "lat": 40.743321,
+        "locationType": 0,
+        "lon": -73.91691,
+        "name": "48 ST/QUEENS BLVD",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552205",
+        "direction": "N",
+        "id": "MTA_552205",
+        "lat": 40.743387,
+        "locationType": 0,
+        "lon": -73.917641,
+        "name": "47 ST/QUEENS BLVD",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552207",
+        "direction": "E",
+        "id": "MTA_552207",
+        "lat": 40.765427,
+        "locationType": 0,
+        "lon": -73.94012,
+        "name": "34 AV/VERNON BLVD",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552968",
+        "direction": "S",
+        "id": "MTA_552968",
+        "lat": 40.752399,
+        "locationType": 0,
+        "lon": -73.915106,
+        "name": "48 ST/NORTHERN BLVD",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553315",
+        "direction": "SE",
+        "id": "MTA_553315",
+        "lat": 40.756,
+        "locationType": 0,
+        "lon": -73.912745,
+        "name": "BROADWAY/48 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553316",
+        "direction": "SW",
+        "id": "MTA_553316",
+        "lat": 40.75371,
+        "locationType": 0,
+        "lon": -73.913455,
+        "name": "49 ST/NORTHERN BLVD",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553317",
+        "direction": "NW",
+        "id": "MTA_553317",
+        "lat": 40.756133,
+        "locationType": 0,
+        "lon": -73.912732,
+        "name": "BROADWAY/48 ST",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982176",
+        "direction": "S",
+        "id": "MTA_982176",
+        "lat": 40.743457,
+        "locationType": 0,
+        "lon": -73.916896,
+        "name": "48 ST/QUEENS BLVD",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982177",
+        "direction": "NE",
+        "id": "MTA_982177",
+        "lat": 40.764746,
+        "locationType": 0,
+        "lon": -73.937654,
+        "name": "11 ST/34 AV",
+        "routeIds": [
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

@@ -1,0 +1,658 @@
+[
+    {
+        "code": "401840",
+        "direction": "NW",
+        "id": "MTA_401840",
+        "lat": 40.745998,
+        "locationType": 0,
+        "lon": -73.978634,
+        "name": "E 34 ST/3 AV",
+        "routeIds": [
+            "MTABC_BM5",
+            "MTA NYCT_M34A+",
+            "MTA NYCT_M34+",
+            "MTABC_QM1",
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM20",
+            "MTABC_QM24",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401844",
+        "direction": "NW",
+        "id": "MTA_401844",
+        "lat": 40.748672,
+        "locationType": 0,
+        "lon": -73.98491,
+        "name": "W 34 ST/5 AV",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM15",
+            "MTABC_QM16",
+            "MTABC_QM17",
+            "MTABC_QM18",
+            "MTABC_QM20",
+            "MTABC_QM24",
+            "MTA NYCT_SIM23",
+            "MTA NYCT_SIM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450013",
+        "direction": "NE",
+        "id": "MTA_450013",
+        "lat": 40.751742,
+        "locationType": 0,
+        "lon": -73.98619,
+        "name": "6 AV/W 37 ST",
+        "routeIds": [
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450016",
+        "direction": "NE",
+        "id": "MTA_450016",
+        "lat": 40.755621,
+        "locationType": 0,
+        "lon": -73.983396,
+        "name": "6 AV/W 43 ST",
+        "routeIds": [
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450022",
+        "direction": "NE",
+        "id": "MTA_450022",
+        "lat": 40.760426,
+        "locationType": 0,
+        "lon": -73.979877,
+        "name": "6 AV/W 51 ST",
+        "routeIds": [
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450031",
+        "direction": "SE",
+        "id": "MTA_450031",
+        "lat": 40.762636,
+        "locationType": 0,
+        "lon": -73.973311,
+        "name": "E 57 ST/5 AV",
+        "routeIds": [
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450066",
+        "direction": "NE",
+        "id": "MTA_450066",
+        "lat": 40.750341,
+        "locationType": 0,
+        "lon": -73.987222,
+        "name": "6 AV/W 35 ST",
+        "routeIds": [
+            "MTABC_BXM2",
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450376",
+        "direction": "NE",
+        "id": "MTA_450376",
+        "lat": 40.76371,
+        "locationType": 0,
+        "lon": -73.977473,
+        "name": "6 AV/W 56 ST",
+        "routeIds": [
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450552",
+        "direction": "NW",
+        "id": "MTA_450552",
+        "lat": 40.747533,
+        "locationType": 0,
+        "lon": -73.982055,
+        "name": "E 34 ST/PARK AV",
+        "routeIds": [
+            "MTABC_BM5",
+            "MTABC_QM1",
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM20",
+            "MTABC_QM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502871",
+        "direction": "E",
+        "id": "MTA_502871",
+        "lat": 40.734871,
+        "locationType": 0,
+        "lon": -73.860354,
+        "name": "HORACE HARDING EXPWY/98 ST",
+        "routeIds": [
+            "MTA NYCT_Q88",
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504274",
+        "direction": "E",
+        "id": "MTA_504274",
+        "lat": 40.711334,
+        "locationType": 0,
+        "lon": -73.856918,
+        "name": "METROPOLITAN AV/SELFRIDGE ST",
+        "routeIds": [
+            "MTABC_Q23",
+            "MTA NYCT_Q54",
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504276",
+        "direction": "E",
+        "id": "MTA_504276",
+        "lat": 40.710646,
+        "locationType": 0,
+        "lon": -73.852411,
+        "name": "METROPOLITAN AV/70 RD",
+        "routeIds": [
+            "MTABC_Q23",
+            "MTA NYCT_Q54",
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550454",
+        "direction": "N",
+        "id": "MTA_550454",
+        "lat": 40.71208,
+        "locationType": 0,
+        "lon": -73.859508,
+        "name": "WOODHAVEN BLVD/METROPOLITAN AV",
+        "routeIds": [
+            "MTABC_BM5",
+            "MTABC_Q11",
+            "MTABC_Q21",
+            "MTABC_QM12",
+            "MTABC_QM15",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550470",
+        "direction": "SW",
+        "id": "MTA_550470",
+        "lat": 40.732651,
+        "locationType": 0,
+        "lon": -73.871091,
+        "name": "WOODHAVEN BLVD/HOFFMAN DR",
+        "routeIds": [
+            "MTABC_QM10",
+            "MTABC_QM11",
+            "MTABC_QM12",
+            "MTABC_QM40",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550960",
+        "direction": "W",
+        "id": "MTA_550960",
+        "lat": 40.722664,
+        "locationType": 0,
+        "lon": -73.851823,
+        "name": "YELLOWSTONE BLVD/AUSTIN ST",
+        "routeIds": [
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551248",
+        "direction": "W",
+        "id": "MTA_551248",
+        "lat": 40.735007,
+        "locationType": 0,
+        "lon": -73.85348,
+        "name": "62 DR/YELLOWSTONE BLVD",
+        "routeIds": [
+            "MTABC_Q38",
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551251",
+        "direction": "W",
+        "id": "MTA_551251",
+        "lat": 40.733153,
+        "locationType": 0,
+        "lon": -73.859733,
+        "name": "62 DR/98 ST",
+        "routeIds": [
+            "MTABC_Q38",
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552932",
+        "direction": "SE",
+        "id": "MTA_552932",
+        "lat": 40.735532,
+        "locationType": 0,
+        "lon": -73.853637,
+        "name": "YELLOWSTONE BLVD/62 RD",
+        "routeIds": [
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552933",
+        "direction": "SE",
+        "id": "MTA_552933",
+        "lat": 40.73283,
+        "locationType": 0,
+        "lon": -73.85224,
+        "name": "YELLOWSTONE BLVD/63 DR",
+        "routeIds": [
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552934",
+        "direction": "NW",
+        "id": "MTA_552934",
+        "lat": 40.73176,
+        "locationType": 0,
+        "lon": -73.851483,
+        "name": "YELLOWSTONE BLVD/64 RD",
+        "routeIds": [
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552935",
+        "direction": "SE",
+        "id": "MTA_552935",
+        "lat": 40.730829,
+        "locationType": 0,
+        "lon": -73.851192,
+        "name": "YELLOWSTONE BLVD/65 AV",
+        "routeIds": [
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552936",
+        "direction": "N",
+        "id": "MTA_552936",
+        "lat": 40.728622,
+        "locationType": 0,
+        "lon": -73.849109,
+        "name": "YELLOWSTONE BLVD/67 AV",
+        "routeIds": [
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552937",
+        "direction": "S",
+        "id": "MTA_552937",
+        "lat": 40.728357,
+        "locationType": 0,
+        "lon": -73.849337,
+        "name": "YELLOWSTONE BLVD/67 AV",
+        "routeIds": [
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552938",
+        "direction": "NW",
+        "id": "MTA_552938",
+        "lat": 40.72653,
+        "locationType": 0,
+        "lon": -73.848481,
+        "name": "YELLOWSTONE BLVD/68 AV",
+        "routeIds": [
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552939",
+        "direction": "SE",
+        "id": "MTA_552939",
+        "lat": 40.726267,
+        "locationType": 0,
+        "lon": -73.848583,
+        "name": "YELLOWSTONE BLVD/68 AV",
+        "routeIds": [
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552940",
+        "direction": "NE",
+        "id": "MTA_552940",
+        "lat": 40.715247,
+        "locationType": 0,
+        "lon": -73.858383,
+        "name": "YELLOWSTONE BLVD/68 RD",
+        "routeIds": [
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552941",
+        "direction": "NW",
+        "id": "MTA_552941",
+        "lat": 40.724753,
+        "locationType": 0,
+        "lon": -73.846839,
+        "name": "YELLOWSTONE BLVD/69 AV",
+        "routeIds": [
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552942",
+        "direction": "SE",
+        "id": "MTA_552942",
+        "lat": 40.724473,
+        "locationType": 0,
+        "lon": -73.846919,
+        "name": "YELLOWSTONE BLVD/69 AV",
+        "routeIds": [
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552943",
+        "direction": "SW",
+        "id": "MTA_552943",
+        "lat": 40.715188,
+        "locationType": 0,
+        "lon": -73.858739,
+        "name": "YELLOWSTONE BLVD/ALDERTON ST",
+        "routeIds": [
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552944",
+        "direction": "W",
+        "id": "MTA_552944",
+        "lat": 40.722046,
+        "locationType": 0,
+        "lon": -73.853708,
+        "name": "YELLOWSTONE BLVD/BURNS ST",
+        "routeIds": [
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552945",
+        "direction": "E",
+        "id": "MTA_552945",
+        "lat": 40.721653,
+        "locationType": 0,
+        "lon": -73.854264,
+        "name": "YELLOWSTONE BLVD/CLYDE ST",
+        "routeIds": [
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552946",
+        "direction": "E",
+        "id": "MTA_552946",
+        "lat": 40.72254,
+        "locationType": 0,
+        "lon": -73.849306,
+        "name": "YELLOWSTONE BLVD/GERARD PL",
+        "routeIds": [
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552947",
+        "direction": "SW",
+        "id": "MTA_552947",
+        "lat": 40.719009,
+        "locationType": 0,
+        "lon": -73.856311,
+        "name": "YELLOWSTONE BLVD/GROTON ST",
+        "routeIds": [
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552948",
+        "direction": "NE",
+        "id": "MTA_552948",
+        "lat": 40.719135,
+        "locationType": 0,
+        "lon": -73.856006,
+        "name": "YELLOWSTONE BLVD/GROTON ST",
+        "routeIds": [
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552949",
+        "direction": "NE",
+        "id": "MTA_552949",
+        "lat": 40.716971,
+        "locationType": 0,
+        "lon": -73.857362,
+        "name": "YELLOWSTONE BLVD/JUNO ST",
+        "routeIds": [
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552950",
+        "direction": "SW",
+        "id": "MTA_552950",
+        "lat": 40.716594,
+        "locationType": 0,
+        "lon": -73.857866,
+        "name": "YELLOWSTONE BLVD/KESSEL ST",
+        "routeIds": [
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552951",
+        "direction": "W",
+        "id": "MTA_552951",
+        "lat": 40.722874,
+        "locationType": 0,
+        "lon": -73.848246,
+        "name": "YELLOWSTONE BLVD/QUEENS BLVD",
+        "routeIds": [
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553178",
+        "direction": "NE",
+        "id": "MTA_553178",
+        "lat": 40.731613,
+        "locationType": 0,
+        "lon": -73.871195,
+        "name": "WOODHAVEN BLVD/BOOTH ST",
+        "routeIds": [
+            "MTABC_QM10",
+            "MTABC_QM11",
+            "MTABC_QM12",
+            "MTABC_QM40",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553342",
+        "direction": "W",
+        "id": "MTA_553342",
+        "lat": 40.710439,
+        "locationType": 0,
+        "lon": -73.850053,
+        "name": "METROPOLITAN AV/71 RD",
+        "routeIds": [
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553383",
+        "direction": "W",
+        "id": "MTA_553383",
+        "lat": 40.707053,
+        "locationType": 0,
+        "lon": -73.854282,
+        "name": "UNION TPKE/CRESCENT APARTMENTS",
+        "routeIds": [
+            "MTABC_Q23",
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "981010",
+        "direction": "SE",
+        "id": "MTA_981010",
+        "lat": 40.76053,
+        "locationType": 0,
+        "lon": -73.968299,
+        "name": "E 57 ST/LEXINGTON AV",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM20",
+            "MTABC_QM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982106",
+        "direction": "W",
+        "id": "MTA_982106",
+        "lat": 40.707107,
+        "locationType": 0,
+        "lon": -73.854129,
+        "name": "UNION TPKE/CRESCENT APARTMENTS",
+        "routeIds": [
+            "MTABC_Q23",
+            "MTABC_QM12",
+            "MTABC_QM42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

@@ -1,0 +1,664 @@
+[
+    {
+        "code": "401165",
+        "direction": "E",
+        "id": "MTA_401165",
+        "lat": 40.711588,
+        "locationType": 0,
+        "lon": -74.007089,
+        "name": "PARK ROW/BEEKMAN ST",
+        "routeIds": [
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM11",
+            "MTABC_QM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402085",
+        "direction": "SE",
+        "id": "MTA_402085",
+        "lat": 40.709555,
+        "locationType": 0,
+        "lon": -74.001873,
+        "name": "FRANKFORT ST/PEARL ST",
+        "routeIds": [
+            "MTA NYCT_M22",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM11",
+            "MTABC_QM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403293",
+        "direction": "SW",
+        "id": "MTA_403293",
+        "lat": 40.708771,
+        "locationType": 0,
+        "lon": -74.002757,
+        "name": "PEARL ST / PECK SLIP",
+        "routeIds": [
+            "MTABC_BM1",
+            "MTABC_BM2",
+            "MTABC_BM3",
+            "MTABC_BM4",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM11",
+            "MTABC_QM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405060",
+        "direction": "NE",
+        "id": "MTA_405060",
+        "lat": 40.711917,
+        "locationType": 0,
+        "lon": -74.010139,
+        "name": "CHURCH ST/VESEY ST",
+        "routeIds": [
+            "MTABC_BXM18",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM11",
+            "MTABC_QM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405337",
+        "direction": "SW",
+        "id": "MTA_405337",
+        "lat": 40.704661,
+        "locationType": 0,
+        "lon": -74.008294,
+        "name": "WATER ST/GOUVERNEUR LN",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM11",
+            "MTABC_QM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405399",
+        "direction": "W",
+        "id": "MTA_405399",
+        "lat": 40.703104,
+        "locationType": 0,
+        "lon": -74.011308,
+        "name": "WATER ST/BROAD ST",
+        "routeIds": [
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM11",
+            "MTABC_QM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450203",
+        "direction": "N",
+        "id": "MTA_450203",
+        "lat": 40.704386,
+        "locationType": 0,
+        "lon": -74.014174,
+        "name": "STATE ST/BATTERY PL",
+        "routeIds": [
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM11",
+            "MTABC_QM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450331",
+        "direction": "SW",
+        "id": "MTA_450331",
+        "lat": 40.707019,
+        "locationType": 0,
+        "lon": -74.004981,
+        "name": "WATER ST/JOHN ST",
+        "routeIds": [
+            "MTABC_QM11",
+            "MTABC_QM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450378",
+        "direction": "NE",
+        "id": "MTA_450378",
+        "lat": 40.708267,
+        "locationType": 0,
+        "lon": -74.012551,
+        "name": "TRINITY PL/THAMES ST",
+        "routeIds": [
+            "MTABC_BXM18",
+            "MTABC_QM7",
+            "MTABC_QM8",
+            "MTABC_QM11",
+            "MTABC_QM25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503456",
+        "direction": "NW",
+        "id": "MTA_503456",
+        "lat": 40.706407,
+        "locationType": 0,
+        "lon": -73.896832,
+        "name": "FRESH POND RD/PUTNAM AV",
+        "routeIds": [
+            "MTA NYCT_M90",
+            "MTA NYCT_Q58",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503542",
+        "direction": "SE",
+        "id": "MTA_503542",
+        "lat": 40.712403,
+        "locationType": 0,
+        "lon": -73.900537,
+        "name": "FRESH POND RD/METROPOLITAN AV",
+        "routeIds": [
+            "MTA NYCT_Q58",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503545",
+        "direction": "SE",
+        "id": "MTA_503545",
+        "lat": 40.708097,
+        "locationType": 0,
+        "lon": -73.897851,
+        "name": "FRESH POND RD/PALMETTO ST",
+        "routeIds": [
+            "MTA NYCT_Q58",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504105",
+        "direction": "NW",
+        "id": "MTA_504105",
+        "lat": 40.704257,
+        "locationType": 0,
+        "lon": -73.895745,
+        "name": "FRESH POND RD/CATALPA AV",
+        "routeIds": [
+            "MTA NYCT_B13",
+            "MTA NYCT_B20",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504127",
+        "direction": "S",
+        "id": "MTA_504127",
+        "lat": 40.70364,
+        "locationType": 0,
+        "lon": -73.895646,
+        "name": "FRESH POND RD/CATALPA AV",
+        "routeIds": [
+            "MTA NYCT_B13",
+            "MTA NYCT_B20",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504130",
+        "direction": "S",
+        "id": "MTA_504130",
+        "lat": 40.700889,
+        "locationType": 0,
+        "lon": -73.894687,
+        "name": "FRESH POND RD/MYRTLE AV",
+        "routeIds": [
+            "MTA NYCT_B13",
+            "MTA NYCT_B20",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504333",
+        "direction": "E",
+        "id": "MTA_504333",
+        "lat": 40.70102,
+        "locationType": 0,
+        "lon": -73.891062,
+        "name": "MYRTLE AV/CYPRESS HILLS ST",
+        "routeIds": [
+            "MTA NYCT_Q55",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504366",
+        "direction": "W",
+        "id": "MTA_504366",
+        "lat": 40.702297,
+        "locationType": 0,
+        "lon": -73.876846,
+        "name": "MYRTLE AV/73 ST",
+        "routeIds": [
+            "MTA NYCT_Q55",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504369",
+        "direction": "W",
+        "id": "MTA_504369",
+        "lat": 40.701689,
+        "locationType": 0,
+        "lon": -73.884551,
+        "name": "MYRTLE AV/68 ST",
+        "routeIds": [
+            "MTA NYCT_Q55",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504372",
+        "direction": "W",
+        "id": "MTA_504372",
+        "lat": 40.701134,
+        "locationType": 0,
+        "lon": -73.890809,
+        "name": "MYRTLE AV/CYPRESS HILLS ST",
+        "routeIds": [
+            "MTA NYCT_Q55",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504374",
+        "direction": "W",
+        "id": "MTA_504374",
+        "lat": 40.700847,
+        "locationType": 0,
+        "lon": -73.894342,
+        "name": "MYRTLE AV/FRESH POND RD",
+        "routeIds": [
+            "MTA NYCT_Q55",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504500",
+        "direction": "E",
+        "id": "MTA_504500",
+        "lat": 40.701712,
+        "locationType": 0,
+        "lon": -73.882925,
+        "name": "MYRTLE AV/69 ST",
+        "routeIds": [
+            "MTA NYCT_Q55",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505246",
+        "direction": "W",
+        "id": "MTA_505246",
+        "lat": 40.702102,
+        "locationType": 0,
+        "lon": -73.879366,
+        "name": "MYRTLE AV/71 PL",
+        "routeIds": [
+            "MTA NYCT_Q55",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505251",
+        "direction": "NW",
+        "id": "MTA_505251",
+        "lat": 40.71219,
+        "locationType": 0,
+        "lon": -73.900323,
+        "name": "FRESH POND RD/BLEECKER ST",
+        "routeIds": [
+            "MTA NYCT_Q58",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551282",
+        "direction": "NE",
+        "id": "MTA_551282",
+        "lat": 40.714598,
+        "locationType": 0,
+        "lon": -73.900947,
+        "name": "ELIOT AV/FRESH POND RD",
+        "routeIds": [
+            "MTABC_Q38",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551286",
+        "direction": "NE",
+        "id": "MTA_551286",
+        "lat": 40.719545,
+        "locationType": 0,
+        "lon": -73.890779,
+        "name": "ELIOT AV/69 ST",
+        "routeIds": [
+            "MTABC_Q38",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551287",
+        "direction": "SW",
+        "id": "MTA_551287",
+        "lat": 40.719382,
+        "locationType": 0,
+        "lon": -73.8915,
+        "name": "ELIOT AV/69 ST",
+        "routeIds": [
+            "MTABC_Q38",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551292",
+        "direction": "NE",
+        "id": "MTA_551292",
+        "lat": 40.721884,
+        "locationType": 0,
+        "lon": -73.885765,
+        "name": "ELIOT AV/74 ST",
+        "routeIds": [
+            "MTABC_Q38",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551293",
+        "direction": "SW",
+        "id": "MTA_551293",
+        "lat": 40.722203,
+        "locationType": 0,
+        "lon": -73.885502,
+        "name": "ELIOT AV/74 ST",
+        "routeIds": [
+            "MTABC_Q38",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551296",
+        "direction": "NE",
+        "id": "MTA_551296",
+        "lat": 40.72376,
+        "locationType": 0,
+        "lon": -73.881713,
+        "name": "ELIOT AV/77 PL",
+        "routeIds": [
+            "MTABC_Q38",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551299",
+        "direction": "NE",
+        "id": "MTA_551299",
+        "lat": 40.724864,
+        "locationType": 0,
+        "lon": -73.879294,
+        "name": "ELIOT AV/80 ST",
+        "routeIds": [
+            "MTABC_Q38",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551300",
+        "direction": "SW",
+        "id": "MTA_551300",
+        "lat": 40.725189,
+        "locationType": 0,
+        "lon": -73.879082,
+        "name": "ELIOT AV/80 ST",
+        "routeIds": [
+            "MTABC_Q38",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551303",
+        "direction": "NE",
+        "id": "MTA_551303",
+        "lat": 40.726556,
+        "locationType": 0,
+        "lon": -73.875753,
+        "name": "ELIOT AV/83 PL",
+        "routeIds": [
+            "MTABC_Q38",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551304",
+        "direction": "NE",
+        "id": "MTA_551304",
+        "lat": 40.728012,
+        "locationType": 0,
+        "lon": -73.872979,
+        "name": "ELIOT AV/85 ST",
+        "routeIds": [
+            "MTABC_Q38",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551305",
+        "direction": "SW",
+        "id": "MTA_551305",
+        "lat": 40.728117,
+        "locationType": 0,
+        "lon": -73.873143,
+        "name": "ELIOT AV/85 ST",
+        "routeIds": [
+            "MTABC_Q38",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551328",
+        "direction": "SW",
+        "id": "MTA_551328",
+        "lat": 40.726893,
+        "locationType": 0,
+        "lon": -73.875415,
+        "name": "ELIOT AV/83 PL",
+        "routeIds": [
+            "MTABC_Q38",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551329",
+        "direction": "SW",
+        "id": "MTA_551329",
+        "lat": 40.723651,
+        "locationType": 0,
+        "lon": -73.882351,
+        "name": "ELIOT AV/77 ST",
+        "routeIds": [
+            "MTABC_Q38",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552991",
+        "direction": "S",
+        "id": "MTA_552991",
+        "lat": 40.71387,
+        "locationType": 0,
+        "lon": -73.901086,
+        "name": "FRESH POND RD/ELIOT AV",
+        "routeIds": [
+            "MTABC_Q38",
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982184",
+        "direction": "E",
+        "id": "MTA_982184",
+        "lat": 40.70237,
+        "locationType": 0,
+        "lon": -73.875134,
+        "name": "MYRTLE AV/73 PL",
+        "routeIds": [
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982185",
+        "direction": "E",
+        "id": "MTA_982185",
+        "lat": 40.702108,
+        "locationType": 0,
+        "lon": -73.878356,
+        "name": "MYRTLE AV/72 ST",
+        "routeIds": [
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982197",
+        "direction": "NW",
+        "id": "MTA_982197",
+        "lat": 40.709831,
+        "locationType": 0,
+        "lon": -73.898897,
+        "name": "FRESH POND RD/GROVE ST",
+        "routeIds": [
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982198",
+        "direction": "SE",
+        "id": "MTA_982198",
+        "lat": 40.710224,
+        "locationType": 0,
+        "lon": -73.899425,
+        "name": "FRESH POND RD/LINDEN ST",
+        "routeIds": [
+            "MTABC_QM24",
+            "MTABC_QM25",
+            "MTABC_QM34"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

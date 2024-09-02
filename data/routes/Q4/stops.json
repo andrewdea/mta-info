@@ -1,0 +1,981 @@
+[
+    {
+        "code": "500340",
+        "direction": "NW",
+        "id": "MTA_500340",
+        "lat": 40.703961,
+        "locationType": 0,
+        "lon": -73.790979,
+        "name": "168 ST/DOUGLAS AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500367",
+        "direction": "SE",
+        "id": "MTA_500367",
+        "lat": 40.699708,
+        "locationType": 0,
+        "lon": -73.788558,
+        "name": "MERRICK BLVD/107 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500368",
+        "direction": "SE",
+        "id": "MTA_500368",
+        "lat": 40.698415,
+        "locationType": 0,
+        "lon": -73.787138,
+        "name": "MERRICK BLVD/108 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500369",
+        "direction": "E",
+        "id": "MTA_500369",
+        "lat": 40.697842,
+        "locationType": 0,
+        "lon": -73.785946,
+        "name": "MERRICK BLVD/169 PL",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500370",
+        "direction": "SE",
+        "id": "MTA_500370",
+        "lat": 40.696743,
+        "locationType": 0,
+        "lon": -73.78393,
+        "name": "MERRICK BLVD/109 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500371",
+        "direction": "SE",
+        "id": "MTA_500371",
+        "lat": 40.695678,
+        "locationType": 0,
+        "lon": -73.782653,
+        "name": "MERRICK BLVD/110 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500372",
+        "direction": "SE",
+        "id": "MTA_500372",
+        "lat": 40.694133,
+        "locationType": 0,
+        "lon": -73.781357,
+        "name": "MERRICK BLVD/111 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500374",
+        "direction": "E",
+        "id": "MTA_500374",
+        "lat": 40.691805,
+        "locationType": 0,
+        "lon": -73.778278,
+        "name": "LINDEN BLVD/172 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500375",
+        "direction": "E",
+        "id": "MTA_500375",
+        "lat": 40.692361,
+        "locationType": 0,
+        "lon": -73.775957,
+        "name": "LINDEN BLVD/174 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500376",
+        "direction": "E",
+        "id": "MTA_500376",
+        "lat": 40.692788,
+        "locationType": 0,
+        "lon": -73.774185,
+        "name": "LINDEN BLVD/175 PL",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500377",
+        "direction": "E",
+        "id": "MTA_500377",
+        "lat": 40.69299,
+        "locationType": 0,
+        "lon": -73.77232,
+        "name": "LINDEN BLVD/177 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500378",
+        "direction": "E",
+        "id": "MTA_500378",
+        "lat": 40.692659,
+        "locationType": 0,
+        "lon": -73.770053,
+        "name": "LINDEN BLVD/178 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500380",
+        "direction": "E",
+        "id": "MTA_500380",
+        "lat": 40.692043,
+        "locationType": 0,
+        "lon": -73.765589,
+        "name": "LINDEN BLVD/NEWBURG ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500382",
+        "direction": "E",
+        "id": "MTA_500382",
+        "lat": 40.691688,
+        "locationType": 0,
+        "lon": -73.761932,
+        "name": "LINDEN BLVD/FARMERS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500384",
+        "direction": "E",
+        "id": "MTA_500384",
+        "lat": 40.692483,
+        "locationType": 0,
+        "lon": -73.759095,
+        "name": "LINDEN BLVD/192 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500385",
+        "direction": "E",
+        "id": "MTA_500385",
+        "lat": 40.693205,
+        "locationType": 0,
+        "lon": -73.756481,
+        "name": "LINDEN BLVD/195 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500386",
+        "direction": "E",
+        "id": "MTA_500386",
+        "lat": 40.693652,
+        "locationType": 0,
+        "lon": -73.754851,
+        "name": "LINDEN BLVD/197 ST",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500387",
+        "direction": "E",
+        "id": "MTA_500387",
+        "lat": 40.694109,
+        "locationType": 0,
+        "lon": -73.753182,
+        "name": "LINDEN BLVD/199 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500388",
+        "direction": "E",
+        "id": "MTA_500388",
+        "lat": 40.69457,
+        "locationType": 0,
+        "lon": -73.751525,
+        "name": "LINDEN BLVD/201 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500389",
+        "direction": "E",
+        "id": "MTA_500389",
+        "lat": 40.69498,
+        "locationType": 0,
+        "lon": -73.750124,
+        "name": "LINDEN BLVD/202 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500390",
+        "direction": "E",
+        "id": "MTA_500390",
+        "lat": 40.695504,
+        "locationType": 0,
+        "lon": -73.748175,
+        "name": "LINDEN BLVD/204 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500391",
+        "direction": "E",
+        "id": "MTA_500391",
+        "lat": 40.696149,
+        "locationType": 0,
+        "lon": -73.74596,
+        "name": "LINDEN BLVD/FRANCIS LEWIS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500392",
+        "direction": "E",
+        "id": "MTA_500392",
+        "lat": 40.696027,
+        "locationType": 0,
+        "lon": -73.743194,
+        "name": "LINDEN BLVD/SPRINGFIELD BLVD",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500393",
+        "direction": "E",
+        "id": "MTA_500393",
+        "lat": 40.695262,
+        "locationType": 0,
+        "lon": -73.740792,
+        "name": "LINDEN BLVD/219 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500394",
+        "direction": "E",
+        "id": "MTA_500394",
+        "lat": 40.694458,
+        "locationType": 0,
+        "lon": -73.738169,
+        "name": "LINDEN BLVD/222 ST",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500395",
+        "direction": "E",
+        "id": "MTA_500395",
+        "lat": 40.69361,
+        "locationType": 0,
+        "lon": -73.735523,
+        "name": "LINDEN BLVD/225 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500396",
+        "direction": "E",
+        "id": "MTA_500396",
+        "lat": 40.692768,
+        "locationType": 0,
+        "lon": -73.732816,
+        "name": "LINDEN BLVD/228 ST",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500397",
+        "direction": "SE",
+        "id": "MTA_500397",
+        "lat": 40.692133,
+        "locationType": 0,
+        "lon": -73.731153,
+        "name": "LINDEN BLVD/230 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500398",
+        "direction": "SE",
+        "id": "MTA_500398",
+        "lat": 40.691248,
+        "locationType": 0,
+        "lon": -73.729566,
+        "name": "LINDEN BLVD/232 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500401",
+        "direction": "NW",
+        "id": "MTA_500401",
+        "lat": 40.69221,
+        "locationType": 0,
+        "lon": -73.730994,
+        "name": "LINDEN BLVD/231 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500403",
+        "direction": "W",
+        "id": "MTA_500403",
+        "lat": 40.693132,
+        "locationType": 0,
+        "lon": -73.733522,
+        "name": "LINDEN BLVD/228 ST",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500404",
+        "direction": "W",
+        "id": "MTA_500404",
+        "lat": 40.693953,
+        "locationType": 0,
+        "lon": -73.736126,
+        "name": "LINDEN BLVD/225 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500406",
+        "direction": "W",
+        "id": "MTA_500406",
+        "lat": 40.694888,
+        "locationType": 0,
+        "lon": -73.739126,
+        "name": "LINDEN BLVD/222 ST",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500407",
+        "direction": "W",
+        "id": "MTA_500407",
+        "lat": 40.695528,
+        "locationType": 0,
+        "lon": -73.741172,
+        "name": "LINDEN BLVD/219 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500408",
+        "direction": "W",
+        "id": "MTA_500408",
+        "lat": 40.696127,
+        "locationType": 0,
+        "lon": -73.743063,
+        "name": "LINDEN BLVD/217 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500410",
+        "direction": "W",
+        "id": "MTA_500410",
+        "lat": 40.696066,
+        "locationType": 0,
+        "lon": -73.746528,
+        "name": "LINDEN BLVD/FRANCIS LEWIS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500411",
+        "direction": "W",
+        "id": "MTA_500411",
+        "lat": 40.695565,
+        "locationType": 0,
+        "lon": -73.74842,
+        "name": "LINDEN BLVD/204 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500412",
+        "direction": "W",
+        "id": "MTA_500412",
+        "lat": 40.694688,
+        "locationType": 0,
+        "lon": -73.751488,
+        "name": "LINDEN BLVD/201 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500413",
+        "direction": "W",
+        "id": "MTA_500413",
+        "lat": 40.69429,
+        "locationType": 0,
+        "lon": -73.752971,
+        "name": "LINDEN BLVD/199 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500414",
+        "direction": "W",
+        "id": "MTA_500414",
+        "lat": 40.69374,
+        "locationType": 0,
+        "lon": -73.754979,
+        "name": "LINDEN BLVD/197 ST",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500415",
+        "direction": "W",
+        "id": "MTA_500415",
+        "lat": 40.693258,
+        "locationType": 0,
+        "lon": -73.756813,
+        "name": "LINDEN BLVD/195 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500416",
+        "direction": "W",
+        "id": "MTA_500416",
+        "lat": 40.692659,
+        "locationType": 0,
+        "lon": -73.758964,
+        "name": "LINDEN BLVD/193 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500417",
+        "direction": "W",
+        "id": "MTA_500417",
+        "lat": 40.692187,
+        "locationType": 0,
+        "lon": -73.760664,
+        "name": "LINDEN BLVD/191 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500418",
+        "direction": "W",
+        "id": "MTA_500418",
+        "lat": 40.691764,
+        "locationType": 0,
+        "lon": -73.762858,
+        "name": "LINDEN BLVD/FARMERS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500419",
+        "direction": "W",
+        "id": "MTA_500419",
+        "lat": 40.692187,
+        "locationType": 0,
+        "lon": -73.765763,
+        "name": "LINDEN BLVD/NEWBURG ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500420",
+        "direction": "W",
+        "id": "MTA_500420",
+        "lat": 40.692591,
+        "locationType": 0,
+        "lon": -73.768585,
+        "name": "LINDEN BLVD/179 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500421",
+        "direction": "W",
+        "id": "MTA_500421",
+        "lat": 40.692978,
+        "locationType": 0,
+        "lon": -73.771314,
+        "name": "LINDEN BLVD/178 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500422",
+        "direction": "W",
+        "id": "MTA_500422",
+        "lat": 40.693037,
+        "locationType": 0,
+        "lon": -73.773733,
+        "name": "LINDEN BLVD/176 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500424",
+        "direction": "W",
+        "id": "MTA_500424",
+        "lat": 40.69222,
+        "locationType": 0,
+        "lon": -73.777151,
+        "name": "LINDEN BLVD/MURDOCK AV",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500428",
+        "direction": "NW",
+        "id": "MTA_500428",
+        "lat": 40.696316,
+        "locationType": 0,
+        "lon": -73.782943,
+        "name": "MERRICK BLVD/110 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500429",
+        "direction": "NW",
+        "id": "MTA_500429",
+        "lat": 40.697053,
+        "locationType": 0,
+        "lon": -73.783958,
+        "name": "MERRICK BLVD/109 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500430",
+        "direction": "NW",
+        "id": "MTA_500430",
+        "lat": 40.698362,
+        "locationType": 0,
+        "lon": -73.786612,
+        "name": "MERRICK BLVD/108 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500431",
+        "direction": "NW",
+        "id": "MTA_500431",
+        "lat": 40.699655,
+        "locationType": 0,
+        "lon": -73.788148,
+        "name": "MERRICK BLVD/107 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500433",
+        "direction": "N",
+        "id": "MTA_500433",
+        "lat": 40.702433,
+        "locationType": 0,
+        "lon": -73.79054,
+        "name": "MERRICK BLVD/LIBERTY AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500607",
+        "direction": "NW",
+        "id": "MTA_500607",
+        "lat": 40.70078,
+        "locationType": 0,
+        "lon": -73.789334,
+        "name": "MERRICK BLVD/105 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503172",
+        "direction": "W",
+        "id": "MTA_503172",
+        "lat": 40.70257,
+        "locationType": 0,
+        "lon": -73.799693,
+        "name": "ARCHER AV/PARSONS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q42",
+            "MTA NYCT_Q84"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503568",
+        "direction": "SW",
+        "id": "MTA_503568",
+        "lat": 40.690366,
+        "locationType": 0,
+        "lon": -73.727479,
+        "name": "235 ST/LINDEN BLVD",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503622",
+        "direction": "SW",
+        "id": "MTA_503622",
+        "lat": 40.704208,
+        "locationType": 0,
+        "lon": -73.793442,
+        "name": "ARCHER AV/165 ST",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503768",
+        "direction": "E",
+        "id": "MTA_503768",
+        "lat": 40.691793,
+        "locationType": 0,
+        "lon": -73.763989,
+        "name": "LINDEN BLVD/EVERITT PL",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503791",
+        "direction": "E",
+        "id": "MTA_503791",
+        "lat": 40.692331,
+        "locationType": 0,
+        "lon": -73.767732,
+        "name": "LINDEN BLVD/179 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503936",
+        "direction": "NE",
+        "id": "MTA_503936",
+        "lat": 40.704132,
+        "locationType": 0,
+        "lon": -73.79342,
+        "name": "ARCHER AV/165 ST",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503967",
+        "direction": "SE",
+        "id": "MTA_503967",
+        "lat": 40.701551,
+        "locationType": 0,
+        "lon": -73.790447,
+        "name": "MERRICK BLVD/104 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503968",
+        "direction": "W",
+        "id": "MTA_503968",
+        "lat": 40.69646,
+        "locationType": 0,
+        "lon": -73.744897,
+        "name": "LINDEN BLVD/NASHVILLE BLVD",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504008",
+        "direction": "W",
+        "id": "MTA_504008",
+        "lat": 40.70237,
+        "locationType": 0,
+        "lon": -73.791688,
+        "name": "LIBERTY AV/MERRICK BLVD",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q42",
+            "MTA NYCT_Q83",
+            "MTA NYCT_Q85",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504037",
+        "direction": "W",
+        "id": "MTA_504037",
+        "lat": 40.697619,
+        "locationType": 0,
+        "lon": -73.74667,
+        "name": "116 AV/FRANCIS LEWIS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504461",
+        "direction": "W",
+        "id": "MTA_504461",
+        "lat": 40.691839,
+        "locationType": 0,
+        "lon": -73.778775,
+        "name": "LINDEN BLVD/172 ST",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504462",
+        "direction": "NW",
+        "id": "MTA_504462",
+        "lat": 40.694377,
+        "locationType": 0,
+        "lon": -73.781209,
+        "name": "MERRICK BLVD/111 AV",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q5",
+            "MTA NYCT_Q84",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504470",
+        "direction": "E",
+        "id": "MTA_504470",
+        "lat": 40.702168,
+        "locationType": 0,
+        "lon": -73.800813,
+        "name": "ARCHER AV/PARSONS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_Q85"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504532",
+        "direction": "NW",
+        "id": "MTA_504532",
+        "lat": 40.705321,
+        "locationType": 0,
+        "lon": -73.753,
+        "name": "204 ST/111 AV",
+        "routeIds": [
+            "MTA NYCT_Q4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904026",
+        "direction": "E",
+        "id": "MTA_904026",
+        "lat": 40.690788,
+        "locationType": 0,
+        "lon": -73.727689,
+        "name": "LINDEN BLVD/235 ST",
+        "routeIds": [
+            "MTA NYCT_Q4",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

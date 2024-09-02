@@ -1,0 +1,705 @@
+[
+    {
+        "code": "550519",
+        "direction": "SW",
+        "id": "MTA_550519",
+        "lat": 40.774125,
+        "locationType": 0,
+        "lon": -73.932072,
+        "name": "8 ST/27 AV",
+        "routeIds": [
+            "MTABC_Q18",
+            "MTABC_Q19",
+            "MTABC_Q102",
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550670",
+        "direction": "NE",
+        "id": "MTA_550670",
+        "lat": 40.754293,
+        "locationType": 0,
+        "lon": -73.94197,
+        "name": "21 ST/41 AV",
+        "routeIds": [
+            "MTABC_Q66",
+            "MTABC_Q69",
+            "MTABC_Q100",
+            "MTABC_Q102",
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550671",
+        "direction": "SW",
+        "id": "MTA_550671",
+        "lat": 40.754176,
+        "locationType": 0,
+        "lon": -73.942286,
+        "name": "21 ST/41 AV",
+        "routeIds": [
+            "MTABC_Q66",
+            "MTABC_Q69",
+            "MTA NYCT_Q96",
+            "MTABC_Q100",
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552078",
+        "direction": "NE",
+        "id": "MTA_552078",
+        "lat": 40.761858,
+        "locationType": 0,
+        "lon": -73.942422,
+        "name": "VERNON BLVD/36 AV",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552080",
+        "direction": "NE",
+        "id": "MTA_552080",
+        "lat": 40.760824,
+        "locationType": 0,
+        "lon": -73.943034,
+        "name": "VERNON BLVD/37 AV",
+        "routeIds": [
+            "MTABC_Q102",
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552081",
+        "direction": "SW",
+        "id": "MTA_552081",
+        "lat": 40.759292,
+        "locationType": 0,
+        "lon": -73.944353,
+        "name": "VERNON BLVD/38 AV",
+        "routeIds": [
+            "MTABC_Q102",
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552082",
+        "direction": "NE",
+        "id": "MTA_552082",
+        "lat": 40.759413,
+        "locationType": 0,
+        "lon": -73.943956,
+        "name": "VERNON BLVD/38 AV",
+        "routeIds": [
+            "MTABC_Q102",
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552085",
+        "direction": "SE",
+        "id": "MTA_552085",
+        "lat": 40.756345,
+        "locationType": 0,
+        "lon": -73.947203,
+        "name": "41 AV/VERNON BLVD",
+        "routeIds": [
+            "MTABC_Q102",
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552086",
+        "direction": "NW",
+        "id": "MTA_552086",
+        "lat": 40.756475,
+        "locationType": 0,
+        "lon": -73.946869,
+        "name": "41 AV/VERNON BLVD",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552087",
+        "direction": "SE",
+        "id": "MTA_552087",
+        "lat": 40.755518,
+        "locationType": 0,
+        "lon": -73.94558,
+        "name": "41 AV/10 ST",
+        "routeIds": [
+            "MTABC_Q102",
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552088",
+        "direction": "NW",
+        "id": "MTA_552088",
+        "lat": 40.755677,
+        "locationType": 0,
+        "lon": -73.945452,
+        "name": "41 AV/10 ST",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552089",
+        "direction": "SE",
+        "id": "MTA_552089",
+        "lat": 40.754833,
+        "locationType": 0,
+        "lon": -73.944295,
+        "name": "41 AV/12 ST",
+        "routeIds": [
+            "MTABC_Q102",
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552090",
+        "direction": "NW",
+        "id": "MTA_552090",
+        "lat": 40.755027,
+        "locationType": 0,
+        "lon": -73.944187,
+        "name": "41 AV/12 ST",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552128",
+        "direction": "N",
+        "id": "MTA_552128",
+        "lat": 40.742622,
+        "locationType": 0,
+        "lon": -73.953917,
+        "name": "VERNON BLVD/50 AV",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552130",
+        "direction": "N",
+        "id": "MTA_552130",
+        "lat": 40.743593,
+        "locationType": 0,
+        "lon": -73.953656,
+        "name": "VERNON BLVD/49 AV",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552131",
+        "direction": "S",
+        "id": "MTA_552131",
+        "lat": 40.743276,
+        "locationType": 0,
+        "lon": -73.954042,
+        "name": "VERNON BLVD/49 AV",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552132",
+        "direction": "N",
+        "id": "MTA_552132",
+        "lat": 40.744924,
+        "locationType": 0,
+        "lon": -73.953262,
+        "name": "VERNON BLVD/47 RD",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552134",
+        "direction": "N",
+        "id": "MTA_552134",
+        "lat": 40.747052,
+        "locationType": 0,
+        "lon": -73.952545,
+        "name": "VERNON BLVD/46 AV",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552135",
+        "direction": "N",
+        "id": "MTA_552135",
+        "lat": 40.749215,
+        "locationType": 0,
+        "lon": -73.952126,
+        "name": "VERNON BLVD/44 DR",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552136",
+        "direction": "S",
+        "id": "MTA_552136",
+        "lat": 40.748909,
+        "locationType": 0,
+        "lon": -73.952335,
+        "name": "VERNON BLVD/44 DR",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552137",
+        "direction": "N",
+        "id": "MTA_552137",
+        "lat": 40.750828,
+        "locationType": 0,
+        "lon": -73.952108,
+        "name": "VERNON BLVD/44 AV",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552139",
+        "direction": "NE",
+        "id": "MTA_552139",
+        "lat": 40.752269,
+        "locationType": 0,
+        "lon": -73.950934,
+        "name": "VERNON BLVD/43 RD",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552140",
+        "direction": "SW",
+        "id": "MTA_552140",
+        "lat": 40.752562,
+        "locationType": 0,
+        "lon": -73.951046,
+        "name": "VERNON BLVD/43 RD",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552143",
+        "direction": "NW",
+        "id": "MTA_552143",
+        "lat": 40.756105,
+        "locationType": 0,
+        "lon": -73.942578,
+        "name": "40 AV/12 ST",
+        "routeIds": [
+            "MTABC_Q102",
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552144",
+        "direction": "SE",
+        "id": "MTA_552144",
+        "lat": 40.756093,
+        "locationType": 0,
+        "lon": -73.943054,
+        "name": "40 AV/12 ST",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552146",
+        "direction": "SE",
+        "id": "MTA_552146",
+        "lat": 40.756951,
+        "locationType": 0,
+        "lon": -73.944593,
+        "name": "40 AV/10 ST",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552147",
+        "direction": "NW",
+        "id": "MTA_552147",
+        "lat": 40.75782,
+        "locationType": 0,
+        "lon": -73.945608,
+        "name": "40 AV/VERNON BLVD",
+        "routeIds": [
+            "MTABC_Q102",
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552148",
+        "direction": "SE",
+        "id": "MTA_552148",
+        "lat": 40.757663,
+        "locationType": 0,
+        "lon": -73.945735,
+        "name": "40 AV/VERNON BLVD",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552149",
+        "direction": "NE",
+        "id": "MTA_552149",
+        "lat": 40.763864,
+        "locationType": 0,
+        "lon": -73.94119,
+        "name": "VERNON BLVD/35 AV",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552150",
+        "direction": "SW",
+        "id": "MTA_552150",
+        "lat": 40.763611,
+        "locationType": 0,
+        "lon": -73.941603,
+        "name": "VERNON BLVD/35 AV",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552151",
+        "direction": "NE",
+        "id": "MTA_552151",
+        "lat": 40.765663,
+        "locationType": 0,
+        "lon": -73.940014,
+        "name": "VERNON BLVD/34 AV",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552153",
+        "direction": "E",
+        "id": "MTA_552153",
+        "lat": 40.766893,
+        "locationType": 0,
+        "lon": -73.938219,
+        "name": "VERNON BLVD/33 RD",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552154",
+        "direction": "W",
+        "id": "MTA_552154",
+        "lat": 40.766845,
+        "locationType": 0,
+        "lon": -73.938965,
+        "name": "VERNON BLVD/33 RD",
+        "routeIds": [
+            "MTABC_Q103",
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552155",
+        "direction": "E",
+        "id": "MTA_552155",
+        "lat": 40.767555,
+        "locationType": 0,
+        "lon": -73.936218,
+        "name": "VERNON BLVD/BROADWAY",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552156",
+        "direction": "W",
+        "id": "MTA_552156",
+        "lat": 40.767725,
+        "locationType": 0,
+        "lon": -73.936504,
+        "name": "VERNON BLVD/BROADWAY",
+        "routeIds": [
+            "MTABC_Q103",
+            "MTABC_Q104"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552157",
+        "direction": "NE",
+        "id": "MTA_552157",
+        "lat": 40.769643,
+        "locationType": 0,
+        "lon": -73.934915,
+        "name": "VERNON BLVD/31 AV",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552158",
+        "direction": "SW",
+        "id": "MTA_552158",
+        "lat": 40.769487,
+        "locationType": 0,
+        "lon": -73.935518,
+        "name": "VERNON BLVD/31 AV",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552159",
+        "direction": "N",
+        "id": "MTA_552159",
+        "lat": 40.771163,
+        "locationType": 0,
+        "lon": -73.934071,
+        "name": "VERNON BLVD/30 RD",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552160",
+        "direction": "S",
+        "id": "MTA_552160",
+        "lat": 40.771514,
+        "locationType": 0,
+        "lon": -73.934189,
+        "name": "VERNON BLVD/30 RD",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552161",
+        "direction": "S",
+        "id": "MTA_552161",
+        "lat": 40.74613,
+        "locationType": 0,
+        "lon": -73.953092,
+        "name": "VERNON BLVD/46 RD",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552162",
+        "direction": "S",
+        "id": "MTA_552162",
+        "lat": 40.741437,
+        "locationType": 0,
+        "lon": -73.954647,
+        "name": "VERNON BLVD/BORDEN AV",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552985",
+        "direction": "W",
+        "id": "MTA_552985",
+        "lat": 40.774783,
+        "locationType": 0,
+        "lon": -73.933235,
+        "name": "27 AV/4 ST",
+        "routeIds": [
+            "MTABC_Q18",
+            "MTABC_Q19",
+            "MTABC_Q102",
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552986",
+        "direction": "E",
+        "id": "MTA_552986",
+        "lat": 40.774566,
+        "locationType": 0,
+        "lon": -73.933253,
+        "name": "27 AV/4 ST",
+        "routeIds": [
+            "MTABC_Q18",
+            "MTABC_Q102",
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552987",
+        "direction": "SW",
+        "id": "MTA_552987",
+        "lat": 40.772927,
+        "locationType": 0,
+        "lon": -73.932745,
+        "name": "8 ST/ASTORIA BLVD",
+        "routeIds": [
+            "MTABC_Q18",
+            "MTABC_Q19",
+            "MTABC_Q102",
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552988",
+        "direction": "NE",
+        "id": "MTA_552988",
+        "lat": 40.772809,
+        "locationType": 0,
+        "lon": -73.932546,
+        "name": "8 ST/ASTORIA BLVD",
+        "routeIds": [
+            "MTABC_Q18",
+            "MTABC_Q102",
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552989",
+        "direction": "NE",
+        "id": "MTA_552989",
+        "lat": 40.774127,
+        "locationType": 0,
+        "lon": -73.931799,
+        "name": "8 ST/27 AV",
+        "routeIds": [
+            "MTABC_Q18",
+            "MTABC_Q19",
+            "MTABC_Q102",
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553049",
+        "direction": "W",
+        "id": "MTA_553049",
+        "lat": 40.77536,
+        "locationType": 0,
+        "lon": -73.935128,
+        "name": "27 AV/2 ST",
+        "routeIds": [
+            "MTABC_Q19",
+            "MTABC_Q102",
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553050",
+        "direction": "E",
+        "id": "MTA_553050",
+        "lat": 40.775144,
+        "locationType": 0,
+        "lon": -73.93493,
+        "name": "27 AV/2 ST",
+        "routeIds": [
+            "MTABC_Q18",
+            "MTABC_Q19",
+            "MTABC_Q102",
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553306",
+        "direction": "SW",
+        "id": "MTA_553306",
+        "lat": 40.765768,
+        "locationType": 0,
+        "lon": -73.940249,
+        "name": "VERNON BLVD/34 AV",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982054",
+        "direction": "SW",
+        "id": "MTA_982054",
+        "lat": 40.761907,
+        "locationType": 0,
+        "lon": -73.942632,
+        "name": "VERNON BLVD/36 AV",
+        "routeIds": [
+            "MTABC_Q102",
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982175",
+        "direction": "S",
+        "id": "MTA_982175",
+        "lat": 40.741458,
+        "locationType": 0,
+        "lon": -73.95464,
+        "name": "VERNON BLVD/BORDEN AV",
+        "routeIds": [
+            "MTABC_Q103"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

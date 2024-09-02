@@ -1,0 +1,225 @@
+[
+    {
+        "code": "100496",
+        "direction": "NW",
+        "id": "MTA_100496",
+        "lat": 40.854531,
+        "locationType": 0,
+        "lon": -73.854532,
+        "name": "WILLIAMSBRIDGE RD/NEILL AV",
+        "routeIds": [
+            "MTA NYCT_BX8",
+            "MTA NYCT_BX90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100537",
+        "direction": "SE",
+        "id": "MTA_100537",
+        "lat": 40.85767,
+        "locationType": 0,
+        "lon": -73.856517,
+        "name": "WILLIAMSBRIDGE RD/PELHAM PKWY NORTH",
+        "routeIds": [
+            "MTA NYCT_BX8",
+            "MTA NYCT_BX90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100538",
+        "direction": "SE",
+        "id": "MTA_100538",
+        "lat": 40.856632,
+        "locationType": 0,
+        "lon": -73.856086,
+        "name": "WILLIAMSBRIDGE RD/PELHAM PKWY SOUTH",
+        "routeIds": [
+            "MTA NYCT_BX8",
+            "MTA NYCT_BX90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100539",
+        "direction": "SE",
+        "id": "MTA_100539",
+        "lat": 40.853858,
+        "locationType": 0,
+        "lon": -73.854288,
+        "name": "WILLIAMSBRIDGE RD/NEILL AV",
+        "routeIds": [
+            "MTA NYCT_BX8",
+            "MTA NYCT_BX90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101170",
+        "direction": "N",
+        "id": "MTA_101170",
+        "lat": 40.888242,
+        "locationType": 0,
+        "lon": -73.831214,
+        "name": "DYRE AV/LIGHT ST",
+        "routeIds": [
+            "MTA NYCT_BX16",
+            "MTA NYCT_BX90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101422",
+        "direction": "NE",
+        "id": "MTA_101422",
+        "lat": 40.848875,
+        "locationType": 0,
+        "lon": -73.854407,
+        "name": "MORRIS PARK AV/HONE AV",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTA NYCT_BX90",
+            "MTABC_BXM10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101440",
+        "direction": "SW",
+        "id": "MTA_101440",
+        "lat": 40.848722,
+        "locationType": 0,
+        "lon": -73.854977,
+        "name": "MORRIS PARK AV/HONE AV",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTA NYCT_BX90",
+            "MTABC_BXM10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101875",
+        "direction": "SE",
+        "id": "MTA_101875",
+        "lat": 40.869944,
+        "locationType": 0,
+        "lon": -73.845334,
+        "name": "EAST GUN HILL RD/DEWITT PL",
+        "routeIds": [
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX38",
+            "MTA NYCT_BX90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101925",
+        "direction": "NW",
+        "id": "MTA_101925",
+        "lat": 40.869867,
+        "locationType": 0,
+        "lon": -73.844988,
+        "name": "EAST GUN HILL RD/KNAPP ST",
+        "routeIds": [
+            "MTA NYCT_BX90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101971",
+        "direction": "E",
+        "id": "MTA_101971",
+        "lat": 40.8811,
+        "locationType": 0,
+        "lon": -73.838877,
+        "name": "BOSTON RD/BAYCHESTER AV",
+        "routeIds": [
+            "MTA NYCT_BX30",
+            "MTA NYCT_BX90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102011",
+        "direction": "W",
+        "id": "MTA_102011",
+        "lat": 40.881343,
+        "locationType": 0,
+        "lon": -73.838673,
+        "name": "BOSTON RD/BAYCHESTER AV",
+        "routeIds": [
+            "MTA NYCT_BX30",
+            "MTA NYCT_BX90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103699",
+        "direction": "NW",
+        "id": "MTA_103699",
+        "lat": 40.858005,
+        "locationType": 0,
+        "lon": -73.856477,
+        "name": "WILLIAMSBRIDGE RD/PELHAM PKWY NORTH",
+        "routeIds": [
+            "MTA NYCT_BX8",
+            "MTA NYCT_BX90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103700",
+        "direction": "NW",
+        "id": "MTA_103700",
+        "lat": 40.856857,
+        "locationType": 0,
+        "lon": -73.855948,
+        "name": "WILLIAMSBRIDGE RD/PELHAM PKWY",
+        "routeIds": [
+            "MTA NYCT_BX8",
+            "MTA NYCT_BX90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "902234",
+        "direction": "SW",
+        "id": "MTA_902234",
+        "lat": 40.840976,
+        "locationType": 0,
+        "lon": -73.87278,
+        "name": "MORRIS PARK AV/E 180 ST",
+        "routeIds": [
+            "MTA NYCT_BX90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "902236",
+        "direction": "N",
+        "id": "MTA_902236",
+        "lat": 40.888589,
+        "locationType": 0,
+        "lon": -73.831245,
+        "name": "DYRE AV/LIGHT ST",
+        "routeIds": [
+            "MTA NYCT_BX90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "902238",
+        "direction": "SW",
+        "id": "MTA_902238",
+        "lat": 40.841027,
+        "locationType": 0,
+        "lon": -73.872724,
+        "name": "MORRIS PARK AV/E 180 ST",
+        "routeIds": [
+            "MTA NYCT_BX90"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

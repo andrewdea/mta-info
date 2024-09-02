@@ -1,0 +1,577 @@
+[
+    {
+        "code": "401698",
+        "direction": "NE",
+        "id": "MTA_401698",
+        "lat": 40.749251,
+        "locationType": 0,
+        "lon": -73.969332,
+        "name": "1 AV/E 42 ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401701",
+        "direction": "NE",
+        "id": "MTA_401701",
+        "lat": 40.753591,
+        "locationType": 0,
+        "lon": -73.966311,
+        "name": "1 AV/MITCHELL PL",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401704",
+        "direction": "NE",
+        "id": "MTA_401704",
+        "lat": 40.758829,
+        "locationType": 0,
+        "lon": -73.962462,
+        "name": "1 AV/E 57 ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401707",
+        "direction": "NE",
+        "id": "MTA_401707",
+        "lat": 40.76487,
+        "locationType": 0,
+        "lon": -73.958109,
+        "name": "1 AV/E 67 ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401712",
+        "direction": "NE",
+        "id": "MTA_401712",
+        "lat": 40.772633,
+        "locationType": 0,
+        "lon": -73.952403,
+        "name": "1 AV/E 79 ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401715",
+        "direction": "NE",
+        "id": "MTA_401715",
+        "lat": 40.777168,
+        "locationType": 0,
+        "lon": -73.94911,
+        "name": "1 AV/E 86 ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401723",
+        "direction": "NE",
+        "id": "MTA_401723",
+        "lat": 40.789858,
+        "locationType": 0,
+        "lon": -73.939854,
+        "name": "1 AV/E 106 ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401727",
+        "direction": "NE",
+        "id": "MTA_401727",
+        "lat": 40.796323,
+        "locationType": 0,
+        "lon": -73.935122,
+        "name": "1 AV/E 116 ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+",
+            "MTA NYCT_M116"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401731",
+        "direction": "NE",
+        "id": "MTA_401731",
+        "lat": 40.801611,
+        "locationType": 0,
+        "lon": -73.931268,
+        "name": "1 AV/E 125 ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401732",
+        "direction": "NW",
+        "id": "MTA_401732",
+        "lat": 40.80323,
+        "locationType": 0,
+        "lon": -73.932451,
+        "name": "E 126 ST/2 AV",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401738",
+        "direction": "SW",
+        "id": "MTA_401738",
+        "lat": 40.802473,
+        "locationType": 0,
+        "lon": -73.933855,
+        "name": "2 AV/E 125 ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401756",
+        "direction": "SW",
+        "id": "MTA_401756",
+        "lat": 40.772922,
+        "locationType": 0,
+        "lon": -73.955434,
+        "name": "2 AV/E 78 ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401761",
+        "direction": "SW",
+        "id": "MTA_401761",
+        "lat": 40.76599,
+        "locationType": 0,
+        "lon": -73.960476,
+        "name": "2 AV/E 68 ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401765",
+        "direction": "SW",
+        "id": "MTA_401765",
+        "lat": 40.758987,
+        "locationType": 0,
+        "lon": -73.965601,
+        "name": "2 AV/E 57 ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401768",
+        "direction": "SW",
+        "id": "MTA_401768",
+        "lat": 40.754623,
+        "locationType": 0,
+        "lon": -73.968787,
+        "name": "2 AV/E 50 ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401771",
+        "direction": "SW",
+        "id": "MTA_401771",
+        "lat": 40.749502,
+        "locationType": 0,
+        "lon": -73.972517,
+        "name": "2 AV/E 42 ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401779",
+        "direction": "SW",
+        "id": "MTA_401779",
+        "lat": 40.737516,
+        "locationType": 0,
+        "lon": -73.981202,
+        "name": "2 AV/E 23 ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402112",
+        "direction": "W",
+        "id": "MTA_402112",
+        "lat": 40.712064,
+        "locationType": 0,
+        "lon": -73.997462,
+        "name": "MADISON ST/CATHERINE ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403480",
+        "direction": "NE",
+        "id": "MTA_403480",
+        "lat": 40.744172,
+        "locationType": 0,
+        "lon": -73.973187,
+        "name": "1 AV/E 34 ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403525",
+        "direction": "SW",
+        "id": "MTA_403525",
+        "lat": 40.74097,
+        "locationType": 0,
+        "lon": -73.978757,
+        "name": "2 AV/E 28 ST",
+        "routeIds": [
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403590",
+        "direction": "SW",
+        "id": "MTA_403590",
+        "lat": 40.707631,
+        "locationType": 0,
+        "lon": -74.004,
+        "name": "PEARL ST/FULTON ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+",
+            "MTA NYCT_SIM5",
+            "MTA NYCT_SIM15",
+            "MTA NYCT_SIM35"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403601",
+        "direction": "NE",
+        "id": "MTA_403601",
+        "lat": 40.708264,
+        "locationType": 0,
+        "lon": -74.003099,
+        "name": "PEARL ST/BEEKMAN ST",
+        "routeIds": [
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403754",
+        "direction": "SW",
+        "id": "MTA_403754",
+        "lat": 40.705045,
+        "locationType": 0,
+        "lon": -74.007758,
+        "name": "WATER ST/WALL ST",
+        "routeIds": [
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403849",
+        "direction": "S",
+        "id": "MTA_403849",
+        "lat": 40.722516,
+        "locationType": 0,
+        "lon": -73.98899,
+        "name": "ALLEN ST/EAST HOUSTON ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404995",
+        "direction": "NE",
+        "id": "MTA_404995",
+        "lat": 40.74057,
+        "locationType": 0,
+        "lon": -73.975823,
+        "name": "1 AV/E 28 ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405318",
+        "direction": "NE",
+        "id": "MTA_405318",
+        "lat": 40.705518,
+        "locationType": 0,
+        "lon": -74.006816,
+        "name": "WATER ST/PINE ST",
+        "routeIds": [
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405319",
+        "direction": "E",
+        "id": "MTA_405319",
+        "lat": 40.71193,
+        "locationType": 0,
+        "lon": -73.997157,
+        "name": "MADISON ST/CATHERINE ST",
+        "routeIds": [
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405320",
+        "direction": "NE",
+        "id": "MTA_405320",
+        "lat": 40.717171,
+        "locationType": 0,
+        "lon": -73.991222,
+        "name": "ALLEN ST/GRAND ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405322",
+        "direction": "NE",
+        "id": "MTA_405322",
+        "lat": 40.732139,
+        "locationType": 0,
+        "lon": -73.981946,
+        "name": "1 AV/E 15 ST",
+        "routeIds": [
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405323",
+        "direction": "NE",
+        "id": "MTA_405323",
+        "lat": 40.737991,
+        "locationType": 0,
+        "lon": -73.977607,
+        "name": "1 AV/E 25 ST",
+        "routeIds": [
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405340",
+        "direction": "SW",
+        "id": "MTA_405340",
+        "lat": 40.73179,
+        "locationType": 0,
+        "lon": -73.985449,
+        "name": "2 AV/E 13 ST",
+        "routeIds": [
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405342",
+        "direction": "SW",
+        "id": "MTA_405342",
+        "lat": 40.744211,
+        "locationType": 0,
+        "lon": -73.97635,
+        "name": "2 AV/E 32 ST",
+        "routeIds": [
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405347",
+        "direction": "SW",
+        "id": "MTA_405347",
+        "lat": 40.79086,
+        "locationType": 0,
+        "lon": -73.942431,
+        "name": "2 AV/E 106 ST",
+        "routeIds": [
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405348",
+        "direction": "SW",
+        "id": "MTA_405348",
+        "lat": 40.795919,
+        "locationType": 0,
+        "lon": -73.93877,
+        "name": "2 AV/E 115 ST",
+        "routeIds": [
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405373",
+        "direction": "SW",
+        "id": "MTA_405373",
+        "lat": 40.716371,
+        "locationType": 0,
+        "lon": -73.992021,
+        "name": "ALLEN ST/HESTER ST",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405382",
+        "direction": "NW",
+        "id": "MTA_405382",
+        "lat": 40.702001,
+        "locationType": 0,
+        "lon": -74.013524,
+        "name": "SOUTH FERRY/TERMINAL",
+        "routeIds": [
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803054",
+        "direction": "NW",
+        "id": "MTA_803054",
+        "lat": 40.80315,
+        "locationType": 0,
+        "lon": -73.932264,
+        "name": "E 126 ST/2 AV",
+        "routeIds": [
+            "MTA NYCT_M15",
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803120",
+        "direction": "S",
+        "id": "MTA_803120",
+        "lat": 40.70191,
+        "locationType": 0,
+        "lon": -74.013846,
+        "name": "SOUTH FERRY/TERMINAL",
+        "routeIds": [
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803182",
+        "direction": "SW",
+        "id": "MTA_803182",
+        "lat": 40.784062,
+        "locationType": 0,
+        "lon": -73.947274,
+        "name": "2 AV/E 96 ST",
+        "routeIds": [
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903093",
+        "direction": "NE",
+        "id": "MTA_903093",
+        "lat": 40.724012,
+        "locationType": 0,
+        "lon": -73.987802,
+        "name": "1 AV/E 1 ST",
+        "routeIds": [
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903102",
+        "direction": "NE",
+        "id": "MTA_903102",
+        "lat": 40.784225,
+        "locationType": 0,
+        "lon": -73.943936,
+        "name": "1 AV/ E 97 ST",
+        "routeIds": [
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903129",
+        "direction": "SW",
+        "id": "MTA_903129",
+        "lat": 40.777996,
+        "locationType": 0,
+        "lon": -73.951745,
+        "name": "2 AV/E 86 ST",
+        "routeIds": [
+            "MTA NYCT_M15+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

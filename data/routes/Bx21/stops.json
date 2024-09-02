@@ -1,0 +1,950 @@
+[
+    {
+        "code": "101021",
+        "direction": "NE",
+        "id": "MTA_101021",
+        "lat": 40.818712,
+        "locationType": 0,
+        "lon": -73.914144,
+        "name": "3 AV/E 153 ST",
+        "routeIds": [
+            "MTA NYCT_BX15",
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101059",
+        "direction": "SW",
+        "id": "MTA_101059",
+        "lat": 40.823866,
+        "locationType": 0,
+        "lon": -73.908942,
+        "name": "3 AV/E 163 ST",
+        "routeIds": [
+            "MTA NYCT_BX15",
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101061",
+        "direction": "SW",
+        "id": "MTA_101061",
+        "lat": 40.821236,
+        "locationType": 0,
+        "lon": -73.912453,
+        "name": "3 AV/E 158 ST",
+        "routeIds": [
+            "MTA NYCT_BX15",
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101063",
+        "direction": "SW",
+        "id": "MTA_101063",
+        "lat": 40.818704,
+        "locationType": 0,
+        "lon": -73.914396,
+        "name": "3 AV/E 154 ST",
+        "routeIds": [
+            "MTA NYCT_BX15",
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101066",
+        "direction": "SW",
+        "id": "MTA_101066",
+        "lat": 40.816142,
+        "locationType": 0,
+        "lon": -73.917547,
+        "name": "3 AV/E 150 ST",
+        "routeIds": [
+            "MTA NYCT_BX15",
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101389",
+        "direction": "NE",
+        "id": "MTA_101389",
+        "lat": 40.812096,
+        "locationType": 0,
+        "lon": -73.925062,
+        "name": "3 AV/E 140 ST",
+        "routeIds": [
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101401",
+        "direction": "N",
+        "id": "MTA_101401",
+        "lat": 40.824381,
+        "locationType": 0,
+        "lon": -73.908417,
+        "name": "3 AV/E 163 ST",
+        "routeIds": [
+            "MTA NYCT_BX15",
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101402",
+        "direction": "NE",
+        "id": "MTA_101402",
+        "lat": 40.827328,
+        "locationType": 0,
+        "lon": -73.904705,
+        "name": "BOSTON RD/E 166 ST",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101405",
+        "direction": "NE",
+        "id": "MTA_101405",
+        "lat": 40.831323,
+        "locationType": 0,
+        "lon": -73.899774,
+        "name": "BOSTON RD/E 169 ST",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101406",
+        "direction": "NE",
+        "id": "MTA_101406",
+        "lat": 40.833606,
+        "locationType": 0,
+        "lon": -73.895962,
+        "name": "BOSTON RD/PROSPECT AV",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101407",
+        "direction": "NE",
+        "id": "MTA_101407",
+        "lat": 40.835052,
+        "locationType": 0,
+        "lon": -73.893891,
+        "name": "BOSTON RD/LOUIS NINE BLVD",
+        "routeIds": [
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101408",
+        "direction": "E",
+        "id": "MTA_101408",
+        "lat": 40.83581,
+        "locationType": 0,
+        "lon": -73.890386,
+        "name": "BOSTON RD/SEABURY PL",
+        "routeIds": [
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101409",
+        "direction": "NE",
+        "id": "MTA_101409",
+        "lat": 40.837001,
+        "locationType": 0,
+        "lon": -73.8883,
+        "name": "BOSTON RD/SOUTHERN BLVD",
+        "routeIds": [
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101410",
+        "direction": "NE",
+        "id": "MTA_101410",
+        "lat": 40.839112,
+        "locationType": 0,
+        "lon": -73.884631,
+        "name": "BOSTON RD/VYSE AV",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101414",
+        "direction": "NE",
+        "id": "MTA_101414",
+        "lat": 40.840129,
+        "locationType": 0,
+        "lon": -73.873289,
+        "name": "MORRIS PARK AV/EAST TREMONT AV",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101415",
+        "direction": "NE",
+        "id": "MTA_101415",
+        "lat": 40.841559,
+        "locationType": 0,
+        "lon": -73.872235,
+        "name": "MORRIS PARK AV/ADAMS ST",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTABC_BXM10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101416",
+        "direction": "NE",
+        "id": "MTA_101416",
+        "lat": 40.843598,
+        "locationType": 0,
+        "lon": -73.870125,
+        "name": "MORRIS PARK AV/TAYLOR AV",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101418",
+        "direction": "E",
+        "id": "MTA_101418",
+        "lat": 40.845264,
+        "locationType": 0,
+        "lon": -73.865648,
+        "name": "MORRIS PARK AV/WHITE PLAINS RD",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTABC_BXM10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101419",
+        "direction": "E",
+        "id": "MTA_101419",
+        "lat": 40.845995,
+        "locationType": 0,
+        "lon": -73.862168,
+        "name": "MORRIS PARK AV/BARNES AV",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101420",
+        "direction": "E",
+        "id": "MTA_101420",
+        "lat": 40.846573,
+        "locationType": 0,
+        "lon": -73.859604,
+        "name": "MORRIS PARK AV/BRONXDALE AV",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTABC_BXM10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101421",
+        "direction": "NE",
+        "id": "MTA_101421",
+        "lat": 40.847849,
+        "locationType": 0,
+        "lon": -73.856703,
+        "name": "MORRIS PARK AV/RADCLIFF AV",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101422",
+        "direction": "NE",
+        "id": "MTA_101422",
+        "lat": 40.848875,
+        "locationType": 0,
+        "lon": -73.854407,
+        "name": "MORRIS PARK AV/HONE AV",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTA NYCT_BX90",
+            "MTABC_BXM10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101423",
+        "direction": "NE",
+        "id": "MTA_101423",
+        "lat": 40.850196,
+        "locationType": 0,
+        "lon": -73.851501,
+        "name": "MORRIS PARK AV/WILLIAMSBRIDGE RD",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTABC_BXM10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101424",
+        "direction": "E",
+        "id": "MTA_101424",
+        "lat": 40.851034,
+        "locationType": 0,
+        "lon": -73.848417,
+        "name": "MORRIS PARK AV/SEMINOLE AV",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101425",
+        "direction": "E",
+        "id": "MTA_101425",
+        "lat": 40.851068,
+        "locationType": 0,
+        "lon": -73.844607,
+        "name": "MORRIS PARK AV/EASTCHESTER RD",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101437",
+        "direction": "W",
+        "id": "MTA_101437",
+        "lat": 40.851271,
+        "locationType": 0,
+        "lon": -73.844385,
+        "name": "MORRIS PARK AV/EASTCHESTER RD",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101438",
+        "direction": "W",
+        "id": "MTA_101438",
+        "lat": 40.85113,
+        "locationType": 0,
+        "lon": -73.84805,
+        "name": "MORRIS PARK AV/SEMINOLE AV",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101440",
+        "direction": "SW",
+        "id": "MTA_101440",
+        "lat": 40.848722,
+        "locationType": 0,
+        "lon": -73.854977,
+        "name": "MORRIS PARK AV/HONE AV",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTA NYCT_BX90",
+            "MTABC_BXM10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101441",
+        "direction": "SW",
+        "id": "MTA_101441",
+        "lat": 40.847589,
+        "locationType": 0,
+        "lon": -73.857469,
+        "name": "MORRIS PARK AV/RADCLIFF AV",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101443",
+        "direction": "W",
+        "id": "MTA_101443",
+        "lat": 40.845906,
+        "locationType": 0,
+        "lon": -73.862979,
+        "name": "MORRIS PARK AV/BARNES AV",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101444",
+        "direction": "W",
+        "id": "MTA_101444",
+        "lat": 40.845158,
+        "locationType": 0,
+        "lon": -73.866587,
+        "name": "MORRIS PARK AV/WHITE PLAINS RD",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTABC_BXM10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101446",
+        "direction": "SW",
+        "id": "MTA_101446",
+        "lat": 40.843213,
+        "locationType": 0,
+        "lon": -73.870911,
+        "name": "MORRIS PARK AV/MELVILLE  ST",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101447",
+        "direction": "SW",
+        "id": "MTA_101447",
+        "lat": 40.840766,
+        "locationType": 0,
+        "lon": -73.872911,
+        "name": "MORRIS PARK AV/E 180 ST",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTABC_BXM10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101448",
+        "direction": "W",
+        "id": "MTA_101448",
+        "lat": 40.839878,
+        "locationType": 0,
+        "lon": -73.873986,
+        "name": "EAST TREMONT AV/MORRIS PARK AV",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101453",
+        "direction": "W",
+        "id": "MTA_101453",
+        "lat": 40.839528,
+        "locationType": 0,
+        "lon": -73.883665,
+        "name": "BOSTON RD/VYSE AV",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101455",
+        "direction": "SW",
+        "id": "MTA_101455",
+        "lat": 40.837153,
+        "locationType": 0,
+        "lon": -73.888206,
+        "name": "BOSTON RD/SOUTHERN BLVD",
+        "routeIds": [
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101456",
+        "direction": "W",
+        "id": "MTA_101456",
+        "lat": 40.836022,
+        "locationType": 0,
+        "lon": -73.890378,
+        "name": "BOSTON RD/E 173 ST",
+        "routeIds": [
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101457",
+        "direction": "SW",
+        "id": "MTA_101457",
+        "lat": 40.83462,
+        "locationType": 0,
+        "lon": -73.894565,
+        "name": "BOSTON RD/LOUIS NINE BLVD",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101458",
+        "direction": "SW",
+        "id": "MTA_101458",
+        "lat": 40.833428,
+        "locationType": 0,
+        "lon": -73.896779,
+        "name": "BOSTON RD/PROSPECT AV",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101459",
+        "direction": "SW",
+        "id": "MTA_101459",
+        "lat": 40.830926,
+        "locationType": 0,
+        "lon": -73.900787,
+        "name": "BOSTON RD/E 169 ST",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101460",
+        "direction": "SW",
+        "id": "MTA_101460",
+        "lat": 40.829374,
+        "locationType": 0,
+        "lon": -73.902632,
+        "name": "BOSTON RD/E 168 ST",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101461",
+        "direction": "SW",
+        "id": "MTA_101461",
+        "lat": 40.827073,
+        "locationType": 0,
+        "lon": -73.905269,
+        "name": "BOSTON RD/E 166 ST",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101469",
+        "direction": "SW",
+        "id": "MTA_101469",
+        "lat": 40.815342,
+        "locationType": 0,
+        "lon": -73.919123,
+        "name": "3 AV/E 148 ST",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101472",
+        "direction": "SW",
+        "id": "MTA_101472",
+        "lat": 40.811053,
+        "locationType": 0,
+        "lon": -73.927386,
+        "name": "3 AV/E 138 ST",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX21",
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101473",
+        "direction": "E",
+        "id": "MTA_101473",
+        "lat": 40.809653,
+        "locationType": 0,
+        "lon": -73.928362,
+        "name": "E 136 ST/LINCOLN AV",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102034",
+        "direction": "N",
+        "id": "MTA_102034",
+        "lat": 40.846764,
+        "locationType": 0,
+        "lon": -73.844552,
+        "name": "EASTCHESTER RD/WATERS PL",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTA NYCT_BX31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102107",
+        "direction": "NE",
+        "id": "MTA_102107",
+        "lat": 40.810859,
+        "locationType": 0,
+        "lon": -73.927181,
+        "name": "LINCOLN AV/E 138 ST",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102837",
+        "direction": "SW",
+        "id": "MTA_102837",
+        "lat": 40.812033,
+        "locationType": 0,
+        "lon": -73.92555,
+        "name": "3 AV/E 140 ST",
+        "routeIds": [
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102962",
+        "direction": "NE",
+        "id": "MTA_102962",
+        "lat": 40.813873,
+        "locationType": 0,
+        "lon": -73.921705,
+        "name": "3 AV/E 144 ST",
+        "routeIds": [
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102976",
+        "direction": "NE",
+        "id": "MTA_102976",
+        "lat": 40.816626,
+        "locationType": 0,
+        "lon": -73.916626,
+        "name": "3 AV/WESTCHESTER AV",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTA NYCT_BX41"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103066",
+        "direction": "N",
+        "id": "MTA_103066",
+        "lat": 40.850092,
+        "locationType": 0,
+        "lon": -73.844805,
+        "name": "EASTCHESTER RD/IVES ST",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTA NYCT_BX31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103095",
+        "direction": "SW",
+        "id": "MTA_103095",
+        "lat": 40.813859,
+        "locationType": 0,
+        "lon": -73.921993,
+        "name": "3 AV/E 144 ST",
+        "routeIds": [
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103356",
+        "direction": "E",
+        "id": "MTA_103356",
+        "lat": 40.846261,
+        "locationType": 0,
+        "lon": -73.844137,
+        "name": "WATERS PL/EASTCHESTER RD",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103359",
+        "direction": "W",
+        "id": "MTA_103359",
+        "lat": 40.846211,
+        "locationType": 0,
+        "lon": -73.839829,
+        "name": "BRONX STATE/BUS SHELTER",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103486",
+        "direction": "NW",
+        "id": "MTA_103486",
+        "lat": 40.846085,
+        "locationType": 0,
+        "lon": -73.839623,
+        "name": "BRONX STATE/BUS SHELTER",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103753",
+        "direction": "NE",
+        "id": "MTA_103753",
+        "lat": 40.825987,
+        "locationType": 0,
+        "lon": -73.906593,
+        "name": "BOSTON RD/E 165 ST",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103906",
+        "direction": "SE",
+        "id": "MTA_103906",
+        "lat": 40.842886,
+        "locationType": 0,
+        "lon": -73.838807,
+        "name": "WATERS PL/FINK AV",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103907",
+        "direction": "NW",
+        "id": "MTA_103907",
+        "lat": 40.843677,
+        "locationType": 0,
+        "lon": -73.839224,
+        "name": "WATERS PL/HUTCHINSON RIVER PKWY",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103918",
+        "direction": "W",
+        "id": "MTA_103918",
+        "lat": 40.840196,
+        "locationType": 0,
+        "lon": -73.880005,
+        "name": "EAST TREMONT AV/BOSTON RD",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103920",
+        "direction": "NE",
+        "id": "MTA_103920",
+        "lat": 40.829837,
+        "locationType": 0,
+        "lon": -73.901833,
+        "name": "BOSTON RD/E 168 ST",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103930",
+        "direction": "E",
+        "id": "MTA_103930",
+        "lat": 40.839852,
+        "locationType": 0,
+        "lon": -73.878243,
+        "name": "EASTTREMONT AV/E 177 ST",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103983",
+        "direction": "NE",
+        "id": "MTA_103983",
+        "lat": 40.816092,
+        "locationType": 0,
+        "lon": -73.917441,
+        "name": "3 AV/E 149 ST",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103985",
+        "direction": "SW",
+        "id": "MTA_103985",
+        "lat": 40.825653,
+        "locationType": 0,
+        "lon": -73.907363,
+        "name": "BOSTON RD/E 165 ST",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104117",
+        "direction": "W",
+        "id": "MTA_104117",
+        "lat": 40.840014,
+        "locationType": 0,
+        "lon": -73.877652,
+        "name": "EAST TREMONT AV/DEVOE AV",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104225",
+        "direction": "SW",
+        "id": "MTA_104225",
+        "lat": 40.850399,
+        "locationType": 0,
+        "lon": -73.851246,
+        "name": "MORRIS PARK AV/WILLIAMSBRIDGE RD",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104296",
+        "direction": "NE",
+        "id": "MTA_104296",
+        "lat": 40.820753,
+        "locationType": 0,
+        "lon": -73.912551,
+        "name": "3 AV/E 157 ST",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104327",
+        "direction": "W",
+        "id": "MTA_104327",
+        "lat": 40.846484,
+        "locationType": 0,
+        "lon": -73.860226,
+        "name": "MORRIS PARK AV/DELANCEY PL",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTABC_BXM10"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "902004",
+        "direction": "SW",
+        "id": "MTA_902004",
+        "lat": 40.839816,
+        "locationType": 0,
+        "lon": -73.843143,
+        "name": "WESTCHESTER AV/BENSON ST",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "902005",
+        "direction": "NW",
+        "id": "MTA_902005",
+        "lat": 40.839946,
+        "locationType": 0,
+        "lon": -73.843245,
+        "name": "WESTCHESTER AV/LANE  AV",
+        "routeIds": [
+            "MTA NYCT_BX21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "902210",
+        "direction": "S",
+        "id": "MTA_902210",
+        "lat": 40.849583,
+        "locationType": 0,
+        "lon": -73.845028,
+        "name": "EASTCHESTER RD/SACKETT AV",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTA NYCT_BX31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

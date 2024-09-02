@@ -1,0 +1,721 @@
+[
+    {
+        "code": "503481",
+        "direction": "E",
+        "id": "MTA_503481",
+        "lat": 40.742443,
+        "locationType": 0,
+        "lon": -73.873012,
+        "name": "CORONA AV/91 PL",
+        "routeIds": [
+            "MTABC_Q29",
+            "MTA NYCT_Q58"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503644",
+        "direction": "N",
+        "id": "MTA_503644",
+        "lat": 40.734905,
+        "locationType": 0,
+        "lon": -73.87228,
+        "name": "90 ST/57 AV",
+        "routeIds": [
+            "MTABC_Q29",
+            "MTA NYCT_Q59"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504404",
+        "direction": "W",
+        "id": "MTA_504404",
+        "lat": 40.733941,
+        "locationType": 0,
+        "lon": -73.870836,
+        "name": "QUEENS BLVD/59 AV",
+        "routeIds": [
+            "MTABC_Q29",
+            "MTA NYCT_Q59",
+            "MTABC_Q60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550467",
+        "direction": "N",
+        "id": "MTA_550467",
+        "lat": 40.730977,
+        "locationType": 0,
+        "lon": -73.871405,
+        "name": "WOODHAVEN BLVD/WETHEROLE ST",
+        "routeIds": [
+            "MTABC_Q11",
+            "MTABC_Q21",
+            "MTABC_Q29",
+            "MTABC_Q38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "550471",
+        "direction": "S",
+        "id": "MTA_550471",
+        "lat": 40.728379,
+        "locationType": 0,
+        "lon": -73.871374,
+        "name": "WOODHAVEN BLVD/61 RD",
+        "routeIds": [
+            "MTABC_Q11",
+            "MTABC_Q21",
+            "MTABC_Q29",
+            "MTABC_QM15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551063",
+        "direction": "N",
+        "id": "MTA_551063",
+        "lat": 40.703406,
+        "locationType": 0,
+        "lon": -73.867265,
+        "name": "81 ST/MYRTLE AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551064",
+        "direction": "W",
+        "id": "MTA_551064",
+        "lat": 40.705574,
+        "locationType": 0,
+        "lon": -73.867996,
+        "name": "78 AV/81 ST",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551065",
+        "direction": "N",
+        "id": "MTA_551065",
+        "lat": 40.709833,
+        "locationType": 0,
+        "lon": -73.87022,
+        "name": "80 ST/COOPER AV",
+        "routeIds": [
+            "MTABC_Q29",
+            "MTABC_Q47",
+            "MTA NYCT_Q54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551066",
+        "direction": "S",
+        "id": "MTA_551066",
+        "lat": 40.709372,
+        "locationType": 0,
+        "lon": -73.870332,
+        "name": "80 ST/COOPER AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551067",
+        "direction": "NW",
+        "id": "MTA_551067",
+        "lat": 40.711204,
+        "locationType": 0,
+        "lon": -73.870824,
+        "name": "80 ST/68 AV",
+        "routeIds": [
+            "MTABC_Q29",
+            "MTABC_Q47",
+            "MTA NYCT_Q54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551069",
+        "direction": "N",
+        "id": "MTA_551069",
+        "lat": 40.713541,
+        "locationType": 0,
+        "lon": -73.871451,
+        "name": "80 ST/METROPOLITAN AV",
+        "routeIds": [
+            "MTABC_Q29",
+            "MTABC_Q47"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551070",
+        "direction": "S",
+        "id": "MTA_551070",
+        "lat": 40.71318,
+        "locationType": 0,
+        "lon": -73.871642,
+        "name": "80 ST/METROPOLITAN AV",
+        "routeIds": [
+            "MTABC_Q29",
+            "MTABC_Q47",
+            "MTA NYCT_Q54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551071",
+        "direction": "N",
+        "id": "MTA_551071",
+        "lat": 40.715849,
+        "locationType": 0,
+        "lon": -73.87183,
+        "name": "80 ST/JUNIPER VALLEY RD",
+        "routeIds": [
+            "MTABC_Q29",
+            "MTABC_Q47"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551072",
+        "direction": "S",
+        "id": "MTA_551072",
+        "lat": 40.716169,
+        "locationType": 0,
+        "lon": -73.872249,
+        "name": "80 ST/JUNIPER VALLEY RD",
+        "routeIds": [
+            "MTABC_Q29",
+            "MTABC_Q47"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551073",
+        "direction": "NW",
+        "id": "MTA_551073",
+        "lat": 40.718587,
+        "locationType": 0,
+        "lon": -73.872482,
+        "name": "DRY HARBOR RD/64 RD",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551074",
+        "direction": "NW",
+        "id": "MTA_551074",
+        "lat": 40.720284,
+        "locationType": 0,
+        "lon": -73.873337,
+        "name": "DRY HARBOR RD/PENELOPE AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551075",
+        "direction": "SE",
+        "id": "MTA_551075",
+        "lat": 40.719911,
+        "locationType": 0,
+        "lon": -73.873394,
+        "name": "DRY HARBOR RD/PENELOPE AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551076",
+        "direction": "N",
+        "id": "MTA_551076",
+        "lat": 40.722035,
+        "locationType": 0,
+        "lon": -73.873992,
+        "name": "DRY HARBOR RD/63 AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551077",
+        "direction": "NE",
+        "id": "MTA_551077",
+        "lat": 40.723661,
+        "locationType": 0,
+        "lon": -73.873806,
+        "name": "DRY HARBOR RD/83 ST",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551078",
+        "direction": "NE",
+        "id": "MTA_551078",
+        "lat": 40.725163,
+        "locationType": 0,
+        "lon": -73.872839,
+        "name": "DRY HARBOR RD/84 ST",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551079",
+        "direction": "NE",
+        "id": "MTA_551079",
+        "lat": 40.727683,
+        "locationType": 0,
+        "lon": -73.871176,
+        "name": "DRY HARBOR RD/WOODHAVEN BLVD",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551080",
+        "direction": "N",
+        "id": "MTA_551080",
+        "lat": 40.736902,
+        "locationType": 0,
+        "lon": -73.873002,
+        "name": "90 ST/55 AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551081",
+        "direction": "NW",
+        "id": "MTA_551081",
+        "lat": 40.73826,
+        "locationType": 0,
+        "lon": -73.873533,
+        "name": "90 ST/53 AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551082",
+        "direction": "N",
+        "id": "MTA_551082",
+        "lat": 40.739672,
+        "locationType": 0,
+        "lon": -73.874098,
+        "name": "90 ST/51 AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551083",
+        "direction": "N",
+        "id": "MTA_551083",
+        "lat": 40.741251,
+        "locationType": 0,
+        "lon": -73.874675,
+        "name": "90 ST/48 AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551085",
+        "direction": "NW",
+        "id": "MTA_551085",
+        "lat": 40.743557,
+        "locationType": 0,
+        "lon": -73.87498,
+        "name": "HAMPTON ST/LAMONT AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551086",
+        "direction": "NW",
+        "id": "MTA_551086",
+        "lat": 40.744411,
+        "locationType": 0,
+        "lon": -73.876896,
+        "name": "HAMPTON ST/WHITNEY AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551087",
+        "direction": "SE",
+        "id": "MTA_551087",
+        "lat": 40.744164,
+        "locationType": 0,
+        "lon": -73.876722,
+        "name": "HAMPTON ST/WHITNEY AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551088",
+        "direction": "NW",
+        "id": "MTA_551088",
+        "lat": 40.745118,
+        "locationType": 0,
+        "lon": -73.878472,
+        "name": "HAMPTON ST/ELMHURST AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551089",
+        "direction": "SE",
+        "id": "MTA_551089",
+        "lat": 40.744862,
+        "locationType": 0,
+        "lon": -73.878217,
+        "name": "HAMPTON ST/ELMHURST AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551090",
+        "direction": "NW",
+        "id": "MTA_551090",
+        "lat": 40.746002,
+        "locationType": 0,
+        "lon": -73.880406,
+        "name": "HAMPTON ST/BRITTON AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551091",
+        "direction": "SE",
+        "id": "MTA_551091",
+        "lat": 40.745746,
+        "locationType": 0,
+        "lon": -73.880163,
+        "name": "HAMPTON ST/BRITTON AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551092",
+        "direction": "N",
+        "id": "MTA_551092",
+        "lat": 40.747672,
+        "locationType": 0,
+        "lon": -73.882885,
+        "name": "83 ST/ROOSEVELT AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551093",
+        "direction": "S",
+        "id": "MTA_551093",
+        "lat": 40.747393,
+        "locationType": 0,
+        "lon": -73.883999,
+        "name": "82 ST/ROOSEVELT AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551095",
+        "direction": "SE",
+        "id": "MTA_551095",
+        "lat": 40.746939,
+        "locationType": 0,
+        "lon": -73.882924,
+        "name": "HAMPTON ST/BAXTER AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551096",
+        "direction": "SE",
+        "id": "MTA_551096",
+        "lat": 40.743374,
+        "locationType": 0,
+        "lon": -73.874884,
+        "name": "HAMPTON ST/43 AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551097",
+        "direction": "S",
+        "id": "MTA_551097",
+        "lat": 40.741808,
+        "locationType": 0,
+        "lon": -73.872207,
+        "name": "92 ST/48 AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551098",
+        "direction": "S",
+        "id": "MTA_551098",
+        "lat": 40.739992,
+        "locationType": 0,
+        "lon": -73.871483,
+        "name": "92 ST/51 AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551099",
+        "direction": "S",
+        "id": "MTA_551099",
+        "lat": 40.738624,
+        "locationType": 0,
+        "lon": -73.870994,
+        "name": "92 ST/53 AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551100",
+        "direction": "S",
+        "id": "MTA_551100",
+        "lat": 40.736417,
+        "locationType": 0,
+        "lon": -73.870139,
+        "name": "92 ST/56 AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551104",
+        "direction": "SW",
+        "id": "MTA_551104",
+        "lat": 40.726996,
+        "locationType": 0,
+        "lon": -73.871815,
+        "name": "DRY HARBOR RD/85 ST",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551105",
+        "direction": "SW",
+        "id": "MTA_551105",
+        "lat": 40.725003,
+        "locationType": 0,
+        "lon": -73.873127,
+        "name": "DRY HARBOR RD/CALDWELL AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551106",
+        "direction": "S",
+        "id": "MTA_551106",
+        "lat": 40.722308,
+        "locationType": 0,
+        "lon": -73.874307,
+        "name": "DRY HARBOR RD/63 AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551107",
+        "direction": "S",
+        "id": "MTA_551107",
+        "lat": 40.720632,
+        "locationType": 0,
+        "lon": -73.873744,
+        "name": "DRY HARBOR RD/JUNIPER BLVD",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551108",
+        "direction": "S",
+        "id": "MTA_551108",
+        "lat": 40.718115,
+        "locationType": 0,
+        "lon": -73.872593,
+        "name": "DRY HARBOR RD/FURMANVILLE AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551110",
+        "direction": "SE",
+        "id": "MTA_551110",
+        "lat": 40.710649,
+        "locationType": 0,
+        "lon": -73.870768,
+        "name": "80 ST/68 RD",
+        "routeIds": [
+            "MTABC_Q29",
+            "MTABC_Q47",
+            "MTA NYCT_Q54"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551111",
+        "direction": "S",
+        "id": "MTA_551111",
+        "lat": 40.705964,
+        "locationType": 0,
+        "lon": -73.868879,
+        "name": "80 ST/77 RD",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551112",
+        "direction": "S",
+        "id": "MTA_551112",
+        "lat": 40.704785,
+        "locationType": 0,
+        "lon": -73.868624,
+        "name": "80 ST/78 RD",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551113",
+        "direction": "S",
+        "id": "MTA_551113",
+        "lat": 40.703105,
+        "locationType": 0,
+        "lon": -73.868349,
+        "name": "80 ST/MYRTLE AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552993",
+        "direction": "E",
+        "id": "MTA_552993",
+        "lat": 40.733152,
+        "locationType": 0,
+        "lon": -73.871078,
+        "name": "HOFFMAN DR/WOODHAVEN BLVD",
+        "routeIds": [
+            "MTABC_Q11",
+            "MTABC_Q21",
+            "MTABC_Q29",
+            "MTABC_Q38",
+            "MTABC_Q52+",
+            "MTABC_Q53+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552994",
+        "direction": "W",
+        "id": "MTA_552994",
+        "lat": 40.735541,
+        "locationType": 0,
+        "lon": -73.869884,
+        "name": "57 AV/92 ST",
+        "routeIds": [
+            "MTABC_Q29",
+            "MTABC_Q38",
+            "MTABC_QM10",
+            "MTABC_QM11",
+            "MTABC_QM40"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982163",
+        "direction": "N",
+        "id": "MTA_982163",
+        "lat": 40.703305,
+        "locationType": 0,
+        "lon": -73.867236,
+        "name": "81 ST/MYRTLE AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "982164",
+        "direction": "S",
+        "id": "MTA_982164",
+        "lat": 40.747494,
+        "locationType": 0,
+        "lon": -73.884002,
+        "name": "82 ST/ROOSEVELT AV",
+        "routeIds": [
+            "MTABC_Q29"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

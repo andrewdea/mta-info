@@ -1,0 +1,608 @@
+[
+    {
+        "code": "100299",
+        "direction": "N",
+        "id": "MTA_100299",
+        "lat": 40.845754,
+        "locationType": 0,
+        "lon": -73.825391,
+        "name": "BRUCKNER BLVD/MIDDLETOWN RD",
+        "routeIds": [
+            "MTA NYCT_BX5",
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100322",
+        "direction": "S",
+        "id": "MTA_100322",
+        "lat": 40.848936,
+        "locationType": 0,
+        "lon": -73.828039,
+        "name": "BRUCKNER BLVD/WILLOW LA",
+        "routeIds": [
+            "MTA NYCT_BX5",
+            "MTA NYCT_BX24",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100323",
+        "direction": "SE",
+        "id": "MTA_100323",
+        "lat": 40.846613,
+        "locationType": 0,
+        "lon": -73.826719,
+        "name": "BRUCKNER BLVD/ROBERTS AV",
+        "routeIds": [
+            "MTA NYCT_BX5",
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100325",
+        "direction": "S",
+        "id": "MTA_100325",
+        "lat": 40.843134,
+        "locationType": 0,
+        "lon": -73.826298,
+        "name": "BRUCKNER BLVD/JARVIS AV",
+        "routeIds": [
+            "MTA NYCT_BX5",
+            "MTA NYCT_BX24",
+            "MTABC_BXM8",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100492",
+        "direction": "NW",
+        "id": "MTA_100492",
+        "lat": 40.844441,
+        "locationType": 0,
+        "lon": -73.846043,
+        "name": "WILLIAMSBRIDGE RD/EASTCHESTER RD",
+        "routeIds": [
+            "MTA NYCT_BX8",
+            "MTA NYCT_BX24",
+            "MTA NYCT_BX31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100543",
+        "direction": "SE",
+        "id": "MTA_100543",
+        "lat": 40.844076,
+        "locationType": 0,
+        "lon": -73.845989,
+        "name": "WILLIAMSBRIDGE RD/SILVER ST",
+        "routeIds": [
+            "MTA NYCT_BX8",
+            "MTA NYCT_BX24",
+            "MTA NYCT_BX31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100946",
+        "direction": "NE",
+        "id": "MTA_100946",
+        "lat": 40.843758,
+        "locationType": 0,
+        "lon": -73.836358,
+        "name": "WESTCHESTER AV/MIDDLETOWN RD",
+        "routeIds": [
+            "MTA NYCT_BX8",
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100947",
+        "direction": "NE",
+        "id": "MTA_100947",
+        "lat": 40.84543,
+        "locationType": 0,
+        "lon": -73.83423,
+        "name": "WESTCHESTER AV/ROBERTS AV",
+        "routeIds": [
+            "MTA NYCT_BX8",
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100948",
+        "direction": "NE",
+        "id": "MTA_100948",
+        "lat": 40.846829,
+        "locationType": 0,
+        "lon": -73.832468,
+        "name": "WESTCHESTER AV/CROSBY AV",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100949",
+        "direction": "NE",
+        "id": "MTA_100949",
+        "lat": 40.849025,
+        "locationType": 0,
+        "lon": -73.830544,
+        "name": "WESTCHESTER AV/MAHAN AV",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100950",
+        "direction": "NE",
+        "id": "MTA_100950",
+        "lat": 40.851708,
+        "locationType": 0,
+        "lon": -73.829539,
+        "name": "WESTCHESTER AV/WILKINSON AV",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100956",
+        "direction": "E",
+        "id": "MTA_100956",
+        "lat": 40.842489,
+        "locationType": 0,
+        "lon": -73.824756,
+        "name": "COUNTRY CLUB RD/KEARNEY AV",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100960",
+        "direction": "E",
+        "id": "MTA_100960",
+        "lat": 40.83791,
+        "locationType": 0,
+        "lon": -73.818838,
+        "name": "CAMPBELL DR/STADIUM AV",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100961",
+        "direction": "N",
+        "id": "MTA_100961",
+        "lat": 40.839129,
+        "locationType": 0,
+        "lon": -73.817273,
+        "name": "CAMPBELL DR/AGAR PL",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100962",
+        "direction": "N",
+        "id": "MTA_100962",
+        "lat": 40.841062,
+        "locationType": 0,
+        "lon": -73.817857,
+        "name": "CAMPBELL DR/COUNTRY CLUB RD",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100965",
+        "direction": "N",
+        "id": "MTA_100965",
+        "lat": 40.843131,
+        "locationType": 0,
+        "lon": -73.817143,
+        "name": "RADIO DR/LUCERNE ST",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100966",
+        "direction": "NW",
+        "id": "MTA_100966",
+        "lat": 40.843952,
+        "locationType": 0,
+        "lon": -73.819378,
+        "name": "RADIO DR/GRISWOLD AV",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100967",
+        "direction": "N",
+        "id": "MTA_100967",
+        "lat": 40.846067,
+        "locationType": 0,
+        "lon": -73.819252,
+        "name": "RESEARCH AV/AMPERE AV",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100977",
+        "direction": "N",
+        "id": "MTA_100977",
+        "lat": 40.842745,
+        "locationType": 0,
+        "lon": -73.825073,
+        "name": "COUNTRY CLUB RD/MC DONOUGH PL",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100981",
+        "direction": "SW",
+        "id": "MTA_100981",
+        "lat": 40.851299,
+        "locationType": 0,
+        "lon": -73.829945,
+        "name": "WESTCHESTER AV/WILKINSON AV",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100982",
+        "direction": "S",
+        "id": "MTA_100982",
+        "lat": 40.84933,
+        "locationType": 0,
+        "lon": -73.830543,
+        "name": "WESTCHESTER AV/SAINT THERESA AV",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100983",
+        "direction": "SW",
+        "id": "MTA_100983",
+        "lat": 40.847094,
+        "locationType": 0,
+        "lon": -73.832252,
+        "name": "WESTCHESTER AV/BUHRE AV",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100984",
+        "direction": "SW",
+        "id": "MTA_100984",
+        "lat": 40.845604,
+        "locationType": 0,
+        "lon": -73.834137,
+        "name": "WESTCHESTER AV/ROBERTS AV",
+        "routeIds": [
+            "MTA NYCT_BX8",
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100985",
+        "direction": "SW",
+        "id": "MTA_100985",
+        "lat": 40.843796,
+        "locationType": 0,
+        "lon": -73.836454,
+        "name": "WESTCHESTER AV/HUTCHINSON RIVER PKWY",
+        "routeIds": [
+            "MTA NYCT_BX8",
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103003",
+        "direction": "SE",
+        "id": "MTA_103003",
+        "lat": 40.842408,
+        "locationType": 0,
+        "lon": -73.844482,
+        "name": "WILLIAMSBRIDGE RD/EAST TREMONT AV",
+        "routeIds": [
+            "MTA NYCT_BX8",
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103280",
+        "direction": "W",
+        "id": "MTA_103280",
+        "lat": 40.853259,
+        "locationType": 0,
+        "lon": -73.827048,
+        "name": "BRUCKNER BLVD/BURR AV",
+        "routeIds": [
+            "MTA NYCT_BX24",
+            "MTABC_BXM8"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103356",
+        "direction": "E",
+        "id": "MTA_103356",
+        "lat": 40.846261,
+        "locationType": 0,
+        "lon": -73.844137,
+        "name": "WATERS PL/EASTCHESTER RD",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103473",
+        "direction": "N",
+        "id": "MTA_103473",
+        "lat": 40.849009,
+        "locationType": 0,
+        "lon": -73.826857,
+        "name": "BRUCKNER BLVD/BUHRE AV",
+        "routeIds": [
+            "MTA NYCT_BX5",
+            "MTA NYCT_BX24",
+            "MTABC_Q50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103577",
+        "direction": "E",
+        "id": "MTA_103577",
+        "lat": 40.842196,
+        "locationType": 0,
+        "lon": -73.819625,
+        "name": "SPENCER DR/REED PL",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103578",
+        "direction": "S",
+        "id": "MTA_103578",
+        "lat": 40.852575,
+        "locationType": 0,
+        "lon": -73.827362,
+        "name": "WESTCHESTER AV/AMENDOLA PLAZA",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103689",
+        "direction": "NW",
+        "id": "MTA_103689",
+        "lat": 40.842557,
+        "locationType": 0,
+        "lon": -73.844422,
+        "name": "WILLIAMSBRIDGE RD/ROBERTS AV",
+        "routeIds": [
+            "MTA NYCT_BX24",
+            "MTA NYCT_BX31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104070",
+        "direction": "S",
+        "id": "MTA_104070",
+        "lat": 40.846103,
+        "locationType": 0,
+        "lon": -73.82222,
+        "name": "KENNELLWORTH PL/AMPERE AV",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104110",
+        "direction": "E",
+        "id": "MTA_104110",
+        "lat": 40.839595,
+        "locationType": 0,
+        "lon": -73.824037,
+        "name": "RAWLINS AV/KEARNEY AV",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104375",
+        "direction": "NE",
+        "id": "MTA_104375",
+        "lat": 40.840897,
+        "locationType": 0,
+        "lon": -73.841545,
+        "name": "WESTCHESTER AV/BLONDEL AV",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104533",
+        "direction": "N",
+        "id": "MTA_104533",
+        "lat": 40.846761,
+        "locationType": 0,
+        "lon": -73.842598,
+        "name": "MARCONI ST/WATERS PL",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104534",
+        "direction": "N",
+        "id": "MTA_104534",
+        "lat": 40.849408,
+        "locationType": 0,
+        "lon": -73.841541,
+        "name": "MARCONI ST/LA FITNESS",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104536",
+        "direction": "SW",
+        "id": "MTA_104536",
+        "lat": 40.855109,
+        "locationType": 0,
+        "lon": -73.837728,
+        "name": "MARCONI ST/911 CALL CENTER",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104537",
+        "direction": "SW",
+        "id": "MTA_104537",
+        "lat": 40.852648,
+        "locationType": 0,
+        "lon": -73.839821,
+        "name": "MARCONI ST/HUTCHINSON METRO CENTER",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104538",
+        "direction": "S",
+        "id": "MTA_104538",
+        "lat": 40.849464,
+        "locationType": 0,
+        "lon": -73.84178,
+        "name": "MARCONI ST/LA FITNESS",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104539",
+        "direction": "W",
+        "id": "MTA_104539",
+        "lat": 40.846537,
+        "locationType": 0,
+        "lon": -73.84328,
+        "name": "WATERS ST/MARCONI ST",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104540",
+        "direction": "NE",
+        "id": "MTA_104540",
+        "lat": 40.852535,
+        "locationType": 0,
+        "lon": -73.839687,
+        "name": "MARCONI ST/HUTCHINSON METRO CENTER",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "802118",
+        "direction": "N",
+        "id": "MTA_802118",
+        "lat": 40.846008,
+        "locationType": 0,
+        "lon": -73.819252,
+        "name": "RESEARCH AV/AMPERE AV",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "802151",
+        "direction": "NE",
+        "id": "MTA_802151",
+        "lat": 40.854989,
+        "locationType": 0,
+        "lon": -73.83761,
+        "name": "MARCONI ST /911 CALL  CENTER",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "902023",
+        "direction": "SW",
+        "id": "MTA_902023",
+        "lat": 40.840747,
+        "locationType": 0,
+        "lon": -73.841989,
+        "name": "WESTCHESTER AV/EAST TREMONT AV",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "902137",
+        "direction": "SW",
+        "id": "MTA_902137",
+        "lat": 40.84311,
+        "locationType": 0,
+        "lon": -73.822535,
+        "name": "KENNELLWORTH PL/SPENCER DR",
+        "routeIds": [
+            "MTA NYCT_BX24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

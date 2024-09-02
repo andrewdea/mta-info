@@ -1,0 +1,1350 @@
+[
+    {
+        "code": "300044",
+        "direction": "NW",
+        "id": "MTA_300044",
+        "lat": 40.61322,
+        "locationType": 0,
+        "lon": -74.012413,
+        "name": "86 ST/14 AV",
+        "routeIds": [
+            "MTA NYCT_B1",
+            "MTA NYCT_B64",
+            "MTA NYCT_X28",
+            "MTA NYCT_X38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300045",
+        "direction": "NW",
+        "id": "MTA_300045",
+        "lat": 40.614061,
+        "locationType": 0,
+        "lon": -74.013726,
+        "name": "86 ST/13 AV",
+        "routeIds": [
+            "MTA NYCT_B1",
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300046",
+        "direction": "NE",
+        "id": "MTA_300046",
+        "lat": 40.615392,
+        "locationType": 0,
+        "lon": -74.012419,
+        "name": "13 AV/84 ST",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300047",
+        "direction": "NE",
+        "id": "MTA_300047",
+        "lat": 40.616543,
+        "locationType": 0,
+        "lon": -74.011238,
+        "name": "13 AV/82 ST",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300048",
+        "direction": "NE",
+        "id": "MTA_300048",
+        "lat": 40.618206,
+        "locationType": 0,
+        "lon": -74.009502,
+        "name": "13 AV/79 ST",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300049",
+        "direction": "NE",
+        "id": "MTA_300049",
+        "lat": 40.619307,
+        "locationType": 0,
+        "lon": -74.008353,
+        "name": "13 AV/77 ST",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300050",
+        "direction": "NE",
+        "id": "MTA_300050",
+        "lat": 40.620531,
+        "locationType": 0,
+        "lon": -74.007085,
+        "name": "13 AV/BAY RIDGE PKWY",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300051",
+        "direction": "NE",
+        "id": "MTA_300051",
+        "lat": 40.621657,
+        "locationType": 0,
+        "lon": -74.005904,
+        "name": "13 AV/73 ST",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300052",
+        "direction": "NE",
+        "id": "MTA_300052",
+        "lat": 40.62276,
+        "locationType": 0,
+        "lon": -74.004769,
+        "name": "13 AV/71 ST",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300053",
+        "direction": "NW",
+        "id": "MTA_300053",
+        "lat": 40.624096,
+        "locationType": 0,
+        "lon": -74.004425,
+        "name": "BAY RIDGE AV/13 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300054",
+        "direction": "NW",
+        "id": "MTA_300054",
+        "lat": 40.62526,
+        "locationType": 0,
+        "lon": -74.006365,
+        "name": "BAY RIDGE AV/12 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300055",
+        "direction": "NW",
+        "id": "MTA_300055",
+        "lat": 40.6266,
+        "locationType": 0,
+        "lon": -74.008588,
+        "name": "BAY RIDGE AV/11 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300056",
+        "direction": "NW",
+        "id": "MTA_300056",
+        "lat": 40.62789,
+        "locationType": 0,
+        "lon": -74.010721,
+        "name": "BAY RIDGE AV/10 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300057",
+        "direction": "NW",
+        "id": "MTA_300057",
+        "lat": 40.628927,
+        "locationType": 0,
+        "lon": -74.012433,
+        "name": "BAY RIDGE AV/FORT HAMILTON PKWY",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300060",
+        "direction": "NW",
+        "id": "MTA_300060",
+        "lat": 40.631427,
+        "locationType": 0,
+        "lon": -74.018741,
+        "name": "OVINGTON AV/6 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300061",
+        "direction": "NW",
+        "id": "MTA_300061",
+        "lat": 40.632552,
+        "locationType": 0,
+        "lon": -74.018875,
+        "name": "BAY RIDGE AV/6 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300062",
+        "direction": "NW",
+        "id": "MTA_300062",
+        "lat": 40.633457,
+        "locationType": 0,
+        "lon": -74.020864,
+        "name": "BAY RIDGE AV/5 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300063",
+        "direction": "NW",
+        "id": "MTA_300063",
+        "lat": 40.634837,
+        "locationType": 0,
+        "lon": -74.023869,
+        "name": "BAY RIDGE AV/4 AV",
+        "routeIds": [
+            "MTA NYCT_B9",
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300064",
+        "direction": "W",
+        "id": "MTA_300064",
+        "lat": 40.635935,
+        "locationType": 0,
+        "lon": -74.026507,
+        "name": "BAY RIDGE AV/3 AV",
+        "routeIds": [
+            "MTA NYCT_B9",
+            "MTA NYCT_B64",
+            "MTA NYCT_X27",
+            "MTA NYCT_X37"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300065",
+        "direction": "W",
+        "id": "MTA_300065",
+        "lat": 40.636711,
+        "locationType": 0,
+        "lon": -74.029008,
+        "name": "BAY RIDGE AV/RIDGE BLVD",
+        "routeIds": [
+            "MTA NYCT_B9",
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300066",
+        "direction": "W",
+        "id": "MTA_300066",
+        "lat": 40.637514,
+        "locationType": 0,
+        "lon": -74.031606,
+        "name": "BAY RIDGE AV/COLONIAL RD",
+        "routeIds": [
+            "MTA NYCT_B9",
+            "MTA NYCT_B64",
+            "MTA NYCT_X27",
+            "MTA NYCT_X37"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300067",
+        "direction": "SW",
+        "id": "MTA_300067",
+        "lat": 40.637879,
+        "locationType": 0,
+        "lon": -74.034089,
+        "name": "NARROWS AV/BAY RIDGE AV",
+        "routeIds": [
+            "MTA NYCT_B9",
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300068",
+        "direction": "S",
+        "id": "MTA_300068",
+        "lat": 40.63658,
+        "locationType": 0,
+        "lon": -74.034621,
+        "name": "NARROWS AV/MACKAY PL",
+        "routeIds": [
+            "MTA NYCT_B9",
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300071",
+        "direction": "E",
+        "id": "MTA_300071",
+        "lat": 40.63857,
+        "locationType": 0,
+        "lon": -74.035368,
+        "name": "BAY RIDGE AV/SHORE RD",
+        "routeIds": [
+            "MTA NYCT_B9",
+            "MTA NYCT_B64",
+            "MTA NYCT_X27",
+            "MTA NYCT_X37"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300073",
+        "direction": "E",
+        "id": "MTA_300073",
+        "lat": 40.637191,
+        "locationType": 0,
+        "lon": -74.030921,
+        "name": "BAY RIDGE AV/COLONIAL RD",
+        "routeIds": [
+            "MTA NYCT_B9",
+            "MTA NYCT_B64",
+            "MTA NYCT_X27",
+            "MTA NYCT_X37"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300074",
+        "direction": "E",
+        "id": "MTA_300074",
+        "lat": 40.636379,
+        "locationType": 0,
+        "lon": -74.028312,
+        "name": "BAY RIDGE AV/RIDGE BLVD",
+        "routeIds": [
+            "MTA NYCT_B9",
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300075",
+        "direction": "SE",
+        "id": "MTA_300075",
+        "lat": 40.635436,
+        "locationType": 0,
+        "lon": -74.02551,
+        "name": "BAY RIDGE AV/3 AV",
+        "routeIds": [
+            "MTA NYCT_B9",
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300076",
+        "direction": "SE",
+        "id": "MTA_300076",
+        "lat": 40.634412,
+        "locationType": 0,
+        "lon": -74.02321,
+        "name": "BAY RIDGE AV/4 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300077",
+        "direction": "SE",
+        "id": "MTA_300077",
+        "lat": 40.633496,
+        "locationType": 0,
+        "lon": -74.02121,
+        "name": "BAY RIDGE AV/5 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300078",
+        "direction": "SE",
+        "id": "MTA_300078",
+        "lat": 40.632161,
+        "locationType": 0,
+        "lon": -74.01833,
+        "name": "BAY RIDGE AV/6 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300079",
+        "direction": "SE",
+        "id": "MTA_300079",
+        "lat": 40.631622,
+        "locationType": 0,
+        "lon": -74.017124,
+        "name": "BAY RIDGE AV/7 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300080",
+        "direction": "SE",
+        "id": "MTA_300080",
+        "lat": 40.630779,
+        "locationType": 0,
+        "lon": -74.015733,
+        "name": "BAY RIDGE AV/7 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300082",
+        "direction": "SE",
+        "id": "MTA_300082",
+        "lat": 40.628414,
+        "locationType": 0,
+        "lon": -74.011816,
+        "name": "BAY RIDGE AV/FORT HAMILTON PKWY",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300084",
+        "direction": "SE",
+        "id": "MTA_300084",
+        "lat": 40.626114,
+        "locationType": 0,
+        "lon": -74.008008,
+        "name": "BAY RIDGE AV/11 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300085",
+        "direction": "SE",
+        "id": "MTA_300085",
+        "lat": 40.624783,
+        "locationType": 0,
+        "lon": -74.005803,
+        "name": "BAY RIDGE AV/12 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300086",
+        "direction": "SE",
+        "id": "MTA_300086",
+        "lat": 40.623729,
+        "locationType": 0,
+        "lon": -74.004056,
+        "name": "BAY RIDGE AV/13 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300087",
+        "direction": "SW",
+        "id": "MTA_300087",
+        "lat": 40.622354,
+        "locationType": 0,
+        "lon": -74.005403,
+        "name": "13 AV/71 ST",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300088",
+        "direction": "SW",
+        "id": "MTA_300088",
+        "lat": 40.621231,
+        "locationType": 0,
+        "lon": -74.006574,
+        "name": "13 AV/73 ST",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300089",
+        "direction": "SW",
+        "id": "MTA_300089",
+        "lat": 40.620062,
+        "locationType": 0,
+        "lon": -74.007784,
+        "name": "13 AV/BAY RIDGE PKWY",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300090",
+        "direction": "SW",
+        "id": "MTA_300090",
+        "lat": 40.618933,
+        "locationType": 0,
+        "lon": -74.008958,
+        "name": "13 AV/77 ST",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300091",
+        "direction": "SW",
+        "id": "MTA_300091",
+        "lat": 40.6178,
+        "locationType": 0,
+        "lon": -74.010143,
+        "name": "13 AV/79 ST",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300092",
+        "direction": "SW",
+        "id": "MTA_300092",
+        "lat": 40.616153,
+        "locationType": 0,
+        "lon": -74.011854,
+        "name": "13 AV/82 ST",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300093",
+        "direction": "SW",
+        "id": "MTA_300093",
+        "lat": 40.614506,
+        "locationType": 0,
+        "lon": -74.013568,
+        "name": "13 AV/85 ST",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300094",
+        "direction": "SE",
+        "id": "MTA_300094",
+        "lat": 40.613803,
+        "locationType": 0,
+        "lon": -74.013665,
+        "name": "86 ST/13 AV",
+        "routeIds": [
+            "MTA NYCT_B1",
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300095",
+        "direction": "SE",
+        "id": "MTA_300095",
+        "lat": 40.612745,
+        "locationType": 0,
+        "lon": -74.011895,
+        "name": "86 ST/14 AV",
+        "routeIds": [
+            "MTA NYCT_B1",
+            "MTA NYCT_B64",
+            "MTA NYCT_X28",
+            "MTA NYCT_X38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300184",
+        "direction": "NE",
+        "id": "MTA_300184",
+        "lat": 40.593023,
+        "locationType": 0,
+        "lon": -73.992179,
+        "name": "25 AV/HARWAY AV",
+        "routeIds": [
+            "MTA NYCT_B3",
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "300283",
+        "direction": "SW",
+        "id": "MTA_300283",
+        "lat": 40.592836,
+        "locationType": 0,
+        "lon": -73.992519,
+        "name": "25 AV/HARWAY AV",
+        "routeIds": [
+            "MTA NYCT_B3",
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305477",
+        "direction": "NW",
+        "id": "MTA_305477",
+        "lat": 40.589018,
+        "locationType": 0,
+        "lon": -73.986243,
+        "name": "HARWAY AV/28 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305479",
+        "direction": "NW",
+        "id": "MTA_305479",
+        "lat": 40.590341,
+        "locationType": 0,
+        "lon": -73.988424,
+        "name": "HARWAY AV/27 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305480",
+        "direction": "NW",
+        "id": "MTA_305480",
+        "lat": 40.591214,
+        "locationType": 0,
+        "lon": -73.989875,
+        "name": "HARWAY AV/BAY 43 ST",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305481",
+        "direction": "NW",
+        "id": "MTA_305481",
+        "lat": 40.59212,
+        "locationType": 0,
+        "lon": -73.991369,
+        "name": "HARWAY AV/BAY 41 ST",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305483",
+        "direction": "NW",
+        "id": "MTA_305483",
+        "lat": 40.594552,
+        "locationType": 0,
+        "lon": -73.99116,
+        "name": "BATH AV/25 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305484",
+        "direction": "NW",
+        "id": "MTA_305484",
+        "lat": 40.595905,
+        "locationType": 0,
+        "lon": -73.993374,
+        "name": "BATH AV/24 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305487",
+        "direction": "NW",
+        "id": "MTA_305487",
+        "lat": 40.598853,
+        "locationType": 0,
+        "lon": -73.997645,
+        "name": "BATH AV/BAY PKWY",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305490",
+        "direction": "NW",
+        "id": "MTA_305490",
+        "lat": 40.601699,
+        "locationType": 0,
+        "lon": -74.00184,
+        "name": "BATH AV/20 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305493",
+        "direction": "NW",
+        "id": "MTA_305493",
+        "lat": 40.604194,
+        "locationType": 0,
+        "lon": -74.006569,
+        "name": "BATH AV/18 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305496",
+        "direction": "NW",
+        "id": "MTA_305496",
+        "lat": 40.606955,
+        "locationType": 0,
+        "lon": -74.01111,
+        "name": "BATH AV/16 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305500",
+        "direction": "NE",
+        "id": "MTA_305500",
+        "lat": 40.610891,
+        "locationType": 0,
+        "lon": -74.013531,
+        "name": "14 AV/BENSON AV",
+        "routeIds": [
+            "MTA NYCT_B64",
+            "MTA NYCT_X28",
+            "MTA NYCT_X38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305519",
+        "direction": "SE",
+        "id": "MTA_305519",
+        "lat": 40.609123,
+        "locationType": 0,
+        "lon": -74.014975,
+        "name": "BATH AV/14 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305522",
+        "direction": "SE",
+        "id": "MTA_305522",
+        "lat": 40.606442,
+        "locationType": 0,
+        "lon": -74.010541,
+        "name": "BATH AV/16 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305525",
+        "direction": "SE",
+        "id": "MTA_305525",
+        "lat": 40.603642,
+        "locationType": 0,
+        "lon": -74.005877,
+        "name": "BATH AV/18 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305528",
+        "direction": "SE",
+        "id": "MTA_305528",
+        "lat": 40.601167,
+        "locationType": 0,
+        "lon": -74.001296,
+        "name": "BATH AV/20 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305531",
+        "direction": "SE",
+        "id": "MTA_305531",
+        "lat": 40.598227,
+        "locationType": 0,
+        "lon": -73.997018,
+        "name": "BATH AV/BAY PKWY",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305532",
+        "direction": "SE",
+        "id": "MTA_305532",
+        "lat": 40.596819,
+        "locationType": 0,
+        "lon": -73.994973,
+        "name": "BATH AV/23 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305537",
+        "direction": "SE",
+        "id": "MTA_305537",
+        "lat": 40.591653,
+        "locationType": 0,
+        "lon": -73.990872,
+        "name": "HARWAY AV/BAY 41 ST",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305538",
+        "direction": "SE",
+        "id": "MTA_305538",
+        "lat": 40.59075,
+        "locationType": 0,
+        "lon": -73.989382,
+        "name": "HARWAY AV/BAY 43 ST",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305539",
+        "direction": "SE",
+        "id": "MTA_305539",
+        "lat": 40.589858,
+        "locationType": 0,
+        "lon": -73.987906,
+        "name": "HARWAY AV/27 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305937",
+        "direction": "SW",
+        "id": "MTA_305937",
+        "lat": 40.630164,
+        "locationType": 0,
+        "lon": -74.015207,
+        "name": "8 AV/BAY RIDGE AV",
+        "routeIds": [
+            "MTA NYCT_B64",
+            "MTA NYCT_B70"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306419",
+        "direction": "S",
+        "id": "MTA_306419",
+        "lat": 40.579067,
+        "locationType": 0,
+        "lon": -73.982011,
+        "name": "STILLWELL AV/NEPTUNE AV",
+        "routeIds": [
+            "MTA NYCT_B64",
+            "MTA NYCT_B68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306639",
+        "direction": "NW",
+        "id": "MTA_306639",
+        "lat": 40.630285,
+        "locationType": 0,
+        "lon": -74.016212,
+        "name": "70 ST/7 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306784",
+        "direction": "SE",
+        "id": "MTA_306784",
+        "lat": 40.589012,
+        "locationType": 0,
+        "lon": -73.986506,
+        "name": "HARWAY AV/BAY 47 ST",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306822",
+        "direction": "SW",
+        "id": "MTA_306822",
+        "lat": 40.611171,
+        "locationType": 0,
+        "lon": -74.013452,
+        "name": "14 AV/BENSON AV",
+        "routeIds": [
+            "MTA NYCT_B64",
+            "MTA NYCT_X28",
+            "MTA NYCT_X38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306880",
+        "direction": "NE",
+        "id": "MTA_306880",
+        "lat": 40.637203,
+        "locationType": 0,
+        "lon": -74.036023,
+        "name": "SHORE RD/MACKAY PL",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306979",
+        "direction": "N",
+        "id": "MTA_306979",
+        "lat": 40.584708,
+        "locationType": 0,
+        "lon": -73.98287,
+        "name": "STILLWELL AV/AVENUE Z",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306980",
+        "direction": "N",
+        "id": "MTA_306980",
+        "lat": 40.586421,
+        "locationType": 0,
+        "lon": -73.983197,
+        "name": "STILLWELL AV/W 15 PL",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306982",
+        "direction": "SE",
+        "id": "MTA_306982",
+        "lat": 40.587645,
+        "locationType": 0,
+        "lon": -73.984241,
+        "name": "HARWAY AV/BAY 50 ST",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306983",
+        "direction": "S",
+        "id": "MTA_306983",
+        "lat": 40.58442,
+        "locationType": 0,
+        "lon": -73.983043,
+        "name": "STILLWELL AV/AVENUE Z",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307049",
+        "direction": "S",
+        "id": "MTA_307049",
+        "lat": 40.586259,
+        "locationType": 0,
+        "lon": -73.983403,
+        "name": "STILLWELL AV/W 15 PL",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307133",
+        "direction": "SE",
+        "id": "MTA_307133",
+        "lat": 40.630101,
+        "locationType": 0,
+        "lon": -74.014612,
+        "name": "BAY RIDGE AV/8 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307200",
+        "direction": "E",
+        "id": "MTA_307200",
+        "lat": 40.638,
+        "locationType": 0,
+        "lon": -74.03353,
+        "name": "BAY RIDGE AV/NARROWS AV",
+        "routeIds": [
+            "MTA NYCT_B9",
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307712",
+        "direction": "NW",
+        "id": "MTA_307712",
+        "lat": 40.609343,
+        "locationType": 0,
+        "lon": -74.015069,
+        "name": "BATH AV/14 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307713",
+        "direction": "S",
+        "id": "MTA_307713",
+        "lat": 40.581461,
+        "locationType": 0,
+        "lon": -73.982482,
+        "name": "STILLWELL AV/2670 STILLWELL AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307975",
+        "direction": "N",
+        "id": "MTA_307975",
+        "lat": 40.582191,
+        "locationType": 0,
+        "lon": -73.98241,
+        "name": "STILLWELL AV/NEPTUNE AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308014",
+        "direction": "SE",
+        "id": "MTA_308014",
+        "lat": 40.594354,
+        "locationType": 0,
+        "lon": -73.991106,
+        "name": "BATH AV/25 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308201",
+        "direction": "SE",
+        "id": "MTA_308201",
+        "lat": 40.627445,
+        "locationType": 0,
+        "lon": -74.010206,
+        "name": "BAY RIDGE AV /10 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308219",
+        "direction": "SE",
+        "id": "MTA_308219",
+        "lat": 40.607828,
+        "locationType": 0,
+        "lon": -74.012828,
+        "name": "BATH AV/15 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308220",
+        "direction": "SE",
+        "id": "MTA_308220",
+        "lat": 40.604968,
+        "locationType": 0,
+        "lon": -74.008103,
+        "name": "BATH AV/17 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308222",
+        "direction": "SE",
+        "id": "MTA_308222",
+        "lat": 40.59974,
+        "locationType": 0,
+        "lon": -73.999211,
+        "name": "BATH AV/21 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308223",
+        "direction": "SE",
+        "id": "MTA_308223",
+        "lat": 40.595422,
+        "locationType": 0,
+        "lon": -73.99287,
+        "name": "BATH AV/24 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308224",
+        "direction": "NW",
+        "id": "MTA_308224",
+        "lat": 40.597357,
+        "locationType": 0,
+        "lon": -73.995466,
+        "name": "BATH AV/23 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308225",
+        "direction": "NW",
+        "id": "MTA_308225",
+        "lat": 40.599976,
+        "locationType": 0,
+        "lon": -73.999276,
+        "name": "BATH AV/21 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308226",
+        "direction": "NW",
+        "id": "MTA_308226",
+        "lat": 40.602874,
+        "locationType": 0,
+        "lon": -74.00408,
+        "name": "BATH AV/19 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308227",
+        "direction": "NW",
+        "id": "MTA_308227",
+        "lat": 40.605435,
+        "locationType": 0,
+        "lon": -74.008589,
+        "name": "BATH AV/17 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308228",
+        "direction": "NW",
+        "id": "MTA_308228",
+        "lat": 40.608278,
+        "locationType": 0,
+        "lon": -74.0133,
+        "name": "BATH AV/15 AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308438",
+        "direction": "SE",
+        "id": "MTA_308438",
+        "lat": 40.603065,
+        "locationType": 0,
+        "lon": -74.004839,
+        "name": "BATH AV/BAY 20TH ST",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "308651",
+        "direction": "NW",
+        "id": "MTA_308651",
+        "lat": 40.587843,
+        "locationType": 0,
+        "lon": -73.984326,
+        "name": "HARWAY AV/BAY 50 ST",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801018",
+        "direction": "SW",
+        "id": "MTA_801018",
+        "lat": 40.618497,
+        "locationType": 0,
+        "lon": -74.012995,
+        "name": "12 AV/ 81 ST",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801019",
+        "direction": "NE",
+        "id": "MTA_801019",
+        "lat": 40.626665,
+        "locationType": 0,
+        "lon": -74.015037,
+        "name": "FORT HAMILTON PKWY/73 ST",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801049",
+        "direction": "NE",
+        "id": "MTA_801049",
+        "lat": 40.637071,
+        "locationType": 0,
+        "lon": -74.036088,
+        "name": "SHORE RD/MACKAY PL",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901339",
+        "direction": "S",
+        "id": "MTA_901339",
+        "lat": 40.577206,
+        "locationType": 0,
+        "lon": -73.981622,
+        "name": "STILLWELL AV/MERMAID AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901340",
+        "direction": "N",
+        "id": "MTA_901340",
+        "lat": 40.577038,
+        "locationType": 0,
+        "lon": -73.98159,
+        "name": "MERMAID AV/STILLWELL AV",
+        "routeIds": [
+            "MTA NYCT_B64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

@@ -1,0 +1,1433 @@
+[
+    {
+        "code": "500004",
+        "direction": "E",
+        "id": "MTA_500004",
+        "lat": 40.71144,
+        "locationType": 0,
+        "lon": -73.790887,
+        "name": "HILLSIDE AV/171 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500008",
+        "direction": "E",
+        "id": "MTA_500008",
+        "lat": 40.713574,
+        "locationType": 0,
+        "lon": -73.77985,
+        "name": "HILLSIDE AV/182 PL",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500009",
+        "direction": "E",
+        "id": "MTA_500009",
+        "lat": 40.714085,
+        "locationType": 0,
+        "lon": -73.777516,
+        "name": "HILLSIDE AV/184 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500010",
+        "direction": "E",
+        "id": "MTA_500010",
+        "lat": 40.714481,
+        "locationType": 0,
+        "lon": -73.775904,
+        "name": "HILLSIDE AV/187 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500011",
+        "direction": "E",
+        "id": "MTA_500011",
+        "lat": 40.715309,
+        "locationType": 0,
+        "lon": -73.772827,
+        "name": "HILLSIDE AV/189 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500012",
+        "direction": "E",
+        "id": "MTA_500012",
+        "lat": 40.716032,
+        "locationType": 0,
+        "lon": -73.770711,
+        "name": "HILLSIDE AV/191 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500013",
+        "direction": "E",
+        "id": "MTA_500013",
+        "lat": 40.716736,
+        "locationType": 0,
+        "lon": -73.768676,
+        "name": "HILLSIDE AV/193 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500014",
+        "direction": "NE",
+        "id": "MTA_500014",
+        "lat": 40.717362,
+        "locationType": 0,
+        "lon": -73.767011,
+        "name": "HILLSIDE AV/195 PL",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500017",
+        "direction": "NE",
+        "id": "MTA_500017",
+        "lat": 40.719903,
+        "locationType": 0,
+        "lon": -73.762044,
+        "name": "HILLSIDE AV/202 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500018",
+        "direction": "NE",
+        "id": "MTA_500018",
+        "lat": 40.720923,
+        "locationType": 0,
+        "lon": -73.759535,
+        "name": "HILLSIDE AV/FRANCIS LEWIS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q77",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500019",
+        "direction": "NE",
+        "id": "MTA_500019",
+        "lat": 40.721724,
+        "locationType": 0,
+        "lon": -73.7583,
+        "name": "HILLSIDE AV/207 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500022",
+        "direction": "NE",
+        "id": "MTA_500022",
+        "lat": 40.724847,
+        "locationType": 0,
+        "lon": -73.7537,
+        "name": "HILLSIDE AV/212 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500023",
+        "direction": "NE",
+        "id": "MTA_500023",
+        "lat": 40.726134,
+        "locationType": 0,
+        "lon": -73.751315,
+        "name": "HILLSIDE AV/214 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500024",
+        "direction": "NE",
+        "id": "MTA_500024",
+        "lat": 40.727252,
+        "locationType": 0,
+        "lon": -73.748964,
+        "name": "HILLSIDE AV/215 PL",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q43",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500025",
+        "direction": "NE",
+        "id": "MTA_500025",
+        "lat": 40.728342,
+        "locationType": 0,
+        "lon": -73.7469,
+        "name": "HILLSIDE AV/218 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500026",
+        "direction": "NE",
+        "id": "MTA_500026",
+        "lat": 40.729615,
+        "locationType": 0,
+        "lon": -73.744606,
+        "name": "HILLSIDE AV/SPRINGFIELD BLVD",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q43",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500066",
+        "direction": "SW",
+        "id": "MTA_500066",
+        "lat": 40.729614,
+        "locationType": 0,
+        "lon": -73.745329,
+        "name": "HILLSIDE AV/SPRINGFIELD BLVD",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q43",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500069",
+        "direction": "SW",
+        "id": "MTA_500069",
+        "lat": 40.727072,
+        "locationType": 0,
+        "lon": -73.749587,
+        "name": "HILLSIDE AV/215 PL",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q43",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500070",
+        "direction": "SW",
+        "id": "MTA_500070",
+        "lat": 40.725874,
+        "locationType": 0,
+        "lon": -73.752133,
+        "name": "HILLSIDE AV/214 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500071",
+        "direction": "SW",
+        "id": "MTA_500071",
+        "lat": 40.724529,
+        "locationType": 0,
+        "lon": -73.7545,
+        "name": "HILLSIDE AV/212 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500072",
+        "direction": "SW",
+        "id": "MTA_500072",
+        "lat": 40.723438,
+        "locationType": 0,
+        "lon": -73.756131,
+        "name": "HILLSIDE AV/211 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500073",
+        "direction": "SW",
+        "id": "MTA_500073",
+        "lat": 40.722401,
+        "locationType": 0,
+        "lon": -73.757613,
+        "name": "HILLSIDE AV/209 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500074",
+        "direction": "SW",
+        "id": "MTA_500074",
+        "lat": 40.720959,
+        "locationType": 0,
+        "lon": -73.759687,
+        "name": "HILLSIDE AV/FRANCIS LEWIS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q77",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500078",
+        "direction": "W",
+        "id": "MTA_500078",
+        "lat": 40.716563,
+        "locationType": 0,
+        "lon": -73.769609,
+        "name": "HILLSIDE AV/193 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500079",
+        "direction": "W",
+        "id": "MTA_500079",
+        "lat": 40.71588,
+        "locationType": 0,
+        "lon": -73.771498,
+        "name": "HILLSIDE AV/191 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500080",
+        "direction": "W",
+        "id": "MTA_500080",
+        "lat": 40.715217,
+        "locationType": 0,
+        "lon": -73.773444,
+        "name": "HILLSIDE AV/188 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500081",
+        "direction": "W",
+        "id": "MTA_500081",
+        "lat": 40.714768,
+        "locationType": 0,
+        "lon": -73.775267,
+        "name": "HILLSIDE AV/187 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500082",
+        "direction": "W",
+        "id": "MTA_500082",
+        "lat": 40.714049,
+        "locationType": 0,
+        "lon": -73.778431,
+        "name": "HILLSIDE AV/DALNY RD",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500197",
+        "direction": "W",
+        "id": "MTA_500197",
+        "lat": 40.712223,
+        "locationType": 0,
+        "lon": -73.785799,
+        "name": "HILLSIDE AV/EDGERTON BLVD",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500249",
+        "direction": "E",
+        "id": "MTA_500249",
+        "lat": 40.707594,
+        "locationType": 0,
+        "lon": -73.802927,
+        "name": "HILLSIDE AV/PARSONS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q43",
+            "MTABC_Q111",
+            "MTABC_Q113",
+            "MTABC_Q114"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500251",
+        "direction": "E",
+        "id": "MTA_500251",
+        "lat": 40.708576,
+        "locationType": 0,
+        "lon": -73.799384,
+        "name": "HILLSIDE AV/163 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500252",
+        "direction": "E",
+        "id": "MTA_500252",
+        "lat": 40.70915,
+        "locationType": 0,
+        "lon": -73.797439,
+        "name": "HILLSIDE AV/165 ST",
+        "routeIds": [
+            "MTA NYCT_Q43",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500361",
+        "direction": "W",
+        "id": "MTA_500361",
+        "lat": 40.707647,
+        "locationType": 0,
+        "lon": -73.803232,
+        "name": "HILLSIDE AV/PARSONS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "500750",
+        "direction": "NE",
+        "id": "MTA_500750",
+        "lat": 40.71007,
+        "locationType": 0,
+        "lon": -73.794346,
+        "name": "HILLSIDE AV/168 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501414",
+        "direction": "W",
+        "id": "MTA_501414",
+        "lat": 40.71262,
+        "locationType": 0,
+        "lon": -73.783923,
+        "name": "HILLSIDE AV/MIDLAND PKWY",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501419",
+        "direction": "SW",
+        "id": "MTA_501419",
+        "lat": 40.71071,
+        "locationType": 0,
+        "lon": -73.793147,
+        "name": "HILLSIDE AV/169 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502030",
+        "direction": "NW",
+        "id": "MTA_502030",
+        "lat": 40.701989,
+        "locationType": 0,
+        "lon": -73.807903,
+        "name": "SUTPHIN BLVD/JAMAICA AV",
+        "routeIds": [
+            "MTA NYCT_Q20A",
+            "MTA NYCT_Q20B",
+            "MTABC_Q40",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q44+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502031",
+        "direction": "NW",
+        "id": "MTA_502031",
+        "lat": 40.703734,
+        "locationType": 0,
+        "lon": -73.808664,
+        "name": "SUTPHIN BLVD/89 AV",
+        "routeIds": [
+            "MTA NYCT_Q20A",
+            "MTA NYCT_Q20B",
+            "MTABC_Q40",
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502032",
+        "direction": "NW",
+        "id": "MTA_502032",
+        "lat": 40.705678,
+        "locationType": 0,
+        "lon": -73.809604,
+        "name": "SUTPHIN BLVD/HILLSIDE AV",
+        "routeIds": [
+            "MTA NYCT_Q20A",
+            "MTA NYCT_Q20B",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q44+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502033",
+        "direction": "E",
+        "id": "MTA_502033",
+        "lat": 40.706497,
+        "locationType": 0,
+        "lon": -73.806672,
+        "name": "HILLSIDE AV/150 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502044",
+        "direction": "E",
+        "id": "MTA_502044",
+        "lat": 40.712822,
+        "locationType": 0,
+        "lon": -73.782743,
+        "name": "HILLSIDE AV/180 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502065",
+        "direction": "NE",
+        "id": "MTA_502065",
+        "lat": 40.731721,
+        "locationType": 0,
+        "lon": -73.741113,
+        "name": "HILLSIDE AV/88 AV",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502067",
+        "direction": "NE",
+        "id": "MTA_502067",
+        "lat": 40.732823,
+        "locationType": 0,
+        "lon": -73.739064,
+        "name": "HILLSIDE AV/231 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502069",
+        "direction": "E",
+        "id": "MTA_502069",
+        "lat": 40.733418,
+        "locationType": 0,
+        "lon": -73.73572,
+        "name": "HILLSIDE AV/WINCHESTER BLVD",
+        "routeIds": [
+            "MTA NYCT_Q43",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502070",
+        "direction": "E",
+        "id": "MTA_502070",
+        "lat": 40.732924,
+        "locationType": 0,
+        "lon": -73.732745,
+        "name": "HILLSIDE AV/RANGE ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502071",
+        "direction": "E",
+        "id": "MTA_502071",
+        "lat": 40.732604,
+        "locationType": 0,
+        "lon": -73.731106,
+        "name": "HILLSIDE AV/235 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502072",
+        "direction": "E",
+        "id": "MTA_502072",
+        "lat": 40.73358,
+        "locationType": 0,
+        "lon": -73.725517,
+        "name": "HILLSIDE AV/239 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502073",
+        "direction": "E",
+        "id": "MTA_502073",
+        "lat": 40.733727,
+        "locationType": 0,
+        "lon": -73.724817,
+        "name": "HILLSIDE AV/241 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502074",
+        "direction": "E",
+        "id": "MTA_502074",
+        "lat": 40.734014,
+        "locationType": 0,
+        "lon": -73.723371,
+        "name": "HILLSIDE AV/CROSS ISLAND PKWY",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502075",
+        "direction": "E",
+        "id": "MTA_502075",
+        "lat": 40.734437,
+        "locationType": 0,
+        "lon": -73.721301,
+        "name": "HILLSIDE AV/COMMONWEALTH BLVD",
+        "routeIds": [
+            "MTA NYCT_Q43",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502078",
+        "direction": "E",
+        "id": "MTA_502078",
+        "lat": 40.735549,
+        "locationType": 0,
+        "lon": -73.716115,
+        "name": "HILLSIDE AV/251 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502079",
+        "direction": "E",
+        "id": "MTA_502079",
+        "lat": 40.736011,
+        "locationType": 0,
+        "lon": -73.713958,
+        "name": "HILLSIDE AV/LITTLE NECK PKWY",
+        "routeIds": [
+            "MTA NYCT_Q43",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502080",
+        "direction": "E",
+        "id": "MTA_502080",
+        "lat": 40.73654,
+        "locationType": 0,
+        "lon": -73.71151,
+        "name": "HILLSIDE AV/256 ST",
+        "routeIds": [
+            "MTA NYCT_Q43",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502081",
+        "direction": "E",
+        "id": "MTA_502081",
+        "lat": 40.737123,
+        "locationType": 0,
+        "lon": -73.708794,
+        "name": "HILLSIDE AV/259 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502082",
+        "direction": "E",
+        "id": "MTA_502082",
+        "lat": 40.737514,
+        "locationType": 0,
+        "lon": -73.70698,
+        "name": "HILLSIDE AV/261 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502083",
+        "direction": "E",
+        "id": "MTA_502083",
+        "lat": 40.738111,
+        "locationType": 0,
+        "lon": -73.704203,
+        "name": "HILLSIDE AV/264 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502084",
+        "direction": "E",
+        "id": "MTA_502084",
+        "lat": 40.738702,
+        "locationType": 0,
+        "lon": -73.701458,
+        "name": "HILLSIDE AV/267 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502085",
+        "direction": "W",
+        "id": "MTA_502085",
+        "lat": 40.738768,
+        "locationType": 0,
+        "lon": -73.701868,
+        "name": "HILLSIDE AV/268 ST",
+        "routeIds": [
+            "MTA NYCT_Q43",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502086",
+        "direction": "W",
+        "id": "MTA_502086",
+        "lat": 40.738531,
+        "locationType": 0,
+        "lon": -73.703238,
+        "name": "HILLSIDE AV/266 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502087",
+        "direction": "W",
+        "id": "MTA_502087",
+        "lat": 40.738129,
+        "locationType": 0,
+        "lon": -73.70509,
+        "name": "HILLSIDE AV/264 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502088",
+        "direction": "W",
+        "id": "MTA_502088",
+        "lat": 40.737541,
+        "locationType": 0,
+        "lon": -73.707843,
+        "name": "HILLSIDE AV/261 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502091",
+        "direction": "W",
+        "id": "MTA_502091",
+        "lat": 40.736135,
+        "locationType": 0,
+        "lon": -73.714369,
+        "name": "HILLSIDE AV/LITTLE NECK PKWY",
+        "routeIds": [
+            "MTA NYCT_Q43",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502092",
+        "direction": "W",
+        "id": "MTA_502092",
+        "lat": 40.735662,
+        "locationType": 0,
+        "lon": -73.716415,
+        "name": "HILLSIDE AV/251 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502095",
+        "direction": "W",
+        "id": "MTA_502095",
+        "lat": 40.734542,
+        "locationType": 0,
+        "lon": -73.72166,
+        "name": "HILLSIDE AV/COMMONWEALTH BLVD",
+        "routeIds": [
+            "MTA NYCT_Q43",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502096",
+        "direction": "W",
+        "id": "MTA_502096",
+        "lat": 40.734013,
+        "locationType": 0,
+        "lon": -73.724071,
+        "name": "HILLSIDE AV/243 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502098",
+        "direction": "W",
+        "id": "MTA_502098",
+        "lat": 40.732725,
+        "locationType": 0,
+        "lon": -73.730476,
+        "name": "HILLSIDE AV/235 CT",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502099",
+        "direction": "W",
+        "id": "MTA_502099",
+        "lat": 40.733129,
+        "locationType": 0,
+        "lon": -73.733035,
+        "name": "HILLSIDE AV/RANGE ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502100",
+        "direction": "W",
+        "id": "MTA_502100",
+        "lat": 40.733518,
+        "locationType": 0,
+        "lon": -73.735078,
+        "name": "HILLSIDE AV/WINCHESTER BLVD",
+        "routeIds": [
+            "MTA NYCT_Q43",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502102",
+        "direction": "W",
+        "id": "MTA_502102",
+        "lat": 40.732945,
+        "locationType": 0,
+        "lon": -73.739395,
+        "name": "HILLSIDE AV/231 ST",
+        "routeIds": [
+            "MTA NYCT_Q27",
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502103",
+        "direction": "SW",
+        "id": "MTA_502103",
+        "lat": 40.73224,
+        "locationType": 0,
+        "lon": -73.741025,
+        "name": "HILLSIDE AV/229 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502104",
+        "direction": "SW",
+        "id": "MTA_502104",
+        "lat": 40.73093,
+        "locationType": 0,
+        "lon": -73.743234,
+        "name": "HILLSIDE AV/MANOR RD",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502115",
+        "direction": "SW",
+        "id": "MTA_502115",
+        "lat": 40.719904,
+        "locationType": 0,
+        "lon": -73.762312,
+        "name": "HILLSIDE AV/202 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502131",
+        "direction": "W",
+        "id": "MTA_502131",
+        "lat": 40.709627,
+        "locationType": 0,
+        "lon": -73.796269,
+        "name": "HILLSIDE AV/166 ST",
+        "routeIds": [
+            "MTA NYCT_Q43",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502132",
+        "direction": "W",
+        "id": "MTA_502132",
+        "lat": 40.708879,
+        "locationType": 0,
+        "lon": -73.798865,
+        "name": "HILLSIDE AV/164 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502136",
+        "direction": "W",
+        "id": "MTA_502136",
+        "lat": 40.706567,
+        "locationType": 0,
+        "lon": -73.806996,
+        "name": "HILLSIDE AV/150 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502137",
+        "direction": "SE",
+        "id": "MTA_502137",
+        "lat": 40.705382,
+        "locationType": 0,
+        "lon": -73.809594,
+        "name": "SUTPHIN BLVD/HILLSIDE AV",
+        "routeIds": [
+            "MTA NYCT_Q20A",
+            "MTA NYCT_Q20B",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q44+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502138",
+        "direction": "SE",
+        "id": "MTA_502138",
+        "lat": 40.703097,
+        "locationType": 0,
+        "lon": -73.808539,
+        "name": "SUTPHIN BLVD/90 AV",
+        "routeIds": [
+            "MTA NYCT_Q20A",
+            "MTA NYCT_Q20B",
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502139",
+        "direction": "S",
+        "id": "MTA_502139",
+        "lat": 40.701843,
+        "locationType": 0,
+        "lon": -73.808029,
+        "name": "SUTPHIN BLVD/JAMAICA AV",
+        "routeIds": [
+            "MTA NYCT_Q20A",
+            "MTA NYCT_Q20B",
+            "MTABC_Q40",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q44+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "502378",
+        "direction": "W",
+        "id": "MTA_502378",
+        "lat": 40.741524,
+        "locationType": 0,
+        "lon": -73.724797,
+        "name": "UNION TPKE/COMMONWEALTH BLVD",
+        "routeIds": [
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q46"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503195",
+        "direction": "W",
+        "id": "MTA_503195",
+        "lat": 40.711809,
+        "locationType": 0,
+        "lon": -73.790139,
+        "name": "HILLSIDE AV/172 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503209",
+        "direction": "E",
+        "id": "MTA_503209",
+        "lat": 40.708216,
+        "locationType": 0,
+        "lon": -73.800636,
+        "name": "HILLSIDE AV/161 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503210",
+        "direction": "W",
+        "id": "MTA_503210",
+        "lat": 40.70838,
+        "locationType": 0,
+        "lon": -73.800649,
+        "name": "HILLSIDE AV/162 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503272",
+        "direction": "S",
+        "id": "MTA_503272",
+        "lat": 40.728439,
+        "locationType": 0,
+        "lon": -73.747174,
+        "name": "HILLSIDE AV/218 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503571",
+        "direction": "E",
+        "id": "MTA_503571",
+        "lat": 40.711741,
+        "locationType": 0,
+        "lon": -73.787248,
+        "name": "HILLSIDE AV/175 ST",
+        "routeIds": [
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503686",
+        "direction": "E",
+        "id": "MTA_503686",
+        "lat": 40.734969,
+        "locationType": 0,
+        "lon": -73.718816,
+        "name": "HILLSIDE AV/248 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503687",
+        "direction": "W",
+        "id": "MTA_503687",
+        "lat": 40.736955,
+        "locationType": 0,
+        "lon": -73.710559,
+        "name": "HILLSIDE AV/258 ST",
+        "routeIds": [
+            "MTA NYCT_Q43",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503914",
+        "direction": "W",
+        "id": "MTA_503914",
+        "lat": 40.733545,
+        "locationType": 0,
+        "lon": -73.726302,
+        "name": "HILLSIDE AV/240 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503965",
+        "direction": "NE",
+        "id": "MTA_503965",
+        "lat": 40.723225,
+        "locationType": 0,
+        "lon": -73.756211,
+        "name": "HILLSIDE AV/210 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503978",
+        "direction": "NE",
+        "id": "MTA_503978",
+        "lat": 40.719173,
+        "locationType": 0,
+        "lon": -73.763711,
+        "name": "HILLSIDE AV/199 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504048",
+        "direction": "S",
+        "id": "MTA_504048",
+        "lat": 40.741264,
+        "locationType": 0,
+        "lon": -73.712792,
+        "name": "257 ST/81 AV",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504481",
+        "direction": "NE",
+        "id": "MTA_504481",
+        "lat": 40.700505,
+        "locationType": 0,
+        "lon": -73.807825,
+        "name": "ARCHER AV/SUTPHIN BLVD",
+        "routeIds": [
+            "MTA NYCT_Q24",
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504528",
+        "direction": "W",
+        "id": "MTA_504528",
+        "lat": 40.734967,
+        "locationType": 0,
+        "lon": -73.719681,
+        "name": "HILLSIDE AV/248 ST",
+        "routeIds": [
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505201",
+        "direction": "SW",
+        "id": "MTA_505201",
+        "lat": 40.718858,
+        "locationType": 0,
+        "lon": -73.764627,
+        "name": "HILLSIDE AV/198 ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505233",
+        "direction": "W",
+        "id": "MTA_505233",
+        "lat": 40.713535,
+        "locationType": 0,
+        "lon": -73.780431,
+        "name": "HILLSIDE AV/AVON ST",
+        "routeIds": [
+            "MTA NYCT_Q1",
+            "MTA NYCT_Q2",
+            "MTA NYCT_Q3",
+            "MTA NYCT_Q17",
+            "MTA NYCT_Q36",
+            "MTA NYCT_Q43",
+            "MTA NYCT_Q76",
+            "MTA NYCT_Q77"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904095",
+        "direction": "E",
+        "id": "MTA_904095",
+        "lat": 40.700463,
+        "locationType": 0,
+        "lon": -73.807915,
+        "name": "ARCHER AV/SUTPHIN BLVD",
+        "routeIds": [
+            "MTA NYCT_Q30",
+            "MTA NYCT_Q31",
+            "MTA NYCT_Q43"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

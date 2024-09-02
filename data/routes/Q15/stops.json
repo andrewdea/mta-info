@@ -1,0 +1,903 @@
+[
+    {
+        "code": "500851",
+        "direction": "E",
+        "id": "MTA_500851",
+        "lat": 40.760883,
+        "locationType": 0,
+        "lon": -73.824577,
+        "name": "ROOSEVELT AV/BOWNE ST",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A",
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501148",
+        "direction": "E",
+        "id": "MTA_501148",
+        "lat": 40.760578,
+        "locationType": 0,
+        "lon": -73.821127,
+        "name": "41 AV/PARSONS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501149",
+        "direction": "E",
+        "id": "MTA_501149",
+        "lat": 40.761515,
+        "locationType": 0,
+        "lon": -73.817663,
+        "name": "41 AV/147 ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501150",
+        "direction": "E",
+        "id": "MTA_501150",
+        "lat": 40.762123,
+        "locationType": 0,
+        "lon": -73.815445,
+        "name": "41 AV/149 ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501152",
+        "direction": "NW",
+        "id": "MTA_501152",
+        "lat": 40.763993,
+        "locationType": 0,
+        "lon": -73.814505,
+        "name": "150 ST/ROOSEVELT AV",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501153",
+        "direction": "N",
+        "id": "MTA_501153",
+        "lat": 40.765633,
+        "locationType": 0,
+        "lon": -73.815117,
+        "name": "150 ST/NORTHERN BLVD",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501154",
+        "direction": "N",
+        "id": "MTA_501154",
+        "lat": 40.767821,
+        "locationType": 0,
+        "lon": -73.815371,
+        "name": "150 ST/34 AV",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501155",
+        "direction": "N",
+        "id": "MTA_501155",
+        "lat": 40.769249,
+        "locationType": 0,
+        "lon": -73.81553,
+        "name": "150 ST/33 AV",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501156",
+        "direction": "N",
+        "id": "MTA_501156",
+        "lat": 40.771412,
+        "locationType": 0,
+        "lon": -73.81578,
+        "name": "150 ST/BAYSIDE AV",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501157",
+        "direction": "N",
+        "id": "MTA_501157",
+        "lat": 40.772531,
+        "locationType": 0,
+        "lon": -73.815517,
+        "name": "150 ST/29 AV",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501158",
+        "direction": "N",
+        "id": "MTA_501158",
+        "lat": 40.773925,
+        "locationType": 0,
+        "lon": -73.815174,
+        "name": "150 ST/27 AV",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501159",
+        "direction": "N",
+        "id": "MTA_501159",
+        "lat": 40.775338,
+        "locationType": 0,
+        "lon": -73.814942,
+        "name": "150 ST/25 DR",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501160",
+        "direction": "N",
+        "id": "MTA_501160",
+        "lat": 40.776757,
+        "locationType": 0,
+        "lon": -73.814751,
+        "name": "150 ST/24 RD",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501161",
+        "direction": "N",
+        "id": "MTA_501161",
+        "lat": 40.778209,
+        "locationType": 0,
+        "lon": -73.814552,
+        "name": "150 ST/23 AV",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501162",
+        "direction": "N",
+        "id": "MTA_501162",
+        "lat": 40.780154,
+        "locationType": 0,
+        "lon": -73.814286,
+        "name": "150 ST/21 AV",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501163",
+        "direction": "N",
+        "id": "MTA_501163",
+        "lat": 40.781578,
+        "locationType": 0,
+        "lon": -73.814087,
+        "name": "150 ST/20 AV",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501164",
+        "direction": "N",
+        "id": "MTA_501164",
+        "lat": 40.783,
+        "locationType": 0,
+        "lon": -73.813896,
+        "name": "150 ST/18 AV",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501165",
+        "direction": "N",
+        "id": "MTA_501165",
+        "lat": 40.784421,
+        "locationType": 0,
+        "lon": -73.813697,
+        "name": "150 ST/17 AV",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501166",
+        "direction": "N",
+        "id": "MTA_501166",
+        "lat": 40.785497,
+        "locationType": 0,
+        "lon": -73.813593,
+        "name": "150 ST/15 DR",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501172",
+        "direction": "E",
+        "id": "MTA_501172",
+        "lat": 40.786303,
+        "locationType": 0,
+        "lon": -73.809539,
+        "name": "CROSS ISLAND PKWY/CLINTONVILLE ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q76",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501174",
+        "direction": "W",
+        "id": "MTA_501174",
+        "lat": 40.786923,
+        "locationType": 0,
+        "lon": -73.807829,
+        "name": "154 ST/CRYDERS LN",
+        "routeIds": [
+            "MTA NYCT_Q15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501175",
+        "direction": "N",
+        "id": "MTA_501175",
+        "lat": 40.789755,
+        "locationType": 0,
+        "lon": -73.807496,
+        "name": "154 ST/14 AV",
+        "routeIds": [
+            "MTA NYCT_Q15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501176",
+        "direction": "N",
+        "id": "MTA_501176",
+        "lat": 40.791157,
+        "locationType": 0,
+        "lon": -73.807304,
+        "name": "154 ST/12 RD",
+        "routeIds": [
+            "MTA NYCT_Q15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501177",
+        "direction": "N",
+        "id": "MTA_501177",
+        "lat": 40.792184,
+        "locationType": 0,
+        "lon": -73.807163,
+        "name": "154 ST/11 AV",
+        "routeIds": [
+            "MTA NYCT_Q15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501184",
+        "direction": "N",
+        "id": "MTA_501184",
+        "lat": 40.793838,
+        "locationType": 0,
+        "lon": -73.797422,
+        "name": "166 ST/POWELLS COVE BLVD",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501189",
+        "direction": "W",
+        "id": "MTA_501189",
+        "lat": 40.79418,
+        "locationType": 0,
+        "lon": -73.799492,
+        "name": "POWELLS COVE BLVD/162 ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501190",
+        "direction": "W",
+        "id": "MTA_501190",
+        "lat": 40.79433,
+        "locationType": 0,
+        "lon": -73.801304,
+        "name": "POWELLS COVE BLVD/160 ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501195",
+        "direction": "S",
+        "id": "MTA_501195",
+        "lat": 40.790565,
+        "locationType": 0,
+        "lon": -73.807547,
+        "name": "154 ST/12 RD",
+        "routeIds": [
+            "MTA NYCT_Q15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501196",
+        "direction": "S",
+        "id": "MTA_501196",
+        "lat": 40.789133,
+        "locationType": 0,
+        "lon": -73.807732,
+        "name": "154 ST/14 AV",
+        "routeIds": [
+            "MTA NYCT_Q15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501197",
+        "direction": "S",
+        "id": "MTA_501197",
+        "lat": 40.787101,
+        "locationType": 0,
+        "lon": -73.808047,
+        "name": "154 ST/CROSS ISLAND PKWY",
+        "routeIds": [
+            "MTA NYCT_Q15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501198",
+        "direction": "W",
+        "id": "MTA_501198",
+        "lat": 40.787166,
+        "locationType": 0,
+        "lon": -73.810164,
+        "name": "CROSS ISLAND PKWY/CLINTONVILLE ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q76",
+            "MTABC_QM2",
+            "MTABC_QM32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501199",
+        "direction": "W",
+        "id": "MTA_501199",
+        "lat": 40.787358,
+        "locationType": 0,
+        "lon": -73.811731,
+        "name": "CROSS ISLAND PKWY/150 PL",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501201",
+        "direction": "S",
+        "id": "MTA_501201",
+        "lat": 40.784542,
+        "locationType": 0,
+        "lon": -73.81383,
+        "name": "150 ST/16 RD",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501202",
+        "direction": "S",
+        "id": "MTA_501202",
+        "lat": 40.783113,
+        "locationType": 0,
+        "lon": -73.814029,
+        "name": "150 ST/17 RD",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501203",
+        "direction": "S",
+        "id": "MTA_501203",
+        "lat": 40.781699,
+        "locationType": 0,
+        "lon": -73.814221,
+        "name": "150 ST/19 AV",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501204",
+        "direction": "S",
+        "id": "MTA_501204",
+        "lat": 40.780272,
+        "locationType": 0,
+        "lon": -73.814416,
+        "name": "150 ST/20 RD",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501205",
+        "direction": "S",
+        "id": "MTA_501205",
+        "lat": 40.778582,
+        "locationType": 0,
+        "lon": -73.814648,
+        "name": "150 ST/22 AV",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501210",
+        "direction": "S",
+        "id": "MTA_501210",
+        "lat": 40.771176,
+        "locationType": 0,
+        "lon": -73.815929,
+        "name": "150 ST/BAYSIDE AV",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501211",
+        "direction": "S",
+        "id": "MTA_501211",
+        "lat": 40.76865,
+        "locationType": 0,
+        "lon": -73.815636,
+        "name": "150 ST/33 AV",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501212",
+        "direction": "S",
+        "id": "MTA_501212",
+        "lat": 40.767228,
+        "locationType": 0,
+        "lon": -73.815474,
+        "name": "150 ST/34 AV",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501213",
+        "direction": "S",
+        "id": "MTA_501213",
+        "lat": 40.766081,
+        "locationType": 0,
+        "lon": -73.815347,
+        "name": "150 ST/35 AV",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501214",
+        "direction": "SE",
+        "id": "MTA_501214",
+        "lat": 40.764922,
+        "locationType": 0,
+        "lon": -73.815092,
+        "name": "150 ST/NORTHERN BLVD",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501217",
+        "direction": "W",
+        "id": "MTA_501217",
+        "lat": 40.762012,
+        "locationType": 0,
+        "lon": -73.816319,
+        "name": "41 AV/149 ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501218",
+        "direction": "W",
+        "id": "MTA_501218",
+        "lat": 40.761423,
+        "locationType": 0,
+        "lon": -73.818501,
+        "name": "41 AV/147 ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "501219",
+        "direction": "W",
+        "id": "MTA_501219",
+        "lat": 40.760478,
+        "locationType": 0,
+        "lon": -73.822005,
+        "name": "41 AV/PARSONS BLVD",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503096",
+        "direction": "E",
+        "id": "MTA_503096",
+        "lat": 40.759821,
+        "locationType": 0,
+        "lon": -73.828956,
+        "name": "ROOSEVELT AV/MAIN ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503218",
+        "direction": "S",
+        "id": "MTA_503218",
+        "lat": 40.773355,
+        "locationType": 0,
+        "lon": -73.815461,
+        "name": "150 ST/27 AV",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503919",
+        "direction": "E",
+        "id": "MTA_503919",
+        "lat": 40.785918,
+        "locationType": 0,
+        "lon": -73.807705,
+        "name": "CROSS ISLAND PKWY/154 ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503927",
+        "direction": "W",
+        "id": "MTA_503927",
+        "lat": 40.762509,
+        "locationType": 0,
+        "lon": -73.814314,
+        "name": "41 AV/150 ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "503979",
+        "direction": "SE",
+        "id": "MTA_503979",
+        "lat": 40.76337,
+        "locationType": 0,
+        "lon": -73.814335,
+        "name": "150 ST/ROOSEVELT AV",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504032",
+        "direction": "S",
+        "id": "MTA_504032",
+        "lat": 40.775574,
+        "locationType": 0,
+        "lon": -73.815057,
+        "name": "150 ST/25 AV",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504427",
+        "direction": "S",
+        "id": "MTA_504427",
+        "lat": 40.78666,
+        "locationType": 0,
+        "lon": -73.813494,
+        "name": "150 ST/CROSS ISLAND PKWY SERVICE RD SOUTH",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504548",
+        "direction": "S",
+        "id": "MTA_504548",
+        "lat": 40.777281,
+        "locationType": 0,
+        "lon": -73.814825,
+        "name": "150 ST/24 AV",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "504992",
+        "direction": "W",
+        "id": "MTA_504992",
+        "lat": 40.760927,
+        "locationType": 0,
+        "lon": -73.824935,
+        "name": "ROOSEVELT AV/BOWNE ST",
+        "routeIds": [
+            "MTA NYCT_Q12",
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A",
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505059",
+        "direction": "E",
+        "id": "MTA_505059",
+        "lat": 40.786904,
+        "locationType": 0,
+        "lon": -73.81306,
+        "name": "CROSS ISLAND PKWY/150 ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q76"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505126",
+        "direction": "N",
+        "id": "MTA_505126",
+        "lat": 40.793624,
+        "locationType": 0,
+        "lon": -73.806972,
+        "name": "154 ST/9 AV",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505127",
+        "direction": "E",
+        "id": "MTA_505127",
+        "lat": 40.794381,
+        "locationType": 0,
+        "lon": -73.803329,
+        "name": "POWELLS COVE BLVD/157 ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505128",
+        "direction": "W",
+        "id": "MTA_505128",
+        "lat": 40.794439,
+        "locationType": 0,
+        "lon": -73.802721,
+        "name": "POWELLS COVE BLVD/159 ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505129",
+        "direction": "S",
+        "id": "MTA_505129",
+        "lat": 40.79441,
+        "locationType": 0,
+        "lon": -73.806997,
+        "name": "154 ST/POWELLS COVE BLVD",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505130",
+        "direction": "S",
+        "id": "MTA_505130",
+        "lat": 40.792177,
+        "locationType": 0,
+        "lon": -73.807337,
+        "name": "154 ST/11 AV",
+        "routeIds": [
+            "MTA NYCT_Q15"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "505160",
+        "direction": "E",
+        "id": "MTA_505160",
+        "lat": 40.794204,
+        "locationType": 0,
+        "lon": -73.801097,
+        "name": "POWELLS COVE BLVD/160 ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804030",
+        "direction": "N",
+        "id": "MTA_804030",
+        "lat": 40.793805,
+        "locationType": 0,
+        "lon": -73.797415,
+        "name": "166 ST/POWELLS COVE BLVD",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "804031",
+        "direction": "W",
+        "id": "MTA_804031",
+        "lat": 40.759982,
+        "locationType": 0,
+        "lon": -73.828622,
+        "name": "ROOSEVELT AV/UNION ST",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A",
+            "MTA NYCT_Q26"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "904172",
+        "direction": "S",
+        "id": "MTA_904172",
+        "lat": 40.794061,
+        "locationType": 0,
+        "lon": -73.799688,
+        "name": "162 ST/POWELLS COVE BLVD",
+        "routeIds": [
+            "MTA NYCT_Q15",
+            "MTA NYCT_Q15A"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

@@ -1,0 +1,697 @@
+[
+    {
+        "code": "100148",
+        "direction": "NE",
+        "id": "MTA_100148",
+        "lat": 40.845711,
+        "locationType": 0,
+        "lon": -73.921894,
+        "name": "UNIVERSITY AV/GEORGE WASHINGTON BRIDGE",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100149",
+        "direction": "NE",
+        "id": "MTA_100149",
+        "lat": 40.846858,
+        "locationType": 0,
+        "lon": -73.92044,
+        "name": "UNIVERSITY AV/W 174 ST",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100151",
+        "direction": "NE",
+        "id": "MTA_100151",
+        "lat": 40.849217,
+        "locationType": 0,
+        "lon": -73.917023,
+        "name": "UNIVERSITY AV/W 176 ST",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX18B",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100152",
+        "direction": "NE",
+        "id": "MTA_100152",
+        "lat": 40.850268,
+        "locationType": 0,
+        "lon": -73.915494,
+        "name": "UNIVERSITY AV/WEST TREMONT AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100155",
+        "direction": "NE",
+        "id": "MTA_100155",
+        "lat": 40.854707,
+        "locationType": 0,
+        "lon": -73.911236,
+        "name": "UNIVERSITY AV/WEST BURNSIDE AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX40",
+            "MTA NYCT_BX42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100156",
+        "direction": "N",
+        "id": "MTA_100156",
+        "lat": 40.857351,
+        "locationType": 0,
+        "lon": -73.909569,
+        "name": "UNIVERSITY AV/W 181 ST",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100157",
+        "direction": "NE",
+        "id": "MTA_100157",
+        "lat": 40.859697,
+        "locationType": 0,
+        "lon": -73.907623,
+        "name": "UNIVERSITY AV/W 183 ST",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100159",
+        "direction": "NE",
+        "id": "MTA_100159",
+        "lat": 40.862638,
+        "locationType": 0,
+        "lon": -73.904979,
+        "name": "UNIVERSITY AV/WEST FORDHAM RD",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100161",
+        "direction": "NE",
+        "id": "MTA_100161",
+        "lat": 40.865519,
+        "locationType": 0,
+        "lon": -73.903034,
+        "name": "UNIVERSITY AV/W 190 ST",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100162",
+        "direction": "NE",
+        "id": "MTA_100162",
+        "lat": 40.86722,
+        "locationType": 0,
+        "lon": -73.901763,
+        "name": "UNIVERSITY AV/W 192 ST",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100164",
+        "direction": "NW",
+        "id": "MTA_100164",
+        "lat": 40.869541,
+        "locationType": 0,
+        "lon": -73.903603,
+        "name": "WEST KINGSBRIDGE RD/SEDGWICK AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX9"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100166",
+        "direction": "N",
+        "id": "MTA_100166",
+        "lat": 40.872786,
+        "locationType": 0,
+        "lon": -73.901961,
+        "name": "SEDGWICK AV/W 197 ST",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTABC_BXM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100169",
+        "direction": "W",
+        "id": "MTA_100169",
+        "lat": 40.878638,
+        "locationType": 0,
+        "lon": -73.898998,
+        "name": "FORT INDEPENDENCE ST/GILES PL",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100170",
+        "direction": "N",
+        "id": "MTA_100170",
+        "lat": 40.880716,
+        "locationType": 0,
+        "lon": -73.899081,
+        "name": "FORT INDEPENDENCE ST/BAILEY PL",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100171",
+        "direction": "N",
+        "id": "MTA_100171",
+        "lat": 40.883001,
+        "locationType": 0,
+        "lon": -73.897776,
+        "name": "W 238 ST/ORLOFF AV",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100172",
+        "direction": "NW",
+        "id": "MTA_100172",
+        "lat": 40.884297,
+        "locationType": 0,
+        "lon": -73.898273,
+        "name": "W 238 ST/BAILEY AV",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100173",
+        "direction": "W",
+        "id": "MTA_100173",
+        "lat": 40.885085,
+        "locationType": 0,
+        "lon": -73.900434,
+        "name": "W 238 ST/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100176",
+        "direction": "E",
+        "id": "MTA_100176",
+        "lat": 40.884969,
+        "locationType": 0,
+        "lon": -73.900478,
+        "name": "W 238 ST/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100177",
+        "direction": "SE",
+        "id": "MTA_100177",
+        "lat": 40.884069,
+        "locationType": 0,
+        "lon": -73.89823,
+        "name": "W 238 ST/BAILEY AV",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100178",
+        "direction": "SW",
+        "id": "MTA_100178",
+        "lat": 40.882502,
+        "locationType": 0,
+        "lon": -73.898138,
+        "name": "W 238 ST/ORLOFF AV",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100179",
+        "direction": "S",
+        "id": "MTA_100179",
+        "lat": 40.881015,
+        "locationType": 0,
+        "lon": -73.8992,
+        "name": "FORT INDEPENDENCE ST/BAILEY PL",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100180",
+        "direction": "S",
+        "id": "MTA_100180",
+        "lat": 40.878971,
+        "locationType": 0,
+        "lon": -73.899692,
+        "name": "FORT INDEPENDENCE ST/HEATH AV",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100183",
+        "direction": "S",
+        "id": "MTA_100183",
+        "lat": 40.872199,
+        "locationType": 0,
+        "lon": -73.902327,
+        "name": "SEDGWICK AV/W 197 ST",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTABC_BXM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100187",
+        "direction": "SW",
+        "id": "MTA_100187",
+        "lat": 40.867105,
+        "locationType": 0,
+        "lon": -73.902085,
+        "name": "UNIVERSITY AV/W 192 ST",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100188",
+        "direction": "SW",
+        "id": "MTA_100188",
+        "lat": 40.865122,
+        "locationType": 0,
+        "lon": -73.903489,
+        "name": "UNIVERSITY AV/W 190 ST",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100189",
+        "direction": "SW",
+        "id": "MTA_100189",
+        "lat": 40.862861,
+        "locationType": 0,
+        "lon": -73.904923,
+        "name": "UNIVERSITY AV/WEST FORDHAM RD",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100191",
+        "direction": "SW",
+        "id": "MTA_100191",
+        "lat": 40.859354,
+        "locationType": 0,
+        "lon": -73.908072,
+        "name": "UNIVERSITY AV/W 183 ST",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100195",
+        "direction": "SW",
+        "id": "MTA_100195",
+        "lat": 40.850235,
+        "locationType": 0,
+        "lon": -73.916007,
+        "name": "UNIVERSITY AV/WEST TREMONT AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX18B",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100199",
+        "direction": "SW",
+        "id": "MTA_100199",
+        "lat": 40.845313,
+        "locationType": 0,
+        "lon": -73.922556,
+        "name": "UNIVERSITY AV/GEORGE WASHINGTON BRIDGE",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "100629",
+        "direction": "E",
+        "id": "MTA_100629",
+        "lat": 40.868262,
+        "locationType": 0,
+        "lon": -73.901233,
+        "name": "WEST KINGSBRIDGE RD/UNIVERSITY AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103008",
+        "direction": "W",
+        "id": "MTA_103008",
+        "lat": 40.868402,
+        "locationType": 0,
+        "lon": -73.901313,
+        "name": "WEST KINGSBRIDGE RD/UNIVERSITY AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103047",
+        "direction": "SW",
+        "id": "MTA_103047",
+        "lat": 40.875483,
+        "locationType": 0,
+        "lon": -73.90097,
+        "name": "SEDGWICK AV/W 231 ST",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103489",
+        "direction": "NE",
+        "id": "MTA_103489",
+        "lat": 40.875672,
+        "locationType": 0,
+        "lon": -73.900564,
+        "name": "SEDGWICK AV/W 231 ST",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103490",
+        "direction": "SW",
+        "id": "MTA_103490",
+        "lat": 40.854565,
+        "locationType": 0,
+        "lon": -73.911591,
+        "name": "UNIVERSITY AV/W 179 ST",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX40",
+            "MTA NYCT_BX42"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103532",
+        "direction": "SW",
+        "id": "MTA_103532",
+        "lat": 40.852219,
+        "locationType": 0,
+        "lon": -73.913847,
+        "name": "UNIVERSITY AV/MORTON PL",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103714",
+        "direction": "SE",
+        "id": "MTA_103714",
+        "lat": 40.869439,
+        "locationType": 0,
+        "lon": -73.90377,
+        "name": "WEST KINGSBRIDGE RD/SEDGWICK AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX9"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103927",
+        "direction": "SW",
+        "id": "MTA_103927",
+        "lat": 40.856575,
+        "locationType": 0,
+        "lon": -73.909952,
+        "name": "UNIVERSITY AV/HALL OF FAME TERR",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103931",
+        "direction": "NE",
+        "id": "MTA_103931",
+        "lat": 40.878264,
+        "locationType": 0,
+        "lon": -73.89817,
+        "name": "SEDGWICK AV/FORT INDEPENDENCE ST",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103932",
+        "direction": "SW",
+        "id": "MTA_103932",
+        "lat": 40.878056,
+        "locationType": 0,
+        "lon": -73.89855,
+        "name": "SEDGWICK AV/FT INDEPENDENCE ST",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTABC_BXM3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104326",
+        "direction": "SW",
+        "id": "MTA_104326",
+        "lat": 40.848728,
+        "locationType": 0,
+        "lon": -73.918115,
+        "name": "UNIVERSITY AV/W 176 ST",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104678",
+        "direction": "NE",
+        "id": "MTA_104678",
+        "lat": 40.852867,
+        "locationType": 0,
+        "lon": -73.9129,
+        "name": "UNIVERSITY AV/1910 UNIVERSITY AV",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403652",
+        "direction": "NW",
+        "id": "MTA_403652",
+        "lat": 40.848237,
+        "locationType": 0,
+        "lon": -73.931,
+        "name": "W 181 ST/AMSTERDAM AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13",
+            "MTA NYCT_BX35",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403653",
+        "direction": "NW",
+        "id": "MTA_403653",
+        "lat": 40.849311,
+        "locationType": 0,
+        "lon": -73.933514,
+        "name": "W 181 ST/SAINT NICHOLAS AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13",
+            "MTA NYCT_BX35",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403656",
+        "direction": "SE",
+        "id": "MTA_403656",
+        "lat": 40.849246,
+        "locationType": 0,
+        "lon": -73.933664,
+        "name": "W 181 ST/SAINT NICHOLAS AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13",
+            "MTA NYCT_BX35",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403658",
+        "direction": "SE",
+        "id": "MTA_403658",
+        "lat": 40.848163,
+        "locationType": 0,
+        "lon": -73.931184,
+        "name": "W 181 ST/AMSTERDAM AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13",
+            "MTA NYCT_BX35",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403669",
+        "direction": "NE",
+        "id": "MTA_403669",
+        "lat": 40.849327,
+        "locationType": 0,
+        "lon": -73.936507,
+        "name": "BROADWAY/179 ST",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404324",
+        "direction": "SW",
+        "id": "MTA_404324",
+        "lat": 40.849738,
+        "locationType": 0,
+        "lon": -73.935135,
+        "name": "WADSWORTH AV/W 181 ST",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13",
+            "MTA NYCT_BX35",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404330",
+        "direction": "SE",
+        "id": "MTA_404330",
+        "lat": 40.849838,
+        "locationType": 0,
+        "lon": -73.935187,
+        "name": "W 181 ST/WADSWORTH AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX11",
+            "MTA NYCT_BX13"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "802186",
+        "direction": "SW",
+        "id": "MTA_802186",
+        "lat": 40.847651,
+        "locationType": 0,
+        "lon": -73.919561,
+        "name": "UNIVERSITY AV/ W 175 ST",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX36"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803006",
+        "direction": "NE",
+        "id": "MTA_803006",
+        "lat": 40.849011,
+        "locationType": 0,
+        "lon": -73.93689,
+        "name": "BROADWAY/W 179 ST",
+        "routeIds": [
+            "MTA NYCT_BX3"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

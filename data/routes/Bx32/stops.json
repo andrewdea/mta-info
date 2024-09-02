@@ -1,0 +1,820 @@
+[
+    {
+        "code": "100629",
+        "direction": "E",
+        "id": "MTA_100629",
+        "lat": 40.868262,
+        "locationType": 0,
+        "lon": -73.901233,
+        "name": "WEST KINGSBRIDGE RD/UNIVERSITY AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101472",
+        "direction": "SW",
+        "id": "MTA_101472",
+        "lat": 40.811053,
+        "locationType": 0,
+        "lon": -73.927386,
+        "name": "3 AV/E 138 ST",
+        "routeIds": [
+            "MTA NYCT_BX1",
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX21",
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101473",
+        "direction": "E",
+        "id": "MTA_101473",
+        "lat": 40.809653,
+        "locationType": 0,
+        "lon": -73.928362,
+        "name": "E 136 ST/LINCOLN AV",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101512",
+        "direction": "NE",
+        "id": "MTA_101512",
+        "lat": 40.869501,
+        "locationType": 0,
+        "lon": -73.898932,
+        "name": "RESERVOIR AV/W 195 ST",
+        "routeIds": [
+            "MTA NYCT_BX22",
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101781",
+        "direction": "SW",
+        "id": "MTA_101781",
+        "lat": 40.867595,
+        "locationType": 0,
+        "lon": -73.897384,
+        "name": "JEROME AV/WEST KINGSBRIDGE RD",
+        "routeIds": [
+            "MTA NYCT_BX28",
+            "MTA NYCT_BX32",
+            "MTA NYCT_BX38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102107",
+        "direction": "NE",
+        "id": "MTA_102107",
+        "lat": 40.810859,
+        "locationType": 0,
+        "lon": -73.927181,
+        "name": "LINCOLN AV/E 138 ST",
+        "routeIds": [
+            "MTA NYCT_BX21",
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102111",
+        "direction": "NE",
+        "id": "MTA_102111",
+        "lat": 40.817702,
+        "locationType": 0,
+        "lon": -73.922512,
+        "name": "MORRIS AV/E 149 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102113",
+        "direction": "NE",
+        "id": "MTA_102113",
+        "lat": 40.820538,
+        "locationType": 0,
+        "lon": -73.921297,
+        "name": "MORRIS AV/E 153 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102114",
+        "direction": "NE",
+        "id": "MTA_102114",
+        "lat": 40.821933,
+        "locationType": 0,
+        "lon": -73.920463,
+        "name": "MORRIS AV/E 156 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102115",
+        "direction": "NE",
+        "id": "MTA_102115",
+        "lat": 40.824098,
+        "locationType": 0,
+        "lon": -73.919181,
+        "name": "MORRIS AV/E 158 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102116",
+        "direction": "NE",
+        "id": "MTA_102116",
+        "lat": 40.825859,
+        "locationType": 0,
+        "lon": -73.918203,
+        "name": "MORRIS AV/E 161 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102117",
+        "direction": "NE",
+        "id": "MTA_102117",
+        "lat": 40.827494,
+        "locationType": 0,
+        "lon": -73.917305,
+        "name": "MORRIS AV/E 163 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102118",
+        "direction": "NE",
+        "id": "MTA_102118",
+        "lat": 40.829536,
+        "locationType": 0,
+        "lon": -73.916171,
+        "name": "MORRIS AV/E 165 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102119",
+        "direction": "NE",
+        "id": "MTA_102119",
+        "lat": 40.830416,
+        "locationType": 0,
+        "lon": -73.915671,
+        "name": "MORRIS AV/E 166 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102121",
+        "direction": "NE",
+        "id": "MTA_102121",
+        "lat": 40.832995,
+        "locationType": 0,
+        "lon": -73.914154,
+        "name": "MORRIS AV/E 167 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102122",
+        "direction": "NE",
+        "id": "MTA_102122",
+        "lat": 40.835569,
+        "locationType": 0,
+        "lon": -73.91264,
+        "name": "MORRIS AV/E 169 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102123",
+        "direction": "NE",
+        "id": "MTA_102123",
+        "lat": 40.838216,
+        "locationType": 0,
+        "lon": -73.911123,
+        "name": "MORRIS AV/E 170 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102125",
+        "direction": "NE",
+        "id": "MTA_102125",
+        "lat": 40.84043,
+        "locationType": 0,
+        "lon": -73.909779,
+        "name": "MORRIS AV/E 172 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102127",
+        "direction": "N",
+        "id": "MTA_102127",
+        "lat": 40.84472,
+        "locationType": 0,
+        "lon": -73.90927,
+        "name": "MORRIS AV/E 174 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102128",
+        "direction": "NW",
+        "id": "MTA_102128",
+        "lat": 40.847219,
+        "locationType": 0,
+        "lon": -73.911049,
+        "name": "E 175 ST/WALTON AV",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102130",
+        "direction": "NE",
+        "id": "MTA_102130",
+        "lat": 40.848547,
+        "locationType": 0,
+        "lon": -73.911669,
+        "name": "JEROME AV/E 176 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102131",
+        "direction": "NE",
+        "id": "MTA_102131",
+        "lat": 40.850092,
+        "locationType": 0,
+        "lon": -73.910575,
+        "name": "JEROME AV/E 177 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102132",
+        "direction": "NE",
+        "id": "MTA_102132",
+        "lat": 40.851642,
+        "locationType": 0,
+        "lon": -73.909268,
+        "name": "JEROME AV/EAST TREMONT AV",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102133",
+        "direction": "NE",
+        "id": "MTA_102133",
+        "lat": 40.853696,
+        "locationType": 0,
+        "lon": -73.907371,
+        "name": "JEROME AV/EAST BURNSIDE AV",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102134",
+        "direction": "NE",
+        "id": "MTA_102134",
+        "lat": 40.855695,
+        "locationType": 0,
+        "lon": -73.905639,
+        "name": "JEROME AV/E 181 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102136",
+        "direction": "NE",
+        "id": "MTA_102136",
+        "lat": 40.858603,
+        "locationType": 0,
+        "lon": -73.903684,
+        "name": "JEROME AV/E 183 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102138",
+        "direction": "NE",
+        "id": "MTA_102138",
+        "lat": 40.860449,
+        "locationType": 0,
+        "lon": -73.902554,
+        "name": "JEROME AV/E 184 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102139",
+        "direction": "NE",
+        "id": "MTA_102139",
+        "lat": 40.862611,
+        "locationType": 0,
+        "lon": -73.901104,
+        "name": "JEROME AV/EAST FORDHAM RD",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102140",
+        "direction": "NE",
+        "id": "MTA_102140",
+        "lat": 40.865447,
+        "locationType": 0,
+        "lon": -73.898909,
+        "name": "JEROME AV/E 192 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102141",
+        "direction": "NE",
+        "id": "MTA_102141",
+        "lat": 40.867364,
+        "locationType": 0,
+        "lon": -73.89741,
+        "name": "JEROME AV/EAST KINGSBRIDGE RD",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102145",
+        "direction": "SW",
+        "id": "MTA_102145",
+        "lat": 40.865702,
+        "locationType": 0,
+        "lon": -73.898866,
+        "name": "JEROME AV/W 192 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102146",
+        "direction": "SW",
+        "id": "MTA_102146",
+        "lat": 40.862916,
+        "locationType": 0,
+        "lon": -73.901024,
+        "name": "JEROME AV/WEST FORDHAM RD",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102147",
+        "direction": "SW",
+        "id": "MTA_102147",
+        "lat": 40.860688,
+        "locationType": 0,
+        "lon": -73.90255,
+        "name": "JEROME AV/W 184 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102149",
+        "direction": "SW",
+        "id": "MTA_102149",
+        "lat": 40.858461,
+        "locationType": 0,
+        "lon": -73.903912,
+        "name": "JEROME AV/W 183 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102151",
+        "direction": "SW",
+        "id": "MTA_102151",
+        "lat": 40.855896,
+        "locationType": 0,
+        "lon": -73.905564,
+        "name": "JEROME AV/W 181 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102152",
+        "direction": "SW",
+        "id": "MTA_102152",
+        "lat": 40.853965,
+        "locationType": 0,
+        "lon": -73.907288,
+        "name": "JEROME AV/WEST BURNSIDE AV",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102153",
+        "direction": "SW",
+        "id": "MTA_102153",
+        "lat": 40.851957,
+        "locationType": 0,
+        "lon": -73.909141,
+        "name": "JEROME AV/WEST TREMONT AV",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102159",
+        "direction": "S",
+        "id": "MTA_102159",
+        "lat": 40.842446,
+        "locationType": 0,
+        "lon": -73.909674,
+        "name": "MORRIS AV/EAST MOUNT EDEN AV",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102160",
+        "direction": "SW",
+        "id": "MTA_102160",
+        "lat": 40.839906,
+        "locationType": 0,
+        "lon": -73.910244,
+        "name": "MORRIS AV/E 172 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102162",
+        "direction": "SW",
+        "id": "MTA_102162",
+        "lat": 40.838063,
+        "locationType": 0,
+        "lon": -73.91133,
+        "name": "MORRIS AV/E 170 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102163",
+        "direction": "SW",
+        "id": "MTA_102163",
+        "lat": 40.835026,
+        "locationType": 0,
+        "lon": -73.913127,
+        "name": "MORRIS AV/E 169 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102164",
+        "direction": "SW",
+        "id": "MTA_102164",
+        "lat": 40.832984,
+        "locationType": 0,
+        "lon": -73.914312,
+        "name": "MORRIS AV/E 167 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102166",
+        "direction": "SW",
+        "id": "MTA_102166",
+        "lat": 40.830639,
+        "locationType": 0,
+        "lon": -73.915699,
+        "name": "MORRIS AV/E 166 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102167",
+        "direction": "SW",
+        "id": "MTA_102167",
+        "lat": 40.829113,
+        "locationType": 0,
+        "lon": -73.916544,
+        "name": "MORRIS AV/E 165 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102168",
+        "direction": "SW",
+        "id": "MTA_102168",
+        "lat": 40.826993,
+        "locationType": 0,
+        "lon": -73.917743,
+        "name": "MORRIS AV/E 163 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102169",
+        "direction": "SW",
+        "id": "MTA_102169",
+        "lat": 40.825265,
+        "locationType": 0,
+        "lon": -73.918675,
+        "name": "MORRIS AV/E 161 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102170",
+        "direction": "SW",
+        "id": "MTA_102170",
+        "lat": 40.824001,
+        "locationType": 0,
+        "lon": -73.919371,
+        "name": "MORRIS AV/E 158 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102171",
+        "direction": "SW",
+        "id": "MTA_102171",
+        "lat": 40.822144,
+        "locationType": 0,
+        "lon": -73.920401,
+        "name": "MORRIS AV/E 156 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102172",
+        "direction": "SW",
+        "id": "MTA_102172",
+        "lat": 40.819905,
+        "locationType": 0,
+        "lon": -73.921718,
+        "name": "MORRIS AV/E 153 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "102174",
+        "direction": "SW",
+        "id": "MTA_102174",
+        "lat": 40.817542,
+        "locationType": 0,
+        "lon": -73.922753,
+        "name": "MORRIS AV/E 149 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103006",
+        "direction": "NW",
+        "id": "MTA_103006",
+        "lat": 40.869627,
+        "locationType": 0,
+        "lon": -73.898682,
+        "name": "W 195 ST/RESERVOIR AV",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103008",
+        "direction": "W",
+        "id": "MTA_103008",
+        "lat": 40.868402,
+        "locationType": 0,
+        "lon": -73.901313,
+        "name": "WEST KINGSBRIDGE RD/UNIVERSITY AV",
+        "routeIds": [
+            "MTA NYCT_BX3",
+            "MTA NYCT_BX9",
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103009",
+        "direction": "W",
+        "id": "MTA_103009",
+        "lat": 40.867388,
+        "locationType": 0,
+        "lon": -73.905465,
+        "name": "V A HOSPITAL",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103012",
+        "direction": "W",
+        "id": "MTA_103012",
+        "lat": 40.867352,
+        "locationType": 0,
+        "lon": -73.905628,
+        "name": "V A HOSPITAL",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103067",
+        "direction": "NE",
+        "id": "MTA_103067",
+        "lat": 40.813996,
+        "locationType": 0,
+        "lon": -73.924973,
+        "name": "MORRIS AV/E 141 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103211",
+        "direction": "SW",
+        "id": "MTA_103211",
+        "lat": 40.850106,
+        "locationType": 0,
+        "lon": -73.91072,
+        "name": "JEROME AV/W 177 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103212",
+        "direction": "SW",
+        "id": "MTA_103212",
+        "lat": 40.848694,
+        "locationType": 0,
+        "lon": -73.91173,
+        "name": "JEROME AV/W 176 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103214",
+        "direction": "SE",
+        "id": "MTA_103214",
+        "lat": 40.846768,
+        "locationType": 0,
+        "lon": -73.910341,
+        "name": "MORRIS AV/WALTON AV",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103215",
+        "direction": "S",
+        "id": "MTA_103215",
+        "lat": 40.844533,
+        "locationType": 0,
+        "lon": -73.909509,
+        "name": "MORRIS AV/E 174 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103472",
+        "direction": "SW",
+        "id": "MTA_103472",
+        "lat": 40.814161,
+        "locationType": 0,
+        "lon": -73.924983,
+        "name": "MORRIS AV/E 142 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103556",
+        "direction": "NE",
+        "id": "MTA_103556",
+        "lat": 40.815293,
+        "locationType": 0,
+        "lon": -73.923974,
+        "name": "MORRIS AV/E 144 ST",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "103798",
+        "direction": "N",
+        "id": "MTA_103798",
+        "lat": 40.84338,
+        "locationType": 0,
+        "lon": -73.90942,
+        "name": "MORRIS AV/MOUNT EDEN PKWY",
+        "routeIds": [
+            "MTA NYCT_BX32"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

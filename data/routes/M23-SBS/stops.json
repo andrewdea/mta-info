@@ -1,0 +1,492 @@
+[
+    {
+        "code": "401832",
+        "direction": "SE",
+        "id": "MTA_401832",
+        "lat": 40.737663,
+        "locationType": 0,
+        "lon": -73.980554,
+        "name": "E 23 ST/2 AV",
+        "routeIds": [
+            "MTA NYCT_M9",
+            "MTA NYCT_M23+",
+            "MTA NYCT_M34A+",
+            "MTA NYCT_M34+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401833",
+        "direction": "SE",
+        "id": "MTA_401833",
+        "lat": 40.736691,
+        "locationType": 0,
+        "lon": -73.978245,
+        "name": "E 23 ST/1 AV",
+        "routeIds": [
+            "MTA NYCT_M23+",
+            "MTA NYCT_M34A+",
+            "MTA NYCT_M34+",
+            "MTA NYCT_SIM3",
+            "MTA NYCT_SIM6",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM11",
+            "MTA NYCT_SIM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402054",
+        "direction": "S",
+        "id": "MTA_402054",
+        "lat": 40.732795,
+        "locationType": 0,
+        "lon": -73.974542,
+        "name": "AVENUE C/E 20 ST",
+        "routeIds": [
+            "MTA NYCT_M9",
+            "MTA NYCT_M23+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402124",
+        "direction": "SE",
+        "id": "MTA_402124",
+        "lat": 40.747425,
+        "locationType": 0,
+        "lon": -74.003764,
+        "name": "W 23 ST/10 AV",
+        "routeIds": [
+            "MTA NYCT_M23+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402125",
+        "direction": "SE",
+        "id": "MTA_402125",
+        "lat": 40.746244,
+        "locationType": 0,
+        "lon": -74.000956,
+        "name": "W 23 ST/9 AV",
+        "routeIds": [
+            "MTA NYCT_M23+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402126",
+        "direction": "E",
+        "id": "MTA_402126",
+        "lat": 40.745059,
+        "locationType": 0,
+        "lon": -73.998141,
+        "name": "W 23 ST/8 AV",
+        "routeIds": [
+            "MTA NYCT_M23+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402127",
+        "direction": "SE",
+        "id": "MTA_402127",
+        "lat": 40.743952,
+        "locationType": 0,
+        "lon": -73.995493,
+        "name": "W 23 ST/7 AV",
+        "routeIds": [
+            "MTA NYCT_M23+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402128",
+        "direction": "SE",
+        "id": "MTA_402128",
+        "lat": 40.74236,
+        "locationType": 0,
+        "lon": -73.991763,
+        "name": "W 23 ST/6 AV",
+        "routeIds": [
+            "MTA NYCT_M23+",
+            "MTA NYCT_X28"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402130",
+        "direction": "SE",
+        "id": "MTA_402130",
+        "lat": 40.741142,
+        "locationType": 0,
+        "lon": -73.98879,
+        "name": "E 23 ST/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_M23+",
+            "MTA NYCT_SIM4C",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM31",
+            "MTA NYCT_SIM33C",
+            "MTA NYCT_X27",
+            "MTA NYCT_X28",
+            "MTA NYCT_X37",
+            "MTA NYCT_X38",
+            "MTA NYCT_X63",
+            "MTA NYCT_X64",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402132",
+        "direction": "E",
+        "id": "MTA_402132",
+        "lat": 40.739922,
+        "locationType": 0,
+        "lon": -73.985994,
+        "name": "E 23 ST/PARK AV SOUTH",
+        "routeIds": [
+            "MTABC_BM1",
+            "MTABC_BM2",
+            "MTABC_BM3",
+            "MTABC_BM4",
+            "MTA NYCT_M23+",
+            "MTA NYCT_SIM3",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM31",
+            "MTA NYCT_X37",
+            "MTA NYCT_X38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402134",
+        "direction": "SE",
+        "id": "MTA_402134",
+        "lat": 40.738589,
+        "locationType": 0,
+        "lon": -73.982755,
+        "name": "E 23 ST/3 AV",
+        "routeIds": [
+            "MTABC_BM1",
+            "MTABC_BM2",
+            "MTABC_BM3",
+            "MTABC_BM4",
+            "MTA NYCT_M23+",
+            "MTA NYCT_SIM3",
+            "MTA NYCT_SIM6",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM11",
+            "MTA NYCT_SIM31",
+            "MTA NYCT_X37",
+            "MTA NYCT_X38",
+            "MTA NYCT_X63",
+            "MTA NYCT_X64"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402142",
+        "direction": "NW",
+        "id": "MTA_402142",
+        "lat": 40.73495,
+        "locationType": 0,
+        "lon": -73.979534,
+        "name": "E 20 ST/1 AV",
+        "routeIds": [
+            "MTA NYCT_M23+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402143",
+        "direction": "NW",
+        "id": "MTA_402143",
+        "lat": 40.737297,
+        "locationType": 0,
+        "lon": -73.97936,
+        "name": "E 23 ST/1 AV",
+        "routeIds": [
+            "MTABC_BM1",
+            "MTABC_BM2",
+            "MTABC_BM3",
+            "MTABC_BM4",
+            "MTA NYCT_M23+",
+            "MTA NYCT_SIM3",
+            "MTA NYCT_SIM6",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM11",
+            "MTA NYCT_SIM31",
+            "MTA NYCT_X37",
+            "MTA NYCT_X38",
+            "MTA NYCT_X63",
+            "MTA NYCT_X64",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402144",
+        "direction": "W",
+        "id": "MTA_402144",
+        "lat": 40.738311,
+        "locationType": 0,
+        "lon": -73.981712,
+        "name": "E 23 ST/2 AV",
+        "routeIds": [
+            "MTA NYCT_M23+",
+            "MTA NYCT_SIM3",
+            "MTA NYCT_SIM6",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM11",
+            "MTA NYCT_SIM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402145",
+        "direction": "NW",
+        "id": "MTA_402145",
+        "lat": 40.739027,
+        "locationType": 0,
+        "lon": -73.983456,
+        "name": "E 23 ST/3 AV",
+        "routeIds": [
+            "MTABC_BM1",
+            "MTABC_BM2",
+            "MTABC_BM3",
+            "MTABC_BM4",
+            "MTA NYCT_M23+",
+            "MTA NYCT_SIM3",
+            "MTA NYCT_SIM6",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM11",
+            "MTA NYCT_SIM31",
+            "MTA NYCT_X37",
+            "MTA NYCT_X38"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402152",
+        "direction": "NW",
+        "id": "MTA_402152",
+        "lat": 40.743101,
+        "locationType": 0,
+        "lon": -73.993064,
+        "name": "W 23 ST/AVENUE OF THE AMERICAS",
+        "routeIds": [
+            "MTA NYCT_M23+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402153",
+        "direction": "NW",
+        "id": "MTA_402153",
+        "lat": 40.744403,
+        "locationType": 0,
+        "lon": -73.996167,
+        "name": "W 23 ST/7 AV",
+        "routeIds": [
+            "MTA NYCT_M23+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402154",
+        "direction": "W",
+        "id": "MTA_402154",
+        "lat": 40.745547,
+        "locationType": 0,
+        "lon": -73.998888,
+        "name": "W 23 ST/8 AV",
+        "routeIds": [
+            "MTA NYCT_M23+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402155",
+        "direction": "NW",
+        "id": "MTA_402155",
+        "lat": 40.746716,
+        "locationType": 0,
+        "lon": -74.001653,
+        "name": "W 23 ST/9 AV",
+        "routeIds": [
+            "MTA NYCT_M23+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402157",
+        "direction": "NW",
+        "id": "MTA_402157",
+        "lat": 40.748876,
+        "locationType": 0,
+        "lon": -74.006785,
+        "name": "W 23 ST/11 AV",
+        "routeIds": [
+            "MTA NYCT_M23+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403547",
+        "direction": "W",
+        "id": "MTA_403547",
+        "lat": 40.747919,
+        "locationType": 0,
+        "lon": -74.004511,
+        "name": "W 23 ST/10 AV",
+        "routeIds": [
+            "MTA NYCT_M23+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404085",
+        "direction": "SE",
+        "id": "MTA_404085",
+        "lat": 40.748873,
+        "locationType": 0,
+        "lon": -74.008035,
+        "name": "12 AV/W 23 ST",
+        "routeIds": [
+            "MTA NYCT_M23+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404099",
+        "direction": "NW",
+        "id": "MTA_404099",
+        "lat": 40.734053,
+        "locationType": 0,
+        "lon": -73.97755,
+        "name": "E 20 ST/E 20 ST Loop",
+        "routeIds": [
+            "MTA NYCT_M9",
+            "MTA NYCT_M23+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404137",
+        "direction": "S",
+        "id": "MTA_404137",
+        "lat": 40.748728,
+        "locationType": 0,
+        "lon": -74.007954,
+        "name": "12 AV/W 23 ST",
+        "routeIds": [
+            "MTA NYCT_M23+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404264",
+        "direction": "S",
+        "id": "MTA_404264",
+        "lat": 40.735175,
+        "locationType": 0,
+        "lon": -73.975191,
+        "name": "AVENUE C/E 23 ST",
+        "routeIds": [
+            "MTA NYCT_M9",
+            "MTA NYCT_M23+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404833",
+        "direction": "NW",
+        "id": "MTA_404833",
+        "lat": 40.740491,
+        "locationType": 0,
+        "lon": -73.986847,
+        "name": "E 23 ST/PARK AV SOUTH",
+        "routeIds": [
+            "MTABC_BM1",
+            "MTABC_BM2",
+            "MTABC_BM3",
+            "MTABC_BM4",
+            "MTA NYCT_M23+",
+            "MTA NYCT_SIM3",
+            "MTA NYCT_SIM6",
+            "MTA NYCT_SIM10",
+            "MTA NYCT_SIM11",
+            "MTA NYCT_SIM31"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404834",
+        "direction": "SE",
+        "id": "MTA_404834",
+        "lat": 40.748632,
+        "locationType": 0,
+        "lon": -74.006633,
+        "name": "W 23 ST/11 AV",
+        "routeIds": [
+            "MTA NYCT_M23+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404926",
+        "direction": "W",
+        "id": "MTA_404926",
+        "lat": 40.749997,
+        "locationType": 0,
+        "lon": -74.007489,
+        "name": "W 24 St/11 AV",
+        "routeIds": [
+            "MTA NYCT_M12",
+            "MTA NYCT_M23+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404927",
+        "direction": "E",
+        "id": "MTA_404927",
+        "lat": 40.749969,
+        "locationType": 0,
+        "lon": -74.007803,
+        "name": "W 24 ST/12 AV",
+        "routeIds": [
+            "MTA NYCT_M23+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405231",
+        "direction": "NW",
+        "id": "MTA_405231",
+        "lat": 40.741351,
+        "locationType": 0,
+        "lon": -73.989013,
+        "name": "E 23 ST/BROADWAY",
+        "routeIds": [
+            "MTA NYCT_M23+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903002",
+        "direction": "S",
+        "id": "MTA_903002",
+        "lat": 40.733004,
+        "locationType": 0,
+        "lon": -73.974597,
+        "name": "AVENUE C/E 20 ST",
+        "routeIds": [
+            "MTA NYCT_M23+"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

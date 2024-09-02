@@ -1,0 +1,423 @@
+[
+    {
+        "code": "402160",
+        "direction": "NE",
+        "id": "MTA_402160",
+        "lat": 40.762552,
+        "locationType": 0,
+        "lon": -74.000157,
+        "name": "12 AV/W 43 ST",
+        "routeIds": [
+            "MTA NYCT_M12",
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402161",
+        "direction": "NE",
+        "id": "MTA_402161",
+        "lat": 40.764287,
+        "locationType": 0,
+        "lon": -73.998337,
+        "name": "12 AV/W 46 ST",
+        "routeIds": [
+            "MTA NYCT_M12",
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402162",
+        "direction": "NE",
+        "id": "MTA_402162",
+        "lat": 40.765583,
+        "locationType": 0,
+        "lon": -73.997431,
+        "name": "12 AV/W 48 ST",
+        "routeIds": [
+            "MTA NYCT_M12",
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402163",
+        "direction": "E",
+        "id": "MTA_402163",
+        "lat": 40.766621,
+        "locationType": 0,
+        "lon": -73.996653,
+        "name": "W 50 ST/12 AV",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402164",
+        "direction": "SE",
+        "id": "MTA_402164",
+        "lat": 40.765735,
+        "locationType": 0,
+        "lon": -73.994534,
+        "name": "W 50 ST/11 AV",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402165",
+        "direction": "SE",
+        "id": "MTA_402165",
+        "lat": 40.764502,
+        "locationType": 0,
+        "lon": -73.991704,
+        "name": "W 50 ST/10 AV",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402166",
+        "direction": "SE",
+        "id": "MTA_402166",
+        "lat": 40.763468,
+        "locationType": 0,
+        "lon": -73.989101,
+        "name": "W 50 ST/9 AV",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402167",
+        "direction": "SE",
+        "id": "MTA_402167",
+        "lat": 40.762023,
+        "locationType": 0,
+        "lon": -73.985792,
+        "name": "W 50 ST/8 AV",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402169",
+        "direction": "SE",
+        "id": "MTA_402169",
+        "lat": 40.759675,
+        "locationType": 0,
+        "lon": -73.980215,
+        "name": "W 50 ST/AVENUE OF THE AMERICAS",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402171",
+        "direction": "SE",
+        "id": "MTA_402171",
+        "lat": 40.758431,
+        "locationType": 0,
+        "lon": -73.977104,
+        "name": "E 50 ST/5 AV",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402172",
+        "direction": "SE",
+        "id": "MTA_402172",
+        "lat": 40.757723,
+        "locationType": 0,
+        "lon": -73.975397,
+        "name": "E 50 ST/MADISON AV",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402173",
+        "direction": "SE",
+        "id": "MTA_402173",
+        "lat": 40.756243,
+        "locationType": 0,
+        "lon": -73.972135,
+        "name": "E 50 ST/LEXINGTON AV",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402174",
+        "direction": "SE",
+        "id": "MTA_402174",
+        "lat": 40.755545,
+        "locationType": 0,
+        "lon": -73.970482,
+        "name": "E 50 ST/3 AV",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402175",
+        "direction": "SE",
+        "id": "MTA_402175",
+        "lat": 40.754881,
+        "locationType": 0,
+        "lon": -73.9688,
+        "name": "E 50 ST/2 AV",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402183",
+        "direction": "NW",
+        "id": "MTA_402183",
+        "lat": 40.753508,
+        "locationType": 0,
+        "lon": -73.966967,
+        "name": "E 49 ST/1 AV",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402185",
+        "direction": "NW",
+        "id": "MTA_402185",
+        "lat": 40.755381,
+        "locationType": 0,
+        "lon": -73.971417,
+        "name": "E 49 ST/3 AV",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402186",
+        "direction": "NW",
+        "id": "MTA_402186",
+        "lat": 40.756139,
+        "locationType": 0,
+        "lon": -73.97308,
+        "name": "E 49 ST/LEXINGTON AV",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402188",
+        "direction": "NW",
+        "id": "MTA_402188",
+        "lat": 40.75744,
+        "locationType": 0,
+        "lon": -73.976217,
+        "name": "E 49 ST/MADISON AV",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402189",
+        "direction": "W",
+        "id": "MTA_402189",
+        "lat": 40.758113,
+        "locationType": 0,
+        "lon": -73.978021,
+        "name": "W 49 ST/5 AV",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402191",
+        "direction": "W",
+        "id": "MTA_402191",
+        "lat": 40.759503,
+        "locationType": 0,
+        "lon": -73.981121,
+        "name": "W 49 ST/AVENUE OF THE AMERICAS",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402194",
+        "direction": "NW",
+        "id": "MTA_402194",
+        "lat": 40.763033,
+        "locationType": 0,
+        "lon": -73.989557,
+        "name": "W 49 ST/9 AV",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "402195",
+        "direction": "NW",
+        "id": "MTA_402195",
+        "lat": 40.7641,
+        "locationType": 0,
+        "lon": -73.991985,
+        "name": "W 49 ST/10 AV",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403760",
+        "direction": "E",
+        "id": "MTA_403760",
+        "lat": 40.761062,
+        "locationType": 0,
+        "lon": -73.983503,
+        "name": "W 50 ST/7 AV",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403954",
+        "direction": "NW",
+        "id": "MTA_403954",
+        "lat": 40.765477,
+        "locationType": 0,
+        "lon": -73.995473,
+        "name": "W 49 ST/11 AV",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403955",
+        "direction": "W",
+        "id": "MTA_403955",
+        "lat": 40.766193,
+        "locationType": 0,
+        "lon": -73.997183,
+        "name": "W 49 ST/12 AV",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "403956",
+        "direction": "SW",
+        "id": "MTA_403956",
+        "lat": 40.76446,
+        "locationType": 0,
+        "lon": -73.998687,
+        "name": "12 AV/W 46 ST",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404035",
+        "direction": "NW",
+        "id": "MTA_404035",
+        "lat": 40.760705,
+        "locationType": 0,
+        "lon": -73.98407,
+        "name": "W 49 ST/7 AV",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "404948",
+        "direction": "NW",
+        "id": "MTA_404948",
+        "lat": 40.761998,
+        "locationType": 0,
+        "lon": -73.987034,
+        "name": "W 49 ST/8 AV",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "405193",
+        "direction": "NW",
+        "id": "MTA_405193",
+        "lat": 40.75449,
+        "locationType": 0,
+        "lon": -73.969364,
+        "name": "E 49 ST/2 Av",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803055",
+        "direction": "SE",
+        "id": "MTA_803055",
+        "lat": 40.762148,
+        "locationType": 0,
+        "lon": -74.00144,
+        "name": "12 AV/42 ST",
+        "routeIds": [
+            "MTA NYCT_M42",
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "803151",
+        "direction": "NW",
+        "id": "MTA_803151",
+        "lat": 40.753385,
+        "locationType": 0,
+        "lon": -73.966854,
+        "name": "49 ST/1 AV",
+        "routeIds": [
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903082",
+        "direction": "SW",
+        "id": "MTA_903082",
+        "lat": 40.762549,
+        "locationType": 0,
+        "lon": -74.000971,
+        "name": "12 AV/W 42 ST",
+        "routeIds": [
+            "MTA NYCT_M42",
+            "MTA NYCT_M50"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

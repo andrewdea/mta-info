@@ -1,0 +1,590 @@
+[
+    {
+        "code": "401840",
+        "direction": "NW",
+        "id": "MTA_401840",
+        "lat": 40.745998,
+        "locationType": 0,
+        "lon": -73.978634,
+        "name": "E 34 ST/3 AV",
+        "routeIds": [
+            "MTABC_BM5",
+            "MTA NYCT_M34A+",
+            "MTA NYCT_M34+",
+            "MTABC_QM1",
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM20",
+            "MTABC_QM24",
+            "MTA NYCT_X68"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401844",
+        "direction": "NW",
+        "id": "MTA_401844",
+        "lat": 40.748672,
+        "locationType": 0,
+        "lon": -73.98491,
+        "name": "W 34 ST/5 AV",
+        "routeIds": [
+            "MTABC_QM1",
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM15",
+            "MTABC_QM16",
+            "MTABC_QM17",
+            "MTABC_QM18",
+            "MTABC_QM20",
+            "MTABC_QM24",
+            "MTA NYCT_SIM23",
+            "MTA NYCT_SIM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450011",
+        "direction": "NE",
+        "id": "MTA_450011",
+        "lat": 40.751003,
+        "locationType": 0,
+        "lon": -73.98679,
+        "name": "6 AV/W 36 ST",
+        "routeIds": [
+            "MTABC_QM3",
+            "MTABC_QM4"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450014",
+        "direction": "NE",
+        "id": "MTA_450014",
+        "lat": 40.75459,
+        "locationType": 0,
+        "lon": -73.984193,
+        "name": "6 AV/W 41 ST",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450018",
+        "direction": "NE",
+        "id": "MTA_450018",
+        "lat": 40.756262,
+        "locationType": 0,
+        "lon": -73.982958,
+        "name": "6 AV/W 44 ST",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450020",
+        "direction": "NE",
+        "id": "MTA_450020",
+        "lat": 40.758791,
+        "locationType": 0,
+        "lon": -73.981116,
+        "name": "6 AV/W 48 ST",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450024",
+        "direction": "NE",
+        "id": "MTA_450024",
+        "lat": 40.763175,
+        "locationType": 0,
+        "lon": -73.977918,
+        "name": "6 AV/W 55 ST",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450030",
+        "direction": "SE",
+        "id": "MTA_450030",
+        "lat": 40.760391,
+        "locationType": 0,
+        "lon": -73.968015,
+        "name": "E 57 ST/ 3 AV",
+        "routeIds": [
+            "MTABC_QM4",
+            "MTABC_QM15",
+            "MTABC_QM16",
+            "MTABC_QM17",
+            "MTABC_QM18",
+            "MTABC_QM21"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450033",
+        "direction": "SE",
+        "id": "MTA_450033",
+        "lat": 40.762333,
+        "locationType": 0,
+        "lon": -73.972631,
+        "name": "E 57 ST/MADISON AV",
+        "routeIds": [
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM20"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "450552",
+        "direction": "NW",
+        "id": "MTA_450552",
+        "lat": 40.747533,
+        "locationType": 0,
+        "lon": -73.982055,
+        "name": "E 34 ST/PARK AV",
+        "routeIds": [
+            "MTABC_BM5",
+            "MTABC_QM1",
+            "MTABC_QM2",
+            "MTABC_QM3",
+            "MTABC_QM4",
+            "MTABC_QM5",
+            "MTABC_QM6",
+            "MTABC_QM10",
+            "MTABC_QM12",
+            "MTABC_QM20",
+            "MTABC_QM24"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551729",
+        "direction": "N",
+        "id": "MTA_551729",
+        "lat": 40.732032,
+        "locationType": 0,
+        "lon": -73.804914,
+        "name": "164 ST/JEWEL AV",
+        "routeIds": [
+            "MTABC_Q65",
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551732",
+        "direction": "S",
+        "id": "MTA_551732",
+        "lat": 40.732993,
+        "locationType": 0,
+        "lon": -73.805199,
+        "name": "164 ST/69 AV",
+        "routeIds": [
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551733",
+        "direction": "N",
+        "id": "MTA_551733",
+        "lat": 40.73513,
+        "locationType": 0,
+        "lon": -73.80469,
+        "name": "164 ST/67 AV",
+        "routeIds": [
+            "MTABC_Q65",
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551738",
+        "direction": "S",
+        "id": "MTA_551738",
+        "lat": 40.73798,
+        "locationType": 0,
+        "lon": -73.804828,
+        "name": "164 ST/HORACE HARDING EXPWY",
+        "routeIds": [
+            "MTABC_Q65",
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551811",
+        "direction": "E",
+        "id": "MTA_551811",
+        "lat": 40.723647,
+        "locationType": 0,
+        "lon": -73.844536,
+        "name": "JEWEL AV/108 ST",
+        "routeIds": [
+            "MTABC_Q64",
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551812",
+        "direction": "E",
+        "id": "MTA_551812",
+        "lat": 40.724329,
+        "locationType": 0,
+        "lon": -73.84231,
+        "name": "JEWEL AV/110 ST",
+        "routeIds": [
+            "MTABC_Q64",
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551813",
+        "direction": "E",
+        "id": "MTA_551813",
+        "lat": 40.724981,
+        "locationType": 0,
+        "lon": -73.840084,
+        "name": "JEWEL AV/112 ST",
+        "routeIds": [
+            "MTABC_Q64",
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551816",
+        "direction": "E",
+        "id": "MTA_551816",
+        "lat": 40.727921,
+        "locationType": 0,
+        "lon": -73.831391,
+        "name": "JEWEL AV/PARK DR EAST",
+        "routeIds": [
+            "MTABC_Q64",
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551818",
+        "direction": "E",
+        "id": "MTA_551818",
+        "lat": 40.728307,
+        "locationType": 0,
+        "lon": -73.829157,
+        "name": "JEWEL AV/136 ST",
+        "routeIds": [
+            "MTABC_Q64",
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551819",
+        "direction": "W",
+        "id": "MTA_551819",
+        "lat": 40.728303,
+        "locationType": 0,
+        "lon": -73.829651,
+        "name": "JEWEL AV/136 ST",
+        "routeIds": [
+            "MTABC_Q64",
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551820",
+        "direction": "E",
+        "id": "MTA_551820",
+        "lat": 40.728884,
+        "locationType": 0,
+        "lon": -73.827289,
+        "name": "JEWEL AV/138 ST",
+        "routeIds": [
+            "MTABC_Q64",
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551821",
+        "direction": "W",
+        "id": "MTA_551821",
+        "lat": 40.728893,
+        "locationType": 0,
+        "lon": -73.827823,
+        "name": "JEWEL AV/138 ST",
+        "routeIds": [
+            "MTABC_Q64",
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551824",
+        "direction": "E",
+        "id": "MTA_551824",
+        "lat": 40.730057,
+        "locationType": 0,
+        "lon": -73.823129,
+        "name": "JEWEL AV/MAIN ST",
+        "routeIds": [
+            "MTABC_Q64",
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551825",
+        "direction": "W",
+        "id": "MTA_551825",
+        "lat": 40.730024,
+        "locationType": 0,
+        "lon": -73.823774,
+        "name": "JEWEL AV/MAIN ST",
+        "routeIds": [
+            "MTABC_Q64",
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551828",
+        "direction": "E",
+        "id": "MTA_551828",
+        "lat": 40.73128,
+        "locationType": 0,
+        "lon": -73.819018,
+        "name": "JEWEL AV/150 ST",
+        "routeIds": [
+            "MTABC_Q64",
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551829",
+        "direction": "W",
+        "id": "MTA_551829",
+        "lat": 40.731391,
+        "locationType": 0,
+        "lon": -73.819207,
+        "name": "JEWEL AV/150 ST",
+        "routeIds": [
+            "MTABC_Q64",
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551832",
+        "direction": "E",
+        "id": "MTA_551832",
+        "lat": 40.731934,
+        "locationType": 0,
+        "lon": -73.814648,
+        "name": "JEWEL AV/KISSENA BLVD",
+        "routeIds": [
+            "MTABC_Q64",
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551834",
+        "direction": "W",
+        "id": "MTA_551834",
+        "lat": 40.732135,
+        "locationType": 0,
+        "lon": -73.815248,
+        "name": "JEWEL AV/KISSENA BLVD",
+        "routeIds": [
+            "MTABC_Q64",
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551841",
+        "direction": "W",
+        "id": "MTA_551841",
+        "lat": 40.732107,
+        "locationType": 0,
+        "lon": -73.808141,
+        "name": "JEWEL AV/161 ST",
+        "routeIds": [
+            "MTABC_Q64",
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551843",
+        "direction": "W",
+        "id": "MTA_551843",
+        "lat": 40.732469,
+        "locationType": 0,
+        "lon": -73.811062,
+        "name": "JEWEL AV/PARSONS BLVD",
+        "routeIds": [
+            "MTABC_Q64",
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551845",
+        "direction": "E",
+        "id": "MTA_551845",
+        "lat": 40.732227,
+        "locationType": 0,
+        "lon": -73.810503,
+        "name": "JEWEL AV/PARSONS BLVD",
+        "routeIds": [
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551847",
+        "direction": "W",
+        "id": "MTA_551847",
+        "lat": 40.725655,
+        "locationType": 0,
+        "lon": -73.840949,
+        "name": "69 RD/112 ST",
+        "routeIds": [
+            "MTABC_Q64",
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "551848",
+        "direction": "W",
+        "id": "MTA_551848",
+        "lat": 40.725008,
+        "locationType": 0,
+        "lon": -73.84317,
+        "name": "69 RD/110 ST",
+        "routeIds": [
+            "MTABC_Q64",
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552678",
+        "direction": "W",
+        "id": "MTA_552678",
+        "lat": 40.724338,
+        "locationType": 0,
+        "lon": -73.845425,
+        "name": "69 RD/108 ST",
+        "routeIds": [
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552679",
+        "direction": "W",
+        "id": "MTA_552679",
+        "lat": 40.723573,
+        "locationType": 0,
+        "lon": -73.84798,
+        "name": "69 RD/QUEENS BLVD",
+        "routeIds": [
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "552821",
+        "direction": "E",
+        "id": "MTA_552821",
+        "lat": 40.723039,
+        "locationType": 0,
+        "lon": -73.846708,
+        "name": "JEWEL AV/QUEENS BLVD",
+        "routeIds": [
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "553148",
+        "direction": "N",
+        "id": "MTA_553148",
+        "lat": 40.73805,
+        "locationType": 0,
+        "lon": -73.804494,
+        "name": "164 ST/HORACE HARDING EXPWY",
+        "routeIds": [
+            "MTABC_QM4",
+            "MTABC_QM44"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

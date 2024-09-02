@@ -1,0 +1,810 @@
+[
+    {
+        "code": "301309",
+        "direction": "E",
+        "id": "MTA_301309",
+        "lat": 40.655129,
+        "locationType": 0,
+        "lon": -73.961122,
+        "name": "PARKSIDE AV/OCEAN AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301310",
+        "direction": "E",
+        "id": "MTA_301310",
+        "lat": 40.655518,
+        "locationType": 0,
+        "lon": -73.960028,
+        "name": "PARKSIDE AV/FLATBUSH AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301311",
+        "direction": "E",
+        "id": "MTA_301311",
+        "lat": 40.655815,
+        "locationType": 0,
+        "lon": -73.956542,
+        "name": "PARKSIDE AV/BEDFORD AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301312",
+        "direction": "E",
+        "id": "MTA_301312",
+        "lat": 40.655014,
+        "locationType": 0,
+        "lon": -73.955872,
+        "name": "CLARKSON AV/BEDFORD AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301313",
+        "direction": "E",
+        "id": "MTA_301313",
+        "lat": 40.655183,
+        "locationType": 0,
+        "lon": -73.953068,
+        "name": "CLARKSON AV/ROGERS AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301314",
+        "direction": "E",
+        "id": "MTA_301314",
+        "lat": 40.655391,
+        "locationType": 0,
+        "lon": -73.949267,
+        "name": "CLARKSON AV/NOSTRAND AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301315",
+        "direction": "E",
+        "id": "MTA_301315",
+        "lat": 40.655537,
+        "locationType": 0,
+        "lon": -73.94675,
+        "name": "CLARKSON AV/NEW YORK AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301316",
+        "direction": "E",
+        "id": "MTA_301316",
+        "lat": 40.655687,
+        "locationType": 0,
+        "lon": -73.944335,
+        "name": "CLARKSON AV/KINGS COUNTY HOSPITAL",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301317",
+        "direction": "E",
+        "id": "MTA_301317",
+        "lat": 40.655828,
+        "locationType": 0,
+        "lon": -73.942022,
+        "name": "CLARKSON AV/E 38 ST",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301318",
+        "direction": "N",
+        "id": "MTA_301318",
+        "lat": 40.656401,
+        "locationType": 0,
+        "lon": -73.939505,
+        "name": "ALBANY AV/CLARKSON AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301319",
+        "direction": "N",
+        "id": "MTA_301319",
+        "lat": 40.657693,
+        "locationType": 0,
+        "lon": -73.939559,
+        "name": "ALBANY AV/WINTHROP ST",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301320",
+        "direction": "N",
+        "id": "MTA_301320",
+        "lat": 40.658811,
+        "locationType": 0,
+        "lon": -73.939518,
+        "name": "ALBANY AV/HAWTHORNE ST",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301322",
+        "direction": "N",
+        "id": "MTA_301322",
+        "lat": 40.661748,
+        "locationType": 0,
+        "lon": -73.939829,
+        "name": "ALBANY AV/MAPLE ST",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301323",
+        "direction": "E",
+        "id": "MTA_301323",
+        "lat": 40.662266,
+        "locationType": 0,
+        "lon": -73.938343,
+        "name": "EAST NEW YORK AV/ALBANY AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301326",
+        "direction": "E",
+        "id": "MTA_301326",
+        "lat": 40.663282,
+        "locationType": 0,
+        "lon": -73.934705,
+        "name": "LEFFERTS AV/SCHENECTADY AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301328",
+        "direction": "NE",
+        "id": "MTA_301328",
+        "lat": 40.664058,
+        "locationType": 0,
+        "lon": -73.929518,
+        "name": "EAST NEW YORK AV/E 92 ST",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301329",
+        "direction": "NE",
+        "id": "MTA_301329",
+        "lat": 40.664727,
+        "locationType": 0,
+        "lon": -73.927841,
+        "name": "EAST NEW YORK AV/E 94 ST",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301330",
+        "direction": "NE",
+        "id": "MTA_301330",
+        "lat": 40.665612,
+        "locationType": 0,
+        "lon": -73.925955,
+        "name": "EAST NEW YORK AV/E 96 ST",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301332",
+        "direction": "NE",
+        "id": "MTA_301332",
+        "lat": 40.666947,
+        "locationType": 0,
+        "lon": -73.922893,
+        "name": "EAST NEW YORK AV/RALPH AV",
+        "routeIds": [
+            "MTA NYCT_B12",
+            "MTA NYCT_B47"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301333",
+        "direction": "NE",
+        "id": "MTA_301333",
+        "lat": 40.667597,
+        "locationType": 0,
+        "lon": -73.92141,
+        "name": "EAST NEW YORK AV/UNION ST",
+        "routeIds": [
+            "MTA NYCT_B12",
+            "MTA NYCT_B14"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301342",
+        "direction": "NE",
+        "id": "MTA_301342",
+        "lat": 40.674503,
+        "locationType": 0,
+        "lon": -73.905634,
+        "name": "EAST NEW YORK AV/SACKMAN ST",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301343",
+        "direction": "NE",
+        "id": "MTA_301343",
+        "lat": 40.67504,
+        "locationType": 0,
+        "lon": -73.904496,
+        "name": "EAST NEW YORK AV/JUNIUS ST",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301386",
+        "direction": "W",
+        "id": "MTA_301386",
+        "lat": 40.67527,
+        "locationType": 0,
+        "lon": -73.905186,
+        "name": "PACIFIC ST/EAST NEW YORK AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301395",
+        "direction": "SW",
+        "id": "MTA_301395",
+        "lat": 40.6655,
+        "locationType": 0,
+        "lon": -73.926604,
+        "name": "EAST NEW YORK AV/E 96 ST",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301397",
+        "direction": "SW",
+        "id": "MTA_301397",
+        "lat": 40.665092,
+        "locationType": 0,
+        "lon": -73.927538,
+        "name": "EAST NEW YORK AV/E 95 ST",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301398",
+        "direction": "SW",
+        "id": "MTA_301398",
+        "lat": 40.664111,
+        "locationType": 0,
+        "lon": -73.929791,
+        "name": "EAST NEW YORK AV/MONTGOMERY ST",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301400",
+        "direction": "S",
+        "id": "MTA_301400",
+        "lat": 40.662996,
+        "locationType": 0,
+        "lon": -73.934597,
+        "name": "SCHENECTADY AV/LEFFERTS AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301402",
+        "direction": "W",
+        "id": "MTA_301402",
+        "lat": 40.662433,
+        "locationType": 0,
+        "lon": -73.937773,
+        "name": "EAST NEW YORK AV/TROY AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301403",
+        "direction": "S",
+        "id": "MTA_301403",
+        "lat": 40.661789,
+        "locationType": 0,
+        "lon": -73.940005,
+        "name": "ALBANY AV/EAST NEW YORK AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301404",
+        "direction": "S",
+        "id": "MTA_301404",
+        "lat": 40.660488,
+        "locationType": 0,
+        "lon": -73.939869,
+        "name": "ALBANY AV/MIDWOOD ST",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301405",
+        "direction": "S",
+        "id": "MTA_301405",
+        "lat": 40.659453,
+        "locationType": 0,
+        "lon": -73.939751,
+        "name": "ALBANY AV/FENIMORE ST",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301406",
+        "direction": "S",
+        "id": "MTA_301406",
+        "lat": 40.657062,
+        "locationType": 0,
+        "lon": -73.939817,
+        "name": "ALBANY AV/WINTHROP ST",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301407",
+        "direction": "W",
+        "id": "MTA_301407",
+        "lat": 40.65611,
+        "locationType": 0,
+        "lon": -73.940053,
+        "name": "CLARKSON AV/ALBANY AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301408",
+        "direction": "W",
+        "id": "MTA_301408",
+        "lat": 40.655993,
+        "locationType": 0,
+        "lon": -73.941877,
+        "name": "CLARKSON AV/E 39 ST",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301409",
+        "direction": "W",
+        "id": "MTA_301409",
+        "lat": 40.655672,
+        "locationType": 0,
+        "lon": -73.947017,
+        "name": "CLARKSON AV/NEW YORK AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301410",
+        "direction": "W",
+        "id": "MTA_301410",
+        "lat": 40.655431,
+        "locationType": 0,
+        "lon": -73.950929,
+        "name": "CLARKSON AV/NOSTRAND AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301411",
+        "direction": "W",
+        "id": "MTA_301411",
+        "lat": 40.655312,
+        "locationType": 0,
+        "lon": -73.952834,
+        "name": "CLARKSON AV/ROGERS AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301412",
+        "direction": "W",
+        "id": "MTA_301412",
+        "lat": 40.655064,
+        "locationType": 0,
+        "lon": -73.956856,
+        "name": "CLARKSON AV/BEDFORD AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301413",
+        "direction": "W",
+        "id": "MTA_301413",
+        "lat": 40.654903,
+        "locationType": 0,
+        "lon": -73.95957,
+        "name": "CLARKSON AV/FLATBUSH AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301414",
+        "direction": "W",
+        "id": "MTA_301414",
+        "lat": 40.654176,
+        "locationType": 0,
+        "lon": -73.961621,
+        "name": "WOODRUFF AV/OCEAN AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301521",
+        "direction": "E",
+        "id": "MTA_301521",
+        "lat": 40.668716,
+        "locationType": 0,
+        "lon": -73.916831,
+        "name": "PITKIN AV/SARATOGA AV",
+        "routeIds": [
+            "MTA NYCT_B7",
+            "MTA NYCT_B12",
+            "MTA NYCT_B14"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301522",
+        "direction": "E",
+        "id": "MTA_301522",
+        "lat": 40.668984,
+        "locationType": 0,
+        "lon": -73.915036,
+        "name": "PITKIN AV/HERZL ST",
+        "routeIds": [
+            "MTA NYCT_B12",
+            "MTA NYCT_B14"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301591",
+        "direction": "W",
+        "id": "MTA_301591",
+        "lat": 40.669678,
+        "locationType": 0,
+        "lon": -73.911206,
+        "name": "PITKIN AV/ROCKAWAY AV",
+        "routeIds": [
+            "MTA NYCT_B12",
+            "MTA NYCT_B14"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301593",
+        "direction": "W",
+        "id": "MTA_301593",
+        "lat": 40.669124,
+        "locationType": 0,
+        "lon": -73.91492,
+        "name": "PITKIN AV/AMBOY ST",
+        "routeIds": [
+            "MTA NYCT_B12",
+            "MTA NYCT_B14"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301594",
+        "direction": "W",
+        "id": "MTA_301594",
+        "lat": 40.66885,
+        "locationType": 0,
+        "lon": -73.916762,
+        "name": "PITKIN AV/STRAUSS ST",
+        "routeIds": [
+            "MTA NYCT_B12",
+            "MTA NYCT_B14"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "301756",
+        "direction": "N",
+        "id": "MTA_301756",
+        "lat": 40.662806,
+        "locationType": 0,
+        "lon": -73.937304,
+        "name": "TROY AV/EAST NEW YORK AV",
+        "routeIds": [
+            "MTA NYCT_B12",
+            "MTA NYCT_B17"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "305064",
+        "direction": "S",
+        "id": "MTA_305064",
+        "lat": 40.67226,
+        "locationType": 0,
+        "lon": -73.911359,
+        "name": "ROCKAWAY AV/PROSPECT PL",
+        "routeIds": [
+            "MTA NYCT_B12",
+            "MTA NYCT_B60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306348",
+        "direction": "SW",
+        "id": "MTA_306348",
+        "lat": 40.666989,
+        "locationType": 0,
+        "lon": -73.923112,
+        "name": "EAST NEW YORK AV/RALPH AV",
+        "routeIds": [
+            "MTA NYCT_B12",
+            "MTA NYCT_B47"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306349",
+        "direction": "W",
+        "id": "MTA_306349",
+        "lat": 40.655835,
+        "locationType": 0,
+        "lon": -73.944443,
+        "name": "CLARKSON AV/KINGS COUNTY HOSPITAL",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306438",
+        "direction": "W",
+        "id": "MTA_306438",
+        "lat": 40.663602,
+        "locationType": 0,
+        "lon": -73.93216,
+        "name": "EMPIRE BLVD/UTICA AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306477",
+        "direction": "E",
+        "id": "MTA_306477",
+        "lat": 40.663516,
+        "locationType": 0,
+        "lon": -73.93152,
+        "name": "EMPIRE BLVD/UTICA AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "306728",
+        "direction": "N",
+        "id": "MTA_306728",
+        "lat": 40.670002,
+        "locationType": 0,
+        "lon": -73.910745,
+        "name": "ROCKAWAY AV/PITKIN AV",
+        "routeIds": [
+            "MTA NYCT_B12",
+            "MTA NYCT_B60"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307122",
+        "direction": "E",
+        "id": "MTA_307122",
+        "lat": 40.669262,
+        "locationType": 0,
+        "lon": -73.913114,
+        "name": "PITKIN AV/THOMAS S BOYLAND ST",
+        "routeIds": [
+            "MTA NYCT_B12",
+            "MTA NYCT_B14"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307308",
+        "direction": "NE",
+        "id": "MTA_307308",
+        "lat": 40.666065,
+        "locationType": 0,
+        "lon": -73.924923,
+        "name": "EAST NEW YORK AV/ROCKAWAY PYWY",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307309",
+        "direction": "SW",
+        "id": "MTA_307309",
+        "lat": 40.666331,
+        "locationType": 0,
+        "lon": -73.92471,
+        "name": "EAST NEW YORK AV/PORTAL ST",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "307370",
+        "direction": "W",
+        "id": "MTA_307370",
+        "lat": 40.669408,
+        "locationType": 0,
+        "lon": -73.912998,
+        "name": "PITKIN AV/BRISTOL ST",
+        "routeIds": [
+            "MTA NYCT_B12",
+            "MTA NYCT_B14"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801161",
+        "direction": "E",
+        "id": "MTA_801161",
+        "lat": 40.676817,
+        "locationType": 0,
+        "lon": -73.899659,
+        "name": "FULTON ST/ALABAMA AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "801177",
+        "direction": "N",
+        "id": "MTA_801177",
+        "lat": 40.676746,
+        "locationType": 0,
+        "lon": -73.899944,
+        "name": "ALABAMA AV/FULTON ST",
+        "routeIds": [
+            "MTA NYCT_B12",
+            "MTA NYCT_B25"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901089",
+        "direction": "NE",
+        "id": "MTA_901089",
+        "lat": 40.654848,
+        "locationType": 0,
+        "lon": -73.961754,
+        "name": "PARKSIDE AV/OCEAN AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "901690",
+        "direction": "N",
+        "id": "MTA_901690",
+        "lat": 40.659972,
+        "locationType": 0,
+        "lon": -73.939673,
+        "name": "ALBANY AV/RUTLAND RD",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "930032",
+        "direction": "N",
+        "id": "MTA_930032",
+        "lat": 40.672357,
+        "locationType": 0,
+        "lon": -73.91122,
+        "name": "ROCKAWAY AV/EAST NEW YORK AV",
+        "routeIds": [
+            "MTA NYCT_B12"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]
