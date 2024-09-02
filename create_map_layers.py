@@ -10,12 +10,12 @@ from utils import (mta_api_key,
                          abc_ag,
                          data_dir,
                          temp_dir,
-                         routes_dir_root)
+                         stops_dir)
 # from combine_stops_to_json import remove_duplicates
 from analyze_stops import get_chunks
 from tqdm import tqdm
 
-route_dirs = [d for d in os.listdir(routes_dir_root)]
+route_dirs = [d for d in os.listdir(stops_dir)]
 
 csv_filename = os.path.join(data_dir, "stops.csv")
 
@@ -50,7 +50,7 @@ def adjust_stops(stops: list[dict]) -> list[dict]:
 
 def get_route_stops(route: dict) -> list[dict]:
     shortname = route["shortname"]
-    filename = os.path.join(routes_dir_root, f"{shortname}", "stops.json")
+    stops_filename = os.path.join(stops_dir, f"{shortname}.json")
     with open(filename, "r") as f:
         stops = json.load(f)
     return stops
@@ -96,7 +96,7 @@ def get_unique_stops_per_rid(rid: str) -> list[dict]:
 count_same = 0
 layers_dir = os.path.join(data_dir, "layers")
 if __name__ == "__main__":
-    chunks = get_chunks()
+    chunks = get_chunks(True)
     if not os.path.exists(layers_dir):
         os.makedirs(layers_dir)
     for i, c in enumerate(tqdm(chunks)):

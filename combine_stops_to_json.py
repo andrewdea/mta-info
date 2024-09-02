@@ -1,9 +1,9 @@
 import os
-from utils import routes_dir_root, data_dir
+from utils import stops_dir, data_dir
 import json
 from tqdm import tqdm
 
-route_dirs = [d for d in os.listdir(routes_dir_root)]
+route_dirs = [d for d in os.listdir(stops_dir)]
 raw_filename = os.path.join(data_dir, "all_stops_raw.csv")
 filtered_filename = os.path.join(data_dir, "all_stops_filtered.csv")
 
@@ -13,7 +13,7 @@ filtered_filename = os.path.join(data_dir, "all_stops_filtered.csv")
 def read_all_stops() -> list[dict]:
     all_stops = []
     for d in route_dirs:
-        stop_filename = os.path.join(routes_dir_root, d, "stops.json")
+        stop_filename = os.path.join(stops_dir, d, "stops.json")
         with open(stop_filename) as f:
             stops = json.load(f)
         all_stops.extend(stops)

@@ -134,8 +134,8 @@ def get_all_overlaps(overwrite: bool = False) -> list[dict]:
         return write_overlaps()
 
 processed_stops = []
-def get_unique_stops_per_rid(rid: str) -> list[dict]:
-    stops = get_stops_for_route(rid)
+def get_unique_stops_per_rid(rid: str, overwrite: bool = False) -> list[dict]:
+    stops = get_stops_for_route(rid, overwrite)
     filtered_stops = [s for s in stops if s not in processed_stops]
     processed_stops.extend(filtered_stops)
     return filtered_stops
@@ -146,7 +146,7 @@ def all_unique_stops_per_route(overwrite: bool = False) -> list[dict]:
         return utils.read_json(info_filename)
     all_info = []
     for r in tqdm(get_all_routes()):
-        stops = get_unique_stops_per_rid(r["id"])
+        stops = get_unique_stops_per_rid(r["id"], overwrite)
         # getting only the unique stops
         # stops = [s for s in stops if s not in processed_stops]
         # processed_stops.extend(stops)
@@ -231,6 +231,7 @@ def get_chunks(overwrite: bool = False) -> list:
     all_chunks.append(current_chunk)
     utils.write_json(chunks_filename, all_chunks)
     print(f"len(all_chunks) : {len(all_chunks)}")
+    return all_chunks
         
     
 if __name__ == "__main__":

@@ -12,8 +12,9 @@ def write_json(filename: str, contents: Union[list, dict], name: str = ""):
         f.write(json.dumps(contents, indent=4))
     
 data_dir = "data"
-routes_dir_root = os.path.join(data_dir, "routes")
-all_routes_filename = os.path.join(routes_dir_root, "all_routes.json")
+stops_dir = os.path.join(data_dir, "stops")
+routes_dir = os.path.join(data_dir, "routes")
+all_routes_filename = os.path.join(routes_dir, "all_routes.json")
 temp_dir = "temp"
 
 mta_api_key = os.getenv("MTA_API_KEY")

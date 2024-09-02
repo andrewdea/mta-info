@@ -30,14 +30,11 @@ def get_stops_for_route(r: Union[dict, str],
         route = r
     shortname = route["shortname"]
     rid = route["id"]
-    directory = os.path.join(utils.routes_dir_root, shortname)
-    stops_filename = os.path.join(directory, "stops.json")
+    stops_filename = os.path.join(utils.stops_dir, f"{shortname}.json")
 
     if os.path.exists(stops_filename) and not overwrite:
         return utils.read_json(stops_filename)
 
-    if not os.path.exists(directory):
-        os.makedirs(directory)
     format_id = urllib.parse.quote(rid, safe='')
     print(f"Getting stops for route: {format_id} from API")
     url = f"https://bustime.mta.info/api/where/stops-for-route/{format_id}.json"
@@ -55,13 +52,6 @@ def get_stops_for_route(r: Union[dict, str],
     stops = content["data"]["references"]["stops"]
     utils.write_json(stops_filename, stops)
     return stops
-
-# nyct_pattern = "MTA%20NYCT_"
-# abc_pattern = "MTABC_"
-# bus_name = "Q6"
-# route = f"{abc_pattern}{bus_name}"
-# stops = get_stops_for_route(route)
-# print(f"len(stops) : {len(stops)}")
 
 def get_all_routes_str() -> list[str]:
     url = "https://bt.mta.info/m/routes/"
@@ -113,7 +103,7 @@ def get_agency_routes(agency: str, overwrite: bool = False) -> list[dict]:
 
 def get_all_routes(overwrite: bool = False) -> list[dict]:
     all_routes = []
-    all_routes_filename = os.path.join(utils.routes_dir_root,
+    all_routes_filename = os.path.join(utils.routes_dir,
                                        "all_routes.json")
     if os.path.exists(all_routes_filename) and not overwrite:
         return utils.read_json(all_routes_filename)
@@ -128,11 +118,7 @@ def get_all_routes(overwrite: bool = False) -> list[dict]:
 def write_stops_for_route(route: dict):
     simple_form_route = route["shortname"]
     route_id = route["id"]
-    directory = os.path.join(utils.routes_dir_root, simple_form_route)
-    # print(f"\nroute : {route}")
-    # print(f"directory : {directory}")
-    # route = urllib.parse.quote(route, safe='')
-    # print(f"parsed route : {route}")
+    directory = os.path.join(utils.stops_dir, simple_form_route)
     if not os.path.exists(directory):
         os.makedirs(directory)
 
@@ -146,18 +132,6 @@ def write_stops_for_route(route: dict):
     with open(stops_filename, "w") as f:
         f.write(json.dumps(stops, indent=4))
     print(f"wrote stops for {route_id}")
-
-
-def write_stops_for_all():
-    # all_routes_str = get_all_routes_str()
-    all_routes = get_all_routes()
-    for r in all_routes:
-        try:
-            write_stops_for_route(r)
-        except Exception as e:
-            print(f"""Got an exception at route: {r}
-            e: {e}""")
-            print(traceback.format_exc())
 
 def get_all_stops(overwrite: bool = False):
     all_routes = get_all_routes(overwrite)
