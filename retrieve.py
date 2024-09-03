@@ -18,8 +18,7 @@ def get_route_from_id(rid: str) -> dict:
         raise Exception(f"Couldn't find this route-id in the database: {rid}")
     return route
 
-def get_stops_for_route(r: Union[dict, str],
-                        overwrite: bool = False) -> list[dict]:
+def get_stops_for_route(r: Union[dict, str]) -> list[dict]:
     """
     Given a route, return all of its stops.
     """
@@ -34,7 +33,7 @@ def get_stops_for_route(r: Union[dict, str],
     stops_filename = os.path.join(utils.stops_dir, f"{shortname}.json")
 
     # check if we need to query the API
-    if os.path.exists(stops_filename) and not overwrite:
+    if os.path.exists(stops_filename):
         routes = utils.read_json(stops_filename)
         assert isinstance(routes, list)
         return routes
@@ -56,15 +55,14 @@ def get_stops_for_route(r: Union[dict, str],
     utils.write_json(stops_filename, stops)
     return stops
 
-def get_agency_info(agency: str, overwrite: bool = False) -> BeautifulSoup:
+def get_agency_info(agency: str) -> BeautifulSoup:
     """
     Return all the info for the given agency.
 
-    If overwrite is True, or if we have no saved xml file for this agency,
-    we first query the API
+    If we have no saved xml file for this agency, we first query the API
     """
     agency_filename = os.path.join(utils.data_dir, f"agency_{agency}.xml")
-    if os.path.exists(agency_filename) and not overwrite:
+    if os.path.exists(agency_filename):
         with open(agency_filename, "r") as f:
             return BeautifulSoup(f.read())
 
@@ -80,11 +78,11 @@ def get_agency_info(agency: str, overwrite: bool = False) -> BeautifulSoup:
         f.write(pretty)
     return soup
 
-def get_agency_routes(agency: str, overwrite: bool = False) -> list[dict]:
+def get_agency_routes(agency: str) -> list[dict]:
     """
     Return all the routes for the given agency
     """
-    info = get_agency_info(agency, overwrite)
+    info = get_agency_info(agency)
     route_els = [r for r in info.find_all("route")]
     keys = ["shortname", "id", "longname", "description"]
     all_routes = []
@@ -95,29 +93,29 @@ def get_agency_routes(agency: str, overwrite: bool = False) -> list[dict]:
         all_routes.append(route)
     return all_routes
 
-def get_all_routes(overwrite: bool = False) -> list[dict]:
+def get_all_routes() -> list[dict]:
     """
     Return a list of dictionaries: each dict has the info for each route.
 
-    If overwrite is True, or if there is no saved all_routes.json file,
-    we first query the API for the info about all routes
+    If there is no saved all_routes.json file, we first query the API for the
+    info about all routes
     """
     all_routes = []
     all_routes_filename = os.path.join(utils.routes_dir,
                                        "all_routes.json")
-    if os.path.exists(all_routes_filename) and not overwrite:
+    if os.path.exists(all_routes_filename):
         routes = utils.read_json(all_routes_filename)
         assert isinstance(routes, list)
         return routes
 
     print(f"getting all routes, from the agency API")
     for ag in utils.agencies:
-        ag_routes = get_agency_routes(ag, overwrite)
+        ag_routes = get_agency_routes(ag)
         all_routes.extend(ag_routes)
     utils.write_json(all_routes_filename, all_routes)
     return all_routes
 
-def get_all_stops(overwrite: bool = False) -> list[dict]:
+def get_all_stops() -> list[dict]:
     """
     Retun a list of dictionaries with info for each stops.
 
@@ -125,11 +123,11 @@ def get_all_stops(overwrite: bool = False) -> list[dict]:
     and therefore there are going to be duplicate stops for any stops covered
     by multiple routes.
     """
-    all_routes = get_all_routes(overwrite)
+    all_routes = get_all_routes()
     all_stops = []
     for r in tqdm(all_routes):
         try:
-            stops = get_stops_for_route(r, overwrite)
+            stops = get_stops_for_route(r)
             all_stops.extend(stops)
         except Exception as e:
             print(f"""Got an exception at route: {r}
