@@ -164,17 +164,6 @@ def get_stops_for_rids_no_repeats(rids: list[str]) -> list[dict]:
         all_stops.extend(stops)
     return all_stops
 
-# if __name__ == "__main__":
-#     get_all_stops(overwrite=False)
-#     uniques = get_unique_stops()
-#     print(f"len(uniques) : {len(uniques)}")
-
-#     all_routes = get_all_routes()
-#     for r in all_routes:
-#         assert r["id"] is not None, f"weird: {r}"
-#     all_rids = [r["id"] for r in all_routes]
-#     no_repeats = get_stops_for_rids_no_repeats(all_rids)
-#     print(f"len(no_repeats) : {len(no_repeats)}")
-#     # assert len(no_repeats) == len(uniques)
-#     # TODO would be cool to check which is faster
-#     print("done")
+if __name__ == "__main__":
+    all_routes = get_all_routes()
+    print(f"len(all_routes) : {len(all_routes)}")

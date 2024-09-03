@@ -10,6 +10,9 @@ def read_json(filename: str) -> Union[list, dict]:
 
 def write_json(filename: str, contents: Union[list, dict], name: str = ""):
     print(f"writing {name} to {filename}")
+    directory = os.path.dirname(filename)
+    if not os.path.exists(directory):
+        os.makedirs(directory)
     with open(filename, "w") as f:
         f.write(json.dumps(contents, indent=4))
 
