@@ -1,43 +1,35 @@
-from retrieve import (get_all_routes,
-                      get_stops_for_route,
-                      get_unique_stops)
+from retrieve import get_all_routes, get_stops_for_route
 import utils
 import os
-import json
-import re
 from tqdm import tqdm
 import statistics
 
 processed_stops = []
-def get_unique_stops_per_rid(rid: str, overwrite: bool = False) -> list[dict]:
-    stops = get_stops_for_route(rid, overwrite)
+
+
+def get_unique_stops_per_rid(rid: str) -> list[dict]:
+    stops = get_stops_for_route(rid)
     filtered_stops = [s for s in stops if s not in processed_stops]
     processed_stops.extend(filtered_stops)
     return filtered_stops
 
-def all_unique_stops_per_route(overwrite: bool = False) -> list[dict]:
-    # info_filename = os.path.join(utils.temp_dir, "info.json")
-    # if os.path.exists(info_filename) and not overwrite:
-    #     return utils.read_json(info_filename)
+
+def all_unique_stops_per_route() -> list[dict]:
     all_info = []
-    for r in tqdm(get_all_routes(overwrite)):
-        stops = get_unique_stops_per_rid(r["id"], overwrite)
-        # getting only the unique stops
-        # stops = [s for s in stops if s not in processed_stops]
-        # processed_stops.extend(stops)
+    for r in tqdm(get_all_routes()):
+        stops = get_unique_stops_per_rid(r["id"])
         total_stops = len(stops)
-        info = {"rid": r["id"],
-                "total unique stops": total_stops,
-                "stops": stops}
+        info = {"rid": r["id"], "total unique stops": total_stops, "stops": stops}
         all_info.append(info)
     all_totals = [i["total unique stops"] for i in all_info]
     mean = statistics.fmean(all_totals)
     median = statistics.median(all_totals)
     print(f"mean of total stops per route: {mean}")
     print(f"median of total stops per route: {median}")
-    
+
     # utils.write_json(info_filename, all_info)
     return all_info
+
 
 def select_top_bottom_middle(lst) -> list[dict]:
     """
@@ -50,17 +42,14 @@ def select_top_bottom_middle(lst) -> list[dict]:
     total = 0
     while len(lst) > 0:
         sublist = []
-        # Select and remove the top (first) item
         if len(lst) > 0:
             sublist.append(lst.pop(0))
-        # Select and remove the bottom (last) item
         if len(lst) > 0:
             sublist.append(lst.pop(-1))
-        # Select and remove the middle item
         if len(lst) > 0:
             middle_index = len(lst) // 2
             sublist.append(lst.pop(middle_index))
-        
+
         sublists.append(sublist)
 
         total = sum(r["total unique stops"] for r in sublist)
@@ -68,24 +57,23 @@ def select_top_bottom_middle(lst) -> list[dict]:
         stops = []
         for r in sublist:
             stops.extend(r["stops"])
-        res_dict = {"overall total": total,
-                "all routes": all_rids,
-                "stops": stops}
+        res_dict = {"overall total": total, "all routes": all_rids, "stops": stops}
         final_dicts.append(res_dict)
     return final_dicts
 
 
-
-def get_route_groups(overwrite: bool = False) -> list:
+def get_route_groups() -> list:
     """
     Group routes into groups such that no group has a total of more than
     2000 stops (this is because of a limit in how many elements Google Maps
     allows in a layer)
     """
     route_groups_filename = os.path.join(utils.data_dir, "route_groups.json")
-    if os.path.exists(route_groups_filename) and not overwrite:
-        return utils.read_json(route_groups_filename)
-    infos = all_unique_stops_per_route(overwrite)
+    if os.path.exists(route_groups_filename):
+        route_groups = utils.read_json(route_groups_filename)
+        assert isinstance(route_groups, list)
+        return route_groups
+    infos = all_unique_stops_per_route()
     print(f"len(processed_stops) : {len(processed_stops)}")
     sorted_routes = sorted(infos, key=lambda x: x["total unique stops"])
     print(f"sorted_routes[0] : {sorted_routes[0]}")
@@ -100,8 +88,9 @@ def get_route_groups(overwrite: bool = False) -> list:
         if current_chunk.get("total", 0) + sub_total > 2000:
             all_route_groups.append(current_chunk)
             current_chunk = {}
-        current_chunk["all routes"] = (current_chunk.get("all routes", [])
-                                       + d["all routes"])
+        current_chunk["all routes"] = (
+            current_chunk.get("all routes", []) + d["all routes"]
+        )
         current_chunk["total"] = current_chunk.get("total", 0) + sub_total
         try:
             current_chunk["stops"] = current_chunk.get("stops", []) + d["stops"]

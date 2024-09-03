@@ -19,6 +19,7 @@ keys = [
     # "locationType",
 ]
 
+
 def adjust_stops(stops: list[dict]) -> list[dict]:
     """
     Ensure the information in a stop is in the format we'd like to see
@@ -38,6 +39,7 @@ def adjust_stops(stops: list[dict]) -> list[dict]:
         s.pop("locationType")
     return stops
 
+
 if __name__ == "__main__":
     layers_dir = os.path.join(data_dir, "layers")
     route_groups = get_route_groups()
@@ -51,6 +53,3 @@ if __name__ == "__main__":
             dict_writer = csv.DictWriter(f, keys)
             dict_writer.writeheader()
             dict_writer.writerows(stops)
-        
-        
-            

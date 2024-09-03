@@ -1,0 +1,19 @@
+[project]
+name = "mta-info"
+dynamic = ["version"]
+dependencies = [
+  "requests",
+  "beautifulsoup4",
+  "tqdm",
+]
+requires-python = ">=3.12"
+authors = [
+  {name = "Andrew De Angelis", email = "bobodeangelis@gmail.com"},
+]
+description = "All of the bus-stop codes in one map"
+readme = "README.md"
+license = {text = "GNU General Public License v3.0"}
+
+[project.urls]
+Homepage = "https://www.google.com/maps/d/viewer?mid=1Y-euNeFcsu06Zxfdl6u6-sca3Yp-KYY"
+Repository = "https://github.com/andyjda/mta-info"

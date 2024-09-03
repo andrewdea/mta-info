@@ -9,3 +9,5 @@
 # python
 .venv
 __pycache__
+.python_version
+*.egg-info/

@@ -1,12 +1,11 @@
 import os
-import json
 from bs4 import BeautifulSoup
-import re
 import traceback
 import urllib.parse
 import utils
 from typing import Union
 from tqdm import tqdm
+
 
 def get_route_from_id(rid: str) -> dict:
     """
@@ -17,6 +16,7 @@ def get_route_from_id(rid: str) -> dict:
     if route is None:
         raise Exception(f"Couldn't find this route-id in the database: {rid}")
     return route
+
 
 def get_stops_for_route(r: Union[dict, str]) -> list[dict]:
     """
@@ -38,13 +38,10 @@ def get_stops_for_route(r: Union[dict, str]) -> list[dict]:
         assert isinstance(routes, list)
         return routes
 
-    format_id = urllib.parse.quote(rid, safe='')
+    format_id = urllib.parse.quote(rid, safe="")
     print(f"Getting stops for route: {format_id} from API")
     url = f"https://bustime.mta.info/api/where/stops-for-route/{format_id}.json"
-    params = {
-        "includePolylines": "false",
-        "version": "2"
-    }
+    params = {"includePolylines": "false", "version": "2"}
     resp = utils.query_api(url, params)
     if resp.status_code != 200:
         print(f"r.status_code : {resp.status_code}")
@@ -54,6 +51,7 @@ def get_stops_for_route(r: Union[dict, str]) -> list[dict]:
     stops = content["data"]["references"]["stops"]
     utils.write_json(stops_filename, stops)
     return stops
+
 
 def get_agency_info(agency: str) -> BeautifulSoup:
     """
@@ -66,7 +64,7 @@ def get_agency_info(agency: str) -> BeautifulSoup:
         with open(agency_filename, "r") as f:
             return BeautifulSoup(f.read())
 
-    print(f"getting agency info from API")
+    print("getting agency info from API")
     url = f"https://bustime.mta.info/api/where/routes-for-agency/{agency}.xml"
     r = utils.query_api(url)
     content = r.text
@@ -78,6 +76,7 @@ def get_agency_info(agency: str) -> BeautifulSoup:
         f.write(pretty)
     return soup
 
+
 def get_agency_routes(agency: str) -> list[dict]:
     """
     Return all the routes for the given agency
@@ -88,10 +87,12 @@ def get_agency_routes(agency: str) -> list[dict]:
     all_routes = []
     for el in route_els:
         tags = {k: el.find(k) for k in keys}
-        route = {k: v.text.strip() if v is not None else None
-                 for (k,v) in tags.items()}
+        route = {
+            k: v.text.strip() if v is not None else None for (k, v) in tags.items()
+        }
         all_routes.append(route)
     return all_routes
+
 
 def get_all_routes() -> list[dict]:
     """
@@ -101,19 +102,19 @@ def get_all_routes() -> list[dict]:
     info about all routes
     """
     all_routes = []
-    all_routes_filename = os.path.join(utils.routes_dir,
-                                       "all_routes.json")
+    all_routes_filename = os.path.join(utils.routes_dir, "all_routes.json")
     if os.path.exists(all_routes_filename):
         routes = utils.read_json(all_routes_filename)
         assert isinstance(routes, list)
         return routes
 
-    print(f"getting all routes, from the agency API")
+    print("getting all routes, from the agency API")
     for ag in utils.agencies:
         ag_routes = get_agency_routes(ag)
         all_routes.extend(ag_routes)
     utils.write_json(all_routes_filename, all_routes)
     return all_routes
+
 
 def get_all_stops() -> list[dict]:
     """
@@ -130,10 +131,13 @@ def get_all_stops() -> list[dict]:
             stops = get_stops_for_route(r)
             all_stops.extend(stops)
         except Exception as e:
-            print(f"""Got an exception at route: {r}
-            e: {e}""")
+            print(
+                f"""Got an exception at route: {r}
+            e: {e}"""
+            )
             print(traceback.format_exc())
     return all_stops
+
 
 def get_unique_stops():
     """
@@ -161,6 +165,7 @@ def get_stops_for_rids_no_repeats(rids: list[str]) -> list[dict]:
         processed_stops.extend(stops)
         all_stops.extend(stops)
     return all_stops
+
 
 if __name__ == "__main__":
     all_routes = get_all_routes()
