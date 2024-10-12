@@ -1,0 +1,118 @@
+[
+    {
+        "code": "101307",
+        "direction": "E",
+        "id": "MTA_101307",
+        "lat": 40.818377,
+        "locationType": 0,
+        "lon": -73.926861,
+        "name": "E 149 ST/GRAND CONCOURSE",
+        "routeIds": [
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX19",
+            "MTA NYCT_BX92"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "101377",
+        "direction": "W",
+        "id": "MTA_101377",
+        "lat": 40.818589,
+        "locationType": 0,
+        "lon": -73.927078,
+        "name": "E 149 ST/GRAND CONCOURSE",
+        "routeIds": [
+            "MTA NYCT_BX19",
+            "MTA NYCT_BX92"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "104233",
+        "direction": "W",
+        "id": "MTA_104233",
+        "lat": 40.81628,
+        "locationType": 0,
+        "lon": -73.918103,
+        "name": "E 149 ST/MELROSE AV",
+        "routeIds": [
+            "MTA NYCT_BX2",
+            "MTA NYCT_BX19",
+            "MTA NYCT_BX92"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "400088",
+        "direction": "SW",
+        "id": "MTA_400088",
+        "lat": 40.820359,
+        "locationType": 0,
+        "lon": -73.93646,
+        "name": "MALCOLM X BLVD/W 145 ST",
+        "routeIds": [
+            "MTA NYCT_BX92",
+            "MTA NYCT_M1",
+            "MTA NYCT_M7",
+            "MTA NYCT_M102"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401055",
+        "direction": "NE",
+        "id": "MTA_401055",
+        "lat": 40.813931,
+        "locationType": 0,
+        "lon": -73.940833,
+        "name": "LENOX AV/W 135 ST",
+        "routeIds": [
+            "MTA NYCT_BX92",
+            "MTA NYCT_M7",
+            "MTA NYCT_M102"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "401069",
+        "direction": "SW",
+        "id": "MTA_401069",
+        "lat": 40.813711,
+        "locationType": 0,
+        "lon": -73.94132,
+        "name": "MALCOLM X BLVD/W 135 ST",
+        "routeIds": [
+            "MTA NYCT_BX92",
+            "MTA NYCT_M7",
+            "MTA NYCT_M102"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "902243",
+        "direction": "SE",
+        "id": "MTA_902243",
+        "lat": 40.81597,
+        "locationType": 0,
+        "lon": -73.917524,
+        "name": "149 ST/3 AV",
+        "routeIds": [
+            "MTA NYCT_BX92"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    },
+    {
+        "code": "903260",
+        "direction": "NE",
+        "id": "MTA_903260",
+        "lat": 40.820331,
+        "locationType": 0,
+        "lon": -73.936156,
+        "name": "LENOX AV/W 145 ST",
+        "routeIds": [
+            "MTA NYCT_BX92"
+        ],
+        "wheelchairBoarding": "UNKNOWN"
+    }
+]

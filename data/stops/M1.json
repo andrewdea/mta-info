@@ -631,6 +631,7 @@
         "lon": -73.93646,
         "name": "MALCOLM X BLVD/W 145 ST",
         "routeIds": [
+            "MTA NYCT_BX92",
             "MTA NYCT_M1",
             "MTA NYCT_M7",
             "MTA NYCT_M102"

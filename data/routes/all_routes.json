@@ -1176,6 +1176,12 @@
         "description": "via Park and Ride / Church St"
     },
     {
+        "shortname": "BX92",
+        "id": "MTA NYCT_BX92",
+        "longname": "2 Shuttle Bus - 135 St and 3 Av-149 St",
+        "description": "via 145 St/149 St/3 Av"
+    },
+    {
         "shortname": "Bx90",
         "id": "MTA NYCT_BX90",
         "longname": "5 Shuttle Bus - East 180 St - Dyre Ave",

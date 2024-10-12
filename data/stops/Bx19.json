@@ -148,7 +148,8 @@
         "name": "E 149 ST/GRAND CONCOURSE",
         "routeIds": [
             "MTA NYCT_BX2",
-            "MTA NYCT_BX19"
+            "MTA NYCT_BX19",
+            "MTA NYCT_BX92"
         ],
         "wheelchairBoarding": "UNKNOWN"
     },
@@ -644,7 +645,8 @@
         "lon": -73.927078,
         "name": "E 149 ST/GRAND CONCOURSE",
         "routeIds": [
-            "MTA NYCT_BX19"
+            "MTA NYCT_BX19",
+            "MTA NYCT_BX92"
         ],
         "wheelchairBoarding": "UNKNOWN"
     },
@@ -789,7 +791,8 @@
         "name": "E 149 ST/MELROSE AV",
         "routeIds": [
             "MTA NYCT_BX2",
-            "MTA NYCT_BX19"
+            "MTA NYCT_BX19",
+            "MTA NYCT_BX92"
         ],
         "wheelchairBoarding": "UNKNOWN"
     },
