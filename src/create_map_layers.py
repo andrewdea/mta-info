@@ -42,9 +42,9 @@ def adjust_stops(stops: list[dict]) -> list[dict]:
 
 if __name__ == "__main__":
     layers_dir = os.path.join(data_dir, "layers")
-    route_groups = get_route_groups()
     if not os.path.exists(layers_dir):
         os.makedirs(layers_dir)
+    route_groups = get_route_groups()
     for i, c in enumerate(tqdm(route_groups)):
         assert c["total"] < 2000, f"issues at chunk index: {i}"
         stops = adjust_stops(c["stops"])

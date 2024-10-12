@@ -52,9 +52,16 @@ The algorithm, in [route_groups.py](./route_groups.py) is quite rudimentary but 
 ### building the map
 The map is built by importing all the CSV files created within `create_map_layers.py` into a Google [custom map](https://www.google.com/maps/about/mymaps/). I am not currently aware of a way to build custom Google Maps programmatically: as far as I know there is no API to create/edit custom maps.
 
+To update the map:
+ - delete all layers
+ - import each route group (CSV files)
+ - "Choose columns to position your placemarks": **Latitude,Longitude**
+ - "Choose a column to title your markers": **code**
+ - Style by -> group places by -> direction
+
 ### updating the data
 If you run `python src/create_map_layers.py` and you already have all the data, the code will simply process the existing files within `data/` and re-create the CSV files for the map laters (in `data/layers`). The information is about bus routes and stops: these aren't subject to frequent changes.  
-To run the full program and retrieve the latest data from the MTA, remove all files in `data/`, then run `python src/create_map_layers.py`. The data files are all part of git, so any updates will show up in your `git-diff`.
+To run the full program and retrieve the latest data from the MTA, remove the `data/` directory, then run `python src/create_map_layers.py`. The data files are all part of git, so any updates will show up in your `git-diff`.
  
 ### Things to improve
 See [TODO](./TODO.md).
