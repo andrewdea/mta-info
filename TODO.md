@@ -18,6 +18,9 @@ It may be possible to leverage the Google Maps API to help for some of this: use
 features:
  - open map: opens the Google Maps in a default browser
  - update data: confirms whether we want to delete all current data, then runs `create_map_layers.py`
+ - maybe a way for people to easily contact the maintainer when they notice updates in the data
+    - a git wrapper to open an issue, for example
+    - when git not found, print the email of the maintainer
  - anything else?
 
 ### better logs in CLI

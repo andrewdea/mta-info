@@ -11,6 +11,7 @@ logger.setLevel(logging.INFO)
 
 processed_stops = []
 
+
 def get_unique_stops_per_rid(rid: str) -> list[dict]:
     stops = get_stops_for_route(rid)
     filtered_stops = [s for s in stops if s not in processed_stops]
@@ -21,7 +22,9 @@ def get_unique_stops_per_rid(rid: str) -> list[dict]:
 def all_unique_stops_per_route() -> list[dict]:
     all_info = []
     logger.info("getting all unique stops per route")
-    for r in tqdm(get_all_routes()):
+    desc = "Processing unique stops per route"
+    bar_format = "{l_bar}🚊{bar}🏙️{n_fmt}/{total_fmt}"
+    for r in tqdm(get_all_routes(), desc=desc, bar_format=bar_format):
         stops = get_unique_stops_per_rid(r["id"])
         total_stops = len(stops)
         info = {"rid": r["id"], "total unique stops": total_stops, "stops": stops}
