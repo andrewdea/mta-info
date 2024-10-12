@@ -3,7 +3,11 @@ from typing import Union
 import os
 
 import requests
+import logging
 
+logging.basicConfig()
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
 
 def read_json(filename: str) -> Union[list, dict]:
     with open(filename, "r") as f:
@@ -11,7 +15,7 @@ def read_json(filename: str) -> Union[list, dict]:
 
 
 def write_json(filename: str, contents: Union[list, dict], name: str = ""):
-    print(f"writing {name} to {filename}")
+    logger.debug(f"writing {name} to {filename}")
     directory = os.path.dirname(filename)
     if not os.path.exists(directory):
         os.makedirs(directory)
@@ -32,11 +36,11 @@ def query_api(url: str, additional_params: dict = {}) -> requests.Response:
 
 
 src_dir = os.path.dirname(__file__)
-print(f"src_dir : {src_dir}")
+logger.debug(f"src_dir : {src_dir}")
 pkg_dir = os.path.normpath(os.path.join(src_dir, ".."))
-print(f"pkg_dir : {pkg_dir}")
+logger.debug(f"pkg_dir : {pkg_dir}")
 data_dir = os.path.join(pkg_dir, "data")
-print(f"data_dir : {data_dir}")
+logger.debug(f"data_dir : {data_dir}")
 stops_dir = os.path.join(data_dir, "stops")
 routes_dir = os.path.join(data_dir, "routes")
 all_routes_filename = os.path.join(routes_dir, "all_routes.json")

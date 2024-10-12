@@ -3,9 +3,13 @@ import utils
 import os
 from tqdm import tqdm
 import statistics
+import logging
+
+logging.basicConfig()
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
 
 processed_stops = []
-
 
 def get_unique_stops_per_rid(rid: str) -> list[dict]:
     stops = get_stops_for_route(rid)
@@ -16,6 +20,7 @@ def get_unique_stops_per_rid(rid: str) -> list[dict]:
 
 def all_unique_stops_per_route() -> list[dict]:
     all_info = []
+    logger.info("getting all unique stops per route")
     for r in tqdm(get_all_routes()):
         stops = get_unique_stops_per_rid(r["id"])
         total_stops = len(stops)
@@ -24,8 +29,8 @@ def all_unique_stops_per_route() -> list[dict]:
     all_totals = [i["total unique stops"] for i in all_info]
     mean = statistics.fmean(all_totals)
     median = statistics.median(all_totals)
-    print(f"mean of total stops per route: {mean}")
-    print(f"median of total stops per route: {median}")
+    logger.info(f"mean of total stops per route: {mean}")
+    logger.info(f"median of total stops per route: {median}")
 
     # utils.write_json(info_filename, all_info)
     return all_info
@@ -74,10 +79,10 @@ def get_route_groups() -> list:
         assert isinstance(route_groups, list)
         return route_groups
     infos = all_unique_stops_per_route()
-    print(f"len(processed_stops) : {len(processed_stops)}")
+    logger.info(f"len(processed_stops) : {len(processed_stops)}")
     sorted_routes = sorted(infos, key=lambda x: x["total unique stops"])
-    print(f"sorted_routes[0] : {sorted_routes[0]}")
-    print(f"sorted_routes[-1]['rid'] : {sorted_routes[-1]['rid']}")
+    logger.info(f"sorted_routes[0] : {sorted_routes[0]}")
+    logger.info(f"sorted_routes[-1]['rid'] : {sorted_routes[-1]['rid']}")
     subdicts = select_top_bottom_middle(sorted_routes)
     all_route_groups = []
     current_chunk = {"total": 0}
@@ -95,10 +100,10 @@ def get_route_groups() -> list:
         try:
             current_chunk["stops"] = current_chunk.get("stops", []) + d["stops"]
         except Exception as e:
-            print(f"e : {e}")
-            print(f"d : {d}")
+            logger.warn(f"e : {e}")
+            logger.warn(f"d : {d}")
             raise e
     all_route_groups.append(current_chunk)
     utils.write_json(route_groups_filename, all_route_groups)
-    print(f"len(all_route_groups) : {len(all_route_groups)}")
+    logger.info(f"len(all_route_groups) : {len(all_route_groups)}")
     return all_route_groups

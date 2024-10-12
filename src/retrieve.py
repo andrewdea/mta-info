@@ -6,6 +6,12 @@ import utils
 from typing import Union
 from tqdm import tqdm
 
+import logging
+
+logging.basicConfig()
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+
 
 def get_route_from_id(rid: str) -> dict:
     """
@@ -39,13 +45,13 @@ def get_stops_for_route(r: Union[dict, str]) -> list[dict]:
         return routes
 
     format_id = urllib.parse.quote(rid, safe="")
-    print(f"Getting stops for route: {format_id} from API")
+    logger.debug(f"Getting stops for route: {format_id} from API")
     url = f"https://bustime.mta.info/api/where/stops-for-route/{format_id}.json"
     params = {"includePolylines": "false", "version": "2"}
     resp = utils.query_api(url, params)
     if resp.status_code != 200:
-        print(f"r.status_code : {resp.status_code}")
-        print(f"r.content : {resp.content}")
+        logger.warn(f"r.status_code : {resp.status_code}")
+        logger.warn(f"r.content : {resp.content}")
         raise Exception()
     content = resp.json()
     stops = content["data"]["references"]["stops"]
@@ -64,7 +70,7 @@ def get_agency_info(agency: str) -> BeautifulSoup:
         with open(agency_filename, "r") as f:
             return BeautifulSoup(f.read())
 
-    print("getting agency info from API")
+    logger.debug("getting agency info from API")
     url = f"https://bustime.mta.info/api/where/routes-for-agency/{agency}.xml"
     r = utils.query_api(url)
     content = r.text
@@ -108,7 +114,7 @@ def get_all_routes() -> list[dict]:
         assert isinstance(routes, list)
         return routes
 
-    print("getting all routes, from the agency API")
+    logger.info("getting all routes, from the agency API")
     for ag in utils.agencies:
         ag_routes = get_agency_routes(ag)
         all_routes.extend(ag_routes)
@@ -131,11 +137,11 @@ def get_all_stops() -> list[dict]:
             stops = get_stops_for_route(r)
             all_stops.extend(stops)
         except Exception as e:
-            print(
+            logger.warn(
                 f"""Got an exception at route: {r}
             e: {e}"""
             )
-            print(traceback.format_exc())
+            logger.warn(traceback.format_exc())
     return all_stops
 
 
@@ -144,7 +150,7 @@ def get_unique_stops():
     Return all stops, filtered so that we don't have any duplicates
     """
     all_stops = get_all_stops()
-    print(f"len(all_stops) : {len(all_stops)}")
+    logger.info(f"len(all_stops) : {len(all_stops)}")
     filtered = []
     for s in all_stops:
         if s not in filtered:
@@ -169,4 +175,4 @@ def get_stops_for_rids_no_repeats(rids: list[str]) -> list[dict]:
 
 if __name__ == "__main__":
     all_routes = get_all_routes()
-    print(f"len(all_routes) : {len(all_routes)}")
+    logger.info(f"len(all_routes) : {len(all_routes)}")
