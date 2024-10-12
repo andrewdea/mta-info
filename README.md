@@ -61,7 +61,7 @@ To update the map:
 
 ### updating the data
 If you run `python src/create_map_layers.py` and you already have all the data, the code will simply process the existing files within `data/` and re-create the CSV files for the map laters (in `data/layers`). The information is about bus routes and stops: these aren't subject to frequent changes.  
-To run the full program and retrieve the latest data from the MTA, remove all files in `data/`, then run `python src/create_map_layers.py`. The data files are all part of git, so any updates will show up in your `git-diff`.
+To run the full program and retrieve the latest data from the MTA, remove the `data/` directory, then run `python src/create_map_layers.py`. The data files are all part of git, so any updates will show up in your `git-diff`.
  
 ### Things to improve
 See [TODO](./TODO.md).
