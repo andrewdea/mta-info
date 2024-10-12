@@ -1,6 +1,7 @@
 from retrieve import get_all_routes
 import re
-
+import os
+from utils import write_json, temp_dir
 
 sbs_pattern = r"^(s|S)elect (b|B)us (s|S)ervice"
 via_pattern = r"^(V|v)ia "
@@ -38,8 +39,6 @@ def get_select_routes() -> list[dict]:
 # select_rids = [r["id"] for r in get_select_routes()]
 # print(f"select_rids : {select_rids}")
 
-import os
-from utils import write_json, temp_dir
 def get_unique_areas():
     formatted = get_all_routes()
     unique_longnames = []
@@ -47,9 +46,9 @@ def get_unique_areas():
     for r in formatted:
         longname = r["longname"]
         ln_split = longname.split(" - ")
-        for l in ln_split:
-            if l not in unique_longnames:
-                unique_longnames.append(l)
+        for longname in ln_split:
+            if longname not in unique_longnames:
+                unique_longnames.append(longname)
         desc = r["description"]
         if desc is None:
             continue
