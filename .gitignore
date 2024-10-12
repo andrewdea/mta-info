@@ -11,3 +11,6 @@
 __pycache__
 .python_version
 *.egg-info/
+
+# temp
+./data/*
