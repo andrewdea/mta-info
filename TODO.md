@@ -13,3 +13,12 @@ It may be possible to leverage the Google Maps API to help for some of this: use
 ### build on the existing functionalities to allow more analyses of the data
  - Expand `get_select_routes.py` into a generalized `analysis.py`
  - what other features can be enabled by this data?
+
+### better CLI interface
+features:
+ - open map: opens the Google Maps in a default browser
+ - update data: confirms whether we want to delete all current data, then runs `create_map_layers.py`
+ - anything else?
+
+### better logs in CLI
+if you wanna go all out you can do like one of those cute python CLIs with all sort of emojis etc
