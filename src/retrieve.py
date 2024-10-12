@@ -69,7 +69,7 @@ def get_agency_info(agency: str) -> BeautifulSoup:
     r = utils.query_api(url)
     content = r.text
 
-    soup = BeautifulSoup(content)
+    soup = BeautifulSoup(content, features="html.parser")
     pretty = soup.prettify()
 
     with open(agency_filename, "w") as f:
