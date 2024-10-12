@@ -48,7 +48,7 @@
         "lat": 40.778765,
         "locationType": 0,
         "lon": -73.968554,
-        "name": "79 ST TRANSVERSE/CENTRAL PARK",
+        "name": "79 ST TRANSVERSE RD/CENTRAL PARK",
         "routeIds": [
             "MTA NYCT_M79+"
         ],
@@ -205,7 +205,7 @@
         "lat": 40.779084,
         "locationType": 0,
         "lon": -73.968749,
-        "name": "79 ST TRANSVERSE/CENTRAL PARK",
+        "name": "79 ST TRANSVERSE RD/CENTRAL PARK",
         "routeIds": [
             "MTA NYCT_M79+"
         ],

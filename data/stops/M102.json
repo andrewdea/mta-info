@@ -82,6 +82,7 @@
         "lon": -73.93646,
         "name": "MALCOLM X BLVD/W 145 ST",
         "routeIds": [
+            "MTA NYCT_BX92",
             "MTA NYCT_M1",
             "MTA NYCT_M7",
             "MTA NYCT_M102"
@@ -154,6 +155,7 @@
         "lon": -73.940833,
         "name": "LENOX AV/W 135 ST",
         "routeIds": [
+            "MTA NYCT_BX92",
             "MTA NYCT_M7",
             "MTA NYCT_M102"
         ],
@@ -182,6 +184,7 @@
         "lon": -73.94132,
         "name": "MALCOLM X BLVD/W 135 ST",
         "routeIds": [
+            "MTA NYCT_BX92",
             "MTA NYCT_M7",
             "MTA NYCT_M102"
         ],
@@ -1294,10 +1297,10 @@
         "code": "403855",
         "direction": "NE",
         "id": "MTA_403855",
-        "lat": 40.739218,
+        "lat": 40.739584,
         "locationType": 0,
-        "lon": -73.982771,
-        "name": "3 AV/E 23 ST",
+        "lon": -73.98251,
+        "name": "3 AV/E 24 ST",
         "routeIds": [
             "MTA NYCT_M101",
             "MTA NYCT_M102",

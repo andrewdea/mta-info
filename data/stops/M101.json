@@ -1703,10 +1703,10 @@
         "code": "403855",
         "direction": "NE",
         "id": "MTA_403855",
-        "lat": 40.739218,
+        "lat": 40.739584,
         "locationType": 0,
-        "lon": -73.982771,
-        "name": "3 AV/E 23 ST",
+        "lon": -73.98251,
+        "name": "3 AV/E 24 ST",
         "routeIds": [
             "MTA NYCT_M101",
             "MTA NYCT_M102",

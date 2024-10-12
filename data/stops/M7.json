@@ -82,6 +82,7 @@
         "lon": -73.93646,
         "name": "MALCOLM X BLVD/W 145 ST",
         "routeIds": [
+            "MTA NYCT_BX92",
             "MTA NYCT_M1",
             "MTA NYCT_M7",
             "MTA NYCT_M102"
@@ -769,6 +770,7 @@
         "lon": -73.940833,
         "name": "LENOX AV/W 135 ST",
         "routeIds": [
+            "MTA NYCT_BX92",
             "MTA NYCT_M7",
             "MTA NYCT_M102"
         ],
@@ -797,6 +799,7 @@
         "lon": -73.94132,
         "name": "MALCOLM X BLVD/W 135 ST",
         "routeIds": [
+            "MTA NYCT_BX92",
             "MTA NYCT_M7",
             "MTA NYCT_M102"
         ],

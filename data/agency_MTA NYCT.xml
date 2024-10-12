@@ -6,7 +6,7 @@
   200
  </code>
  <currenttime>
-  1725504994448
+  1728741109952
  </currenttime>
  <text>
   OK
@@ -5128,6 +5128,32 @@
     </type>
     <color>
      00933C
+    </color>
+    <textcolor>
+     FFFFFF
+    </textcolor>
+    <agencyid>
+     MTA NYCT
+    </agencyid>
+   </route>
+   <route>
+    <id>
+     MTA NYCT_BX92
+    </id>
+    <shortname>
+     BX92
+    </shortname>
+    <longname>
+     2 Shuttle Bus - 135 St and 3 Av-149 St
+    </longname>
+    <description>
+     via 145 St/149 St/3 Av
+    </description>
+    <type>
+     711
+    </type>
+    <color>
+     6CBE45
     </color>
     <textcolor>
      FFFFFF

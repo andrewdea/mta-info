@@ -1,7 +1,7 @@
 [
     {
         "code": "504079",
-        "direction": "",
+        "direction": "E",
         "id": "MTA_504079",
         "lat": 40.746681,
         "locationType": 0,
@@ -31,7 +31,7 @@
     },
     {
         "code": "552028",
-        "direction": "E",
+        "direction": "",
         "id": "MTA_552028",
         "lat": 40.74882,
         "locationType": 0,
