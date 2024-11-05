@@ -8,6 +8,9 @@ In spite of [the numerical constraints](./README.md#route-groups), it'd be great
 Whichever way would allow people to easily set the map to display only the routes most relevant to their particular use-case. 
 It may be possible to leverage the Google Maps API to help for some of this: use the latitude/longitude of a route's stops to find which neighborhood they're in?
 
+### contribute the data to [OpenStreetMap](https://openstreetmap.us/)
+Perhaps also contribute to [an app](https://apps.apple.com/us/app/osmand-maps-travel-navigate/id934850257) and see if it's possible to include the MTA query directly within the app (ie, select a bus stop, query the bustime API, show the results).
+
 ## code
 
 ### build on the existing functionalities to allow more analyses of the data
