@@ -8,7 +8,7 @@ The map shows the codes for all the bus-stops within [MTA's bustime system](http
 ## Map
 
 ![screenshot](./images/screenshot_402006.png "screenshot 402006")
-Each stop within the map contains all the information provided by the MTA, as well as a link to their bustime page ([example](https://bustime.mta.info/m/index?q=200884)). Unfortunately these are only usable on desktop (hyperlinks aren't allowed on the mobile app). With a phone, you'll have to [text the code to 511-123](https://bustime.mta.info/wiki/Help/SMSSearching).   
+Each stop within the map contains all the information provided by the MTA, as well as a link to their bustime page ([example](https://bustime.mta.info/m/index?q=200884)). Unfortunately these are only usable on desktop (hyperlinks aren't allowed on the mobile app). With a phone, you'll have to text the code to 511-123 [(see the MTA's instructions here)](https://bustime.mta.info/wiki/Help/SMSSearching).   
 To make the map easier to navigate, stops are color-coded based on the direction of their route(s), and the stop-code is prominently displayed.  
 
 ### How to use
@@ -18,7 +18,7 @@ After opening the map once, it should be automatically saved: go to "Saved" (at 
 
 
 ### myMTA
-After building this, I found out that [the MTA has an app](https://en.wikipedia.org/wiki/MYmta) that provides this information within a map already. It also includes real-time information on the buses' location (using the same backend as the [bustime system](https://bustime.mta.info/m/index). This map isn't meant as a replacement for that app (there's no way to include the realtime info within a custom Google Map). But it is convenient to have the information easily available all within the same map/app, either on desktop or on Google Maps.
+After building this, I found out that [the MTA has an app](https://en.wikipedia.org/wiki/MYmta) that provides this information within a map already. It also includes real-time information on the buses' location (using the same backend as the [bustime system](https://bustime.mta.info/m/index). This map isn't meant as a replacement for that app (there's no way to include the realtime info within a custom Google Map). But it is convenient to have the information easily available all within the same map.
 
 ### Route groups
 Unfortunately, Google Maps has a few restraints for custom maps:
