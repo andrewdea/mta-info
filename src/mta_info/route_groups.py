@@ -1,5 +1,5 @@
-from retrieve import get_all_routes, get_stops_for_route
-import utils
+from mta_info.retrieve import get_all_routes, get_stops_for_route
+import mta_info.utils as utils
 import os
 from tqdm import tqdm
 import statistics
@@ -10,6 +10,7 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
 processed_stops = []
+
 
 def get_unique_stops_per_rid(rid: str) -> list[dict]:
     stops = get_stops_for_route(rid)

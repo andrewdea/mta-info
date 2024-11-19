@@ -9,6 +9,7 @@ logging.basicConfig()
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
+
 def read_json(filename: str) -> Union[list, dict]:
     with open(filename, "r") as f:
         return json.load(f)
@@ -37,7 +38,7 @@ def query_api(url: str, additional_params: dict = {}) -> requests.Response:
 
 src_dir = os.path.dirname(__file__)
 logger.debug(f"src_dir : {src_dir}")
-pkg_dir = os.path.normpath(os.path.join(src_dir, ".."))
+pkg_dir = os.path.normpath(os.path.join(src_dir, "..", ".."))
 logger.debug(f"pkg_dir : {pkg_dir}")
 data_dir = os.path.join(pkg_dir, "data")
 logger.debug(f"data_dir : {data_dir}")

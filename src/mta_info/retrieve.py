@@ -2,7 +2,7 @@ import os
 from bs4 import BeautifulSoup
 import traceback
 import urllib.parse
-import utils
+import mta_info.utils as utils
 from typing import Union
 from tqdm import tqdm
 

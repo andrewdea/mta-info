@@ -17,3 +17,6 @@ license = {text = "GNU General Public License v3.0"}
 [project.urls]
 Homepage = "https://www.google.com/maps/d/viewer?mid=1Y-euNeFcsu06Zxfdl6u6-sca3Yp-KYY"
 Repository = "https://github.com/andyjda/mta-info"
+
+[project.scripts]
+mta = "mta_info.cli:app"

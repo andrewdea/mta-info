@@ -1,7 +1,7 @@
-from retrieve import get_all_routes
+from mta_info.retrieve import get_all_routes
 import re
 import os
-from utils import write_json, temp_dir
+from mta_info.utils import write_json, temp_dir
 
 sbs_pattern = r"^(s|S)elect (b|B)us (s|S)ervice"
 via_pattern = r"^(V|v)ia "
@@ -39,6 +39,7 @@ def get_select_routes() -> list[dict]:
 # select_rids = [r["id"] for r in get_select_routes()]
 # print(f"select_rids : {select_rids}")
 
+
 def get_unique_areas():
     formatted = get_all_routes()
     unique_longnames = []
@@ -55,10 +56,10 @@ def get_unique_areas():
         # TODO: maybe this should be a regex
         if re.match(sbs_pattern, desc):
             # print(f"desc : {desc}")
-            desc = desc[len("Select Bus Service "):]
+            desc = desc[len("Select Bus Service ") :]
             # print(f"updated desc : '{desc}'")
         if re.match(via_pattern, desc):
-            desc = desc[len("via "):]
+            desc = desc[len("via ") :]
         else:
             print(f"desc without via: {desc}")
         desc_split = desc.split(" / ")
@@ -69,5 +70,6 @@ def get_unique_areas():
     write_json(ln_filename, unique_longnames)
     desc_filename = os.path.join(temp_dir, "unique_descriptions")
     write_json(desc_filename, unique_desc)
+
 
 get_unique_areas()

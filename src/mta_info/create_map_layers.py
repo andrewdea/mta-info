@@ -1,7 +1,7 @@
 import os
 import csv
-from utils import data_dir, agencies
-from route_groups import get_route_groups
+from mta_info.utils import data_dir, agencies
+from mta_info.route_groups import get_route_groups
 from tqdm import tqdm
 import re
 
@@ -40,7 +40,7 @@ def adjust_stops(stops: list[dict]) -> list[dict]:
     return stops
 
 
-if __name__ == "__main__":
+def create_layers():
     layers_dir = os.path.join(data_dir, "layers")
     if not os.path.exists(layers_dir):
         os.makedirs(layers_dir)
