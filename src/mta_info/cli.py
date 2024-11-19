@@ -1,9 +1,10 @@
 import typer
 import subprocess
+from mta_info.utils import data_dir, pkg_dir, check_for_changes
 from mta_info.create_map_layers import create_layers
 from shutil import rmtree
-from mta_info.utils import data_dir
 import logging
+import os
 
 logging.basicConfig()
 logger = logging.getLogger("mta_info")
@@ -29,6 +30,7 @@ def update_data():
     except FileNotFoundError:
         logger.debug(f"{data_dir} already deleted")
     create_layers()
+    check_for_changes()
 
 
 if __name__ == "__main__":

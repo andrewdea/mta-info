@@ -4,6 +4,8 @@ import os
 
 import requests
 import logging
+from git import Repo
+import re
 
 logging.basicConfig()
 logger = logging.getLogger(__name__)
@@ -34,6 +36,23 @@ def query_api(url: str, additional_params: dict = {}) -> requests.Response:
         )
     params = {"key": mta_api_key, **additional_params}
     return requests.get(url, params)
+
+
+def change_is_expected(rel_path: str, repo: Repo) -> bool:
+    rgx = r"<currenttime>\n-\s*[0-9]+\n\+\s*[0-9]+\n\s*<\/currenttime>\n\s*<text>\n\s*OK\s*$"
+    diff_output = repo.git.diff(os.path.join(pkg_dir, rel_path))
+    return bool(re.search(rgx, diff_output))
+
+
+def check_for_changes():
+    repo = Repo(pkg_dir)
+    changed_data = [
+        d
+        for d in repo.index.diff(None)
+        if d.b_path.startswith("data") and not change_is_expected(d.b_path, repo)
+    ]
+    if len(changed_data) > 0:
+        logger.info("changes detected! Please update the map")
 
 
 src_dir = os.path.dirname(__file__)
