@@ -41,6 +41,10 @@ def adjust_stops(stops: list[dict]) -> list[dict]:
 
 
 def create_layers():
+    """
+    Create the map layers containing all the bus stops.
+    If needed, retrieve and organize all the data from the MTA API first.
+    """
     layers_dir = os.path.join(data_dir, "layers")
     if not os.path.exists(layers_dir):
         os.makedirs(layers_dir)

@@ -44,15 +44,14 @@ def change_is_expected(rel_path: str, repo: Repo) -> bool:
     return bool(re.search(rgx, diff_output))
 
 
-def check_for_changes():
+def check_for_changes() -> bool:
     repo = Repo(pkg_dir)
     changed_data = [
         d
         for d in repo.index.diff(None)
         if d.b_path.startswith("data") and not change_is_expected(d.b_path, repo)
     ]
-    if len(changed_data) > 0:
-        logger.info("changes detected! Please update the map")
+    return len(changed_data) > 0
 
 
 src_dir = os.path.dirname(__file__)
@@ -72,3 +71,8 @@ mta_api_key = os.getenv("MTA_API_KEY")
 nyct_ag = "MTA NYCT"
 abc_ag = "MTABC"
 agencies = [nyct_ag, abc_ag]
+
+
+map_url = (
+    "https://www.google.com/maps/d/u/0/viewer?mid=1Y-euNeFcsu06Zxfdl6u6-sca3Yp-KYY"
+)
