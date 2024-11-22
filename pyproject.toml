@@ -5,6 +5,7 @@ dependencies = [
   "requests",
   "beautifulsoup4",
   "tqdm",
+  "typer"
 ]
 requires-python = ">=3.12"
 authors = [
